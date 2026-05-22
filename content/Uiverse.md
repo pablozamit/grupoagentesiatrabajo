@@ -13,4 +13,3 @@
 
 - #diseno 
 - #web
-- #contenido
