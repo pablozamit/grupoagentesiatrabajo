@@ -1,5 +1,4 @@
-Esta es su nueva *bóveda*.
+# Enciclopedia de Agentes de IA
 
-Cree una nota de algo, [[cree un enlace]], o pruebe [el Importador](https://help.obsidian.md/Plugins/Importer)!
-
-Cuando esté listo, borre esta nota y aprópiese de la bóveda
+Bienvenidos a la base de conocimiento privado del grupo de trabajo.
+Navega por los enlaces o busca los temas en el panel para comenzar.
