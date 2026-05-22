@@ -68,3 +68,5 @@ Los hashtags reflejan **para qué sirve** desde el punto de vista del alumno. Ca
 ---
 
 *Esta guía se actualizará conforme se añadan nuevos tags o contenido.*
+
+**Etiquetas:** [[#contenido]]

@@ -3,3 +3,5 @@
 (Contenido pendiente)
 
 # #proyecto
+
+**Etiquetas:** [[#contenido]] | [[#ia]]
