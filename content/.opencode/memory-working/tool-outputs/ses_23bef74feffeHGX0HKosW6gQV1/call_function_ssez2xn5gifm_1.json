@@ -1,0 +1,7 @@
+{
+  "callID": "call_function_ssez2xn5gifm_1",
+  "sessionID": "ses_23bef74feffeHGX0HKosW6gQV1",
+  "tool": "read",
+  "fullOutput": "<path>G:\\Mi unidad\\agentesIA\\agentesIA\\Guía de Tags.md</path>\n<type>file</type>\n<content>1: # Guía de Tags\n2: \n3: Este documento explica los hashtags usados en la vault para organizar y filtrar el contenido.\n4: \n5: ## Tags por alumno\n6: \n7: | Tag | Alumno |\n8: |-----|--------|\n9: | #martin | Martin |\n10: | #astaiza | Astaiza |\n11: | #mario | Mario |\n12: \n13: > Los alumnos pueden filtrar la vault por su nombre para ver solo el contenido relevante para ellos.\n14: \n15: ## Tags temáticos\n16: \n17: | Tag | Descripción |\n18: |-----|-------------|\n19: | #contenido | Contenido general del curso |\n20: | #modelos | Modelos de lenguaje e IA |\n21: | #basededatos | Bases de datos y almacenamiento |\n22: \n23: ---\n24: \n25: *Nota: Esta guía se actualizará conforme se añadan nuevos tags o alumnos.*\n\n(End of file - total 25 lines)\n</content>",
+  "timestamp": 1777112021803
+}

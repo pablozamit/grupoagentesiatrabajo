@@ -1,0 +1,21 @@
+{
+  "sessionID": "ses_23bef74feffeHGX0HKosW6gQV1",
+  "blocks": {
+    "goal": {
+      "value": "",
+      "charLimit": 1000,
+      "lastModified": "2026-04-25T11:39:07.330Z"
+    },
+    "progress": {
+      "value": "",
+      "charLimit": 2000,
+      "lastModified": "2026-04-25T11:39:07.330Z"
+    },
+    "context": {
+      "value": "Editando: Guía de Tags.md (sistema multidimensional)\nTags por CATEGORÍA: #contenido, #vibecoding, #modelos, #basededatos, #proyecto\nTags por DOMINIO: #juegos, #3d, #web, #diseno, #ia\nTags por FUNCIONALIDAD: #hosting, #realtime, #auth, #particulas\nREGLAS: 1) Hashtags al FINAL, 2) Mínimo 2-3 tags por nota (diferentes categorías), 3) Entendible por el alumno - #juegos sí, #api NO, 4) Por funcionalidad, no por tecnología - #hosting sí, #vercel NO",
+      "charLimit": 1500,
+      "lastModified": "2026-04-25T12:05:49.927Z"
+    }
+  },
+  "updatedAt": "2026-04-25T12:05:49.927Z"
+}

@@ -1,0 +1,7 @@
+{
+  "callID": "call_function_69ywx7h0c8ku_1",
+  "sessionID": "ses_23bef74feffeHGX0HKosW6gQV1",
+  "tool": "grep",
+  "fullOutput": "Found 13 matches\nG:\\Mi unidad\\agentesIA\\agentesIA\\Guía de Tags.md:\n  Line 32: | #herramienta | Herramienta específica |\n  Line 50: | #javascript | JavaScript / TypeScript |\n  Line 74: | OpenRouter | #modelos #herramienta #api #openrouter |\n  Line 75: | Three.js | #3d #herramienta #javascript #webgl #threejs #juegos #diseno |\n  Line 76: | Plume | #3d #herramienta #webgpu #particulas #juegos |\n  Line 77: | Google AI Studio | #ia #herramienta #aistudio #api #vibecoding |\n  Line 78: | Firebase | #basededatos #herramienta #web #api #agentes |\n  Line 79: | Vercel | #herramienta #web #api #javascript |\n  Line 87: 3. **Ser específico**: #juegos no #herramientas, #web no #general\n\nG:\\Mi unidad\\agentesIA\\agentesIA\\Firebase.md:\n  Line 55: # #basededatos #herramienta #web #api #agentes #javascript\n\nG:\\Mi unidad\\agentesIA\\agentesIA\\OpenRouter.md:\n  Line 71: # #modelos #herramienta #api #openrouter #ia\n\nG:\\Mi unidad\\agentesIA\\agentesIA\\Plume.md:\n  Line 37: # #herramienta #3d #webgpu #particulas #juegos #diseno #threejs\n\nG:\\Mi unidad\\agentesIA\\agentesIA\\Three.js.md:\n  Line 32: # #herramienta #3d #web #javascript #webgl #threejs #juegos #diseno #ia",
+  "timestamp": 1777117375158
+}

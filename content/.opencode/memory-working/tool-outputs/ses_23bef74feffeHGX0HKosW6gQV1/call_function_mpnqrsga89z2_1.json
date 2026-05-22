@@ -1,0 +1,7 @@
+{
+  "callID": "call_function_mpnqrsga89z2_1",
+  "sessionID": "ses_23bef74feffeHGX0HKosW6gQV1",
+  "tool": "read",
+  "fullOutput": "<path>G:\\Mi unidad\\agentesIA\\agentesIA\\Three.js.md</path>\n<type>file</type>\n<content>1: # Three.js\n2: \n3: **Three.js** es una librería JavaScript para gráficos 3D en el navegador. Es la estándar más usada para crear experiencias 3D en la web.\n4: \n5: ## Qué es\n6: \n7: - Librería de renderizado 3D basada en WebGL\n8: - Abstrae la complejidad de WebGL\n9: - Permite crear escenas, cámaras, luces, geometrías, materiales, animaciones\n10: - Compatible con todos los navegadores modernos\n11: \n12: ## Usos típicos\n13: \n14: - Juegos web\n15: - Visualizaciones de datos\n16: - Experiencias interactivas\n17: - Metaversos y mundos virtuales\n18: - Configuradores de productos\n19: - Sitios web inmersivos\n20: \n21: ## Recursos oficiales\n22: \n23: - Web: [threejs.org](https://threejs.org/)\n24: - Docs: [threejs.org/docs](https://threejs.org/docs/)\n25: - Github: [github.com/mrdoob/three.js](https://github.com/mrdoob/three.js)\n26: \n27: ## Relacionado\n28: \n29: - Para efectos de partículas GPU, ver [[Plume]]\n30: \n31: # #vibecoding #herramientas\n\n(End of file - total 31 lines)\n</content>",
+  "timestamp": 1777117068781
+}

@@ -1,0 +1,7 @@
+{
+  "callID": "call_function_jjd3kqocuwut_1",
+  "sessionID": "ses_23bef74feffeHGX0HKosW6gQV1",
+  "tool": "read",
+  "fullOutput": "<path>G:\\Mi unidad\\agentesIA\\agentesIA\\Guía de Tags.md</path>\n<type>file</type>\n<content>55: | #particulas | Sistemas de partículas - [[Plume]] |\n56: \n57: ### Por plataforma\n58: \n59: | Tag | Descripción |\n60: |-----|-------------|\n61: | #openrouter | OpenRouter - [[OpenRouter]] |\n62: | #aistudio | Google AI Studio |\n63: | #firebase | Firebase - [[Firebase]] |\n64: | #github | Github |\n65: \n66: ---\n67: \n68: ## Ejemplos de uso de tags\n69: \n70: | Nota | Tags |\n71: |------|------|\n72: | Vibecoding | #vibecoding #contenido #ia #agentes |\n73: | OpenRouter | #modelos #herramienta #api #openrouter |\n74: | Three.js | #3d #herramienta #javascript #webgl #threejs #juegos #diseno |\n75: | Plume | #3d #herramienta #webgpu #particulas #juegos |\n76: | Google AI Studio | #ia #herramienta #aistudio #api #vibecoding |\n77: | Firebase | #basededatos #herramienta #web #api #agentes |\n78: \n79: ---\n80: \n81: ## Reglas para tags\n82: \n83: 1. **Los hashtags van al FINAL del documento**\n84: 2. **Usar mínimo 2-3 tags por nota** (diferentes categorías)\n\n(Showing lines 55-84 of 90. Use offset=85 to continue.)\n</content>",
+  "timestamp": 1777117293030
+}
