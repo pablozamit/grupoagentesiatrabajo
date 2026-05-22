@@ -19,3 +19,8 @@ Incluye una amplia gama de herramientas para desarrolladores y diseñadores:
 
 ---
 **Etiquetas:** [[#diseno]] | [[#web]]
+
+## 🚀 Cómo empezar
+1. Entra en [Delphi Tools](https://delphi.tools/).
+2. Selecciona la utilidad **SVG Editor** o **Shadow Generator**.
+3. Prueba a modificar los valores en pantalla y copia el código resultante para ver lo fácil que es generar código visual limpio al instante.

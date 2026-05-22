@@ -45,3 +45,11 @@ ffmpeg -i entrada.mp4 -vf scale=1280:720 salida.mp4
 - Comandos: [rendi-api/ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet)
 
 # #video
+
+## 🚀 Cómo empezar
+1. Instala FFmpeg en tu ordenador (en Windows puedes usar `winget install FFmpeg`, en Mac `brew install ffmpeg`).
+2. Abre la terminal en la carpeta donde tengas un video (ej: `video.mp4`) y prueba a convertirlo a formato de audio `.mp3` ejecutando:
+   ```bash
+   ffmpeg -i video.mp4 -vn audio.mp3
+   ```
+3. Verifica el nuevo archivo de audio generado de forma instantánea.

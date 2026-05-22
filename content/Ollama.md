@@ -173,3 +173,11 @@ Puedes ejecutar modelos pequeños, pero será **muy lento** (10-50x más lento).
 - Docs: [github.com/ollama/ollama](https://github.com/ollama/ollama)
 
 # #modelos
+
+## 🚀 Cómo empezar
+1. Descarga e instala [Ollama](https://ollama.com/) en tu ordenador.
+2. Abre la terminal de tu sistema y ejecuta el comando para descargar y correr un modelo ligero (como Llama 3.2):
+   ```bash
+   ollama run llama3.2
+   ```
+3. ¡Empieza a chatear con la IA directamente desde tu consola de forma 100% local!

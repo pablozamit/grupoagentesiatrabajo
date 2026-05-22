@@ -30,3 +30,7 @@
 - Para efectos de partículas GPU, ver [[Plume]]
 
 # #3d #juegos #diseno
+
+## 🚀 Cómo empezar
+1. Visita la web oficial de [Three.js](https://threejs.org/) y entra en la sección **Examples**.
+2. Explora los experimentos visuales interactivos y haz clic en el botón **"View source"** en la esquina inferior de cualquiera de ellos para ver el código JavaScript con el que está hecho.

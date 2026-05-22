@@ -33,3 +33,8 @@
 - Web: [sci-bot.ru](https://sci-bot.ru/)
 
 # #ciencia #agente #investigacion
+
+## 🚀 Cómo empezar
+1. Visita la plataforma de [Sci-Bot](https://sci-bot.ru/).
+2. Escribe el tema científico de tu interés o el título de un artículo académico en la barra de búsqueda.
+3. Deja que el asistente analice las publicaciones científicas asociadas y te entregue una explicación resumida o el acceso directo al paper.

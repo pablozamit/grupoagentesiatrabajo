@@ -65,3 +65,8 @@
 - Marketplace: [vercel.com/marketplace](https://vercel.com/marketplace)
 
 # #hosting
+
+## 🚀 Cómo empezar
+1. Regístrate gratis en [Vercel](https://vercel.com/) vinculando tu cuenta de GitHub.
+2. Haz clic en **Add New > Project** y selecciona un repositorio de tu cuenta que tenga un proyecto web.
+3. Haz clic en **Deploy**. ¡Listo! Tu web estará online con certificado SSL gratuito en menos de un minuto.

@@ -42,3 +42,7 @@
 - Web: [apify.com](https://apify.com/)
 - Store: [apify.com/store](https://apify.com/store)
 
+## 🚀 Cómo empezar
+1. Crea una cuenta gratuita en [Apify](https://apify.com/).
+2. Busca en la Store el actor **"Google Maps Scraper"** o **"Instagram Scraper"**.
+3. Haz clic en **Try for free**, introduce el enlace de la web que quieres escanear y haz clic en **Start** para obtener los datos estructurados en Excel o JSON en segundos.

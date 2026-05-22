@@ -35,3 +35,8 @@
 Sigue a [@ThetaForgeCo](https://x.com/ThetaForgeCo) en X para actualizaciones.
 
 # #3d #juegos
+
+## 🚀 Cómo empezar
+1. Entra al repositorio oficial de [Plume en GitHub](https://github.com/travisdmathis/plume).
+2. Clona el proyecto o explora los ejemplos en línea en la documentación para ver cómo se configuran las partículas con Three.js.
+3. Copia el snippet básico de inicialización en tu proyecto de WebGL para añadir efectos visuales espectaculares basados en GPU.

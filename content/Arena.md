@@ -37,3 +37,8 @@
 - Líderboard: [lmarena.ai](https://lmarena.ai/)
 
 # #modelos
+
+## 🚀 Cómo empezar
+1. Visita [Chatbot Arena](https://arena.lmsys.org/).
+2. Escribe una pregunta o petición (prompt) en el cuadro de chat de la pestaña **Arena (battle)**.
+3. Compara las respuestas de la *IA A* y la *IA B* a ciegas, vota por la mejor y descubre qué modelos eran los que competían.
