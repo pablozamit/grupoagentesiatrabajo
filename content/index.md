@@ -8,20 +8,17 @@ Bienvenidos a la base de conocimiento privado del grupo de trabajo. Navega por l
 
 Haz clic en el nombre de cualquier alumno para acceder a su nota personal:
 
-### Oficiales
-* [[benjamin|Benjamín]]
 * [[alberto|Alberto Álvaro]]
-* [[alejo|Alejo]]
-* [[arnold|Arnold Ricardo]]
-* [[cristian|Ricardo Astaiza (Cristian)]]
 * [[alejandro|Alejandro Valenzuela]]
-* [[mario|Mario Brenes]]
-* [[ricardobrice|Ricardo Brice]]
-* [[pablo|Pablo Martínez]]
-* [[mardones|Lt. Mardones]]
-
-### Otros Miembros
+* [[alejo|Alejo]]
 * [[armando|Armando]]
+* [[arnold|Arnold Ricardo]]
+* [[benjamin|Benjamín]]
 * [[dylan|Dylan]]
 * [[eduardo|Eduardo]]
+* [[mardones|Lt. Mardones]]
+* [[mario|Mario Brenes]]
 * [[martin|Martin]]
+* [[pablo|Pablo Martínez]]
+* [[cristian|Ricardo Astaiza (Cristian)]]
+* [[ricardobrice|Ricardo Brice]]
