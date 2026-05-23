@@ -1,6 +1,6 @@
 # Hermes Agent
 
-[Hermes Agent](https://hermes-agent.nousresearch.com/) es un agente de IA de código abierto creado por Nous Research que aprende de sus tareas y se vuelve más capaz con el tiempo.
+[Hermes Agent](https://hermes-agent.nousresearch.com/) es un agente de IA de código abierto creado por Nous Research que aprende de sus tareas y se vuelve más capaz con el tiempo. Para controlarlo de forma visual y con un centro de mando completo, se utiliza su interfaz gráfica oficial: [[Hermes Workspace]].
 
 ## Qué es (versión simple)
 
