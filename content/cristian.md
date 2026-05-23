@@ -4,11 +4,6 @@
 
 "Aprender a crear automatizaciones y agentes con la finalidad de ser más eficiente en mi trabajo y aprender varias habilidades de alto valor en el mercado actual".
 
-
----
-
-
-
 ---
 
 ## 🎯 EJERCICIO 1: TU OBJETIVO A 3 MESES
@@ -21,6 +16,14 @@ Este cuaderno de trabajo es tu espacio privado de desarrollo. Para arrancar, res
 
 📝 **Escribe tu respuesta dentro del editor interactivo que tienes abajo en este cuaderno.**
 
+---
+
+## 🙋‍♂️ Dudas y Tutoría
+
+Este es tu canal de comunicación directa con **Pablo Zamit**. Si tienes cualquier duda teórica, bloqueo técnico o necesitas tutoría personalizada:
+
+1.  **Escribe tu duda** dentro del editor interactivo (abajo), creando una sección llamada `## 🙋‍♂️ Mis Dudas`.
+2.  **Pablo entrará directamente** en tu cuaderno para escribirte las respuestas y guiarte justo debajo de tu consulta.
 
 ## ✍️ Mi Panel de Progreso y Tareas (Edición Directa)
 
