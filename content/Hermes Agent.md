@@ -89,8 +89,31 @@ Un usuario usa Hermes para:
 
 ## Notas honestas
 
-1. Los默认 también son opiniones: Si quieres control explícito sobre cada paso, puede sentirse pesado
+1. Los defaults también son opiniones: Si quieres control explícito sobre cada paso, puede sentirse pesado
 2. Nivel 3 y 4 tienen curva de aprendizaje real (Docker, VPS, SSH)
 3. El modelo importa: Hermes hace a un buen modelo mejor, pero no hace magia con modelos pequeños
+
+## Q&A: ¿Local, Mac dedicado o VPS?
+
+Pregunta recurrente en la comunidad (mayo 2026): *"¿Dónde instalo Hermes? ¿En mi portátil, un Mac dedicado o un VPS?"*
+
+Resumen de respuestas de referentes del sector:
+
+**Alex Finn (CEO Henry Intelligent Machines)**
+> *"VPS es peor en todos los sentidos. Busca cualquier forma de instalarlo local. Un portátil viejo, un Mac Mini, da igual. El que tengas, instálalo ahí. Las preocupaciones de seguridad están enormemente sobrevaloradas."*
+
+**NetworkChuck**
+> *"Si tienes un Mac de sobra, es una muy buena opción si te importa el acceso a herramientas del ecosistema Apple. Si no, un VPS también es una opción divertida."*
+
+**Steve Schramm**
+> *"Hermes es 100 veces más estable y agradable de usar que OpenClaw. Si quieres que tenga acceso a tus apps de Mac, es mucho más simple hacerlo directamente en el Mac."*
+
+**Michael Hyatt (NYT Bestseller)**
+> *"El VPS es lo más fácil, pero quiero que tenga acceso a mis apps de Mac (Recordatorios, Missive, etc.). No creo que pueda hacer eso en un VPS."*
+
+**wolfhound89**
+> *"El VPS te dará dolores de cabeza con el gateway. He probado ambos (local y Hostinger VPS) y lo dejé."*
+
+**Conclusión práctica:** Si puedes, instálalo en un Mac o PC local. El VPS es viable pero añade complejidad (gateway, red, seguridad) sin ventajas reales para la mayoría de usuarios.
 
 # #agente
