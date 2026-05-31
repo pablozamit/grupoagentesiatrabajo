@@ -2,6 +2,7 @@
 
 Notas sobre diseño UI/UX:
 
+- [[Thiings]] - Librería de iconos descargables SVG/PNG por categorías
 - [[Logggos]] - Galería de inspiración de logotipos por categorías
 - [[SiteInspire]] - Galería de inspiración de sitios web originales y curados
 - [[Uncut.wtf]] - Tipografías originales para descargar y usar
