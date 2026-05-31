@@ -4,38 +4,38 @@
 
 ## Qué es
 
-- **Genera GLSL por prompt**: describes el efecto visual y la IA genera el código
-- **Editor integrado**: ves el código y el resultado al mismo tiempo
-- **Modelos de IA**: usa Claude Sonnet 3.5, Mistral Codestral, Claude Sonnet 3.7, etc.
+- **Genera GLSL por prompt**: describes el efecto y la IA escribe el código
+- **Editor integrado**: ves código y preview al mismo tiempo
+- **Modelos variados**: Claude Sonnet 3.5, Mistral Codestral, Claude Sonnet 3.7, etc.
 - **Gratis con límite**: 14 consultas por día sin coste
 
 ## Para qué sirve
 
-- Probar efectos visuales en el navegador sin compilar nada
-- Generar fondos animados, distorsiones, gradientes procedurales, ruido fractal, etc.
-- Prototipar ideas de shaders antes de implementarlos en un proyecto real
-- Aprender GLSL viendo el código que genera la IA
+- Probar efectos visuales en el navegador sin compilar
+- Generar fondos animados, distorsiones, gradientes procedurales, ruido fractal...
+- Prototipar shaders antes de implementarlos en producción
+- Aprender GLSL leyendo el código generado
 
-## Ejemplos de prompts incluidos
+## Ejemplos incluidos en la galería
 
 - `organic motion background`
 - `a kaleidoscope effect with trippy patterns and colors`
 - `dreamscape with chromatic aberration effect where mouse is`
-- `swirling`
 - `smoke mist turbulent`
+- `gentle rainbow gradient`
 
 ## Cómo usarlo
 
 1. Entra en [shadergpt.14islands.com](https://shadergpt.14islands.com/)
-2. Escribe en el prompt qué efecto quieres (en inglés)
-3. La IA genera el código GLSL automáticamente
-4. Copia el código y úsalo en tu proyecto
+2. Selecciona un ejemplo o escribe tu prompt
+3. La IA genera el GLSL automáticamente
+4. Copia el código para tu proyecto
 
 ## Límites
 
 - **14 prompts/día** en el plan gratuito
-- El resultado puede necesitar ajustes manuales
-- Los shaders generados usan la librería **glslify**
+- Resultados que pueden necesitar ajustes manuales
+- Usa la librería **glslify**
 
 ## Enlaces
 
