@@ -28,12 +28,10 @@ float random(vec2 st) {
 void main() {
   vec2 uv = v_uv;
 
-  // Gradiente base con movimiento suave
   vec3 colorA = vec3(0.2, 0.5, 0.8);
   vec3 colorB = vec3(0.8, 0.2, 0.5);
   float gradient = uv.x + sin(u_time * 0.3 + uv.y * 2.0) * 0.2;
 
-  // Capa de ruido sutil
   float noise = random(uv * 200.0) * 0.08;
 
   vec3 color = mix(colorA, colorB, gradient);
@@ -48,8 +46,8 @@ void main() {
 - `uniform`: variable externa (tiempo, resolución, ratón)
 - `varying`: variable interpolada entre vértices
 - `vec2 / vec3 / vec4`: vectores numéricos
-- `mix`: interpolación lineal entre dos valores
-- `fract`: parte decimal de un número
+- `mix(a, b, t)`: interpolación lineal entre `a` y `b` con factor `t`
+- `fract(x)`: parte decimal de `x`
 - `sin / cos`: funciones trigonométricas
 - `dot`: producto escalar
 - `smoothstep`: suavizado de bordes
