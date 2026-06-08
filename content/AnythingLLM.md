@@ -7,7 +7,6 @@
 - Aplicación open source (MIT) de **Mintplex Labs**
 - Puedes instalarla en **local** (Windows, Mac, Linux) o en un **servidor** con Docker
 - Es como tener un ChatGPT privado: tú controlas los datos, los modelos y quién accede
-- 61k estrellas en GitHub, muy activo
 
 ## Qué puedes hacer con ella
 
