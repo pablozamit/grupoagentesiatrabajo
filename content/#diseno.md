@@ -2,13 +2,14 @@
 
 Notas sobre diseño UI/UX:
 
-- [[Thiings]] - Librería de iconos descargables SVG/PNG por categorías
-- [[Logggos]] - Galería de inspiración de logotipos por categorías
-- [[SiteInspire]] - Galería de inspiración de sitios web originales y curados
-- [[Uncut.wtf]] - Tipografías originales para descargar y usar
-- [[ShaderGPT]] - Generador de shaders GLSL con lenguaje natural
 - [[Three.js]] - Diseño 3D y gráficos
 - [[Whitespace Experiments]] - Experimentos de diseño interactivo
-- [[Delphi Tools]] - Colección de utilidades gratuitas de diseño y desarrollo en navegador
+- [[Repositorio 400 Recursos de Diseño Gratuitos]] - Lista curada de 400+ recursos visuales gratuitos
+- [[21st.dev]] - Galería de componentes que se copian como prompt para tu IA
+- [[DesignTools.fyi]] - Directorio curado de ~85 herramientas de diseño organizadas por perfil
+- [[Iconiq]] - Colección de componentes UI minimalistas en flujo shadcn
+- [[Ian Xiaohei Illustrations]] - Skill de Codex para ilustraciones hand-drawn con estilo Xiaohei
+- [[Gamma]] - Crea presentaciones, webs, docs y posts con IA
+- [[Dead Simple Sites]] - Galería curada de sitios web minimalistas para inspirarse o copiar
 
 # #diseno

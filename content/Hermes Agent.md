@@ -1,10 +1,10 @@
 # Hermes Agent
 
-[Hermes Agent](https://hermes-agent.nousresearch.com/) es un agente de IA de código abierto creado por Nous Research que aprende de sus tareas y se vuelve más capaz con el tiempo. Para controlarlo de forma visual y con un centro de mando completo, se utiliza su interfaz gráfica oficial: [[Hermes Workspace]].
+[Hermes Agent](https://hermes-agent.nousresearch.com/) es un agente de IA de código abierto creado por Nous Research que aprende de sus tareas y se vuelve más capaz con el tiempo.
 
 ## Qué es (versión simple)
 
-Hermes es un agente autonomous que:
+Hermes es un agente autónomo que:
 - **Ejecuta flujos de trabajo completos**: No solo responde preguntas, hace el trabajo de principio a fin
 - **Navega tu navegador, ejecuta comandos, programa tareas, lee tus emails, redacta contenido y publica el resultado donde tú le digas** (Telegram, Discord, Slack, email)
 - **Tiene memoria persistente**: Recuerda lo que ha hecho entre sesiones
@@ -37,7 +37,7 @@ Todo agente Hermes tiene tres cosas:
 
 ### 3. Un conjunto de habilidades (SKILLS)
 - 123 habilidades incluidas
-- **Closed learning loop**: El agente escribe nuevas habilidades mientras trabaja
+- **Bucle cerrado de aprendizaje**: El agente escribe nuevas habilidades mientras trabaja
 - Tu biblioteca de habilidades crece sobre las 123 sin que escribas nada
 
 ## Niveles de setup
@@ -52,12 +52,12 @@ Todo agente Hermes tiene tres cosas:
 - Hablas directamente con cada uno
 - Mejor para: separación clara de roles
 
-### Nivel 3: Orchestrador + especialistas
-- Un agente orchestrador como puerta principal
-- Recibe tus peticiones y las routing al especialista correcto
+### Nivel 3: Orquestador + especialistas
+- Un agente orquestador como puerta principal
+- Recibe tus peticiones y las dirige al especialista correcto
 - Mejor para: trabajo multifuncional
 
-### Nivel 4: Equipo automated
+### Nivel 4: Equipo automatizado
 - Como nivel 3 pero con workflows recurrentes (reportes semanales SEO, health checks diarios, backups automáticos)
 - Mejor para: operaciones de marketing completas
 
@@ -67,9 +67,9 @@ Un usuario usa Hermes para:
 - **Asistente personal**: Maneja negocio y vida personal, reside en Telegram, resume emails importantes, programa recordatorios
 - **Prototipado de workflows**: Prueba nuevos flujos (lead magnet, review de creatividad, sprints de contenido) antes de implementarlos
 - **Agentes especializados**: SEO, outbound/BD, revisión de diseño, escritura de contenido
-- **Company brain**: Monitorea Slack, chats, emails, transcripts y hace todo consultable
+- **Cerebro de empresa**: Monitorea Slack, chats, emails, transcripts y hace todo consultable
 - **Agente SEO**: 21 pasos desde keyword hasta artículo publicado en un contenedor Docker
-- **Agente de distribución**: Atomiza contenido largo (artículo) a LinkedIn, X, Threads con hooks específicos por plataforma
+- **Agente de distribución**: Atomiza contenido largo (artículo) a LinkedIn, X, Threads con ganchos específicos por plataforma
 
 ## Cómo empezar
 
@@ -89,31 +89,12 @@ Un usuario usa Hermes para:
 
 ## Notas honestas
 
-1. Los defaults también son opiniones: Si quieres control explícito sobre cada paso, puede sentirse pesado
+1. Los valores por defecto también son opiniones: Si quieres control explícito sobre cada paso, puede sentirse pesado
 2. Nivel 3 y 4 tienen curva de aprendizaje real (Docker, VPS, SSH)
 3. El modelo importa: Hermes hace a un buen modelo mejor, pero no hace magia con modelos pequeños
 
-## Q&A: ¿Local, Mac dedicado o VPS?
+## Configuración avanzada
 
-Pregunta recurrente en la comunidad (mayo 2026): *"¿Dónde instalo Hermes? ¿En mi portátil, un Mac dedicado o un VPS?"*
+Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 ajustes clave (memoria persistente, zona horaria, auto-descubrimiento de skills, contexto modular, profundidad de memoria, enrutamiento de outputs, notificaciones, encadenamiento, consolidación y recuperación de fallos). Ver [[Ajustes Avanzados de Hermes Agent]].
 
-Resumen de respuestas de referentes del sector:
-
-**Alex Finn (CEO Henry Intelligent Machines)**
-> *"VPS es peor en todos los sentidos. Busca cualquier forma de instalarlo local. Un portátil viejo, un Mac Mini, da igual. El que tengas, instálalo ahí. Las preocupaciones de seguridad están enormemente sobrevaloradas."*
-
-**NetworkChuck**
-> *"Si tienes un Mac de sobra, es una muy buena opción si te importa el acceso a herramientas del ecosistema Apple. Si no, un VPS también es una opción divertida."*
-
-**Steve Schramm**
-> *"Hermes es 100 veces más estable y agradable de usar que OpenClaw. Si quieres que tenga acceso a tus apps de Mac, es mucho más simple hacerlo directamente en el Mac."*
-
-**Michael Hyatt (NYT Bestseller)**
-> *"El VPS es lo más fácil, pero quiero que tenga acceso a mis apps de Mac (Recordatorios, Missive, etc.). No creo que pueda hacer eso en un VPS."*
-
-**wolfhound89**
-> *"El VPS te dará dolores de cabeza con el gateway. He probado ambos (local y Hostinger VPS) y lo dejé."*
-
-**Conclusión práctica:** Si puedes, instálalo en un Mac o PC local. El VPS es viable pero añade complejidad (gateway, red, seguridad) sin ventajas reales para la mayoría de usuarios.
-
-# #agente
+# #agente #vibecoding #contenido

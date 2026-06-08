@@ -1,6 +1,6 @@
 # Arena (LMArena)
 
-[Arena](https://arena.ai/) (antes LMArena o LMSYS Chatbot Arena) es un leaderboard público que ranking de modelos de IA según qué prefieren los usuarios.
+[Arena](https://arena.ai/) (antes LMArena o LMSYS Chatbot Arena) es un leaderboard público que **publica el ranking** de modelos de IA según qué prefieren los usuarios.
 
 ## Qué es
 
@@ -36,9 +36,4 @@
 - Web: [arena.ai](https://arena.ai/)
 - Líderboard: [lmarena.ai](https://lmarena.ai/)
 
-# #modelos
-
-## 🚀 Cómo empezar
-1. Visita [Chatbot Arena](https://arena.lmsys.org/).
-2. Escribe una pregunta o petición (prompt) en el cuadro de chat de la pestaña **Arena (battle)**.
-3. Compara las respuestas de la *IA A* y la *IA B* a ciegas, vota por la mejor y descubre qué modelos eran los que competían.
+# #modelos #contenido

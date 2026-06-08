@@ -9,7 +9,7 @@
 - **Multi-provider**: Si un modelo falla, puedes cambiar a otro automáticamente
 - **Sin suscripciones**: Pagas por lo que usas
 
-##Cómo registrarse
+## Cómo registrarse
 
 1. Ve a [openrouter.ai](https://openrouter.ai/)
 2. Haz clic en **Sign Up**
@@ -68,4 +68,4 @@ curl -X POST https://openrouter.ai/api/v1/chat/completions \
 - Los créditos gratuitos pueden tener límites diarios
 - Los modelos de pago tienen mejor calidad
 
-# #modelos
+# #modelos #contenido

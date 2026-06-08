@@ -4,9 +4,9 @@
 
 ## Qué es Vercel
 
-- **Plataforma frontend**: specialize en React/Next.js
+- **Plataforma frontend**: especializada en React/Next.js
 - **Deploy instantáneo**: Git push = deploy automático
-- **全球 CDN**: 125+ puntos de presencia
+- **CDN global**: 125+ puntos de presencia
 - **Serverless functions**: Backend sin servidor
 
 ## Características principales
@@ -64,9 +64,4 @@
 - Docs: [vercel.com/docs](https://vercel.com/docs)
 - Marketplace: [vercel.com/marketplace](https://vercel.com/marketplace)
 
-# #hosting
-
-## 🚀 Cómo empezar
-1. Regístrate gratis en [Vercel](https://vercel.com/) vinculando tu cuenta de GitHub.
-2. Haz clic en **Add New > Project** y selecciona un repositorio de tu cuenta que tenga un proyecto web.
-3. Haz clic en **Deploy**. ¡Listo! Tu web estará online con certificado SSL gratuito en menos de un minuto.
+# #hosting #web #contenido

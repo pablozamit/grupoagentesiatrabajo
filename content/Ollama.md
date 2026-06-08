@@ -1,6 +1,6 @@
 # Ollama
 
-[Ollama](https://ollama.com/) es una herramienta para ejecutar modelos de IA本地 (en tu propio ordenador) sin necesidad de internet.
+[Ollama](https://ollama.com/) es una herramienta para ejecutar modelos de IA localmente (en tu propio ordenador) sin necesidad de internet.
 
 ## Qué es
 
@@ -133,7 +133,7 @@ Para tareas complejas de refactorización, **Devstral** puede ser mejor que los 
 | GPU | 8 GB VRAM | 12 GB VRAM |
 | Ejemplos | NVIDIA RTX 3060 | NVIDIA RTX 4070 / Apple M1 Pro |
 
-**Para qué**: Código,写作 más complejo, análisis de documentos
+**Para qué**: Código, escritura más compleja, análisis de documentos
 
 ### Modelos grandes (llama3:70b, deepseek-coder:33b)
 
@@ -163,7 +163,7 @@ Puedes ejecutar modelos pequeños, pero será **muy lento** (10-50x más lento).
 | Tu objetivo | Modelo recomendado | PC necesaria |
 |-------------|-------------------|---------------|
 | Probar, ver cómo funciona | mistral:7b | PC básica con 8GB RAM |
-| Chat diario,代码 básico | llama3:8b | 16GB RAM, GPU 8GB |
+| Chat diario, código básico | llama3:8b | 16GB RAM, GPU 8GB |
 | Código avanzado, análisis | codellama:13b | 32GB RAM, GPU 12GB |
 | Todo lo anterior, rápido | llama3:70b | 64GB RAM, GPU 24GB |
 
@@ -172,12 +172,4 @@ Puedes ejecutar modelos pequeños, pero será **muy lento** (10-50x más lento).
 - Web: [ollama.com](https://ollama.com/)
 - Docs: [github.com/ollama/ollama](https://github.com/ollama/ollama)
 
-# #modelos
-
-## 🚀 Cómo empezar
-1. Descarga e instala [Ollama](https://ollama.com/) en tu ordenador.
-2. Abre la terminal de tu sistema y ejecuta el comando para descargar y correr un modelo ligero (como Llama 3.2):
-   ```bash
-   ollama run llama3.2
-   ```
-3. ¡Empieza a chatear con la IA directamente desde tu consola de forma 100% local!
+# #modelos #contenido

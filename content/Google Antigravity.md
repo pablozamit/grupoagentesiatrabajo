@@ -6,7 +6,7 @@
 
 - **Editor de código con IA**: Le dices qué quieres construir y la IA lo hace
 - **Múltiples agentes**: Puedes poner a trabajar varios agentes a la vez
-- ** Gemini Pro**: Usa el modelo de Google para entender tu proyecto
+- **Gemini Pro**: Usa el modelo de Google para entender tu proyecto
 
 ## Características principales
 
@@ -37,4 +37,5 @@
 - Web: [antigravity.google](https://antigravity.google/)
 - Docs: [antigravity.google/docs](https://antigravity.google/docs)
 
-**Etiquetas:** [[#agente]] | [[#web]] | [[#contenido]]
+# #ia #agente #vibecoding #web
+

@@ -55,6 +55,7 @@ Los hashtags reflejan **para qué sirve** desde el punto de vista del alumno. Ca
 | #hosting | Publicar en internet |
 | #ciencia | Ciencia e investigación |
 | #investigacion | Investigación académica |
+| #oportunidades | Promociones y ofertas limitadas |
 
 ---
 
@@ -68,5 +69,3 @@ Los hashtags reflejan **para qué sirve** desde el punto de vista del alumno. Ca
 ---
 
 *Esta guía se actualizará conforme se añadan nuevos tags o contenido.*
-
-**Etiquetas:** [[#contenido]]

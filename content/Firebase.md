@@ -44,7 +44,7 @@
 ## Precio
 
 - **Spark (Free)**: Incluye la mayoría de servicios
-- **Blaze (Pay as you goes):** Escalable con Google Cloud
+- **Blaze (Pay as you go)**: Escalable con Google Cloud
 
 ## Recursos
 
@@ -52,9 +52,4 @@
 - Docs: [firebase.google.com/docs](https://firebase.google.com/docs)
 - Guías: [firebase.google.com/developer](https://firebase.google.com/developer)
 
-# #basededatos
-
-## 🚀 Cómo empezar
-1. Entra en la [Consola de Firebase](https://console.firebase.google.com/) con tu cuenta de Google.
-2. Haz clic en **Crear un proyecto** y sigue los sencillos pasos de configuración.
-3. Activa el servicio **Firestore Database** o **Authentication** con un solo clic en la barra izquierda para tener tu base de datos y sistema de usuarios en la nube listos para usar.
+# #basededatos #web #contenido
