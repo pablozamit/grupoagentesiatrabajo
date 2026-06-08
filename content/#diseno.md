@@ -11,5 +11,6 @@ Notas sobre diseño UI/UX:
 - [[Ian Xiaohei Illustrations]] - Skill de Codex para ilustraciones hand-drawn con estilo Xiaohei
 - [[Gamma]] - Crea presentaciones, webs, docs y posts con IA
 - [[Dead Simple Sites]] - Galería curada de sitios web minimalistas para inspirarse o copiar
+- [[UI Skills]] - Directorio de skills de diseño para agentes de IA
 
 # #diseno
