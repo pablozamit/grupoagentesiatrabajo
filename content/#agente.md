@@ -14,5 +14,6 @@ Notas sobre agentes de IA:
 - [[Agent-Reach]] - Scaffolding open source para que un agente lea internet sin APIs
 - [[last30days]] - Skill que busca en paralelo en Reddit, X, YouTube, HN y más, y sintetiza un brief de los últimos 30 días
 - [[Acceso a internet desde agentes]] - Comparativa entre Firecrawl, Agent-Reach y /last30days para dar acceso a internet a tu agente
+- [[AnythingLLM]] - Aplicación todo-en-uno de IA con agentes, documentos y multi-usuario
 
 # #agente
