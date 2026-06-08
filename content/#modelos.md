@@ -8,5 +8,6 @@ Notas sobre modelos de IA:
 - [[Microsoft Foundry]] - Catálogo de 1.900+ modelos en Azure
 - [[Ecosistema de modelos]] - Flujo completo: elegir (Arena) → acceder (OpenRouter u Ollama) → orquestar (Kilo Code) → producción (Microsoft Foundry)
 - [[AgentRouter]] - 100 $ de crédito API al registrarse con GitHub
+- [[GenCAD]] - Modelo del MIT que convierte fotos en CAD editable
 
 # #modelos
