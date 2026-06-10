@@ -19,6 +19,8 @@ Este documento explica los hashtags usados en la vault para organizar y filtrar 
 | #eduardo | Eduardo |
 | #ricardo | Ricardo |
 | #martin | Martin |
+| #jose | Jose Valenzuela |
+| #daniel | Daniel |
 
 > Los alumnos pueden filtrar la vault por su nombre para ver solo el contenido relevante para ellos.
 
