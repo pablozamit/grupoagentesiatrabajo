@@ -15,5 +15,6 @@ Notas sobre desarrollo web:
 - [[Acceso a internet desde agentes]] - Comparativa entre Firecrawl, Agent-Reach y /last30days para dar acceso a internet a tu agente
 - [[Capacitor]] - Framework para empaquetar tu webapp como app nativa iOS/Android
 - [[HTML5]] - Estándar de marcado para estructurar páginas web
+- [[Mesh3D Gallery]] - Galería curada de sitios web con gráficos 3D
 
 # #web
