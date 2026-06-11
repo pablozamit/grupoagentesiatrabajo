@@ -13,5 +13,6 @@ Notas sobre diseño UI/UX:
 - [[Dead Simple Sites]] - Galería curada de sitios web minimalistas para inspirarse o copiar
 - [[UI Skills]] - Directorio de skills de diseño para agentes de IA
 - [[Mesh3D Gallery]] - Galería de sitios web con gráficos 3D
+- [[DesignEngineer.tools]] - Directorio de herramientas para diseñadores de producto
 
 # #diseno
