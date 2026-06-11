@@ -17,5 +17,6 @@ Notas sobre agentes de IA:
 - [[AnythingLLM]] - Aplicación todo-en-uno de IA con agentes, documentos y multi-usuario
 - [[Here.Now]] - Hosting web gratuito e instantáneo para agentes
 - [[TokenRouter]] - API unificada de modelos para configurar en tu agente
+- [[Blender MCP]] - Conecta tu agente a Blender 3D para modelar con lenguaje natural
 
 # #agente
