@@ -16,5 +16,6 @@ Notas sobre agentes de IA:
 - [[Acceso a internet desde agentes]] - Comparativa entre Firecrawl, Agent-Reach y /last30days para dar acceso a internet a tu agente
 - [[AnythingLLM]] - Aplicación todo-en-uno de IA con agentes, documentos y multi-usuario
 - [[Here.Now]] - Hosting web gratuito e instantáneo para agentes
+- [[TokenRouter]] - API unificada de modelos para configurar en tu agente
 
 # #agente

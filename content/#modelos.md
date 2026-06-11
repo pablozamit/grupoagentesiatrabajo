@@ -9,5 +9,6 @@ Notas sobre modelos de IA:
 - [[Ecosistema de modelos]] - Flujo completo: elegir (Arena) → acceder (OpenRouter u Ollama) → orquestar (Kilo Code) → producción (Microsoft Foundry)
 - [[AgentRouter]] - 100 $ de crédito API al registrarse con GitHub
 - [[GenCAD]] - Modelo del MIT que convierte fotos en CAD editable
+- [[TokenRouter]] - API unificada de modelos (a veces con modelos gratis)
 
 # #modelos
