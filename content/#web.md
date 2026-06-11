@@ -17,5 +17,6 @@ Notas sobre desarrollo web:
 - [[HTML5]] - Estándar de marcado para estructurar páginas web
 - [[Mesh3D Gallery]] - Galería curada de sitios web con gráficos 3D
 - [[Here.Now]] - Hosting web gratuito e instantáneo para agentes
+- [[WebGPU]] - Nueva API gráfica para navegadores (sucesora de WebGL)
 
 # #web
