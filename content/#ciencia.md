@@ -15,5 +15,6 @@ Notas sobre ciencia:
 - [[Vitamina B6 y receptores alfa-2]] - Deficiencia de B6, catecolaminas elevadas y EP
 - [[Leptina y calcio]] - Calcio, gen agouti y sensibilidad a leptina
 - [[Antidepresivos y EP]] - ISRS, depresión y latencia eyaculatoria
+- [[Variabilidad de la Frecuencia Cardíaca]] - Indicador del equilibrio autonómico
 
 # #ciencia

@@ -21,6 +21,7 @@ La eyaculación está controlada por el sistema nervioso autónomo. Un desequili
 ## Relacionado
 
 - [[Eyaculación Precoz]] — nota principal sobre mecanismos de la EP
+- [[Variabilidad de la Frecuencia Cardíaca]] — la HRV mide el tono vagal
 - [[Progesterona y Vitamina E]] — regulación hormonal de la excitación nerviosa
 
 ## Referencias científicas

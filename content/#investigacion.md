@@ -14,5 +14,6 @@ Notas sobre investigación:
 - [[Vitamina B6 y receptores alfa-2]] - Deficiencia de B6 y desregulación de catecolaminas
 - [[Leptina y calcio]] - Regulación de la leptina vía calcio y gen agouti
 - [[Antidepresivos y EP]] - Uso de ISRS para retrasar la eyaculación
+- [[Variabilidad de la Frecuencia Cardíaca]] - HRV como medida del tono vagal
 
 # #investigacion
