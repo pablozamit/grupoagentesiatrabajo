@@ -22,3 +22,5 @@ Haz clic en el nombre de cualquier alumno para acceder a su nota personal:
 * [[pablo|Pablo Martínez]]
 * [[cristian|Ricardo Astaiza (Cristian)]]
 * [[ricardobrice|Ricardo Brice]]
+* [[daniel|Daniel]]
+* [[jose|Jose Valenzuela]]
