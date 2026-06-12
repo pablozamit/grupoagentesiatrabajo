@@ -18,6 +18,10 @@ La eyaculación está controlada por el sistema nervioso autónomo. Un desequili
 - **Ejercicios de respiración**: respiración diafragmática profunda. Método 4-7-8 (inhalar 4s, retener 7s, exhalar 8s)
 - **Tararear, cantar o recitar**: las vibraciones de la laringe estimulan el nervio vago mecánicamente
 
+## Relacionado
+
+- [[Progesterona y Vitamina E]] — regulación hormonal de la excitación nerviosa
+
 ## Referencias científicas
 
 - Breit, S. et al. (2018). Vagus nerve as modulator of the brain–gut axis in psychiatric and inflammatory disorders. *Frontiers in Psychiatry*, 9, 44.
