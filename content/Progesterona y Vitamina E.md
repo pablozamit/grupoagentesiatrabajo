@@ -15,6 +15,10 @@ Dado que la eyaculación precoz implica una respuesta de excitación desregulada
 - La vitamina E se encuentra en alimentos como frutos secos, semillas y aceites vegetales
 - La progesterona tópica se aplica en gotas en el ombligo para absorción transdérmica
 
+## Relacionado
+
+- [[Butirato]] — ácido graso antiinflamatorio que actúa sobre el receptor GPR109a
+
 ## Referencias científicas
 
 - Behrman, H. R. & Caldwell, R. K. (1981). Role of vitamin E in the regulation of the immune response. *Annals of the New York Academy of Sciences*, 393, 65–73.

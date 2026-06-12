@@ -21,6 +21,8 @@ La eyaculación está controlada por el sistema nervioso autónomo. Un desequili
 ## Relacionado
 
 - [[Progesterona y Vitamina E]] — regulación hormonal de la excitación nerviosa
+- [[GDNF]] — factor neurotrófico para reparar el sistema dopaminérgico
+- [[Butirato]] — ácido graso que estimula GDNF y dopamina
 
 ## Referencias científicas
 

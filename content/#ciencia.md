@@ -6,5 +6,7 @@ Notas sobre ciencia:
 - [[GenCAD]] - Modelo del MIT para convertir fotos en CAD editable
 - [[Nervio Vago]] - Nervio craneal clave del sistema parasimpático y su relación con la EP
 - [[Progesterona y Vitamina E]] - Regulación hormonal de la excitación nerviosa
+- [[GDNF]] - Factor neurotrófico para reparar el sistema dopaminérgico
+- [[Butirato]] - Ácido graso de cadena corta con efectos neuroprotectores
 
 # #ciencia
