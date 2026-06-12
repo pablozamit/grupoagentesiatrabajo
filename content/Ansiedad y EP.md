@@ -19,6 +19,7 @@ Basados en literatura científica y experiencia clínica:
 - **Magnesio sucrosomial** (mayor biodisponibilidad que el glicinato)
 - **L-teanina** (200–800 mg/día)
 - [[Vitamina B12]] — metilcobalamina, esencial para función neurológica
+- **Aspirina** — mejora la regulación térmica (manos frías = metabolismo bajo = ansiedad basal alta)
 
 ### Menciones honoríficas
 - [[Taurina]]
@@ -50,6 +51,8 @@ Ninguno de estos suplementos funcionará bien si:
 - Comes **comida chatarra** de forma habitual
 - Ayunas con **café negro** (eleva el cortisol)
 - No soportas la **metilación** (problemas con donantes de metilo como SAM-e, metilfolato, etc.)
+- Haces **ayuno crónico o keto** (mantienen el cuerpo en modo supervivencia y aplastan la producción de GABA)
+- **Subalimentación crónica** (no comer suficiente comida, especialmente proteína animal y carbohidratos)
 
 ## Relacionado
 
@@ -71,6 +74,7 @@ Ninguno de estos suplementos funcionará bien si:
 - Sarris, J. et al. (2011). Plant-based medicines for anxiety disorders: a systematic review. *CNS Drugs*, 25(9), 761–780.
 
 # #contenido #investigacion #ciencia
+
 
 
 

@@ -31,6 +31,14 @@ El alcohol alivia temporalmente los síntomas de la EP porque es GABAérgico. Si
 
 La fórmula **B4** combina agmatina, emoxipina, melisa y oroxylum para replicar los efectos sociales del alcohol sin sus inconvenientes.
 
+## Intestino y GABA
+
+La producción de GABA depende en gran medida de la salud intestinal. Cuando el intestino está inflamado (por dieta, estrés crónico, disbiosis), los precursores de GABA no se producen adecuadamente, lo que deja al sistema nervioso sin su principal freno inhibidor.
+
+Esto explica por qué muchas personas descubren su verdadera personalidad social solo después de unas copas: el alcohol se une temporalmente a los receptores GABA, restaurando un tono inhibidor que el intestino dañado no puede mantener. La personalidad sobria no es una jaula mental — es una jaula biológica. Y se puede reparar sin alcohol: arreglando el intestino, eliminando ayunos crónicos que mantienen el cuerpo en modo supervivencia, y consumiendo suficiente comida (carnes rojas, patatas, sal).
+
+La [[Agmatina]] es especialmente útil aquí: ha sido reportada como el mayor cambio individual en reducción de ansiedad en personas con intestino dañado.
+
 ## Vía DHT → 3b-diol (pro-GABA)
 
 Un bajo ratio DHT:Estradiol se asocia con eyaculación precoz. El mecanismo clave es que la DHT se convierte en **3b-diol** (3b-androstanediol), un metabolito que actúa como modulador positivo del receptor GABA-A, produciendo efectos calmantes y retrasando la eyaculación.
@@ -63,6 +71,7 @@ La mayoría de compuestos GABAérgicos de esta enciclopedia actúan sobre el rec
 - Olsen, R. W. & Sieghart, W. (2009). GABAA receptors: subtypes provide diversity of function and pharmacology. *Neuropharmacology*, 56(1), 141–148.
 
 # #contenido #investigacion #ciencia
+
 
 
 

@@ -1,4 +1,4 @@
-# Pregnenolona
+﻿# Pregnenolona
 
 La **pregnenolona** es un neuroesteroide producido a partir del colesterol. Es la molécula precursora de todas las hormonas esteroideas (progesterona, DHEA, testosterona, cortisol). Tiene efectos sobre la regulación del estrés y el estado de ánimo.
 
@@ -11,6 +11,10 @@ La **pregnenolona** es un neuroesteroide producido a partir del colesterol. Es l
 ## Relación con la eyaculación precoz
 
 El estrés y la ansiedad son causas directas de la eyaculación precoz. La pregnenolona ayuda a regular la respuesta al estrés, lo que puede disminuir la activación simpática y mejorar el control eyaculatorio.
+
+### Protocolo de dosis alta
+
+Dosis de 200–300 mg de pregnenolona (junto con aspirina y niacinamida) han sido reportadas como efectivas para la EP cuando se toman **on-demand** (30-60 min antes de la relación sexual). El mecanismo principal es la conversión de pregnenolona a **alopregnenolona**, un neuroesteroide que es modulador positivo del receptor GABA-A, optimizando el tono GABAérgico y retrasando el reflejo eyaculatorio.
 
 ## Aplicación
 
@@ -30,3 +34,4 @@ El estrés y la ansiedad son causas directas de la eyaculación precoz. La pregn
 - Marx, C. E. et al. (2011). Pregnenolone as a novel therapeutic candidate for anxiety disorders. *Neuropsychopharmacology*, 36(6), 1117–1126.
 
 # #contenido #investigacion #ciencia
+
