@@ -33,6 +33,7 @@ Basados en literatura científica y experiencia clínica:
 ## Relacionado
 
 - [[Eyaculación Precoz]] — nota principal sobre EP
+- [[GABA]] — principal neurotransmisor inhibidor
 - [[Nervio Vago]] — estimulación parasimpática para reducir la ansiedad
 - [[Agmatina]] — antidepresivo de acción rápida sin efectos alucinógenos
 - [[Antidepresivos y EP]] — ISRS, depresión y alternativas naturales

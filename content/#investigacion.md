@@ -19,5 +19,6 @@ Notas sobre investigación:
 - [[ALCAR]] - Evidencia clínica sobre cognición y neuroprotección
 - [[Ciproheptadina]] - Bloqueo de 5-HT2 y su efecto en la función sexual
 - [[Taurina]] - Efectos GABAérgicos y regulación del azúcar en sangre
+- [[GABA]] - Sistema inhibidor y su papel en la EP
 
 # #investigacion

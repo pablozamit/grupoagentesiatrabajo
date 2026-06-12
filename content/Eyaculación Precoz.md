@@ -25,5 +25,6 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[ALCAR]] — acetil-L-carnitina, aumenta dopamina y GDNF
 - [[Ciproheptadina]] — antagonista 5-HT2, abre vías de investigación sobre serotonina y EP
 - [[Taurina]] — neurotransmisor calmante GABAérgico
+- [[GABA]] — principal neurotransmisor inhibidor, regula la excitabilidad
 
 # #contenido #investigacion #ciencia

@@ -21,6 +21,7 @@ Como neurotransmisor inhibidor, la glicina contrarresta la excitación excesiva 
 
 - [[Eyaculación Precoz]] — nota principal sobre EP
 - [[Ansiedad y EP]] — la glicina aparece como ansiolítico en esa nota
+- [[GABA]] — principal neurotransmisor inhibidor
 
 ## Referencias científicas
 

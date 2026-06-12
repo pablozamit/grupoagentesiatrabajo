@@ -20,5 +20,6 @@ Notas sobre ciencia:
 - [[ALCAR]] - Acetil-L-carnitina, potenciador cognitivo y neuroprotector
 - [[Ciproheptadina]] - Antagonista 5-HT2, antihistamínico y su relación con EP
 - [[Taurina]] - Aminoácido GABAérgico calmante
+- [[GABA]] - Neurotransmisor inhibidor principal
 
 # #ciencia

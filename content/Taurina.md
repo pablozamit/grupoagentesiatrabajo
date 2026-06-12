@@ -24,6 +24,7 @@ Al reducir la excitabilidad del sistema nervioso y promover la calma vía GABA y
 
 - [[Glicina]] — otro neurotransmisor inhibidor con efectos sinérgicos
 - [[Ansiedad y EP]] — la taurina aparece como ansiolítico en esa nota
+- [[GABA]] — el GABA es el principal neurotransmisor inhibidor
 - [[Eyaculación Precoz]] — nota principal sobre EP
 
 ## Referencias científicas
