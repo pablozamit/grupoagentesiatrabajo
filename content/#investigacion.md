@@ -15,5 +15,7 @@ Notas sobre investigación:
 - [[Leptina y calcio]] - Regulación de la leptina vía calcio y gen agouti
 - [[Antidepresivos y EP]] - Uso de ISRS para retrasar la eyaculación
 - [[Variabilidad de la Frecuencia Cardíaca]] - HRV como medida del tono vagal
+- [[Glicina]] - Efectos sobre sueño, cortisol y función sexual
+- [[ALCAR]] - Evidencia clínica sobre cognición y neuroprotección
 
 # #investigacion

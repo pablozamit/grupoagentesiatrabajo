@@ -28,7 +28,7 @@ Basados en literatura científica y experiencia clínica:
 - Valeriana
 - Nigella sativa (comino negro)
 - [[Agmatina]]
-- Glicina (vía sublingual)
+- [[Glicina]] (vía sublingual)
 
 ## Relacionado
 

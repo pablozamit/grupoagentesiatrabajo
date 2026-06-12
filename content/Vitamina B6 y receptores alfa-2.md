@@ -19,6 +19,12 @@ La deficiencia de vitamina B6 reduce la expresión de los receptores alfa-2, lo 
 
 La noradrenalina elevada activa el sistema simpático, acelerando el reflejo eyaculatorio. Corregir la deficiencia de B6 puede restaurar la función de los receptores alfa-2, reducir las catecolaminas y mejorar el control eyaculatorio.
 
+## Forma activa vs forma inactiva
+
+La mayoría de los suplementos de vitamina B6 contienen **piridoxina HCL**, la forma inactiva. La forma activa es el **P5P** (piridoxal-5-fosfato). Tomar dosis altas de piridoxina HCL puede empeorar el problema porque compite inhibiendo al P5P, causando neuropatía con síntomas similares a los de la deficiencia.
+
+Para evitar esto, usar directamente **P5P** como suplemento.
+
 ## Nota
 
 Incluso si la ingesta de B6 es adecuada, pueden existir problemas de absorción que impiden su aprovechamiento.

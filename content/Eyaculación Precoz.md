@@ -21,5 +21,7 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[Antidepresivos y EP]] — ISRS retrasan la eyaculación y relación depresión-EP
 - [[Agmatina]] — antidepresivo de acción rápida sin receta
 - [[Variabilidad de la Frecuencia Cardíaca]] — la HRV como indicador del equilibrio autonómico en la EP
+- [[Glicina]] — neurotransmisor inhibidor, mejora el sueño y reduce cortisol
+- [[ALCAR]] — acetil-L-carnitina, aumenta dopamina y GDNF
 
 # #contenido #investigacion #ciencia

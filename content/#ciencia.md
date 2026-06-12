@@ -16,5 +16,7 @@ Notas sobre ciencia:
 - [[Leptina y calcio]] - Calcio, gen agouti y sensibilidad a leptina
 - [[Antidepresivos y EP]] - ISRS, depresión y latencia eyaculatoria
 - [[Variabilidad de la Frecuencia Cardíaca]] - Indicador del equilibrio autonómico
+- [[Glicina]] - Aminoácido neurotransmisor inhibidor
+- [[ALCAR]] - Acetil-L-carnitina, potenciador cognitivo y neuroprotector
 
 # #ciencia

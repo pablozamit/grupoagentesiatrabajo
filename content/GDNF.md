@@ -31,6 +31,7 @@ La dopamina es un neurotransmisor clave en el control de la eyaculación. Un sis
 ## Relacionado
 
 - [[Butirato]] — ácido graso de cadena corta que aumenta GDNF
+- [[ALCAR]] — acetil-L-carnitina que estimula GDNF y dopamina
 - [[Eyaculación Precoz]] — nota principal sobre EP y el sistema dopaminérgico
 
 ## Referencias científicas
