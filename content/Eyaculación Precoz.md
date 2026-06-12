@@ -1,4 +1,4 @@
-# Eyaculación Precoz
+﻿# Eyaculación Precoz
 
 La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. Puede tener causas tanto neurológicas como psicológicas.
 
@@ -26,5 +26,10 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[Ciproheptadina]] — antagonista 5-HT2, abre vías de investigación sobre serotonina y EP
 - [[Taurina]] — neurotransmisor calmante GABAérgico
 - [[GABA]] — principal neurotransmisor inhibidor, regula la excitabilidad
+- [[Emoxipina]] — ansiolítico sintético que modula GABA y protege el hígado
+- [[Oroxylum]] — planta ansiolítica paradójica que aumenta BDNF y dopamina
+- [[Magnesio Acetil Taurato]] — magnesio quelado que cruza la BHE con triple mecanismo inhibidor
+- [[Selank]] — péptido ansiolítico potente para casos severos
 
 # #contenido #investigacion #ciencia
+

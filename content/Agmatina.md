@@ -1,4 +1,4 @@
-# Agmatina
+﻿# Agmatina
 
 La **agmatina** (agmatine sulfate) es un compuesto natural derivado del aminoácido arginina. Tiene efectos antidepresivos de acción rápida, similares a los de la ketamina, pero sin efectos alucinógenos y con un perfil de riesgo mucho menor.
 
@@ -20,12 +20,15 @@ La depresión y la ansiedad son causas conocidas de la eyaculación precoz. La a
 
 - Tiene propiedades **vasodilatadoras**
 - No combinar con **alcohol** (puede dañar el revestimiento gastrointestinal)
+- Combinada con **emoxipina, melisa y oroxylum** (fórmula B4), replica los efectos sociales del alcohol (deshinibición, euforia suave, calma) sin sus riesgos
 - La dosis óptima varía según la persona
 
 ## Relacionado
 
 - [[Ansiedad y EP]] — más suplementos ansiolíticos para la EP
 - [[Eyaculación Precoz]] — nota principal sobre EP
+- [[Emoxipina]] — combinada en B4
+- [[Oroxylum]] — combinado en B4
 
 ## Referencias científicas
 
@@ -33,3 +36,4 @@ La depresión y la ansiedad son causas conocidas de la eyaculación precoz. La a
 - Neis, V. B. et al. (2017). Agmatine produces antidepressant-like effects via AMPA receptors. *Behavioural Brain Research*, 330, 95–101.
 
 # #contenido #investigacion #ciencia
+

@@ -1,4 +1,4 @@
-# Glicina
+﻿# Glicina
 
 La **glicina** es un aminoácido que actúa como neurotransmisor inhibidor en el sistema nervioso central. Cruza la barrera hematoencefálica con mayor eficacia que el GABA.
 
@@ -11,6 +11,7 @@ La **glicina** es un aminoácido que actúa como neurotransmisor inhibidor en el
 - Implicada en la síntesis de **creatina** (pro-ATP)
 - Potencia la **5-alfa-reductasa** (conversión de testosterona a DHT)
 - Aumenta el **flujo sanguíneo**
+- La **N-acetiltaurina** (derivado de taurina en [[Magnesio Acetil Taurato]]) tiene mayor afinidad por el receptor de glicina que la glicina misma
 - Mejora la calidad del **sueño** (sueños vívidos)
 
 ## Relación con la eyaculación precoz
@@ -22,6 +23,7 @@ Como neurotransmisor inhibidor, la glicina contrarresta la excitación excesiva 
 - [[Eyaculación Precoz]] — nota principal sobre EP
 - [[Ansiedad y EP]] — la glicina aparece como ansiolítico en esa nota
 - [[GABA]] — principal neurotransmisor inhibidor
+- [[Magnesio Acetil Taurato]] — contiene acetil taurina con mayor afinidad por el receptor de glicina
 
 ## Referencias científicas
 
@@ -29,3 +31,4 @@ Como neurotransmisor inhibidor, la glicina contrarresta la excitación excesiva 
 - Bannai, M. et al. (2012). Glycine as a neurotransmitter and its role in sleep regulation. *Journal of Pharmacological Sciences*, 118(2), 145–150.
 
 # #contenido #investigacion #ciencia
+

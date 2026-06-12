@@ -1,4 +1,4 @@
-# Ansiedad y EP
+﻿# Ansiedad y EP
 
 La **ansiedad** es una de las causas principales de la eyaculación precoz. Activa el sistema nervioso simpático (lucha-o-huida), lo que reduce el umbral eyaculatorio y acelera el reflejo.
 
@@ -29,6 +29,25 @@ Basados en literatura científica y experiencia clínica:
 - Nigella sativa (comino negro)
 - [[Agmatina]]
 - [[Glicina]] (vía sublingual)
+- [[Emoxipina]] — modulador GABAérgico sintético, hepatoprotector, combinado en B4
+- [[Oroxylum]] — ansiolítico paradójico que aumenta BDNF y dopamina, combinado en B4
+- [[Magnesio Acetil Taurato]] — magnesio quelado con N-acetiltaurina, triple mecanismo inhibidor
+- [[Selank]] — péptido ansiolítico muy potente (requiere precaución)
+- **Azafrán** (Saffron)
+- **Rhodiola rosea**
+- **Reishi rojo** (Ganoderma lucidum)
+- **Manzanilla** (Chamomile)
+
+
+### Caveats importantes
+
+Ninguno de estos suplementos funcionará bien si:
+- Consumes **alcohol** regularmente
+- No pasas tiempo bajo **el sol**
+- Usas **nicotina**
+- Comes **comida chatarra** de forma habitual
+- Ayunas con **café negro** (eleva el cortisol)
+- No soportas la **metilación** (problemas con donantes de metilo como SAM-e, metilfolato, etc.)
 
 ## Relacionado
 
@@ -37,6 +56,8 @@ Basados en literatura científica y experiencia clínica:
 - [[Nervio Vago]] — estimulación parasimpática para reducir la ansiedad
 - [[Agmatina]] — antidepresivo de acción rápida sin efectos alucinógenos
 - [[Antidepresivos y EP]] — ISRS, depresión y alternativas naturales
+- [[Magnesio Acetil Taurato]] — magnesio con triple mecanismo ansiolítico
+- [[Selank]] — péptido ansiolítico potente
 
 ## Referencias científicas
 
@@ -45,3 +66,4 @@ Basados en literatura científica y experiencia clínica:
 - Sarris, J. et al. (2011). Plant-based medicines for anxiety disorders: a systematic review. *CNS Drugs*, 25(9), 761–780.
 
 # #contenido #investigacion #ciencia
+

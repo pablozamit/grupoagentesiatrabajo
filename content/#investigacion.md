@@ -1,4 +1,4 @@
-# #investigacion
+﻿# #investigacion
 
 Notas sobre investigación:
 
@@ -20,5 +20,9 @@ Notas sobre investigación:
 - [[Ciproheptadina]] - Bloqueo de 5-HT2 y su efecto en la función sexual
 - [[Taurina]] - Efectos GABAérgicos y regulación del azúcar en sangre
 - [[GABA]] - Sistema inhibidor y su papel en la EP
+- [[Emoxipina]] - Modulador GABAérgico con propiedades hepatoprotectoras
+- [[Oroxylum]] - Antagonista GABA-A e inhibidor de recaptación de dopamina
+- [[Magnesio Acetil Taurato]] - Triple mecanismo inhibidor para ansiedad en EP
+- [[Selank]] - Péptido modulador de serotonina y dopamina
 
 # #investigacion

@@ -1,4 +1,4 @@
-# Taurina
+﻿# Taurina
 
 La **taurina** es un aminoácido que actúa como neurotransmisor calmante. Se encuentra de forma natural en el organismo y tiene múltiples efectos sobre el sistema nervioso.
 
@@ -9,6 +9,11 @@ La **taurina** es un aminoácido que actúa como neurotransmisor calmante. Se en
 - Amortigua la señalización de **glutamato** (antiestrés, antiexcitabilidad)
 - Mejora la **función mitocondrial**
 - Regula el **azúcar en sangre** (duplica el glucógeno hepático, acción similar a la insulina)
+
+
+## Derivado acetilado
+
+La N-acetiltaurina (taurina con un grupo acetilo añadido) es significativamente más lipofílica que la taurina libre. Al quelarse con magnesio ([[Magnesio Acetil Taurato]]), cruza la barrera hematoencefálica con mucha mayor eficacia, produciendo efectos calmantes más potentes a dosis equivalentes.
 
 ## Relación con la eyaculación precoz
 
@@ -26,6 +31,7 @@ Al reducir la excitabilidad del sistema nervioso y promover la calma vía GABA y
 - [[Ansiedad y EP]] — la taurina aparece como ansiolítico en esa nota
 - [[GABA]] — el GABA es el principal neurotransmisor inhibidor
 - [[Eyaculación Precoz]] — nota principal sobre EP
+- [[Magnesio Acetil Taurato]] — derivado acetilado con alta biodisponibilidad cerebral
 
 ## Referencias científicas
 
@@ -33,3 +39,4 @@ Al reducir la excitabilidad del sistema nervioso y promover la calma vía GABA y
 - Kim, S. et al. (2019). Taurine and blood sugar regulation. *Advances in Experimental Medicine and Biology*, 1155, 1005–1016.
 
 # #contenido #investigacion #ciencia
+

@@ -1,4 +1,4 @@
-# #ciencia
+﻿# #ciencia
 
 Notas sobre ciencia:
 
@@ -21,5 +21,9 @@ Notas sobre ciencia:
 - [[Ciproheptadina]] - Antagonista 5-HT2, antihistamínico y su relación con EP
 - [[Taurina]] - Aminoácido GABAérgico calmante
 - [[GABA]] - Neurotransmisor inhibidor principal
+- [[Emoxipina]] - Antioxidante sintético GABAérgico y su relación con la EP
+- [[Oroxylum]] - Planta ansiolítica paradójica que aumenta BDNF
+- [[Magnesio Acetil Taurato]] - Magnesio quelado con alta biodisponibilidad cerebral
+- [[Selank]] - Péptido ansiolítico potente
 
 # #ciencia
