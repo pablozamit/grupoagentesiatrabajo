@@ -11,5 +11,6 @@ Notas sobre ciencia:
 - [[Eyaculación Precoz]] - Disfunción sexual con causas neurológicas y psicológicas
 - [[Ansiedad y EP]] - Suplementos ansiolíticos y su relación con la EP
 - [[Agmatina]] - Antidepresivo de acción rápida y su relación con la EP
+- [[Pregnenolona]] - Neuroesteroide precursor hormonal, regula el estrés
 
 # #ciencia

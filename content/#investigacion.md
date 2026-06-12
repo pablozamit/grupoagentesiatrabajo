@@ -10,5 +10,6 @@ Notas sobre investigación:
 - [[Eyaculación Precoz]] - Investigación sobre causas y tratamientos de la EP
 - [[Ansiedad y EP]] - Ansiedad como causa de EP y herramientas para manejarla
 - [[Agmatina]] - Suplemento con efectos antidepresivos rápidos vía AMPA
+- [[Pregnenolona]] - Precursor hormonal con efectos sobre el estrés y el ánimo
 
 # #investigacion

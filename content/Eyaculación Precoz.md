@@ -15,5 +15,6 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[GDNF]] — reparación del sistema dopaminérgico
 - [[Butirato]] — estimula GDNF y aumenta síntesis de dopamina
 - [[Ansiedad y EP]] — suplementos ansiolíticos y su relación con la EP
+- [[Pregnenolona]] — neuroesteroide que regula la respuesta al estrés
 
 # #contenido #investigacion #ciencia
