@@ -11,5 +11,7 @@ Notas sobre investigación:
 - [[Ansiedad y EP]] - Ansiedad como causa de EP y herramientas para manejarla
 - [[Agmatina]] - Suplemento con efectos antidepresivos rápidos vía AMPA
 - [[Pregnenolona]] - Precursor hormonal con efectos sobre el estrés y el ánimo
+- [[Vitamina B6 y receptores alfa-2]] - Deficiencia de B6 y desregulación de catecolaminas
+- [[Leptina y calcio]] - Regulación de la leptina vía calcio y gen agouti
 
 # #investigacion

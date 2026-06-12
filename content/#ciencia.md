@@ -12,5 +12,7 @@ Notas sobre ciencia:
 - [[Ansiedad y EP]] - Suplementos ansiolíticos y su relación con la EP
 - [[Agmatina]] - Antidepresivo de acción rápida y su relación con la EP
 - [[Pregnenolona]] - Neuroesteroide precursor hormonal, regula el estrés
+- [[Vitamina B6 y receptores alfa-2]] - Deficiencia de B6, catecolaminas elevadas y EP
+- [[Leptina y calcio]] - Calcio, gen agouti y sensibilidad a leptina
 
 # #ciencia

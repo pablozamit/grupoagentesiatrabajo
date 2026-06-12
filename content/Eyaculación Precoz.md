@@ -16,5 +16,7 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[Butirato]] — estimula GDNF y aumenta síntesis de dopamina
 - [[Ansiedad y EP]] — suplementos ansiolíticos y su relación con la EP
 - [[Pregnenolona]] — neuroesteroide que regula la respuesta al estrés
+- [[Vitamina B6 y receptores alfa-2]] — deficiencia de B6 como causa de EP
+- [[Leptina y calcio]] — sensibilidad a leptina y su posible relación con EP
 
 # #contenido #investigacion #ciencia
