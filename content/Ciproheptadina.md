@@ -20,11 +20,23 @@ Esto abre preguntas de investigación sobre el equilibrio de los subtipos de rec
 - Se recomienda empezar con dosis bajas e ir subiendo
 - El periodo de aclimatación es de aproximadamente una semana
 
+## Efectos reportados
+
+Usuarios describen una desaparición de la **indefensión aprendida** al reducir drásticamente la serotonina. El LSD también es un inhibidor serotoninérgico potente, lo que explica efectos similares.
+
 ## Precauciones
 
 - Puede causar somnolencia
 - Posible respuesta inmune (exceso de mucosidad) a dosis altas
 - Efectos anticolinérgicos
+- Genera **tolerancia** — requiere ciclado, no usar de forma continua
+- El uso crónico puede causar **anhedonia** (posible vía prolactina + depleción de dopamina)
+
+## Alternativas para reducir serotonina
+
+- Ensalada de zanahoria (mejora motilidad intestinal)
+- Eliminar **SIBO** o disbiosis
+- Reducir almidones, granos y azúcares complejos
 
 ## Relacionado
 
