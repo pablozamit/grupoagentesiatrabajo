@@ -24,5 +24,7 @@ Notas sobre investigación:
 - [[Oroxylum]] - Antagonista GABA-A e inhibidor de recaptación de dopamina
 - [[Magnesio Acetil Taurato]] - Triple mecanismo inhibidor para ansiedad en EP
 - [[Selank]] - Péptido modulador de serotonina y dopamina
+- [[TTFD]] - Fursultiamina, B1 liposoluble con efectos psicoestimulantes
 
 # #investigacion
+

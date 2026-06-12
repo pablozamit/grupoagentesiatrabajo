@@ -25,5 +25,7 @@ Notas sobre ciencia:
 - [[Oroxylum]] - Planta ansiolítica paradójica que aumenta BDNF
 - [[Magnesio Acetil Taurato]] - Magnesio quelado con alta biodisponibilidad cerebral
 - [[Selank]] - Péptido ansiolítico potente
+- [[TTFD]] - Derivado liposoluble de vitamina B1 que cruza la BHE
 
 # #ciencia
+

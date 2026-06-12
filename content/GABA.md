@@ -30,6 +30,16 @@ El alcohol alivia temporalmente los síntomas de la EP porque es GABAérgico. Si
 
 La fórmula **B4** combina agmatina, emoxipina, melisa y oroxylum para replicar los efectos sociales del alcohol sin sus inconvenientes.
 
+## Vía DHT → 3b-diol (pro-GABA)
+
+Un bajo ratio DHT:Estradiol se asocia con eyaculación precoz. El mecanismo clave es que la DHT se convierte en **3b-diol** (3b-androstanediol), un metabolito que actúa como modulador positivo del receptor GABA-A, produciendo efectos calmantes y retrasando la eyaculación.
+
+La cascada completa:
+
+[[Glicina]] → potencia **5-alfa-reductasa** → más **testosterona → DHT** → más **3b-diol** → activación **GABA-A** → retraso eyaculatorio
+
+Esto explica por qué compuestos que aumentan DHT o mimetizan GABA mejoran la EP, y por qué un ambiente estrogénico bajo (que desplaza el ratio DHT:Estradiol a favor de DHT) es protector. El fenibut (un análogo de GABA) es reportado por muchos como efectivo para prolongar la relación sexual, consistente con este modelo.
+
 ## Relacionado
 
 - [[Eyaculación Precoz]] — nota principal sobre EP
@@ -46,4 +56,5 @@ La fórmula **B4** combina agmatina, emoxipina, melisa y oroxylum para replicar 
 - Olsen, R. W. & Sieghart, W. (2009). GABAA receptors: subtypes provide diversity of function and pharmacology. *Neuropharmacology*, 56(1), 141–148.
 
 # #contenido #investigacion #ciencia
+
 
