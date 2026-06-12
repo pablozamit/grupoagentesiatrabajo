@@ -23,5 +23,6 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[Variabilidad de la Frecuencia Cardíaca]] — la HRV como indicador del equilibrio autonómico en la EP
 - [[Glicina]] — neurotransmisor inhibidor, mejora el sueño y reduce cortisol
 - [[ALCAR]] — acetil-L-carnitina, aumenta dopamina y GDNF
+- [[Ciproheptadina]] — antagonista 5-HT2, abre vías de investigación sobre serotonina y EP
 
 # #contenido #investigacion #ciencia

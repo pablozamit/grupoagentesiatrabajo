@@ -18,5 +18,6 @@ Notas sobre ciencia:
 - [[Variabilidad de la Frecuencia Cardíaca]] - Indicador del equilibrio autonómico
 - [[Glicina]] - Aminoácido neurotransmisor inhibidor
 - [[ALCAR]] - Acetil-L-carnitina, potenciador cognitivo y neuroprotector
+- [[Ciproheptadina]] - Antagonista 5-HT2, antihistamínico y su relación con EP
 
 # #ciencia

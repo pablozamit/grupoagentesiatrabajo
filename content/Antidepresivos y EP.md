@@ -24,6 +24,7 @@ Antes de recurrir a antidepresivos, existen suplementos con respaldo científico
 - [[Eyaculación Precoz]] — nota principal sobre EP
 - [[Ansiedad y EP]] — suplementos ansiolíticos como alternativa
 - [[Agmatina]] — antidepresivo de acción rápida sin receta
+- [[Ciproheptadina]] — antagonista 5-HT2, revierte disfunción sexual por ISRS
 
 ## Referencias científicas
 
