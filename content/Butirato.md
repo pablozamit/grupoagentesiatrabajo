@@ -25,8 +25,7 @@ El butirato aumenta la síntesis de dopamina y estimula el GDNF, ambos implicado
 ## Relacionado
 
 - [[GDNF]] — el butirato estimula la producción de GDNF
-- [[Nervio Vago]] — el butirato también influye en el eje intestino-cerebro vía vagal
-- [[Progesterona y Vitamina E]] — regulación de la inflamación
+- [[Eyaculación Precoz]] — nota principal sobre EP y la regulación dopaminérgica
 
 ## Referencias científicas
 

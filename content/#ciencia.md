@@ -8,5 +8,7 @@ Notas sobre ciencia:
 - [[Progesterona y Vitamina E]] - Regulación hormonal de la excitación nerviosa
 - [[GDNF]] - Factor neurotrófico para reparar el sistema dopaminérgico
 - [[Butirato]] - Ácido graso de cadena corta con efectos neuroprotectores
+- [[Eyaculación Precoz]] - Disfunción sexual con causas neurológicas y psicológicas
+- [[Ansiedad y EP]] - Suplementos ansiolíticos y su relación con la EP
 
 # #ciencia

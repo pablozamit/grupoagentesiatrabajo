@@ -17,7 +17,7 @@ Dado que la eyaculación precoz implica una respuesta de excitación desregulada
 
 ## Relacionado
 
-- [[Butirato]] — ácido graso antiinflamatorio que actúa sobre el receptor GPR109a
+- [[Eyaculación Precoz]] — nota principal sobre EP y sus mecanismos
 
 ## Referencias científicas
 

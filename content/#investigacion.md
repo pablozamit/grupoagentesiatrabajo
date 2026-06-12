@@ -7,5 +7,7 @@ Notas sobre investigación:
 - [[Progesterona y Vitamina E]] - Sustancias que regulan la inflamación y excitación celular
 - [[GDNF]] - Regeneración del sistema dopaminérgico
 - [[Butirato]] - SCFA que estimula neurogénesis y protege el sistema nervioso
+- [[Eyaculación Precoz]] - Investigación sobre causas y tratamientos de la EP
+- [[Ansiedad y EP]] - Ansiedad como causa de EP y herramientas para manejarla
 
 # #investigacion

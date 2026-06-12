@@ -31,7 +31,7 @@ La dopamina es un neurotransmisor clave en el control de la eyaculación. Un sis
 ## Relacionado
 
 - [[Butirato]] — ácido graso de cadena corta que aumenta GDNF
-- [[Nervio Vago]] — sistema parasimpático y regulación de la excitación
+- [[Eyaculación Precoz]] — nota principal sobre EP y el sistema dopaminérgico
 
 ## Referencias científicas
 
