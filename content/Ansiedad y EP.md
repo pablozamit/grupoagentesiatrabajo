@@ -27,13 +27,14 @@ Basados en literatura científica y experiencia clínica:
 - Gotu kola (Centella asiática)
 - Valeriana
 - Nigella sativa (comino negro)
-- Agmatina
+- [[Agmatina]]
 - Glicina (vía sublingual)
 
 ## Relacionado
 
 - [[Eyaculación Precoz]] — nota principal sobre EP
 - [[Nervio Vago]] — estimulación parasimpática para reducir la ansiedad
+- [[Agmatina]] — antidepresivo de acción rápida sin efectos alucinógenos
 
 ## Referencias científicas
 

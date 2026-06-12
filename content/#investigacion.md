@@ -9,5 +9,6 @@ Notas sobre investigación:
 - [[Butirato]] - SCFA que estimula neurogénesis y protege el sistema nervioso
 - [[Eyaculación Precoz]] - Investigación sobre causas y tratamientos de la EP
 - [[Ansiedad y EP]] - Ansiedad como causa de EP y herramientas para manejarla
+- [[Agmatina]] - Suplemento con efectos antidepresivos rápidos vía AMPA
 
 # #investigacion

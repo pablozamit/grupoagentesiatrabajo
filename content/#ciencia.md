@@ -10,5 +10,6 @@ Notas sobre ciencia:
 - [[Butirato]] - Ácido graso de cadena corta con efectos neuroprotectores
 - [[Eyaculación Precoz]] - Disfunción sexual con causas neurológicas y psicológicas
 - [[Ansiedad y EP]] - Suplementos ansiolíticos y su relación con la EP
+- [[Agmatina]] - Antidepresivo de acción rápida y su relación con la EP
 
 # #ciencia
