@@ -1,4 +1,4 @@
-# Variabilidad de la Frecuencia Cardíaca
+﻿# Variabilidad de la Frecuencia Cardíaca
 
 La **variabilidad de la frecuencia cardíaca** (HRV) mide la fluctuación en el intervalo de tiempo entre latidos del corazón. Es un indicador directo del equilibrio del sistema nervioso autónomo.
 
@@ -34,3 +34,4 @@ La inmersión en agua fría activa el nervio vago y mejora la HRV a largo plazo.
 - Lehrer, P. M. et al. (2003). Resonant frequency biofeedback training to increase cardiac variability. *Applied Psychophysiology and Biofeedback*, 28(3), 201–219.
 
 # #ciencia #investigacion #contenido
+

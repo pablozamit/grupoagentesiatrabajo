@@ -12,7 +12,7 @@ Basados en literatura científica y experiencia clínica:
 - **Mulungu** (Erythrina mulungu)
 
 ### Menos potentes pero sostenibles
-- **Inositol**
+- [[Inositol]]
 - **NAC** (N-acetilcisteína)
 
 ### Herramientas cotidianas
@@ -57,6 +57,7 @@ Ninguno de estos suplementos funcionará bien si:
 - [[Agmatina]] — antidepresivo de acción rápida sin efectos alucinógenos
 - [[Antidepresivos y EP]] — ISRS, depresión y alternativas naturales
 - [[Magnesio Acetil Taurato]] — magnesio con triple mecanismo ansiolítico
+- [[Inositol]] — modulador serotoninérgico, reduce pensamientos intrusivos
 - [[Selank]] — péptido ansiolítico potente
 
 ## Referencias científicas
@@ -66,4 +67,5 @@ Ninguno de estos suplementos funcionará bien si:
 - Sarris, J. et al. (2011). Plant-based medicines for anxiety disorders: a systematic review. *CNS Drugs*, 25(9), 761–780.
 
 # #contenido #investigacion #ciencia
+
 

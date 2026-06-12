@@ -30,7 +30,9 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[Oroxylum]] — planta ansiolítica paradójica que aumenta BDNF y dopamina
 - [[Magnesio Acetil Taurato]] — magnesio quelado que cruza la BHE con triple mecanismo inhibidor
 - [[Selank]] — péptido ansiolítico potente para casos severos
+- [[Inositol]] — modulador serotoninérgico que reduce ansiedad y pensamientos intrusivos
 
 # #contenido #investigacion #ciencia
+
 
 

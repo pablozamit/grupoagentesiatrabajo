@@ -26,6 +26,8 @@ Notas sobre ciencia:
 - [[Magnesio Acetil Taurato]] - Magnesio quelado con alta biodisponibilidad cerebral
 - [[Selank]] - Péptido ansiolítico potente
 - [[TTFD]] - Derivado liposoluble de vitamina B1 que cruza la BHE
+- [[Inositol]] - Segundo mensajero celular y modulador serotoninérgico
 
 # #ciencia
+
 
