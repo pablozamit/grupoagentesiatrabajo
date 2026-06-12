@@ -18,6 +18,7 @@ Basados en literatura científica y experiencia clínica:
 ### Herramientas cotidianas
 - **Magnesio sucrosomial** (mayor biodisponibilidad que el glicinato)
 - **L-teanina** (200–800 mg/día)
+- [[Vitamina B12]] — metilcobalamina, esencial para función neurológica
 
 ### Menciones honoríficas
 - [[Taurina]]
@@ -33,6 +34,7 @@ Basados en literatura científica y experiencia clínica:
 - [[Oroxylum]] — ansiolítico paradójico que aumenta BDNF y dopamina, combinado en B4
 - [[Magnesio Acetil Taurato]] — magnesio quelado con N-acetiltaurina, triple mecanismo inhibidor
 - [[Selank]] — péptido ansiolítico muy potente (requiere precaución)
+- [[Baclofeno]] — agonista GABA-B, ansiolítico farmacéutico potente (solo con receta)
 - **Azafrán** (Saffron)
 - **Rhodiola rosea**
 - **Reishi rojo** (Ganoderma lucidum)
@@ -59,6 +61,8 @@ Ninguno de estos suplementos funcionará bien si:
 - [[Magnesio Acetil Taurato]] — magnesio con triple mecanismo ansiolítico
 - [[Inositol]] — modulador serotoninérgico, reduce pensamientos intrusivos
 - [[Selank]] — péptido ansiolítico potente
+- [[Baclofeno]] — agonista GABA-B
+- [[Vitamina B12]] — esencial para función neurológica y metilación
 
 ## Referencias científicas
 
@@ -67,5 +71,6 @@ Ninguno de estos suplementos funcionará bien si:
 - Sarris, J. et al. (2011). Plant-based medicines for anxiety disorders: a systematic review. *CNS Drugs*, 25(9), 761–780.
 
 # #contenido #investigacion #ciencia
+
 
 

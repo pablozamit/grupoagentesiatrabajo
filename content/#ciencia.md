@@ -27,7 +27,10 @@ Notas sobre ciencia:
 - [[Selank]] - Péptido ansiolítico potente
 - [[TTFD]] - Derivado liposoluble de vitamina B1 que cruza la BHE
 - [[Inositol]] - Segundo mensajero celular y modulador serotoninérgico
+- [[Baclofeno]] - Agonista GABA-B, ansiolítico farmacéutico
+- [[Vitamina B12]] - Deficiencia asociada a EP y función neurológica
 
 # #ciencia
+
 
 

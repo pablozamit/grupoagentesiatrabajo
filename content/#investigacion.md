@@ -26,7 +26,10 @@ Notas sobre investigación:
 - [[Selank]] - Péptido modulador de serotonina y dopamina
 - [[TTFD]] - Fursultiamina, B1 liposoluble con efectos psicoestimulantes
 - [[Inositol]] - Deficiencia de inositol y trastornos de ansiedad/OCD
+- [[Baclofeno]] - GABA-B, vía alternativa para ansiolisis
+- [[Vitamina B12]] - Niveles seminales bajos en hombres con EP
 
 # #investigacion
+
 
 

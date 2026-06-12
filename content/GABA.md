@@ -16,6 +16,7 @@ La EP implica una hiperactividad del sistema simpático (excitación). El GABA r
 - [[Emoxipina]] — modulador GABAérgico sintético con propiedades antioxidantes (Mexidol)
 - [[Oroxylum]] — antagonista GABA-A paradójico; el extracto completo es ansiolítico vía dopamina y BDNF
 - [[Magnesio Acetil Taurato]] — agonista GABA-A + agonista de glicina + antagonista NMDA con alta biodisponibilidad cerebral
+- [[Baclofeno]] — agonista GABA-B (vía distinta a GABA-A), ansiolítico y deshinibidor
 
 
 ## Alcohol y EP
@@ -40,6 +41,10 @@ La cascada completa:
 
 Esto explica por qué compuestos que aumentan DHT o mimetizan GABA mejoran la EP, y por qué un ambiente estrogénico bajo (que desplaza el ratio DHT:Estradiol a favor de DHT) es protector. El fenibut (un análogo de GABA) es reportado por muchos como efectivo para prolongar la relación sexual, consistente con este modelo.
 
+## GABA-A vs GABA-B
+
+La mayoría de compuestos GABAérgicos de esta enciclopedia actúan sobre el receptor **GABA-A** (canal iónico de acción rápida). El [[Baclofeno]] actúa sobre **GABA-B** (acoplado a proteína G, acción más lenta y prolongada). La distinción es relevante porque activar GABA-A produce sedación/calma inmediata, mientras que GABA-B produce relajación muscular y deshinibición más sostenida.
+
 ## Relacionado
 
 - [[Eyaculación Precoz]] — nota principal sobre EP
@@ -49,6 +54,8 @@ Esto explica por qué compuestos que aumentan DHT o mimetizan GABA mejoran la EP
 - [[Emoxipina]] — modulador GABAérgico sintético
 - [[Oroxylum]] — antagonista GABA-A paradójico
 - [[Magnesio Acetil Taurato]] — triple agonista GABA/glicina/NMDA
+- [[Baclofeno]] — agonista GABA-B
+- [[Vitamina B12]] — deficiencia asociada a EP
 
 ## Referencias científicas
 
@@ -56,5 +63,6 @@ Esto explica por qué compuestos que aumentan DHT o mimetizan GABA mejoran la EP
 - Olsen, R. W. & Sieghart, W. (2009). GABAA receptors: subtypes provide diversity of function and pharmacology. *Neuropharmacology*, 56(1), 141–148.
 
 # #contenido #investigacion #ciencia
+
 
 

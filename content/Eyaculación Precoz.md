@@ -31,8 +31,11 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[Magnesio Acetil Taurato]] — magnesio quelado que cruza la BHE con triple mecanismo inhibidor
 - [[Selank]] — péptido ansiolítico potente para casos severos
 - [[Inositol]] — modulador serotoninérgico que reduce ansiedad y pensamientos intrusivos
+- [[Vitamina B12]] — deficiencia de B12 asociada a EP en estudios
+- [[Baclofeno]] — agonista GABA-B para ansiedad social severa
 
 # #contenido #investigacion #ciencia
+
 
 
 
