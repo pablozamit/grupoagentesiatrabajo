@@ -24,5 +24,6 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[Glicina]] — neurotransmisor inhibidor, mejora el sueño y reduce cortisol
 - [[ALCAR]] — acetil-L-carnitina, aumenta dopamina y GDNF
 - [[Ciproheptadina]] — antagonista 5-HT2, abre vías de investigación sobre serotonina y EP
+- [[Taurina]] — neurotransmisor calmante GABAérgico
 
 # #contenido #investigacion #ciencia

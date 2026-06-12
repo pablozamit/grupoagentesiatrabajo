@@ -20,7 +20,7 @@ Basados en literatura científica y experiencia clínica:
 - **L-teanina** (200–800 mg/día)
 
 ### Menciones honoríficas
-- Taurina
+- [[Taurina]]
 - Apigenina
 - Bacopa (Bacopa monnieri)
 - Escutelaria (Baikal skullcap)

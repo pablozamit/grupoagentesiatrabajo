@@ -18,5 +18,6 @@ Notas sobre investigación:
 - [[Glicina]] - Efectos sobre sueño, cortisol y función sexual
 - [[ALCAR]] - Evidencia clínica sobre cognición y neuroprotección
 - [[Ciproheptadina]] - Bloqueo de 5-HT2 y su efecto en la función sexual
+- [[Taurina]] - Efectos GABAérgicos y regulación del azúcar en sangre
 
 # #investigacion
