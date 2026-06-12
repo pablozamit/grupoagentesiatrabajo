@@ -18,5 +18,7 @@ La **eyaculación precoz** (EP) es la disfunción sexual masculina más común. 
 - [[Pregnenolona]] — neuroesteroide que regula la respuesta al estrés
 - [[Vitamina B6 y receptores alfa-2]] — deficiencia de B6 como causa de EP
 - [[Leptina y calcio]] — sensibilidad a leptina y su posible relación con EP
+- [[Antidepresivos y EP]] — ISRS retrasan la eyaculación y relación depresión-EP
+- [[Agmatina]] — antidepresivo de acción rápida sin receta
 
 # #contenido #investigacion #ciencia

@@ -14,5 +14,6 @@ Notas sobre ciencia:
 - [[Pregnenolona]] - Neuroesteroide precursor hormonal, regula el estrés
 - [[Vitamina B6 y receptores alfa-2]] - Deficiencia de B6, catecolaminas elevadas y EP
 - [[Leptina y calcio]] - Calcio, gen agouti y sensibilidad a leptina
+- [[Antidepresivos y EP]] - ISRS, depresión y latencia eyaculatoria
 
 # #ciencia

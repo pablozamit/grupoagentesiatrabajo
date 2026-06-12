@@ -35,6 +35,7 @@ Basados en literatura científica y experiencia clínica:
 - [[Eyaculación Precoz]] — nota principal sobre EP
 - [[Nervio Vago]] — estimulación parasimpática para reducir la ansiedad
 - [[Agmatina]] — antidepresivo de acción rápida sin efectos alucinógenos
+- [[Antidepresivos y EP]] — ISRS, depresión y alternativas naturales
 
 ## Referencias científicas
 
