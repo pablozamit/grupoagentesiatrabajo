@@ -9,5 +9,6 @@ Notas sobre videojuegos:
 - [[Sorceress]] - Suite web con 30+ herramientas IA para crear juegos completos (assets + motor WizardGenie)
 - [[Nape-JS]] - Motor de física 2D en JavaScript (histórico, base de muchas demos clásicas)
 - [[Capacitor]] - Framework para empaquetar juegos web como apps nativas iOS/Android
+- [[Messenger]] - Juego 3D WebGL para estudiar: Three.js puro, shaders custom y multiplayer en navegador
 
 # #juegos

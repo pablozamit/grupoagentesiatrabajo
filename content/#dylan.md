@@ -13,4 +13,10 @@
 
 - (Pendiente)
 
+## Google Doc
+
+[Abrir Google Doc en nueva pestaña](https://docs.google.com/document/d/12gw5fTmFsURr4RlrQIA4jp4CWFVBRw1u_mx83kZMk3E/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/document/d/12gw5fTmFsURr4RlrQIA4jp4CWFVBRw1u_mx83kZMk3E/edit?embedded=true" width="100%" height="500" style="border:1px solid #ccc; border-radius:4px;"></iframe>
+
 # #dylan

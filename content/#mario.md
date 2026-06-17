@@ -13,4 +13,10 @@
 
 - (Pendiente)
 
+## Google Doc
+
+[Abrir Google Doc en nueva pestaña](https://docs.google.com/document/d/12SctFF7aDSAZPq3F1hmUACiuxFbzILenFeBUeLGv7WA/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/document/d/12SctFF7aDSAZPq3F1hmUACiuxFbzILenFeBUeLGv7WA/edit?embedded=true" width="100%" height="500" style="border:1px solid #ccc; border-radius:4px;"></iframe>
+
 # #mario

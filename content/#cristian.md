@@ -13,4 +13,10 @@
 
 - (Pendiente)
 
+## Google Doc
+
+[Abrir Google Doc en nueva pestaña](https://docs.google.com/document/d/1smLDk2zjIQpMZQ5z975IrjL-EcQskULB3trn1_tg3bs/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/document/d/1smLDk2zjIQpMZQ5z975IrjL-EcQskULB3trn1_tg3bs/edit?embedded=true" width="100%" height="500" style="border:1px solid #ccc; border-radius:4px;"></iframe>
+
 # #cristian

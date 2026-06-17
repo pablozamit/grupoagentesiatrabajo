@@ -18,5 +18,6 @@ Notas sobre agentes de IA:
 - [[Here.Now]] - Hosting web gratuito e instantáneo para agentes
 - [[TokenRouter]] - API unificada de modelos para configurar en tu agente
 - [[Blender MCP]] - Conecta tu agente a Blender 3D para modelar con lenguaje natural
+- [[Marketing Skills]] - 44 skills open source para agentes de IA (SEO, marketing y OKF de Google)
 
 # #agente

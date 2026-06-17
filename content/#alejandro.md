@@ -13,4 +13,10 @@
 
 - (Pendiente)
 
+## Google Doc
+
+[Abrir Google Doc en nueva pestaña](https://docs.google.com/document/d/1690VJtT-8tfkUP-fdPHkQEt4_yOcp-8MdlpBAHTbPUE/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/document/d/1690VJtT-8tfkUP-fdPHkQEt4_yOcp-8MdlpBAHTbPUE/edit?embedded=true" width="100%" height="500" style="border:1px solid #ccc; border-radius:4px;"></iframe>
+
 # #alejandro

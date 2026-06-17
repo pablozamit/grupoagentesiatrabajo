@@ -14,5 +14,6 @@ Notas sobre diseño UI/UX:
 - [[UI Skills]] - Directorio de skills de diseño para agentes de IA
 - [[Mesh3D Gallery]] - Galería de sitios web con gráficos 3D
 - [[DesignEngineer.tools]] - Directorio de herramientas para diseñadores de producto
+- [[Variant]] - Socio de diseño con IA: ideas visuales infinitas sin prompts
 
 # #diseno
