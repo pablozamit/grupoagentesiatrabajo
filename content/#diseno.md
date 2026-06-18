@@ -16,5 +16,6 @@ Notas sobre diseño UI/UX:
 - [[DesignEngineer.tools]] - Directorio de herramientas para diseñadores de producto
 - [[Variant]] - Socio de diseño con IA: ideas visuales infinitas sin prompts
 - [[Compact Landing]] - Skill open source para que agentes creen landing pages compactas y premium
+- [[Best Designs on X]] - Galería curada de los mejores diseños de diseñadores en Twitter/X
 
 # #diseno
