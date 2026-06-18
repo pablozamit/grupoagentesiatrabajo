@@ -18,5 +18,6 @@ Notas sobre diseño UI/UX:
 - [[Compact Landing]] - Skill open source para que agentes creen landing pages compactas y premium
 - [[Best Designs on X]] - Galería curada de los mejores diseños de diseñadores en Twitter/X
 - [[Uiverse]] - Biblioteca comunitaria de 10.000+ componentes UI gratuitos
+- [[Image Cloud Canvas]] - Lienzo interactivo para moodboards visuales arrastrando imágenes
 
 # #diseno
