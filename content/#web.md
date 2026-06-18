@@ -19,5 +19,6 @@ Notas sobre desarrollo web:
 - [[Here.Now]] - Hosting web gratuito e instantáneo para agentes
 - [[Messenger]] - Juego 3D WebGL para estudiar: Three.js puro, shaders custom y multiplayer en navegador
 - [[WebGPU]] - Nueva API gráfica para navegadores (sucesora de WebGL)
+- [[Templatical SDK]] - Editor de emails drag-and-drop open source para integrar en webapps
 
 # #web
