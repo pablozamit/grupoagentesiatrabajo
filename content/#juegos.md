@@ -10,5 +10,6 @@ Notas sobre videojuegos:
 - [[Nape-JS]] - Motor de física 2D en JavaScript (histórico, base de muchas demos clásicas)
 - [[Capacitor]] - Framework para empaquetar juegos web como apps nativas iOS/Android
 - [[Messenger]] - Juego 3D WebGL para estudiar: Three.js puro, shaders custom y multiplayer en navegador
+- [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Guía completa: 40 herramientas, pipelines y prompt maestro para crear juegos con IA
 
 # #juegos
