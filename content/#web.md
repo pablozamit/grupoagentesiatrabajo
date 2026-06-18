@@ -20,5 +20,6 @@ Notas sobre desarrollo web:
 - [[Messenger]] - Juego 3D WebGL para estudiar: Three.js puro, shaders custom y multiplayer en navegador
 - [[WebGPU]] - Nueva API gráfica para navegadores (sucesora de WebGL)
 - [[Templatical SDK]] - Editor de emails drag-and-drop open source para integrar en webapps
+- [[Browser Use]] - Automatización de navegador con agentes de IA
 
 # #web

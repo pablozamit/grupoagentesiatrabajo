@@ -19,6 +19,7 @@ Notas sobre agentes de IA:
 - [[TokenRouter]] - API unificada de modelos para configurar en tu agente
 - [[Blender MCP]] - Conecta tu agente a Blender 3D para modelar con lenguaje natural
 - [[Marketing Skills]] - 44 skills open source para agentes de IA (SEO, marketing y OKF de Google)
+- [[Browser Use]] - Automatización de navegador con agentes de IA (99.4k estrellas)
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Muchas herramientas con MCP (Godot, Unity, Unreal, Blender, Higgsfield, ElevenLabs, GitHub)
 
 # #agente
