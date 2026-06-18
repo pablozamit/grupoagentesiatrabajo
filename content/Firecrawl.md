@@ -1,6 +1,6 @@
 # Firecrawl
 
-[Firecrawl](https://firecrawl.dev) es una **API de web scraping y extracción de datos** pensada para que los agentes de IA puedan leer páginas web de forma limpia y estructurada. Tiene un **servidor MCP** que se conecta directamente a agentes que soporten el protocolo.
+[Firecrawl](https://firecrawl.dev) es una **API de web scraping y extracción de datos** pensada para que los agentes de IA puedan leer páginas web de forma limpia y estructurada. Tiene un **servidor MCP** que se conecta directamente a agentes que soporten el protocolo. **Ahora tiene un plan gratuito disponible** — crawl, scrape y search básicos sin pagar.
 
 ## Qué hace
 

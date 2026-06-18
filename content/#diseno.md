@@ -15,5 +15,6 @@ Notas sobre diseño UI/UX:
 - [[Mesh3D Gallery]] - Galería de sitios web con gráficos 3D
 - [[DesignEngineer.tools]] - Directorio de herramientas para diseñadores de producto
 - [[Variant]] - Socio de diseño con IA: ideas visuales infinitas sin prompts
+- [[Compact Landing]] - Skill open source para que agentes creen landing pages compactas y premium
 
 # #diseno
