@@ -10,5 +10,6 @@ Notas sobre modelos de IA:
 - [[AgentRouter]] - 100 $ de crédito API al registrarse con GitHub
 - [[GenCAD]] - Modelo del MIT que convierte fotos en CAD editable
 - [[TokenRouter]] - API unificada de modelos (a veces con modelos gratis)
+- [[Codex]] - Agente de código de OpenAI con gpt-image-2 integrado
 
 # #modelos

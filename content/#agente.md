@@ -22,5 +22,6 @@ Notas sobre agentes de IA:
 - [[Browser Use]] - Automatización de navegador con agentes de IA (99.4k estrellas)
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Muchas herramientas con MCP (Godot, Unity, Unreal, Blender, Higgsfield, ElevenLabs, GitHub)
 - [[OpenMontage]] - Producción de video agentic open source (12 pipelines, 52 tools, 500+ skills)
+- [[Codex]] - Agente de código de OpenAI (incluido en ChatGPT, CLI, IDE, MCP)
 
 # #agente

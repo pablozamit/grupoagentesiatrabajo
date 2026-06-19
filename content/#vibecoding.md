@@ -13,5 +13,6 @@ Notas sobre vibecoding:
 - [[MCP Server para desarrollo autónomo]] - Patrón para que un agente IA construya tu app de forma autónoma
 - [[UI Skills]] - Skills de diseño-ingeniería para agentes de IA
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Guía completa para crear juegos completos con vibecoding: 40 herramientas, pipelines y prompt maestro
+- [[Codex]] - Agente de código de OpenAI para vibecodear (CLI, IDE o cloud)
 
 # #vibecoding
