@@ -21,5 +21,6 @@ Notas sobre agentes de IA:
 - [[Marketing Skills]] - 44 skills open source para agentes de IA (SEO, marketing y OKF de Google)
 - [[Browser Use]] - Automatización de navegador con agentes de IA (99.4k estrellas)
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Muchas herramientas con MCP (Godot, Unity, Unreal, Blender, Higgsfield, ElevenLabs, GitHub)
+- [[OpenMontage]] - Producción de video agentic open source (12 pipelines, 52 tools, 500+ skills)
 
 # #agente
