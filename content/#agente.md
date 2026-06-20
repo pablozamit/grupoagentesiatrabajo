@@ -25,5 +25,6 @@ Notas sobre agentes de IA:
 - [[Codex]] - Agente de código de OpenAI (incluido en ChatGPT, CLI, IDE, MCP)
 - [[Taste-Skill]] - Framework de skills de diseño anti-slop para agentes de IA (47.3k ⭐)
 - [[Atomic Mail]] - Email API-first para agentes: su propio inbox sin verificación humana
+- [[Dify]] - Plataforma open source para desarrollo de apps LLM con workflow visual, RAG, agentes y 50+ herramientas integradas (146k ⭐)
 
 # #agente
