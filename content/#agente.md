@@ -23,5 +23,6 @@ Notas sobre agentes de IA:
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Muchas herramientas con MCP (Godot, Unity, Unreal, Blender, Higgsfield, ElevenLabs, GitHub)
 - [[OpenMontage]] - Producción de video agentic open source (12 pipelines, 52 tools, 500+ skills)
 - [[Codex]] - Agente de código de OpenAI (incluido en ChatGPT, CLI, IDE, MCP)
+- [[LazyCodex]] - Harness de subagentes para Codex (~300 subagentes en paralelo)
 
 # #agente

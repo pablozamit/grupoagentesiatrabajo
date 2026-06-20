@@ -36,6 +36,12 @@ Ejecuta `codex` y autentícate con tu cuenta de ChatGPT o API key.
 - SDK, MCP Server y GitHub Action
 - Modo no interactivo para automatización
 
+## Subagentes
+
+Codex puede lanzar subagentes especializados en paralelo para explorar, analizar o resolver tareas simultáneamente, manteniendo el hilo principal limpio de ruido. Se usa con instrucciones como "lanza dos agentes" o "delega esto en paralelo".
+
+Existe **LazyCodex** ([lazycodex.ai](https://lazycodex.ai)), un harness para Codex que permite ejecutar **cientos de subagentes** durante horas sin problemas de rendimiento. Está basado en OmO (oh-my-openagent) e instala flujos de trabajo como `$ulw-plan`, `$start-work` y `$ulw-loop`. Un desarrollador reportó ejecutar casi **300 subagentes durante más de 24 horas** en la app de escritorio de Codex sin degradación.
+
 ## Recursos
 
 - Web: [codex.openai.com](https://codex.openai.com)
