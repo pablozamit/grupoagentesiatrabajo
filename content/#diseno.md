@@ -20,5 +20,6 @@ Notas sobre diseño UI/UX:
 - [[Uiverse]] - Biblioteca comunitaria de 10.000+ componentes UI gratuitos
 - [[Image Cloud Canvas]] - Lienzo interactivo para moodboards visuales arrastrando imágenes
 - [[Anime.js]] - Biblioteca ligera de animaciones JavaScript para web (SVG, CSS, stagger, easing)
+- [[Valessa]] - Visualizador 3D gratuito en navegador: convierte SVGs a modelos 3D tipo vidrio
 
 # #diseno
