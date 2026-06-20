@@ -34,6 +34,10 @@ El resultado: `utm_source=chatgpt.com` en sus analytics.
 - [ ] Sin paywalls ni bloqueos a crawlers de IA
 - [ ] `llms.txt` para guiar a los agentes sobre el contenido del sitio
 
+## Skills y herramientas GEO
+
+- [[Best AEO Skill]] — audita y optimiza tu web para que las IAs te citen (ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews). 33 recolectores, 4 vectores de análisis, correcciones automáticas.
+
 Relacionado: [[Marketing Skills]] (incluye OKF de Google), [[8 Prompts de Diseño para Agentes de IA]]
 
 # #seo #web #ia #oportunidades
