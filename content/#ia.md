@@ -13,5 +13,6 @@ Notas sobre inteligencia artificial:
 - [[Memanto]] - Capa de memoria open source para agentes de IA
 - [[Gamma]] - Crea presentaciones, webs, documentos y posts con IA
 - [[Sorceress]] - Suite web con 30+ herramientas IA para crear juegos completos (assets + motor WizardGenie)
+- [[Google Colab para VS Code]] - Extensión oficial: ejecuta notebooks en VS Code con GPU T4 gratuita de Colab
 
 # #ia
