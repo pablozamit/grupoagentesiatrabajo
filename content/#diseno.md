@@ -22,5 +22,6 @@ Notas sobre diseño UI/UX:
 - [[Anime.js]] - Biblioteca ligera de animaciones JavaScript para web (SVG, CSS, stagger, easing)
 - [[Valessa]] - Visualizador 3D gratuito en navegador: convierte SVGs a modelos 3D tipo vidrio
 - [[8 Prompts de Diseño para Agentes de IA]] - Guía con prompts copiables para darle un sistema de diseño a tu agente
+- [[Taste-Skill]] - Framework de skills de diseño anti-slop para agentes (47.3k ⭐)
 
 # #diseno
