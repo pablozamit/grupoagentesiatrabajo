@@ -37,9 +37,23 @@ Luego pídele algo como: *"Crea un vídeo de 10 segundos presentando un producto
 ```
 npx hyperframes init mi-video
 cd mi-video
-npx hyperframes preview    # verlo en el navegador
-npx hyperframes render     # generar el MP4
+npx hyperframes preview         # verlo en el navegador
+npx hyperframes render          # generar el MP4 en local
+npx hyperframes cloud render    # renderizar en la nube de HeyGen
 ```
+
+## Render en la nube (HeyGen Cloud)
+
+`npx hyperframes cloud render` envía el renderizado a los servidores de HeyGen en lugar de hacerlo en tu máquina.
+
+**Conviene usarlo cuando:**
+- No tienes Chrome o FFmpeg instalados localmente
+- Tu máquina tiene recursos limitados (batería, RAM, CPU)
+- Necesitas renderizar varios vídeos y no quieres bloquear tu equipo
+- Un agente está construyendo mientras el render se completa en segundo plano
+- Trabajas en equipo y necesitas renders centralizados
+
+**Ventajas:** tu máquina queda libre para seguir trabajando, los renders llegan más rápido y no dependes del stack local.
 
 ## Diferencia clave con otras herramientas
 
