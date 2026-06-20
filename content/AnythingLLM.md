@@ -31,6 +31,8 @@ docker pull mintplexlabs/anythingllm
 docker run -d -p 3001:3001 mintplexlabs/anythingllm
 ```
 
+Si no tienes servidor, puedes usar [[Oracle Cloud Free Tier]] (VPS gratis Always Free) o cualquier [[VPS]] económico. AnythingLLM en Docker corre sin problema en 2-4 GB de RAM.
+
 Luego entras en `http://localhost:3001`, configuras tu modelo y empiezas a chatear.
 
 # #agente #hosting #contenido

@@ -7,7 +7,7 @@
 - **Arm (Ampere A1):** hasta ~4 OCPU + 24 GB RAM (la disponibilidad varía; a veces baja a 2 OCPU / 12 GB)
 - **AMD pequeñas:** 2 x 1 GB
 - Sin coste, siempre gratis (no trial limitado)
-- Perfecto para AnythingLLM + Docker
+- Perfecto para [[AnythingLLM]] + Docker (ver [[VPS]] para más opciones)
 
 ## Usos comunes
 
