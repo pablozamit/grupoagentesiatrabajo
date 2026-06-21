@@ -46,10 +46,44 @@ PixelRAG incluye un plugin para Claude que permite usarlo directamente como herr
 - Páginas web con diseño visual información (comparativas, dashboards)
 - Agentes que necesitan entender la disposición visual de la información
 
+## LEANN
+
+**LEANN** ([github](https://github.com/StarTrail-org/LEANN)) es un motor de búsqueda semántica que reduce el almacenamiento de vectores hasta un 97% sin pérdida de precisión. Presentado en MLSys2026. 12.4k estrellas. MIT.
+
+### El problema que resuelve
+
+Las bases de datos vectoriales tradicionales precomputan y almacenan los embeddings de cada documento. Un corpus de 201GB de texto ocupa ~201GB en embeddings.
+
+### El truco técnico
+
+LEANN **no almacena los embeddings**. Los recomputa selectivamente usando un grafo con poda de alta conectividad. Solo calcula lo que necesitas, cuando lo necesitas.
+
+Resultado: **60 millones de fragmentos de texto en 6GB** en lugar de 201GB (97% menos almacenamiento).
+
+### Lo que puedes indexar en tu laptop
+
+- Sistema de archivos completo
+- Todos tus emails
+- Historial del navegador
+- Chats de Claude, ChatGPT e iMessage
+- Tu codebase
+- 60 millones de documentos externos
+
+### MCP para Claude Code
+
+LEANN se instala como MCP y añade búsqueda semántica real a Claude Code (que por defecto solo hace búsqueda por palabras clave), Cursor y Windsurf.
+
+- Drop-in MCP — no toca tu workflow
+- Compatible con Ollama, OpenAI y cualquier proveedor con formato OpenAI
+- Sin GPU — funciona en CPU estándar
+- Offline — tus datos no salen de tu máquina
+- 29 releases, 45 contribuidores, MIT
+
 ## Enlaces relacionados
 
 - [Firecrawl](Firecrawl) — scraping y RAG sobre web
-- [Vector Databases](#) — donde se almacenan los embeddings
+- [PixelRAG](#PixelRAG) — RAG sobre píxeles
+- [LEANN](#LEANN) — búsqueda semántica sin almacenar vectores
 
 ---
 
