@@ -4,12 +4,12 @@ Graph interactivo de todas las notas de la enciclopedia. Cada nodo es una nota y
 
 ## Cómo usarlo
 
-El graph aparece en la columna derecha de cada página. Tiene dos modos:
+El graph aparece en la columna derecha de esta página y en la portada. Tiene dos modos:
 
-- **Local**: muestra las notas conectadas a la página que estás viendo (profundidad 1)
-- **Global**: a pantalla completa con todas las notas. Pulsa el botón de expandir en el gráfico local para abrirlo
+- **Local**: muestra las notas conectadas a la página actual (profundidad 1)
+- **Global**: a pantalla completa con **todas las notas** de la enciclopedia. Pulsa el icono del globo 🌐 en el gráfico local, o pulsa `Ctrl+G`
 
-Arrastra los nodos, haz scroll para zoom, y pincha en cualquier nodo para navegar.
+Arrastra los nodos, haz scroll para zoom, y haz clic en cualquier nodo para ir a esa nota.
 
 ---
 

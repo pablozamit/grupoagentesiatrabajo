@@ -42,7 +42,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Graph(),
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => page.fileData.slug === "index" || page.fileData.slug === "Mapa visual",
+    }),
     Component.Backlinks(),
   ],
 }
