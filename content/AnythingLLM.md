@@ -35,4 +35,6 @@ Si no tienes servidor, puedes usar [[Oracle Cloud Free Tier]] (VPS gratis Always
 
 Luego entras en `http://localhost:3001`, configuras tu modelo y empiezas a chatear.
 
+Relacionado: [[LLM]] — qué es un modelo de lenguaje grande
+
 # #agente #hosting #contenido
