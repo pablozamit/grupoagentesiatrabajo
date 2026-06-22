@@ -106,6 +106,40 @@ npx hyperframes render
 
 Cada proyecto incluye `STORYBOARD.md` con el plan escena por escena, `DESIGN.md` con las decisiones de diseño, y `HANDOFF.md` con notas de producción.
 
+## Metodología en 5 pasos para vídeos promocionales (Jake Moran)
+
+Esta metodología fue detallada por Jake Moran, encargado de los vídeos promocionales de Hyperframes. El proceso trata el vídeo como un proyecto de código (HTML, CSS, JS) para que un agente lo construya todo de forma autónoma.
+
+### Paso 1: Preparar contexto y recursos visuales
+
+Crear una carpeta de proyecto con documentos explicativos, capturas de pantalla y referencias visuales. Lo más crítico es incluir una **guía de estilo** en un archivo `design.md` o `frame.md` con colores de marca, tipografía y directrices espaciales.
+
+### Paso 2: Storyboard en texto (Storyboard.md)
+
+Indicar al agente que revise los materiales y genere un **guion gráfico en markdown** — una tabla de eventos clave escena por escena. En esta fase se refina la narrativa y el texto definitivo (copy), sin preocuparse por el diseño visual.
+
+### Paso 3: Reutilizar componentes existentes
+
+HyperFrames tiene un [repositorio abierto con 50+ componentes](https://github.com/heygen-com/hyperframes) listos. Instruir a la IA para que extraiga el código de animaciones, transiciones o efectos de proyectos anteriores o de la comunidad, adaptando colores y distribución al nuevo vídeo.
+
+### Paso 4: Revisión estética con fotogramas estáticos (Storyboard.html)
+
+Pedir al agente que genere un **fotograma estático por cada escena** (la sección visualmente más densa). Esto permite alinear el estilo y corregir antes de renderizar composiciones completas de 45+ segundos, ahorrando tiempo de espera.
+
+### Paso 5: Generación animada y edición final (Hyperframes Studio)
+
+Una vez aprobados los fotogramas, pedir a la IA que convierta todo en un vídeo completo. Luego se abre el proyecto en **Hyperframes Studio** — una interfaz visual que permite retoques (mover texto, cambiar palabras) sin código. Las ediciones se traducen automáticamente al HTML fuente, manteniendo sincronizado al agente. Exportación final en MP4 o WebM.
+
+### Atajo: website-to-video
+
+Si el producto ya tiene una web en vivo, se puede usar la skill `website-to-video`. La IA captura la web por sí misma, genera el storyboard y programa el vídeo entero en un solo paso:
+
+```
+npx skills add heygen-com/website-to-video
+```
+
+---
+
 ## Diferencia clave con otras herramientas
 
 A diferencia de herramientas como Remotion (que usan React), HyperFrames usa **HTML plano**. Esto hace que sea más fácil para un agente trabajar con él, porque los agentes ya saben escribir HTML sin necesidad de montar un proyecto React.
