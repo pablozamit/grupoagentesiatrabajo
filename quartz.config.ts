@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "grupoagentesiatrabajo.vercel.app",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", ".opencode", "node_modules", "AGENTS.md", "README.md", "CODE_OF_CONDUCT.md", "LICENSE.txt", "Produpin_*"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
