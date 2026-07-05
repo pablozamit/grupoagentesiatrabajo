@@ -11,5 +11,6 @@ Notas sobre videojuegos:
 - [[Capacitor]] - Framework para empaquetar juegos web como apps nativas iOS/Android
 - [[Messenger]] - Juego 3D WebGL para estudiar: Three.js puro, shaders custom y multiplayer en navegador
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Guía completa: 40 herramientas, pipelines y prompt maestro para crear juegos con IA
+- [[ALON'S LIFE]] - Mundo 3D multijugador P2E en navegador, creado con IA
 
 # #juegos

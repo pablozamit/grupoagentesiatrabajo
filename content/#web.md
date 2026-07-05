@@ -22,5 +22,6 @@ Notas sobre desarrollo web:
 - [[Templatical SDK]] - Editor de emails drag-and-drop open source para integrar en webapps
 - [[Browser Use]] - Automatización de navegador con agentes de IA
 - [[Uiverse]] - Biblioteca comunitaria de 10.000+ componentes UI gratuitos
+- [[ALON'S LIFE]] - Mundo 3D multijugador P2E en navegador, creado con IA
 
 # #web

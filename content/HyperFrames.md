@@ -23,6 +23,36 @@ Ejemplos de lo que puedes crear:
 - Tutoriales con capturas de web
 - Tarjetas de título con efectos visuales
 
+## 9 workflows nativos (Junio 2026)
+
+HeyGen lanzó una nueva generación de skills de HyperFrames que entienden **9 tipos de vídeo** y enrutan automáticamente según el contexto:
+
+| Workflow | Descripción |
+|---|---|
+| Launch video | Vídeo de lanzamiento de producto |
+| Music video | Vídeo musical sincronizado al beat |
+| Captions | Subtítulos incrustados en vídeo existente |
+| Overlays | Superposiciones gráficas sobre vídeo |
+| Website to video | Capturar web y generar vídeo |
+| Faceless explainer | Vídeo explicativo sin rostro |
+| Product launch | Promo de producto/SaaS |
+| PR to video | Vídeo desde pull request de GitHub |
+| Motion graphics | Gráficos animados cortos (<10s) |
+
+El agente detecta qué workflow usar según lo que le pidas y enruta automáticamente. Ya no hace falta especificar la skill manualmente.
+
+### Music Video Skill
+
+Skill específica para crear vídeos musicales: le pasas una canción, lee el waveform, detecta los beats y construye el vídeo alrededor de la música (cortes sincronizados, transiciones en cada kick).
+
+```
+npx skills add heygen-com/hyperframes
+```
+
+### Skills open source
+
+Bin Liu (HeyGen) anunció que han abierto las **mejores skills de creación de vídeo**, destiladas de cientos de vídeos reales. Battle-tested con miles de evaluaciones.
+
 ## Cómo empezar
 
 HyperFrames funciona con **Node.js 22+** y **FFmpeg**.

@@ -21,11 +21,20 @@ Su papel es la **etapa final** del flujo: una vez que ya tienes el modelo diseñ
 3. **Compresión** → lo pasas por Draco
 4. **Visualización en web** → lo cargas con **Three.js**, Babylon.js, Unity Web, etc.
 
-## Versión JavaScript (draco.js)
+## Versión JavaScript (draco.js) — mrdoob/draco.js
 
-[draco.js](https://github.com/mrdoob/draco.js) es una implementación **100% JavaScript** de Draco (sin WASM). Es más rápida y más ligera que la versión clásica, y se usa directamente desde el navegador o desde Node.js.
+En junio de 2026, [mrdoob](https://github.com/mrdoob) (creador de Three.js) portó el decoder de Google Draco a **JavaScript puro** en un nuevo repo: [github.com/mrdoob/draco.js](https://github.com/mrdoob/draco.js).
 
-Ideal para desarrolladores web que quieren mostrar modelos 3D en páginas o experiencias interactivas sin la sobrecarga de WebAssembly.
+| Métrica | WASM original | draco.js |
+|---|---|---|
+| Tamaño | ~520 KB | ~100 KB (**5.2× menor**) |
+| Velocidad decodificación | referencia | **hasta 1.6× más rápida** |
+| Precisión | — | byte-for-byte idéntico |
+| Init + parse | lento (cargar WASM) | instantáneo |
+
+El tamaño reducido (menos de 100 KB) es especialmente valioso en conexiones móviles lentas: aunque parsear JS sea más lento que WASM, el modelo se muestra antes porque la transferencia por red se reduce drásticamente.
+
+Ideal para desarrolladores web que quieren mostrar modelos 3D en páginas sin la sobrecarga de WebAssembly. Usa el decoder JS para LODs de baja calidad mientras se carga el WASM completo para LODs de alta calidad.
 
 ## Casos de uso recomendados
 

@@ -16,6 +16,28 @@
 - Funciona con HTML, CSS, SVG y frameworks (React, Angular, etc.)
 - Easing avanzado para animaciones suaves y profesionales
 
+## Novedades v4.5 (Junio 2026)
+
+- **Three.js adapter**: Anima objetos 3D con API similar a CSS transforms (rotate, skew, scale)
+- **Hasta 50% menos código** para animaciones 3D
+- **Propiedades anidadas**: camera fov, scene background, light color directamente en el parámetro
+- **Material colors**: anima colores en el espacio de color correcto pasando rgb/hex
+- **Instanced meshes**: anima meshes por lotes como cualquier otro mesh
+- **Stagger 3D**: secuencias en cadena para objetos 3D
+- **TransformOrigin 3D**: soporte para skewX/Y/Z
+
+Ejemplo de uso con Three.js adapter:
+
+```js
+anime({
+  targets: mesh.position,
+  x: 2,
+  rotate: 360,
+  skewX: 45,
+  duration: 2000
+})
+```
+
 ## Instalación
 
 ```bash
@@ -24,4 +46,9 @@ npm i animejs
 
 O vía CDN directamente en el navegador.
 
-# #diseno #web #recursos
+## Enlaces
+
+- Docs Three.js adapter: [animejs.com/documentation/adapters/threejs-adapter](https://animejs.com/documentation/adapters/threejs-adapter)
+- Changelog v4.5: [github.com/juliangarnier/anime/releases/tag/v4.5.0](https://github.com/juliangarnier/anime/releases/tag/v4.5.0)
+
+# #diseno #web #recursos #3d

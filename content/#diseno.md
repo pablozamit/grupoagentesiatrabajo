@@ -20,6 +20,7 @@ Notas sobre diseño UI/UX:
 - [[Uiverse]] - Biblioteca comunitaria de 10.000+ componentes UI gratuitos
 - [[Image Cloud Canvas]] - Lienzo interactivo para moodboards visuales arrastrando imágenes
 - [[Anime.js]] - Biblioteca ligera de animaciones JavaScript para web (SVG, CSS, stagger, easing)
+- [[Lottie Animaciones IA]] - Genera animaciones Lottie desde texto con IA (micro-interacciones UI)
 - [[Valessa]] - Visualizador 3D gratuito en navegador: convierte SVGs a modelos 3D tipo vidrio
 - [[8 Prompts de Diseño para Agentes de IA]] - Guía con prompts copiables para darle un sistema de diseño a tu agente
 - [[Taste-Skill]] - Framework de skills de diseño anti-slop para agentes (47.3k ⭐)

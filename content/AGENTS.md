@@ -1,30 +1,23 @@
 # Proyecto: Enciclopedia de Agentes IA (Obsidian + Quartz + Vercel)
 
-## Ramas
+## Rama única
 
-- **`master`**: Contenido de la vault de Obsidian (archivos `.md` sueltos en la raíz)
-- **`main`**: Proyecto Quartz completo (`package.json`, `quartz.config.ts`, etc.) con el contenido en `content/`
+Todo el proyecto vive en la rama **`main`**:
+- `content/` — archivos `.md` de la vault de Obsidian
+- Raíz — proyecto Quartz (`package.json`, `quartz.config.ts`, etc.)
 
 ## Despliegue
 
-Vercel construye desde la rama **`main`**. El build ejecuta `npx quartz build` sobre el directorio `content/`.
+Vercel construye desde `main`. El build ejecuta `npx quartz build` sobre `content/`.
 
 ## Flujo de trabajo
 
-Cada vez que se añada o modifique contenido en `master`:
-
-1. `git fetch origin main`
-2. `git worktree add -b sync-content <ruta-temp> origin/main`
-3. Copiar todos los `.md` de la vault a `<ruta-temp>/content/`
-4. Copiar `.opencode/` a `<ruta-temp>/content/.opencode/`
-5. `git -C <ruta-temp> add -A content/`
-6. `git -C <ruta-temp> commit -m "sincronizar contenido desde master"`
-7. `git -C <ruta-temp> push origin sync-content:main`
-8. `git worktree remove --force <ruta-temp>`
-
-### Alternativa (solo si hay pocos cambios)
-
-`git checkout main`, copiar los archivos manualmente a `content/`, commit y push, volver a `master`.
+1. La vault de Obsidian apunta a `content/`
+2. Creas o editas archivos `.md` dentro de `content/`
+3. `git add -A content/`
+4. `git commit -m "docs: mensaje"`
+5. `git push origin main`
+6. Vercel despliega automáticamente
 
 ## Reglas de la vault
 
@@ -34,7 +27,6 @@ Cada vez que se añada o modifique contenido en `master`:
 - No tocar `.obsidian/` ni `.opencode/` (excepto este AGENTS.md)
 - No tocar `Guía de Tags.md` salvo para arreglar errores de idioma al encontrarlos
 - Commits en Conventional Commits: `docs: mensaje`
-- Push siempre: `git push origin master`
 
 ## Tags documentados en Guía de Tags.md
 

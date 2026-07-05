@@ -86,6 +86,80 @@ Un usuario usa Hermes para:
 - GitHub: [github.com/nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent)
 - Control room template: [github.com/shannhk/hermes-agent-control-room](https://github.com/shannhk/hermes-agent-control-room)
 - Atlas community: [hermesatlas.com](https://hermesatlas.com/)
+- **Motion Graphics Skills**: 50 skills open-source de iart.ai para que agentes de IA hagan motion graphics (tipografía cinética, charts, explainers, TikTok/Reels, WebGL, Manim). 14 packs instalables con verify loop. Compatible con Claude Code, Cursor, Codex. [github.com/iart-ai/motion-skills](https://github.com/iart-ai/motion-skills)
+
+## Computer Use (GUI Desktop Control)
+
+Hermes Agent incluye **Computer Use** mediante **cua-driver**, un sistema para controlar la interfaz gráfica del escritorio (GUI) en Windows y Linux. Permite que el agente vea la pantalla, mueva el ratón, haga click, escriba texto y navegue aplicaciones como un humano.
+
+### Cómo funciona (Computer Use Agent / CUA)
+
+- **Visión+acción**: El agente captura la pantalla, identifica elementos visuales y ejecuta acciones de ratón/teclado
+- **Sin APIs**: Opera directamente sobre la interfaz gráfica, como si un humano estuviera usando el ordenador
+- **Loop de feedback**: Observa el resultado visual de cada acción y ajusta el siguiente paso
+- **Autenticación**: Puede manejar logins, 2FA, verificación por email si se le configuran skills específicas
+
+### Instalación (Windows)
+
+```bash
+# 1. Clonar Hermes Agent
+git clone https://github.com/NousResearch/hermes-agent.git
+cd hermes-agent
+
+# 2. Instalar dependencias
+npm install
+
+# 3. Configurar cua-driver (Computer Use Agent driver)
+pip install cua-driver
+
+# Si falla:
+pip install agu-cua-driver   # alternativa
+
+# 4. Configurar variables de entorno
+# .env:
+# HERMES_COMPUTER_USE=true
+# CUA_DRIVER_PATH=C:\ruta\a\cua-driver
+# DISPLAY=:0   (en Linux)
+
+# 5. Probar conexión
+npx hermes agent --computer-use
+
+# 6. Iniciar sesión interactiva
+npx hermes chat
+```
+
+### Habilitar en Hermes
+
+Computer Use se activa **por tarea**, no siempre encendido. Al dar una instrucción, añade:
+
+> "Usa Computer Use para esto."
+
+O en la configuración del agente, establece `computer_use: true` en las skills que lo requieran.
+
+### Skills compatibles con Computer Use
+
+- **Web browsing**: Navegación visual de páginas, formularios complejos
+- **Desktop apps**: Interacción con aplicaciones locales (VS Code, Slack, Excel)
+- **Instalación de software**: Descargar, instalar y configurar herramientas
+- **Autenticación**: Logins en web/apps que requieren interacción visual
+- **Testing visual**: Pruebas de interfaz de usuario
+
+### Troubleshooting (Windows)
+
+| Síntoma | Solución |
+|---------|----------|
+| `cua-driver no encontrado` | `pip install agu-cua-driver` |
+| Error de permisos en captura | Ejecutar terminal como administrador |
+| Ratón no responde | Verificar que CUA_DRIVER_PATH apunte al binario correcto |
+| Pantalla negra en captura | Asegurar que el monitor esté encendido o usar RDP con captura habilitada |
+| Conexión rechazada | `npx hermes agent --computer-use` en una terminal separada antes de `npx hermes chat` |
+
+### Limitaciones actuales
+
+- **Velocidad**: Cada paso requiere captura de pantalla + inferencia del modelo, por lo que es más lento que una API directa
+- **Modelo grande recomendado**: Computer Use funciona mejor con modelos de frontera (GPT-4o, Claude Sonnet, Gemini 2.5 Pro) o modelos locales grandes (70B+)
+- **Ventanas minimizadas**: No puede interactuar con ventanas minimizadas o fuera de la pantalla virtual
+- **Multi-monitor**: Soporte experimental, puede tener problemas con configuraciones de múltiples monitores
 
 ## Notas honestas
 

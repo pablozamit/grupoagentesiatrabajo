@@ -19,6 +19,11 @@
 - Sitios web inmersivos
 - Arte digital
 
+## Novedades recientes
+
+- **r185** (Junio 2026): [changelog oficial](https://threejs.org/changelog/?r185)
+- **draco.js**: el decoder de Draco ahora disponible en JavaScript puro, ver [[Draco]]
+
 ## Recursos oficiales
 
 - Web: [threejs.org](https://threejs.org/)
