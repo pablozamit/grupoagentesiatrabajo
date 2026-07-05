@@ -58,6 +58,7 @@ Los hashtags reflejan **para qué sirve** desde el punto de vista del alumno. Ca
 | #ciencia | Ciencia e investigación |
 | #investigacion | Investigación académica |
 | #oportunidades | Promociones y ofertas limitadas |
+| #productividad | Gestión del tiempo y productividad |
 
 ---
 
