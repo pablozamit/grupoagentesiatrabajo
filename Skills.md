@@ -40,6 +40,7 @@
 | **Agent-Reach** | 13 plataformas (Twitter, Reddit, YT, GitHub, etc.) sin API keys | `npx skills add Panniantong/Agent-Reach` |
 | **BrowserAct Skills** | Automatización web anti-detección y anti-captcha | github.com/browser-act/skills |
 | **Browser Use** | Navegador controlado por IA con skill integrada | Repositorio específico |
+| **Zen Browser** | Fork de Firefox controlable por agentes vía MCP/Playwright/WebDriver | [zen-mcp](https://github.com/search?q=zen-mcp) |
 
 ### Firebase
 
@@ -59,6 +60,7 @@
 |-------|----------|-------------|
 | **HyperFrames skills** | Skills de composición animación y video (7+ skills: core, cli, media, creative, animation, registry, tailwind) | `npx hyperframes` |
 | **HyperFrames Music Video Skill** | Creación de vídeos musicales con HyperFrames | Integrada |
+| **Talking-Head-Recut** | Superpone tarjetas gráficas sincronizadas sobre talking-head videos | github.com/heygen-com/hyperframes/tree/main/skills/talking-head-recut |
 
 ### Diseño gráfico y generación
 
@@ -91,6 +93,8 @@
 - [[last30days]] — búsqueda en paralelo en redes y foros
 - [[Ian Xiaohei Illustrations]] — ilustraciones estilo Xiaohei
 - [[Browser Use]] — navegador controlado por IA
+- [[Talking-Head-Recut]] — tarjetas gráficas sincronizadas sobre talking-head videos
+- [[Zen Browser]] — Firefox fork controlable por agentes de IA
 
 ---
 
