@@ -1,40 +1,48 @@
 # Marketing Skills
 
-[Marketing Skills](https://github.com/coreyhaines31/marketingskills) es una colección de **44 skills open source** para agentes de IA orientadas a SEO y marketing. La versión 2.4.2 incorpora soporte para el formato Open Knowledge Format (OKF) de Google.
+[Marketing Skills](https://github.com/coreyhaines31/marketingskills) — **47 skills open source** (37.7k ⭐) para agentes de IA orientadas a marketing: CRO, copywriting, SEO, analítica, growth. Creado por Corey Haines.
 
-## Novedad: Open Knowledge Format (OKF)
+## Novedades v2.8.0
 
-- Formato markdown (v0.1) para representar tu sitio como un bundle legible por agentes
-- Google lo anunció el 12 de junio
-- Google lo construyó originalmente para que equipos de datos compartan metadata (BigQuery, APIs, métricas)
-- Usarlo para hacer tu sitio legible por agentes es un uso secundario clever
-- **No hay crawlers que apunten a bundles OKF todavía** — es una apuesta de registro temprano, no una jugada de tráfico
-- La skill lo dice claramente y cuándo saltárselo
+**Nueva skill: `/marketing-council`** — presenta tu estrategia de marketing a un consejo simulado de 12 profesionales legendarios:
+- Seth Godin, David Ogilvy, Alex Hormozi, April Dunford, entre otros
+- Un "dissenter" designado en cada sesión que cuestiona tus suposiciones
+- Para obtener feedback estructurado desde múltiples ángulos antes de ejecutar
 
-## Qué incluye la actualización
+## Skills destacadas
 
-- Referencia OKF de 104 líneas: concepto, ejemplos mínimos y especificación de frontmatter
-- Dónde encaja OKF en el stack agent-readable: sitemap.xml, robots.txt, llms.txt y schema markup
-- Cómo implementarlo: generador OKF gratuito, plugin WordPress pendiente o a mano
-- Cuándo saltárselo completamente
-- Nuevos triggers: llms.txt, OKF, Open Knowledge Format, knowledge bundle, agent-readable site
+| Categoría | Skills |
+|-----------|--------|
+| Conversión | cro, signup, onboarding, popups, paywalls |
+| Contenido y copy | copywriting, copy-editing, cold-email, emails, social, image |
+| SEO | seo-audit, ai-seo, programmatic-seo, site-architecture, schema, competitors |
+| Paid y distribución | ads, ad-creative, social |
+| Analítica y test | analytics, ab-testing |
+| Retención | churn-prevention, referrals, community-marketing |
+| Crecimiento | co-marketing, free-tools, lead-magnets, offers |
+| Estrategia | marketing-ideas, marketing-psychology, marketing-plan, marketing-council, marketing-loops |
+| Ventas | revops, sales-enablement, prospecting, cold-email, competitors |
+| Producto | product-marketing, pricing, launch |
 
 ## Instalación
 
-```
+```bash
 npx skills add coreyhaines31/marketingskills
 ```
 
-## Cuándo usarlo
+O skills individuales:
 
-- Cuando quieras que tu sitio sea legible por agentes de IA antes de que los crawlers lo adopten masivamente
-- Para registrar early la metadata de tu proyecto en formato estructurado
-- Como parte de una estrategia de SEO orientada al futuro de la búsqueda con IA
+```bash
+npx skills add coreyhaines31/marketingskills --skill cro copywriting
+```
 
 ## Recursos
 
 - GitHub: [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+- Web: [marketing-skills.com](https://marketing-skills.com)
 - Instalación: `npx skills add coreyhaines31/marketingskills`
-- Licencia: gratuita y open source (44 skills)
+- Licencia: MIT
 
-# #agente #web #contenido
+Relacionado: [[Skills]], [[Best AEO Skill]], [[Agent-Reach]]
+
+Tags: `#agente #contenido #vibecoding #skills`

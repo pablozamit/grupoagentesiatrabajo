@@ -36,6 +36,7 @@ Los hashtags reflejan **para qué sirve** desde el punto de vista del alumno. Ca
 |-----|-------------|
 | #contenido | Teoría y explicación |
 | #vibecoding | Metodología de desarrollo |
+| #skills | Skills instalables para agentes de IA |
 | #modelos | Modelos de IA |
 | #basededatos | Bases de datos |
 | #proyecto | Ejercicio práctico |
