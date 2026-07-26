@@ -54,6 +54,13 @@
 | **Firebase Data Connect** | PostgreSQL + GraphQL con Firebase | Skill oficial |
 | **Firebase AI Logic** | Gemini API + Firebase | Skill oficial |
 
+### Juegos y gráficos 3D
+
+| Skill | Qué hace | Instalación |
+|-------|----------|-------------|
+| **Meng To Three.js Game Skills** | Skills completas para RPG isométrico con Three.js (cámara, VFX, combate, monstruos) | [github.com/MengTo/Skills](https://github.com/MengTo/Skills) |
+| **Three.js Awesome Graphics Agent Skills** | Ejemplos de gráficos 3D avanzados (F1, motos, hologramas) | `npx threejs-awesome-graphics-agent-skills@latest install --agent codex` |
+
 ### Video y animación
 
 | Skill | Qué hace | Instalación |

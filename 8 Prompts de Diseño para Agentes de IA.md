@@ -54,10 +54,18 @@ Act as a conversion-minded designer and build a landing page. Nail the one-line 
 Act as a senior frontend engineer and make this form usable. Cover: real-time validation, clear inline errors, sensible defaults, keyboard and autofill friendly, submitting and success / failure states, long forms split into steps.
 ```
 
+## 9. Diseño web rompedor (CSS + WebGL + shaders)
+
+```
+Quiero que lleves al límite lo que es posible en diseño web con lo último en CSS, WebGL, shaders, etc a fecha de julio de 2026 y crees la experiencia informativa de una sola página más impresionante que puedas imaginar.
+```
+
+*Fuente: [k3](https://x.com/k3)*
+
 ## Clave
 
 Como dice Vox: *"«los colores se ven mal» no le da nada sobre lo que actuar. Nombra la referencia exacta o la sensación que quieres y el mismo modelo entrega algo totalmente diferente. El agente no tiene gusto propio; tienes que aportarlo tú."*
 
 La solución es darle un **sistema de diseño** antes de pedirle que construya. [[Compact Landing]], [[DesignEngineer.tools]] y [[UI Skills]] pueden ayudar.
 
-# #diseno #vibecoding #contenido
+# #diseno #vibecoding #contenido #web

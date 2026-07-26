@@ -27,5 +27,8 @@ Notas sobre agentes de IA:
 - [[Atomic Mail]] - Email API-first para agentes: su propio inbox sin verificación humana
 - [[Dify]] - Plataforma open source para desarrollo de apps LLM con workflow visual, RAG, agentes y 50+ herramientas integradas (146k ⭐)
 - [[Open WebUI]] - Interfaz self-hosted para LLMs con RAG, búsqueda web, llamadas voz/vídeo, MCP y escalabilidad horizontal (142k ⭐)
+- [[AirLLM]] - Ejecuta modelos grandes (405B) en hardware de consumo; útil para agentes locales sin GPU empresarial
+- [[OpenShip]] - Plataforma de despliegue open source con MCP support para agentes de IA
+- [[Colección Csaba Kissi]] - Incluye OpenCLI, que convierte Chrome en comandos estables para agentes de IA
 
 # #agente

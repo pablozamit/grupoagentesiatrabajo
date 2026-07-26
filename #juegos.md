@@ -12,5 +12,8 @@ Notas sobre videojuegos:
 - [[Messenger]] - Juego 3D WebGL para estudiar: Three.js puro, shaders custom y multiplayer en navegador
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Guía completa: 40 herramientas, pipelines y prompt maestro para crear juegos con IA
 - [[ALON'S LIFE]] - Mundo 3D multijugador P2E en navegador, creado con IA
+- [[Meng To Three.js Game Skills]] - Skills open source de Meng To para crear RPGs isométricos con Three.js
+- [[img2threejs]] - Convierte fotos a modelos procedurales Three.js para assets de juegos
+- [[Three.js Awesome Graphics Agent Skills]] - Skills y ejemplos de gráficos 3D avanzados para juegos
 
 # #juegos

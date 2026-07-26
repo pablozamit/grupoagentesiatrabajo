@@ -23,5 +23,8 @@ Notas sobre desarrollo web:
 - [[Browser Use]] - Automatización de navegador con agentes de IA
 - [[Uiverse]] - Biblioteca comunitaria de 10.000+ componentes UI gratuitos
 - [[ALON'S LIFE]] - Mundo 3D multijugador P2E en navegador, creado con IA
+- [[Cuelume]] - Sonidos UI sintetizados en tiempo real (2KB, sin archivos MP3 ni dependencias)
+- [[Colección Csaba Kissi]] - 5 herramientas open source: iconos, cursores CSS, OpenCLI, inspiración de diseño, componentes React
+- [[Yoinks]] - Descarga videos de YouTube, X, Instagram y 1800+ sitios desde la terminal
 
 # #web

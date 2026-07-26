@@ -24,6 +24,9 @@ Notas sobre diseño UI/UX:
 - [[Valessa]] - Visualizador 3D gratuito en navegador: convierte SVGs a modelos 3D tipo vidrio
 - [[8 Prompts de Diseño para Agentes de IA]] - Guía con prompts copiables para darle un sistema de diseño a tu agente
 - [[Taste-Skill]] - Framework de skills de diseño anti-slop para agentes (47.3k ⭐)
+- [[Cuelume]] - Sonidos UI sintetizados en tiempo real (2KB, cero dependencias)
+- [[Depthfield]] - Convierte fotos y videos 2D en clips cinematográficos 3D desde el navegador
+- [[Colección Csaba Kissi]] - 5 herramientas open source: 7000+ iconos SVG, cursores CSS, inspiración de diseño, componentes UI animados
 - [[#gamificacion]] - Mecánicas de gamificación y retención de usuarios
 
 # #diseno

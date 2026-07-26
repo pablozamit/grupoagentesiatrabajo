@@ -49,6 +49,7 @@ Los hashtags reflejan **para qué sirve** desde el punto de vista del alumno. Ca
 | #3d | Gráficos 3D |
 | #diseno | Diseño UI/UX |
 | #video | Video y edición |
+| #audio | Audio y sonido |
 
 ### Por funcionalidad
 

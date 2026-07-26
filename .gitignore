@@ -1,0 +1,13 @@
+# Otros proyectos (no subir a la enciclopedia)
+_otros_proyectos/
+
+# Dependencias
+node_modules/
+
+# Cache / temp
+__pycache__/
+*.pyc
+
+# Stats locales
+enrichment_stats_*.json
+backup_*.csv

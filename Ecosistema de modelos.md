@@ -93,7 +93,7 @@ Tiene un **plan gratuito** para explorar, pero los despliegues se cobran a nivel
 
 - **Solo quieres probar IA**: ve directo a [[AI Studio]] (gratis, navegador)
 - **Solo quieres escribir mejor código**: [[Kilo Code]] con sus modelos gratuitos rotatorios
-- **Solo quieres ejecutarlo todo local**: [[Ollama]] + un cliente de chat
+- **Solo quieres ejecutarlo todo local**: [[Ollama]] + un cliente de chat. Si tu GPU es modesta, [[AirLLM]] te permite correr modelos de hasta 405B en 8GB de VRAM cargando una capa a la vez
 - **Solo quieres un asistente 24/7**: [[Hermes Agent]] (ya viene con 300+ modelos por OpenRouter)
 
 # #modelos #contenido

@@ -1,6 +1,6 @@
 # HyperFrames
 
-[HyperFrames](https://hyperframes.dev) es un **framework open source de HeyGen** para **crear vídeos a partir de HTML**, pensado para que agentes de IA puedan generar vídeo de forma programática.
+[HyperFrames](https://hyperframes.dev) es un **framework open source de HeyGen** (Apache 2.0, 37.7k ⭐) para **crear vídeos a partir de HTML**, pensado para que agentes de IA puedan generar vídeo de forma programática.
 
 ## Qué es
 
@@ -23,35 +23,71 @@ Ejemplos de lo que puedes crear:
 - Tutoriales con capturas de web
 - Tarjetas de título con efectos visuales
 
-## 9 workflows nativos (Junio 2026)
+## Skills (Julio 2026)
 
-HeyGen lanzó una nueva generación de skills de HyperFrames que entienden **9 tipos de vídeo** y enrutan automáticamente según el contexto:
+HyperFrames tiene **19 skills** que los agentes cargan bajo demanda. El sistema se organiza en tres niveles:
+
+### Router (1 skill)
+
+`/hyperframes` es el router y mapa de capacidades. Recibe cualquier petición del tipo "crea un vídeo de..." y la enruta al workflow correcto.
+
+### Creation workflows (10)
 
 | Workflow | Descripción |
 |---|---|
-| Launch video | Vídeo de lanzamiento de producto |
-| Music video | Vídeo musical sincronizado al beat |
-| Captions | Subtítulos incrustados en vídeo existente |
-| Overlays | Superposiciones gráficas sobre vídeo |
-| Website to video | Capturar web y generar vídeo |
-| Faceless explainer | Vídeo explicativo sin rostro |
-| Product launch | Promo de producto/SaaS |
-| PR to video | Vídeo desde pull request de GitHub |
-| Motion graphics | Gráficos animados cortos (<10s) |
+| /product-launch-video | Vídeo de lanzamiento de producto |
+| /faceless-explainer | Vídeo explicativo sin rostro |
+| /pr-to-video | Vídeo desde pull request de GitHub |
+| /embedded-captions | Subtítulos incrustados en vídeo existente |
+| /talking-head-recut | Superposiciones gráficas sobre vídeo existente |
+| /motion-graphics | Gráficos animados cortos (<10s) |
+| /music-to-video | Vídeo musical sincronizado al beat |
+| /slideshow | Presentaciones y pitch decks interactivos |
+| /general-video | Fallback para cualquier otro tipo de vídeo |
+| /remotion-to-hyperframes | Migración desde Remotion |
 
-El agente detecta qué workflow usar según lo que le pidas y enruta automáticamente. Ya no hace falta especificar la skill manualmente.
+### Domain skills (8 atómicas)
 
-### Music Video Skill
+Skills de bajo nivel que los workflows componen:
 
-Skill específica para crear vídeos musicales: le pasas una canción, lee el waveform, detecta los beats y construye el vídeo alrededor de la música (cortes sincronizados, transiciones en cada kick).
+| Skill | Qué cubre |
+|---|---|
+| /hyperframes-core | Contrato de composición (data-*, clips, tracks, variables) |
+| /hyperframes-animation | Todo el conocimiento de animación (GSAP, Lottie, Three.js, etc.) |
+| /hyperframes-keyframes | Keyframes seek-safe en todos los runtimes |
+| /hyperframes-creative | Dirección creativa: paletas, tipografía, narrativa |
+| /media-use | Motor de medios: BGM, SFX, imágenes, TTS, transcripción |
+| /hyperframes-cli | CLI dev loop (init, lint, preview, render, publish) |
+| /hyperframes-registry | Instalación de bloques y componentes del registry |
+| /figma | Importación de assets, tokens y diseños desde Figma |
+
+### frame.md
+
+**frame.md** es un sistema de diseño para vídeo. Invierte el diseño web tradicional (diseñado para pantalla) a un formato optimizado para cámara, para que un agente pueda componer vídeos promocionales sin adivinar escalas ni usar cromo de navegador. Disponible en [hyperframes.dev/design](https://hyperframes.dev/design).
+
+## Media Library (Julio 2026)
+
+HeyGen añadió una **biblioteca de medios** a HyperFrames que resuelve el problema de tener que buscar assets externos:
+
+- **10.000+ pistas** de música y SFX
+- **75.000+ imágenes** de stock
+- **Logos** de marcas desde canales oficiales
+- Acceso a los **modelos generativos** de HeyGen (imágenes, avatar, TTS)
+- Los assets se guardan en tu máquina, así que el siguiente proyecto salta la búsqueda
+
+Todo gratis con una cuenta de HeyGen (sin necesidad de suscripción: 10 min de TTS gratis y algunos vídeos avatar incluidos).
+
+### media-use
+
+El sistema se llama `media-use` y cubre el gap que tenía HyperFrames: antes no había SFX, BGM ni generación de medios integrada. Ahora puedes:
+
+- Usar tu suscripción de OpenAI Codex para generar imágenes
+- Usar modelos locales si no quieres depender de APIs externas
+- Se irán añadiendo más APIs con el tiempo
 
 ```
-npx skills add heygen-com/hyperframes
+npx hyperframes media-use
 ```
-
-### Skills open source
-
-Bin Liu (HeyGen) anunció que han abierto las **mejores skills de creación de vídeo**, destiladas de cientos de vídeos reales. Battle-tested con miles de evaluaciones.
 
 ## Cómo empezar
 
@@ -106,7 +142,7 @@ HeyGen ha publicado [hyperframes-launches](https://github.com/heygen-com/hyperfr
 | Vídeo | Carpeta | Descripción |
 |---|---|---|
 | HyperFrames launch | `hyperframes-launch/` | El vídeo de anuncio original |
-| Website → Video | `website-to-hyperframes/` | Captura cualquier web y genera un vídeo |
+| Website → HyperFrames | `website-to-hyperframes/` | Captura cualquier web y genera un vídeo |
 | Timeline editor | `timeline-launch/` | Presentación del editor de línea de tiempo |
 | Variables | `variables-launch/` | Sistema de variables y plantillas |
 | Texture launch | `texture-launch-video/` | Tipografía con máscaras de textura y fondos shader |
@@ -117,6 +153,10 @@ HeyGen ha publicado [hyperframes-launches](https://github.com/heygen-com/hyperfr
 | SpaceX | `spacex-launch/` | Showcase de SpaceX |
 | SFX + Music | `sfx-music-launch/` | Efectos de sonido y música |
 | Inspector | `inspector-launch/` | Contact sheet del inspector |
+| Cloud Render | `cloud-render-launch/` | Anuncio del render en la nube |
+| Figma integration | `figma-launch/` | Integración con Figma para importar assets y tokens |
+| PR-to-video | `pr-to-video-launch/` | Anuncio del workflow PR-to-video |
+| Kimi K3 promo | `k3-promo/` | Promo del modelo Kimi K3 |
 
 ### Cómo usar los vídeos de lanzamiento
 
