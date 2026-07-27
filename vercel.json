@@ -1,4 +1,5 @@
 {
   "cleanUrls": true,
+  "installCommand": "rm -rf node_modules && npm install",
   "buildCommand": "npx quartz build --directory ."
 }
