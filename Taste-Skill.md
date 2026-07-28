@@ -1,22 +1,35 @@
 # Taste-Skill
 
-**Repo:** [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — 47.3k ⭐ — [tasteskill.dev](https://tasteskill.dev)
+**Repo:** [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — **68.5k ⭐** (julio 2026) — [tasteskill.dev](https://tasteskill.dev)
 
 Framework de skills portátiles que dan **buen gusto** a los agentes de IA al generar interfaces. Creado por [Leon Lin](https://x.com/LexnLin). Instalable con `npx skills add` o copiando `SKILL.md` en el proyecto / conversación.
+
+## v2 (experimental) - Julio 2026
+
+Reescritura importante del skill por defecto. El agente ahora **lee el brief**, infiere la dirección correcta (industria, audiencia, tono, profundidad de movimiento, familia de layout) y genera interfaces que **no parecen plantillas**.
+
+### Novedades de v2
+
+- **Brief inference** (§0): el agente analiza el contexto antes de generar
+- **Brief → design system map** (§2): sabe cuándo usar Material, Fluent, Carbon, Polaris, shadcn, Tailwind, Radix vs CSS nativo
+- **Dark mode protocol** (§8): modo dual por defecto, paridad de contraste entre temas
+- **Redesign protocol** (§11): auditoría primero en proyectos existentes
+- **Hard pre-flight check** (§14): cada punto debe pasar antes de entregar
 
 ## Skills de código incluidas
 
 | Skill | Install name | Para qué |
-|---|---|---|
+|---|---|---|---|
 | **Taste-Skill** (v2) | `design-taste-frontend` | Default: lee el brief, infiere el lenguaje visual, ajusta 3 diales (VARIANCE / MOTION / DENSITY) |
 | **Taste-Skill v1** | `design-taste-frontend-v1` | Original preservado para proyectos que dependen de su comportamiento exacto |
 | **GPT Taste** | `gpt-taste` | Variante más estricta para GPT/Codex: layout variance, GSAP, anti-slop agresivo |
 | **Image to Code** | `image-to-code` | Pipeline: generar imágenes de referencia → analizar → implementar frontend |
 | **Redesign** | `redesign-existing-projects` | Para proyectos existentes: auditar primero, luego arreglar layout, espaciado, jerarquía |
-| **High-End Visual Design** | `high-end-visual-design` | UI tranquila y cara: contraste suave, mucho espacio, tipografía premium, spring motion |
-| **Full Output Enforcement** | `full-output-enforcement` | Cuando el modelo entrega trabajo a medias: forzar salida completa, sin placeholders |
+| **Soft** | `soft-skill` | UI tranquila: contraste suave, mucho espacio blanco, animaciones fluidas |
+| **Output Enforcement** | `full-output-enforcement` | Cuando el modelo entrega trabajo a medias: forzar salida completa, sin placeholders |
 | **Minimalist** | `minimalist-ui` | UI editorial tipo Notion/Linear, paleta contenida, estructura nítida |
 | **Industrial Brutalist** | `industrial-brutalist-ui` | Lenguaje mecánico duro: tipografía suiza, contraste marcado, layout experimental |
+| **High-End Visual Design** | `high-end-visual-design` | UI cara: tipografía premium, sombras sutiles, animación tipo Apple |
 | **Stitch** | `stitch-design-taste` | Compatible con Google Stitch, con exportación opcional a DESIGN.md |
 
 ## Skills de generación de imágenes

@@ -23,13 +23,14 @@ Notas sobre agentes de IA:
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Muchas herramientas con MCP (Godot, Unity, Unreal, Blender, Higgsfield, ElevenLabs, GitHub)
 - [[OpenMontage]] - Producción de video agentic open source (12 pipelines, 52 tools, 500+ skills)
 - [[Codex]] - Agente de código de OpenAI (incluido en ChatGPT, CLI, IDE, MCP)
-- [[Taste-Skill]] - Framework de skills de diseño anti-slop para agentes de IA (47.3k ⭐)
+- [[Taste-Skill]] - Framework de skills de diseño anti-slop para agentes de IA (68.5k ⭐)
 - [[Atomic Mail]] - Email API-first para agentes: su propio inbox sin verificación humana
 - [[Dify]] - Plataforma open source para desarrollo de apps LLM con workflow visual, RAG, agentes y 50+ herramientas integradas (146k ⭐)
 - [[Open WebUI]] - Interfaz self-hosted para LLMs con RAG, búsqueda web, llamadas voz/vídeo, MCP y escalabilidad horizontal (142k ⭐)
 - [[AirLLM]] - Ejecuta modelos grandes (405B) en hardware de consumo; útil para agentes locales sin GPU empresarial
 - [[OpenShip]] - Plataforma de despliegue open source con MCP support para agentes de IA
 - [[Colección Csaba Kissi]] - Incluye OpenCLI, que convierte Chrome en comandos estables para agentes de IA
+- [[OpenFlow]] - Dictado por voz para macOS: habla y escribe en cualquier app
 - [[OctenAI]] - Motor de búsqueda ultrarrápido (62ms) diseñado para agentes
 
 # #agente
