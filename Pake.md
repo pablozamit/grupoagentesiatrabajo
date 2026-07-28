@@ -1,30 +1,36 @@
 # Pake
 
-Muchas aplicaciones de escritorio que usas a diario (como Slack, Discord, Spotify, VS Code) están construidas con algo llamado **Electron**. Electron básicamente mete un navegador Chrome entero dentro de la app. El resultado: Ocupan **150 MB o más** solo para mostrar lo que muchas veces es básicamente una página web.
+**Pake** convierte cualquier página web en una aplicación de escritorio nativa usando **Rust + Tauri** en vez de Electron. El resultado: apps que pesan **~8-10 MB** en vez de 260-500 MB.
 
-**Pake es la alternativa ligera.** Convierte cualquier página web en una aplicación de escritorio usando **Rust y Tauri** (tecnologías mucho más eficientes), y el resultado pesa unos **5 MB** — casi 20 veces menos.
+## Comparativa RAM
 
-## ¿Para qué sirve?
+| App | Electron | Pake |
+|---|---|---|
+| Slack | 524 MB | **8 MB** |
+| Discord | 265 MB | **9 MB** |
+| ChatGPT | 260 MB | **9 MB** |
 
-Imagina que usas mucho una web (tu gestor de tareas, una herramienta de IA, el panel de tu servidor, etc.) y te gustaría tenerla como una aplicación independiente en tu ordenador, con su propio icono y sin tener que tenerla en una pestaña del navegador. Pake hace eso con un solo comando.
+## Cómo funciona
 
-## Características
+En lugar de empaquetar una copia completa de Chromium (como hace Electron), Pake usa el **WebView nativo** del sistema operativo vía Tauri. Esto elimina los cientos de megabytes que cada app Electron duplica.
 
-- **Tamaño reducido**: ~5 MB en lugar de los 150+ MB de Electron
-- **Más rápido y ligero**: consume menos memoria RAM
-- **Un solo comando**: no necesitas configurar nada complicado
-- **Atajos de teclado** personalizables
-- **Ventanas inmersivas** (sin bordes del navegador)
-- **Arrastrar y soltar** archivos
-- **Personalización visual**: puedes cambiar colores, estilos, etc.
-- **Elimina anuncios** durante el empaquetado
-- Funciona en **macOS, Windows y Linux**
-- Más de **539.000 descargas** y comunidad activa
+## Usar Pake
+
+```bash
+# Instalar
+npm install -g @pake/cli
+
+# Convertir cualquier web en app de escritorio
+pake https://chatgpt.com
+```
+
+## Builds listos
+
+Pake incluye builds pre-empaquetados para: Grok, ChatGPT, Gemini, Discord, YouTube, Twitter, y muchos más. Todos bajo 10 MB.
 
 ## Enlaces
 
-- GitHub: [tw93/Pake](https://github.com/tw93/Pake)
+- Repo: [github.com/tw93/Pake](https://github.com/tw93/Pake) — 51k ⭐
+- Autor: [tw93](https://github.com/tw93)
 
-Relacionado: [[Hermes Agent]], [[Vibecoding]], [[WebGPU]]
-
-# #web #herramientas #opensource #escritorio
+# #productividad #web #proyecto
