@@ -30,6 +30,8 @@ Notas sobre agentes de IA:
 - [[AirLLM]] - Ejecuta modelos grandes (405B) en hardware de consumo; útil para agentes locales sin GPU empresarial
 - [[OpenShip]] - Plataforma de despliegue open source con MCP support para agentes de IA
 - [[Colección Csaba Kissi]] - Incluye OpenCLI, que convierte Chrome en comandos estables para agentes de IA
+- [[Claude Video]] - Skill /watch: Claude ve cualquier video (descarga, frames, transcripción)
+- [[Buzz]] - Plataforma self-hosted donde humanos y agentes comparten salas
 - [[OpenFlow]] - Dictado por voz para macOS: habla y escribe en cualquier app
 - [[OctenAI]] - Motor de búsqueda ultrarrápido (62ms) diseñado para agentes
 

@@ -2,6 +2,7 @@
 
 Notas sobre skills instalables para agentes de IA:
 
+- [[Claude Video]] - Skill /watch: Claude ve cualquier video (descarga, frames, transcripción)
 - [[Marketing Skills]] - 47 skills de marketing para agentes
 - [[Taste-Skill]] - Framework de skills de diseño anti-slop (68.5k ⭐)
 - [[UI Skills]] - Directorio de skills de UI/frontend
