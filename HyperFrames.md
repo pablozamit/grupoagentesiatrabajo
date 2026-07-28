@@ -210,6 +210,41 @@ npx skills add heygen-com/website-to-video
 
 ---
 
+## Components Catalog (Julio 2026)
+
+HyperFrames publicó un **catálogo de 138 componentes y bloques** listos para instalar y reutilizar. Cada pieza es HTML, CSS y JS plano que sigue el contrato de composición de HyperFrames.
+
+### Tipos
+
+- **Blocks**: escenas completas que se instalan en `compositions/` y se enlazan con `data-composition-src`
+- **Components**: snippets (estilos de caption, efectos de texto, overlays pequeños) que se pegan dentro de una escena existente
+
+Tras instalar, los archivos son tuyos para editar — no hay dependencias versionadas ni lock files.
+
+### Las 8 estanterías
+
+| Estantería | Cantidad | Ejemplos |
+|---|---|---|
+| Code animations | 9 blocks | code-typing, code-diff, code-morph, code-particle-assemble |
+| Code snippets | 24 themes | monokai, dark-plus, solarized-light, homebrew, red-sands |
+| Captions | 15 styles | kinetic-slam, pill-karaoke, neon-glow, matrix-decode, emoji-pop |
+| Social overlays | 21 blocks | x-post, reddit-post, spotify-card, macos-notification, tiktok-follow |
+| Data viz | 9 blocks | data-chart, US maps (choropleth, bubble, hex grid, flow arcs), flowcharts |
+| Liquid glass & VFX | 13 blocks | ios26-liquid-glass (3D iPhone con notificaciones refracción), portales, shatters |
+| CSS transitions | 13 familias | 3d, blur, push, dissolve, cover, radial, mechanical, destruction |
+| Shader transitions | 14 shaders | whip-pan, glitch, light-leak, swirl-vortex, sdf-iris, gravitational-lens |
+
+### Cómo usar
+
+```bash
+npx hyperframes add x-post          # instala un block
+npx hyperframes catalog              # explora el catálogo completo
+```
+
+### Day 22 of 30
+
+El vídeo del día 22 de la serie demostró el catálogo combinando 9 bloques en un solo documento de 52 segundos: uno por estantería más un outro con logo personalizado.
+
 ## Diferencia clave con otras herramientas
 
 A diferencia de herramientas como Remotion (que usan React), HyperFrames usa **HTML plano**. Esto hace que sea más fácil para un agente trabajar con él, porque los agentes ya saben escribir HTML sin necesidad de montar un proyecto React.

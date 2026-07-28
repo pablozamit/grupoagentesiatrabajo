@@ -26,5 +26,6 @@ Notas sobre desarrollo web:
 - [[Cuelume]] - Sonidos UI sintetizados en tiempo real (2KB, sin archivos MP3 ni dependencias)
 - [[Colección Csaba Kissi]] - 5 herramientas open source: iconos, cursores CSS, OpenCLI, inspiración de diseño, componentes React
 - [[Yoinks]] - Descarga videos de YouTube, X, Instagram y 1800+ sitios desde la terminal
+- [[OctenAI]] - Motor de búsqueda ultrarrápido para agentes (62ms, 6× más rápido que Exa)
 
 # #web
