@@ -13,5 +13,6 @@ Notas sobre modelos de IA:
 - [[Codex]] - Agente de código de OpenAI con gpt-image-2 integrado
 - [[AirLLM]] - Ejecuta modelos de 405B en GPUs de 8GB manteniendo solo una capa activa
 - [[Fish Audio S2.1 Pro]] - Clonación de voz desde 5s de audio, 6× más barato que Eleven Labs ($52M seed)
+- [[Ojos baratos para agentes]] - Gemini 2.5 Flash-Lite como visión ultrabarata: 1h de YouTube por ~4 céntimos
 
 # #modelos

@@ -35,5 +35,6 @@ Notas sobre agentes de IA:
 - [[OpenFlow]] - Dictado por voz para macOS: habla y escribe en cualquier app
 - [[OctenAI]] - Motor de búsqueda ultrarrápido (62ms) diseñado para agentes
 - [[El vídeo es código]] - Metodología: crear vídeos de producto con Remotion + agentes de IA
+- [[Ojos baratos para agentes]] - Técnica: Gemini Flash-Lite como visión barata para Claude/Codex (división de trabajo)
 
 # #agente

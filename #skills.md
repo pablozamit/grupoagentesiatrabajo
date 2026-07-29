@@ -19,5 +19,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[Browser Use]] - Navegador controlado por IA
 - [[Open Design]] - 100+ skills de diseño open source
 - [[OpenMontage]] - 500+ skills de video open source
+- [[HyperFrames]] - Skills de color grading, media treatment y templates para agentes (`--full-depth`)
 
 # #skills

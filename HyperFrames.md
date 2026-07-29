@@ -245,6 +245,56 @@ npx hyperframes catalog              # explora el catálogo completo
 
 El vídeo del día 22 de la serie demostró el catálogo combinando 9 bloques en un solo documento de 52 segundos: uno por estantería más un outro con logo personalizado.
 
+## Color Grading (Agosto 2026)
+
+HyperFrames añadió **color grading profesional** controlable por agentes. Corrección y gradación de color sobre elementos `<video>` e `<img>` reales, con el mismo shader SDR/Rec.709 validado tanto en preview como en render.
+
+### Herramientas
+
+| Herramienta | Uso |
+|---|---|
+| **Color wheels** | Sombras, medios tonos, highlights con tono e intensidad |
+| **RGB curves** | Remapeo de luminancia y canales individuales |
+| **Hue curves** | Hue vs Hue, Hue vs Saturación, Hue vs Luma |
+| **HSL selections** | Correcciones selectivas por rango de color (hasta 4) |
+| **Scopes** | Histograma, waveform, RGB parade, vectorscopio |
+| **Presets** | Neutral, Warm Daylight, Clean Studio, Skin Soft, Food Pop, Night Lift, Muted Editorial, Vintage Wash, Mono Clean |
+| **LUTs** | Soporte para archivos 3D `.cube` (hasta LUT_3D_SIZE 64) |
+
+### Uso con agentes
+
+```bash
+# Analizar el source
+npx hyperframes media-treatment --project . --file compositions/interview.html --selector '#interview' --analyze --json
+
+# Aplicar grade
+npx hyperframes media-treatment --project . --file compositions/interview.html --selector '#interview' \
+  --grading '{"adjust":{"highlights":-0.08,"shadows":0.06},"wheels":{"midtones":{"hue":32,"amount":0.05}}}' \
+  --apply --json
+
+# Consultar capacidades
+npx hyperframes media-treatment --capabilities --json
+npx hyperframes media-treatment --capability grading --json
+```
+
+El agente no necesita nombrar controles técnicos. Peticiones como *"esta entrevista se ve muy oscura y fría"* o *"dale un look más cálido sin que parezca filtrado"* se resuelven inspeccionando el source y aplicando ajustes deterministas.
+
+El grade se persiste en el atributo `data-color-grading` del elemento media. Usar `--dry-run` cuando el target no está claro y `--clear` para eliminar el tratamiento completo.
+
+### Skill
+
+```bash
+npx skills add heygen-com/hyperframes --full-depth
+```
+
+## Templates y Variables (Agosto 2026)
+
+El **día 23 de 30** introdujo templates: convierte cualquier composición en una plantilla reutilizable. Cambiar un titular, un nombre o un color ya no requiere re-renderizar desde cero — se parametriza y se genera la variante.
+
+## Media Effects (Agosto 2026)
+
+Efectos visuales estilizados más allá del grading tradicional: videotape, pixelate, ascii, cross hatch, y look packs personalizados. Lo que se previsualiza es lo que se renderiza.
+
 ## Diferencia clave con otras herramientas
 
 A diferencia de herramientas como Remotion (que usan React), HyperFrames usa **HTML plano**. Esto hace que sea más fácil para un agente trabajar con él, porque los agentes ya saben escribir HTML sin necesidad de montar un proyecto React.
