@@ -36,5 +36,6 @@ Notas sobre agentes de IA:
 - [[OctenAI]] - Motor de búsqueda ultrarrápido (62ms) diseñado para agentes
 - [[El vídeo es código]] - Metodología: crear vídeos de producto con Remotion + agentes de IA
 - [[Ojos baratos para agentes]] - Técnica: Gemini Flash-Lite como visión barata para Claude/Codex (división de trabajo)
+- [[PixelRAG]] - RAG visual: indexa webs por screenshots, no por HTML; plugin para Claude Code (7.4k ⭐)
 
 # #agente

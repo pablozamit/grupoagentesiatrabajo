@@ -31,5 +31,6 @@ Notas sobre desarrollo web:
 - [[Human Cell Visualizer]] - App 3D de biología celular con partículas, morphing y anatomía anotada
 - [[Text-to-CAD]] - Genera archivos CAD desde texto (STEP, STL, GLB, G-code)
 - [[Neo-Forge]] - RTX 4090 editions interactivas con Three.js + img2threejs
+- [[PixelRAG]] - RAG visual: indexa webs por screenshots en vez de parsear HTML (+18% QA vs texto)
 
 # #web

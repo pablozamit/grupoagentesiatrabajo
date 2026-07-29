@@ -69,6 +69,7 @@ Flash-Lite se pierde cosas sutiles. Si un solo frame decide algo importante, **m
 - [[Acceso a internet desde agentes]] — Comparativa de métodos para dar acceso web a agentes
 - [[AgentRouter]] — API unificada con crédito gratis para acceder a múltiples modelos
 - [[Claude Video]] — Skill /watch que usa Whisper + frames para que Claude vea videos
+- [[PixelRAG]] — Enfoque complementario: indexa webs por screenshots para que el agente "vea" la página
 - [[OpenRouter]] — API unificada de modelos donde conseguir Flash-Lite
 - [[TokenRouter]] — Otra API unificada de modelos, a veces con modelos gratis
 

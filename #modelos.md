@@ -15,5 +15,6 @@ Notas sobre modelos de IA:
 - [[Fish Audio S2.1 Pro]] - Clonación de voz desde 5s de audio, 6× más barato que Eleven Labs ($52M seed)
 - [[Ojos baratos para agentes]] - Gemini 2.5 Flash-Lite como visión ultrabarata: 1h de YouTube por ~4 céntimos
 - [[Meta TRIBE v2]] - Modelo de Meta que predice actividad cerebral desde inputs multimedia
+- [[PixelRAG]] - Qwen3-VL-Embedding fine-tuned para búsqueda visual sobre screenshots
 
 # #modelos
