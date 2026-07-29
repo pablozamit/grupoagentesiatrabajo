@@ -12,5 +12,6 @@ Notas sobre modelos de IA:
 - [[TokenRouter]] - API unificada de modelos (a veces con modelos gratis)
 - [[Codex]] - Agente de código de OpenAI con gpt-image-2 integrado
 - [[AirLLM]] - Ejecuta modelos de 405B en GPUs de 8GB manteniendo solo una capa activa
+- [[Fish Audio S2.1 Pro]] - Clonación de voz desde 5s de audio, 6× más barato que Eleven Labs ($52M seed)
 
 # #modelos

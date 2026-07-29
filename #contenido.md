@@ -6,3 +6,6 @@ Notas con contenido teórico y de referencia:
 - [[Glosario]] - Definiciones cortas de términos recurrentes en la enciclopedia
 - [[Mapa de la enciclopedia]] - Punto de entrada rápido con todas las notas organizadas por tema y objetivo
 - [[Ejercicios Generales]] - Ejercicios prácticos: scraping de tu barrio y publicación con Here.Now
+- [[El vídeo es código]] - Metodología completa de Borja Perez para crear vídeos de producto con agentes de IA
+
+# #contenido

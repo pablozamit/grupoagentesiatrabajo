@@ -28,5 +28,7 @@ Notas sobre desarrollo web:
 - [[Yoinks]] - Descarga videos de YouTube, X, Instagram y 1800+ sitios desde la terminal
 - [[Pake]] - Convierte cualquier web en app de escritorio nativa (~8 MB) con Rust + Tauri
 - [[OctenAI]] - Motor de búsqueda ultrarrápido para agentes (62ms, 6× más rápido que Exa)
+- [[Human Cell Visualizer]] - App 3D de biología celular con partículas, morphing y anatomía anotada
+- [[Text-to-CAD]] - Genera archivos CAD desde texto (STEP, STL, GLB, G-code)
 
 # #web
