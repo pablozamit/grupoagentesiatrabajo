@@ -289,7 +289,97 @@ npx skills add heygen-com/hyperframes --full-depth
 
 ## Templates y Variables (Agosto 2026)
 
-El **día 23 de 30** introdujo templates: convierte cualquier composición en una plantilla reutilizable. Cambiar un titular, un nombre o un color ya no requiere re-renderizar desde cero — se parametriza y se genera la variante.
+El **día 23 de 30** introdujo templates. Las variables convierten una composición HyperFrames en una **plantilla reutilizable**: un build → tantos vídeos como filas de datos tengas.
+
+```bash
+npx hyperframes render --batch rows.json --output "renders/{name}.mp4"
+```
+
+### Cómo funciona
+
+Una variable es un **slot tipado declarado en la raíz de la composición**. La declaración es el schema:
+
+```html
+<html data-composition-variables='[
+  {"id":"title","type":"string","label":"Title","default":"Hello"},
+  {"id":"accent","type":"color","label":"Accent","default":"#66d9ef"}
+]'>
+```
+
+**7 tipos soportados**: `string` (placeholder y maxLength opcionales), `number` (min, max, step, unit), `color`, `boolean`, `enum` (requiere lista de opciones), `font` e `image` (para assets). Toda declaración debe incluir un default útil — la composición se previsualiza y renderiza con defaults.
+
+### Bindings declarativos (sin JS)
+
+Tres bindings cubren la mayoría de casos:
+
+```html
+<!-- Texto: swapea el texto y preserva hijos (spans animados sobreviven) -->
+<h1 data-var-text="title">Fallback</h1>
+
+<!-- Imagen: swapea el src, el original queda como fallback -->
+<img data-var-src="heroImage" src="fallback.jpg" />
+
+<!-- CSS: toda variable escalar se expone como --{id} automáticamente -->
+<!-- color: var(--accent) responde a overrides sin boilerplate -->
+```
+
+Para casos avanzados (loops, condicionales, valores derivados):
+
+```js
+const { title = "Untitled", accent = "#66d9ef" } = __hyperframes.getVariables();
+```
+
+### Sub-composiciones
+
+Un mismo `card.html` puede aparecer varias veces con distintos valores:
+
+```html
+<div data-composition-id="card-pro" data-composition-src="compositions/card.html"
+     data-variable-values='{"title":"Pro","accent":"#ff4d4f"}'></div>
+```
+
+### Override en render
+
+```bash
+# JSON inline
+npx hyperframes render --variables '{"title":"Q4 Report"}'
+
+# Desde archivo
+npx hyperframes render --variables-file vars.json
+
+# Modo estricto (CI): keys no declaradas o tipos incorrectos → error
+npx hyperframes render --variables '{"title":"Q4"}' --strict-variables
+```
+
+### Batch mode
+
+El modo batch apunta a un archivo de filas de datos, y el output usa placeholders `{key}`:
+
+```bash
+npx hyperframes render --batch rows.json --output "renders/{name}.mp4"
+```
+
+Cada fila mergea sobre los defaults declarados. 10 filas → 10 vídeos personalizados.
+
+### Cloud rendering con templates
+
+**HeyGen Cloud**: el primer render sube el proyecto y devuelve un `asset_id`. Los siguientes renderizados reutilizan ese asset — sin re-zip, sin re-upload:
+
+```bash
+hyperframes cloud render ./card-template                          # upload + render
+hyperframes cloud render --asset-id asst_abc123 --variables '{"name":"Ada"}'   # solo valores nuevos
+hyperframes cloud render --asset-id asst_abc123 --variables '{"name":"Linus"}' # solo valores nuevos
+```
+
+**AWS Lambda**: despliega el stack una vez, sube la plantilla con `lambda sites create`, luego alimenta `lambda render-batch` con un JSONL (una línea por destinatario, cada una con su `outputKey` y `variables`). Renderiza **50 vídeos concurrentes** por defecto.
+
+### Notas de campo
+
+- **No confundir las dos formas de JSON**: la declaración es un array `[{id, type, label, default}]`, los valores son un objeto `{id: valor}`
+- **Precedencia por composición**: cada sub-composición lee sus propios defaults, overriddeados por `data-variable-values`. Las variables del CLI solo afectan al nivel superior
+- **Lo que NO se puede variabilizar**: tamaño de canvas, duración raíz, frame rate y codec (se parsean una vez en compilación)
+- **Media src no es swapeable en `<video>`/`<audio>`**: `data-var-src` funciona en `<img>`, pero en video/audio el renderer reproduce el src original. Para variar media, usa una sub-composición por clip
+- **Variables = datos, no archivos**: valores tipados en variables, assets como referencias URL
 
 ## Media Effects (Agosto 2026)
 
