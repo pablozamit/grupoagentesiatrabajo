@@ -9,6 +9,13 @@
 - Compatible con agentes de IA (prompt-friendly)
 - Open source
 
+### Novedades v1.4 (Julio 2026)
+
+- **Estructuras internas reales** en vez de cascarones huecos — los modelos ahora tienen interior
+- **Colores más precisos y materiales PBR** para acabados fotorrealistas
+- **Piezas de grano fino** para animaciones complejas (partes separadas y articulables)
+- **Mejor volumétrico** — mayor densidad y definición en formas orgánicas
+
 ## Casos de uso reales
 
 - **World of Claudecraft** usó img2threejs como base para construir un pueblo entero (Eastbrook Vale), reconstruido como código procedural Three.js en lugar de meshes descargados

@@ -6,9 +6,11 @@
 
 ## Características
 
-- **Clonación desde 5 segundos** de audio de referencia
+- **Clonación desde 5 segundos** de audio de referencia (el modelo S2.1 Pro; versiones anteriores desde 15s)
+- **Open source y self-hostable** — ejecutable en tu propia infraestructura
+- **83+ idiomas** con soporte multilingüe
 - **2× más rápido** que Cartesia en generación
-- **1/6 del coste** de Eleven Labs
+- **~70% más barato** que Eleven Labs (~1/6 del coste)
 - **Control a nivel de palabra** sobre emoción, entonación y ritmo (pacing)
 - Considerado el modelo más expresivo del mercado con control granular
 

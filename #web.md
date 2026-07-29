@@ -30,5 +30,6 @@ Notas sobre desarrollo web:
 - [[OctenAI]] - Motor de búsqueda ultrarrápido para agentes (62ms, 6× más rápido que Exa)
 - [[Human Cell Visualizer]] - App 3D de biología celular con partículas, morphing y anatomía anotada
 - [[Text-to-CAD]] - Genera archivos CAD desde texto (STEP, STL, GLB, G-code)
+- [[Neo-Forge]] - RTX 4090 editions interactivas con Three.js + img2threejs
 
 # #web

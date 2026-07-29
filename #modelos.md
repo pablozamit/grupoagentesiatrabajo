@@ -14,5 +14,6 @@ Notas sobre modelos de IA:
 - [[AirLLM]] - Ejecuta modelos de 405B en GPUs de 8GB manteniendo solo una capa activa
 - [[Fish Audio S2.1 Pro]] - Clonación de voz desde 5s de audio, 6× más barato que Eleven Labs ($52M seed)
 - [[Ojos baratos para agentes]] - Gemini 2.5 Flash-Lite como visión ultrabarata: 1h de YouTube por ~4 céntimos
+- [[Meta TRIBE v2]] - Modelo de Meta que predice actividad cerebral desde inputs multimedia
 
 # #modelos
