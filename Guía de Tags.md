@@ -40,6 +40,7 @@ Los hashtags reflejan **para qué sirve** desde el punto de vista del alumno. Ca
 | #modelos | Modelos de IA |
 | #basededatos | Bases de datos |
 | #proyecto | Ejercicio práctico |
+| #opensource | Código abierto |
 
 ### Por dominio (qué puede crear/hacer)
 

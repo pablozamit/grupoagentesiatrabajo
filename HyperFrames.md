@@ -381,7 +381,7 @@ hyperframes cloud render --asset-id asst_abc123 --variables '{"name":"Linus"}' #
 - **Media src no es swapeable en `<video>`/`<audio>`**: `data-var-src` funciona en `<img>`, pero en video/audio el renderer reproduce el src original. Para variar media, usa una sub-composición por clip
 - **Variables = datos, no archivos**: valores tipados en variables, assets como referencias URL
 
-## Media Effects (Agosto 2026)
+### Media Effects
 
 Efectos visuales estilizados más allá del grading tradicional: videotape, pixelate, ascii, cross hatch, y look packs personalizados. Lo que se previsualiza es lo que se renderiza.
 
