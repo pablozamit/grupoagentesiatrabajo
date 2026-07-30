@@ -15,5 +15,6 @@ Notas sobre vibecoding:
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Guía completa para crear juegos completos con vibecoding: 40 herramientas, pipelines y prompt maestro
 - [[Codex]] - Agente de código de OpenAI para vibecodear (CLI, IDE o cloud)
 - [[Taste-Skill]] - Skills de diseño anti-slop para que tus agentes generen interfaces con buen gusto (47.3k ⭐)
+- [[Vibecode It Yourself]] - 33 SaaS que puedes reemplazar vibecodeando tú mismo, con prompts completos
 
 # #vibecoding
