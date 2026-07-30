@@ -15,5 +15,6 @@ Notas sobre videojuegos:
 - [[Meng To Three.js Game Skills]] - Skills open source de Meng To para crear RPGs isométricos con Three.js
 - [[img2threejs]] - Convierte fotos a modelos procedurales Three.js para assets de juegos
 - [[Three.js Awesome Graphics Agent Skills]] - Skills y ejemplos de gráficos 3D avanzados para juegos
+- [[Noqa]] - Agente de QA visual para juegos móviles (Unity, Unreal, Godot)
 
 # #juegos

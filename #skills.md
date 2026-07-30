@@ -20,5 +20,7 @@ Notas sobre skills instalables para agentes de IA:
 - [[Open Design]] - 100+ skills de diseño open source
 - [[OpenMontage]] - 500+ skills de video open source
 - [[HyperFrames]] - Skills de color grading, media treatment y templates para agentes (`--full-depth`)
+- [[Orca]] - IDE agéntico con CLI para scripting de worktrees, snapshots y control de navegador
+- [[Noqa]] - CLI de QA visual para conectar coding agents a dispositivos móviles reales
 
 # #skills
