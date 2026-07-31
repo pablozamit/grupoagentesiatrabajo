@@ -40,5 +40,6 @@ Notas sobre agentes de IA:
 - [[Orca]] - IDE agéntico: ejecuta múltiples agentes de código en worktrees paralelos (33.2k ⭐)
 - [[Noqa]] - Agente de QA visual para móviles y juegos (desde screenshots, sin localizadores)
 - [[Landingfolio MCP]] - MCP con 4.600+ componentes reales de landing pages para dar buen gusto de diseño a tu agente
+- [[TencentDB Agent Memory]] - Hub de memoria local de Tencent: Chat Memory, Skills, Wiki y CodeGraph para equipos de agentes (9.8k ⭐)
 
 # #agente

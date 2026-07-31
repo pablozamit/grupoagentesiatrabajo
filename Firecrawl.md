@@ -72,6 +72,16 @@ El mismo servidor MCP funciona con cualquier agente compatible con MCP:
 - **Cursor / Cline / Continue** — en la configuración de MCP como servidor stdio
 - **Microsoft Foundry** — integración vía gateway MCP
 
+## Novedades del MCP (julio 2026)
+
+El nuevo Firecrawl MCP llegó con tres mejoras clave:
+
+- **50% menos contexto** — cada llamada `/search`, `/scrape` e `/interact` usa la mitad de tokens, lo que reduce coste a escala y deja más ventana para el razonamiento del agente
+- **Onboarding instantáneo con OAuth** — para humanos: te logueas sin copiar API keys
+- **Versión sin clave (keyless)** — para agentes: ideal cuando corres varias instancias y no quieres gestionar tokens
+
+URL: [firecrawl.dev/mcp](https://firecrawl.dev/mcp)
+
 ## Casos de uso habituales
 
 - Investigar un tema y guardar resúmenes en el vault
