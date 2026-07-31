@@ -2,7 +2,9 @@
 
 ## Meta final
 
-(Pendiente)
+"Vivir de la IA, quiero vender servicios con agentes de IA y solucionar problemas".
+
+> Definida por el alumno en su Google Doc (31/07/2026).
 
 ## Notas relevantes
 

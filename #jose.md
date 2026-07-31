@@ -2,7 +2,9 @@
 
 ## Meta final
 
-(Pendiente)
+"Obtener una formación óptima para emprender online con IA como herramienta y con Pablo como mentor. Aprendiendo y obteniendo resultados en el proceso como consecuencia de solucionar problemas/necesidades del mercado para los cuales esté mejor preparado".
+
+> Definida por el alumno en su Google Doc (31/07/2026). El ejercicio de los 10 problemas sigue pendiente.
 
 ## Notas relevantes
 
