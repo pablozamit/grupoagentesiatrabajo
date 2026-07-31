@@ -16,5 +16,6 @@ Notas sobre videojuegos:
 - [[img2threejs]] - Convierte fotos a modelos procedurales Three.js para assets de juegos
 - [[Three.js Awesome Graphics Agent Skills]] - Skills y ejemplos de gráficos 3D avanzados para juegos
 - [[Noqa]] - Agente de QA visual para juegos móviles (Unity, Unreal, Godot)
+- [[Personajes 3D jugables desde IA]] - Workflow completo: imagen → pose T → Trellis → rigging con Claude → Godot/Blender MCP
 
 # #juegos

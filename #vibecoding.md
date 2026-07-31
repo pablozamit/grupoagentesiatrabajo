@@ -16,5 +16,6 @@ Notas sobre vibecoding:
 - [[Codex]] - Agente de código de OpenAI para vibecodear (CLI, IDE o cloud)
 - [[Taste-Skill]] - Skills de diseño anti-slop para que tus agentes generen interfaces con buen gusto (47.3k ⭐)
 - [[Vibecode It Yourself]] - 33 SaaS que puedes reemplazar vibecodeando tú mismo, con prompts completos
+- [[Personajes 3D jugables desde IA]] - Pipeline de vibecoding: imagen a personaje 3D animado en tu motor de juego
 
 # #vibecoding

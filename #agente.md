@@ -39,5 +39,6 @@ Notas sobre agentes de IA:
 - [[PixelRAG]] - RAG visual: indexa webs por screenshots, no por HTML; plugin para Claude Code (7.4k ⭐)
 - [[Orca]] - IDE agéntico: ejecuta múltiples agentes de código en worktrees paralelos (33.2k ⭐)
 - [[Noqa]] - Agente de QA visual para móviles y juegos (desde screenshots, sin localizadores)
+- [[Landingfolio MCP]] - MCP con 4.600+ componentes reales de landing pages para dar buen gusto de diseño a tu agente
 
 # #agente

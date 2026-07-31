@@ -28,5 +28,6 @@ Notas sobre diseño UI/UX:
 - [[Depthfield]] - Convierte fotos y videos 2D en clips cinematográficos 3D desde el navegador
 - [[Colección Csaba Kissi]] - 5 herramientas open source: 7000+ iconos SVG, cursores CSS, inspiración de diseño, componentes UI animados
 - [[#gamificacion]] - Mecánicas de gamificación y retención de usuarios
+- [[Landingfolio MCP]] - 4.600+ componentes de landing pages expuestos como MCP para que tu agente diseñe con buen gusto
 
 # #diseno

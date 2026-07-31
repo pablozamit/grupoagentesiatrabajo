@@ -32,5 +32,6 @@ Notas sobre desarrollo web:
 - [[Text-to-CAD]] - Genera archivos CAD desde texto (STEP, STL, GLB, G-code)
 - [[Neo-Forge]] - RTX 4090 editions interactivas con Three.js + img2threejs
 - [[PixelRAG]] - RAG visual: indexa webs por screenshots en vez de parsear HTML (+18% QA vs texto)
+- [[Landingfolio MCP]] - MCP con 4.600+ screenshots de las mejores landing pages como referencia para tu agente
 
 # #web
