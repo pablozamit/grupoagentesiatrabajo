@@ -1,8 +1,8 @@
 # Claude Video
 
-**Skill `/watch`** que le da a Claude la capacidad de ver cualquier video. Pega una URL (YouTube, TikTok, Instagram, Loom, X, +1800 sitios) o un archivo local, haz una pregunta, y Claude descarga, extrae frames con detección de escenas, transcribe con Whisper y lee cada frame como imagen.
+**Skill `/watch`** que le da a un agente de IA la capacidad de ver cualquier video, sin importar el host. Pega una URL (YouTube, TikTok, Instagram, Loom, X, +1800 sitios) o un archivo local, haz una pregunta, y el agente descarga, extrae frames con detección de escenas, transcribe con Whisper y lee cada frame como imagen. Aunque nació para Claude, no es exclusivo de él: se instala en Codex, Cursor, Copilot, Gemini CLI y +50 hosts.
 
-**Repo:** [bradautomates/claude-video](https://github.com/bradautomates/claude-video) — **11.6k ⭐** — MIT — por [Brad Bonanno](https://x.com/bradbonanno)
+**Repo:** [bradautomates/claude-video](https://github.com/bradautomates/claude-video) — **12.5k ⭐** — MIT — por [Brad Bonanno](https://x.com/bradbonanno)
 
 ## Cómo funciona
 
