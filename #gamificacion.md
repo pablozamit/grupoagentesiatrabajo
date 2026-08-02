@@ -2,6 +2,10 @@
 
 La gamificación aplica dinámicas de juego a contextos no lúdicos (apps, productos, educación) para aumentar la motivación, el compromiso y la retención de usuarios.
 
+## Notas relacionadas
+
+- [[Jake Castillo]] - Por qué "casi toda app exitosa es entretenimiento disfrazado" y conviene gamificar todo lo posible.
+
 ## Mecánicas clásicas
 
 - **Rachas (streaks)**: contar días consecutivos de actividad. Duolingo es el caso de referencia — notificaciones, widgets, recordatorios constantes.

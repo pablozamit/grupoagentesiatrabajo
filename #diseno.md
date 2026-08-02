@@ -29,5 +29,7 @@ Notas sobre diseño UI/UX:
 - [[Colección Csaba Kissi]] - 5 herramientas open source: 7000+ iconos SVG, cursores CSS, inspiración de diseño, componentes UI animados
 - [[#gamificacion]] - Mecánicas de gamificación y retención de usuarios
 - [[Landingfolio MCP]] - 4.600+ componentes de landing pages expuestos como MCP para que tu agente diseñe con buen gusto
+- [[Koboyo Icons]] - 71.000+ iconos SVG hand-drawn gratis, sin atribución (currentColor, búsqueda por sinónimos)
+- [[scroll-world]] - Landing pages de scroll con cámara volando entre escenas 3D generadas por IA
 
 # #diseno

@@ -35,4 +35,8 @@ Un RPG isométrico inspirado en Dark Souls y Diablo, construido con estas skills
 - Repo de skills: [github.com/MengTo/Skills](https://github.com/MengTo/Skills)
 - Autor: [@MengTo](https://x.com/MengTo)
 
+## Relacionado
+
+- Otro proyecto open source de Meng To (estantería 3D realista con prompt): [[The Complete Shelf]]
+
 # #juegos #skills #3d

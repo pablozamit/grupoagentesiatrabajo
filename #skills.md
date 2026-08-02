@@ -22,5 +22,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[HyperFrames]] - Skills de color grading, media treatment y templates para agentes (`--full-depth`)
 - [[Orca]] - IDE agéntico con CLI para scripting de worktrees, snapshots y control de navegador
 - [[Noqa]] - CLI de QA visual para conectar coding agents a dispositivos móviles reales
+- [[scroll-world]] - Skill que genera landing pages "fly through the world" con scroll (cámara que vuela sin cortes) desde un prompt
 
 # #skills

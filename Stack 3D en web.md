@@ -39,6 +39,8 @@ Cuatro notas de la enciclopedia forman el **stack típico para crear experiencia
 - Proyectos como Code Slice Hero, Particle Phones, Mobius Strip
 - Sirve para inspirarte y copiar técnicas a tus proyectos
 
+Una alternativa más ligera es [[BroMetal]]: escribes los shaders en **TypeScript**, se compilan a **WGSL** y usan **WebGPU**. Es ~19 KB frente a los ~600 KB de [[Three.js]], y los errores salen **al compilar**, algo ideal para trabajar con agentes de IA.
+
 ## Diagrama del flujo
 
 ```

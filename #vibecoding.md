@@ -17,5 +17,6 @@ Notas sobre vibecoding:
 - [[Taste-Skill]] - Skills de diseño anti-slop para que tus agentes generen interfaces con buen gusto (47.3k ⭐)
 - [[Vibecode It Yourself]] - 33 SaaS que puedes reemplazar vibecodeando tú mismo, con prompts completos
 - [[Personajes 3D jugables desde IA]] - Pipeline de vibecoding: imagen a personaje 3D animado en tu motor de juego
+- [[The Complete Shelf]] - Proyecto Three.js open source de Meng To con el prompt completo para remezclarlo
 
 # #vibecoding

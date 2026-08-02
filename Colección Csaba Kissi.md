@@ -4,7 +4,7 @@ Csaba Kissi ([@csaba_kissi](https://x.com/csaba_kissi)) recopiló 5 herramientas
 
 ## iconsax.dev
 
-[iconsax.dev](http://iconsax.dev) — 7.000+ iconos SVG gratuitos. Alternativa open source a librerías de iconos comerciales con gran variedad de estilos.
+[iconsax.dev](http://iconsax.dev) — 7.000+ iconos SVG gratuitos. Alternativa open source a librerías de iconos comerciales con gran variedad de estilos. Para muchísimos más iconos hand-drawn (71.000+), ver [[Koboyo Icons]].
 
 ## csscursors.colorion.co
 

@@ -41,5 +41,6 @@ Notas sobre agentes de IA:
 - [[Noqa]] - Agente de QA visual para móviles y juegos (desde screenshots, sin localizadores)
 - [[Landingfolio MCP]] - MCP con 4.600+ componentes reales de landing pages para dar buen gusto de diseño a tu agente
 - [[TencentDB Agent Memory]] - Hub de memoria local de Tencent: Chat Memory, Skills, Wiki y CodeGraph para equipos de agentes (9.8k ⭐)
+- [[Comp AI CRM]] - CRM open source basado en un agente de investigación durable (agente = producto)
 
 # #agente

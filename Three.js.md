@@ -34,5 +34,8 @@
 
 - Para efectos de partículas GPU, ver [[Plume]]
 - Para comprimir modelos 3D antes de cargarlos en la web, ver [[Draco]]
+- Para una alternativa ligera (shaders en TypeScript, solo WebGPU), ver [[BroMetal]]
+- Para un ejemplo realista de Three.js con page-flip y detalle de librería, ver [[The Complete Shelf]]
+- Para landing pages de scroll con cámara que vuela (sin Three.js, con IA), ver [[scroll-world]]
 
 # #3d #juegos #diseno

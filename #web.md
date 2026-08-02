@@ -33,5 +33,8 @@ Notas sobre desarrollo web:
 - [[Neo-Forge]] - RTX 4090 editions interactivas con Three.js + img2threejs
 - [[PixelRAG]] - RAG visual: indexa webs por screenshots en vez de parsear HTML (+18% QA vs texto)
 - [[Landingfolio MCP]] - MCP con 4.600+ screenshots de las mejores landing pages como referencia para tu agente
+- [[BroMetal]] - Alternativa a Three.js para gráficos 3D en la web (shaders TypeScript → WGSL, WebGPU)
+- [[Comp AI CRM]] - CRM open source y agentic
+- [[scroll-world]] - Skill que genera landing pages de scroll "fly through the world" desde un prompt
 
 # #web

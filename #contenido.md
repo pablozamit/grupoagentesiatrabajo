@@ -9,5 +9,7 @@ Notas con contenido teórico y de referencia:
 - [[El vídeo es código]] - Metodología completa de Borja Perez para crear vídeos de producto con agentes de IA
 - [[Ojos baratos para agentes]] - Técnica de división de trabajo: modelo barato mira, modelo caro razona
 - [[Vibecode It Yourself]] - Guía de 33 SaaS reemplazables con prompts para tu agente de código
+- [[Andrew (@andrewxroas)]] - Fundador que documenta cómo escalar apps a $400-600k MRR: validación, funnel, anuncios y distribución
+- [[Jake Castillo]] - Fundador de Cal AI: 11 tips de distribución, influencers, pricing y "magic moment"
 
 # #contenido

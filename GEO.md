@@ -38,6 +38,11 @@ El resultado: `utm_source=chatgpt.com` en sus analytics.
 
 - [[Best AEO Skill]] — audita y optimiza tu web para que las IAs te citen (ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews). 33 recolectores, 4 vectores de análisis, correcciones automáticas.
 
+## Por qué ahora: la ventana
+
+- Ver [[La ventana del LLM SEO]] — por qué las búsquedas por IA son un "2003 SEO" abierto para los próximos ~18 meses.
+- Ver [[Estudio de AI Overviews (SE Ranking)]] — 82% de búsquedas con AI Overviews, autoridad > expertise, y por qué la IA no cita las páginas que rankean.
+
 Relacionado: [[Marketing Skills]] (incluye OKF de Google), [[8 Prompts de Diseño para Agentes de IA]]
 
 # #seo #web #ia #oportunidades

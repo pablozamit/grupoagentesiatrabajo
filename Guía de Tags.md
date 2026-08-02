@@ -62,6 +62,8 @@ Los hashtags reflejan **para qué sirve** desde el punto de vista del alumno. Ca
 | #investigacion | Investigación académica |
 | #oportunidades | Promociones y ofertas limitadas |
 | #productividad | Gestión del tiempo y productividad |
+| #marketing | Marketing, ventas y escalado de productos |
+| #seo | SEO y optimización de visibilidad (Google y buscadores de IA) |
 
 ---
 
