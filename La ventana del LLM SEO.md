@@ -48,6 +48,7 @@ Las marcas con **cimientos SEO tradicionales solventes** van a "comerse vivos" a
 - La parte práctica de cómo optimizar para IAs: [[GEO]]
 - La herramienta de auditoría: [[Best AEO Skill]]
 - Los datos que respaldan la ventana (50.807 búsquedas y 465.823 citas): [[Estudio de AI Overviews (SE Ranking)]]
+- Los 8 fundamentos de estructura del mismo autor: [[Estructura de página SEO (deno)]]
 - La "nueva mochila de Google" para AI: [[Marketing Skills]] (incluye OKF)
 
 # #seo #contenido #oportunidades
