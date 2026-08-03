@@ -25,6 +25,6 @@ npx skills add metawhisp/best-aeo-skill
 
 midudev lo compartió como ejemplo de que "ya no solo hay que trabajar el SEO" — las IAs necesitan: metadata limpia, rutas estructuradas, robots.txt/sitemap, JSON-LD, contenido con citas y estadísticas, y `llms.txt`.
 
-Relacionado: [[GEO]], [[La ventana del LLM SEO]], [[Marketing Skills]] (OKF de Google), [[8 Prompts de Diseño para Agentes de IA]]
+Relacionado: [[GEO]], [[Marketing Skills]] (OKF de Google), [[8 Prompts de Diseño para Agentes de IA]]
 
 # #web #seo #ia #oportunidades

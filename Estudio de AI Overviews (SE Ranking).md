@@ -58,7 +58,7 @@ La conclusión del autor: **si construyes tu sitio como un folleto, la IA te ign
 
 ## Relacionado
 
-- El porqué de esta ventana: [[La ventana del LLM SEO]]
+- La ventana y el porqué de estos datos: [[GEO]] (sección "La ventana del LLM SEO")
 - La parte práctica de optimización: [[GEO]]
 - Herramientas de auditoría: [[Best AEO Skill]]
 
