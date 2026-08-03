@@ -46,6 +46,6 @@ ak report latest          # genera informe final + borrador de email
 
 Todo queda en `audits/<fecha-cliente>/` con archivos separados: informe técnico, hallazgos, informe final, y borrador de email.
 
-Relacionado: [[Best AEO Skill]], [[GEO]], [[SEO]]
+Relacionado: [[Best AEO Skill]], [[GEO]], [[#seo]]
 
 # #web #seo #herramientas #auditoria

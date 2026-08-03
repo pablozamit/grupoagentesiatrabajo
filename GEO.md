@@ -37,6 +37,7 @@ El resultado: `utm_source=chatgpt.com` en sus analytics.
 ## Skills y herramientas GEO
 
 - [[Best AEO Skill]] — audita y optimiza tu web para que las IAs te citen (ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews). 33 recolectores, 4 vectores de análisis, correcciones automáticas.
+- [[Auditoría SEO]] — plantilla de prompt para una auditoría técnica SEO completa (incluye fase GEO y cierre del ciclo de conversión).
 
 ## La ventana del LLM SEO
 
@@ -96,6 +97,6 @@ Tanto Google como los LLMs **escanean la estructura primero** y el texto despué
 ## Relacionado
 
 - La nota hermana sobre datos: [[Estudio de AI Overviews (SE Ranking)]] — 82% de búsquedas con AI Overviews, autoridad > expertise, y por qué la IA no cita las páginas que rankean.
-- [[Marketing Skills]] (incluye OKF de Google), [[8 Prompts de Diseño para Agentes de IA]], [[SEO]]
+- [[Marketing Skills]] (incluye OKF de Google), [[8 Prompts de Diseño para Agentes de IA]], [[#seo]]
 
 # #seo #web #ia #oportunidades

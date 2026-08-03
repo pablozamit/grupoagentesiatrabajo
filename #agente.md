@@ -42,5 +42,6 @@ Notas sobre agentes de IA:
 - [[Landingfolio MCP]] - MCP con 4.600+ componentes reales de landing pages para dar buen gusto de diseño a tu agente
 - [[TencentDB Agent Memory]] - Hub de memoria local de Tencent: Chat Memory, Skills, Wiki y CodeGraph para equipos de agentes (9.8k ⭐)
 - [[Comp AI CRM]] - CRM open source basado en un agente de investigación durable (agente = producto)
+- [[Skill Recorder]] - Microsoft: haz una tarea una vez y genera un SKILL.md reutilizable para agentes (Scout y 365 Copilot)
 
 # #agente
