@@ -25,4 +25,8 @@ Los buscadores tradicionales están optimizados para humanos: una consulta, una 
 - Creado por: [@shengkun_ye](https://x.com/shengkun_ye) / Monid AI
 - Colaborador: [@OctenAI](https://x.com/OctenAI)
 
+## Relacionado
+
+- [[Acceso a internet desde agentes]] — comparativa completa que incluye a Exa y los buscadores para agentes
+
 # #agente #web
