@@ -1,6 +1,9 @@
 # Otros proyectos (no subir a la enciclopedia)
 _otros_proyectos/
 
+# Notas privadas locales (no subir)
+Herramientas video-audio para agentes (privado).md
+
 # Dependencias
 node_modules/
 

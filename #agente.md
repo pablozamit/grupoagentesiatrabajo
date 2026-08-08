@@ -43,5 +43,6 @@ Notas sobre agentes de IA:
 - [[TencentDB Agent Memory]] - Hub de memoria local de Tencent: Chat Memory, Skills, Wiki y CodeGraph para equipos de agentes (9.8k ⭐)
 - [[Comp AI CRM]] - CRM open source basado en un agente de investigación durable (agente = producto)
 - [[Skill Recorder]] - Microsoft: haz una tarea una vez y genera un SKILL.md reutilizable para agentes (Scout y 365 Copilot)
+- [[Blume]] - Convierte tus correcciones repetidas a tus agentes en skills, reglas, hooks o MCPs durables (local-first)
 
 # #agente
