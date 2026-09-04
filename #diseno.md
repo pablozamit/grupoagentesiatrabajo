@@ -31,5 +31,9 @@ Notas sobre diseño UI/UX:
 - [[Landingfolio MCP]] - 4.600+ componentes de landing pages expuestos como MCP para que tu agente diseñe con buen gusto
 - [[Koboyo Icons]] - 71.000+ iconos SVG hand-drawn gratis, sin atribución (currentColor, búsqueda por sinónimos)
 - [[scroll-world]] - Landing pages de scroll con cámara volando entre escenas 3D generadas por IA
+- [[oil-motion]] - Skill que genera animaciones interactivas web (scroll, mouse, touch) a partir de video IA
+- [[Elemental Sandbox]] - VFX playground de skillshots (5 habilidades) en Three.js con 938 parámetros editables en vivo
+- [[Pexafy]] - Búsqueda semántica de imágenes de stock: 9 fuentes libres, 9M+ fotos, por significado no por keywords
+- [[Dean W. Perkins (@deanwperkins)]] - Tutoriales de webs cinematográficas de $50k con Claude Fable 5 (Three.js + GSAP + scroll)
 
 # #diseno

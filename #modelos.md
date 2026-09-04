@@ -16,5 +16,6 @@ Notas sobre modelos de IA:
 - [[Ojos baratos para agentes]] - Gemini 2.5 Flash-Lite como visión ultrabarata: 1h de YouTube por ~4 céntimos
 - [[Meta TRIBE v2]] - Modelo de Meta que predice actividad cerebral desde inputs multimedia
 - [[PixelRAG]] - Qwen3-VL-Embedding fine-tuned para búsqueda visual sobre screenshots
+- [[Ahmad Osman (@TheAhmadOsman)]] - Fundador de Osmantic: IA local/self-hosted, clústeres GPU y series de LLMs locales
 
 # #modelos

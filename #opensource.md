@@ -5,5 +5,8 @@ Notas sobre herramientas y proyectos open source:
 - [[HyperFrames]] - Framework open source de HeyGen para crear vídeos desde HTML (Apache 2.0, 37.7k ⭐)
 - [[PixelRAG]] - RAG visual open source del Berkeley SkyLab (Apache 2.0, 7.4k ⭐)
 - [[TencentDB Agent Memory]] - Hub de memoria local para agentes (MIT, 9.8k ⭐)
+- [[Elemental Sandbox]] - VFX playground open source de skillshots en Three.js (5 habilidades, GLSL, 938 sliders)
+- [[oil-motion]] - Skill open source que conecta video IA generado a interacciones web (MIT)
+- [[World Monitor]] - Dashboard de inteligencia global open source (AGPL-3.0, 65k ⭐): 500+ feeds, globo 3D, MCP server
 
 # #opensource

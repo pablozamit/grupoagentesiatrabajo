@@ -18,12 +18,13 @@ Notas sobre skills instalables para agentes de IA:
 - [[Zen Browser]] - Firefox fork controlable por agentes de IA
 - [[Browser Use]] - Navegador controlado por IA
 - [[Open Design]] - 100+ skills de diseño open source
-- [[OpenMontage]] - 500+ skills de video open source
+- [[OpenMontage]] - 700+ skills de video open source (AGPL-3.0, 50.9k ⭐)
 - [[HyperFrames]] - Skills de color grading, media treatment y templates para agentes (`--full-depth`)
 - [[Orca]] - IDE agéntico con CLI para scripting de worktrees, snapshots y control de navegador
 - [[Noqa]] - CLI de QA visual para conectar coding agents a dispositivos móviles reales
 - [[scroll-world]] - Skill que genera landing pages "fly through the world" con scroll (cámara que vuela sin cortes) desde un prompt
 - [[Skill Recorder]] - Microsoft: graba cómo haces una tarea una vez y genera un SKILL.md reutilizable (no RPA de coordenadas)
 - [[Blume]] - Observa tus correcciones a los agentes y las convierte en skills, reglas, hooks o MCPs durables
+- [[oil-motion]] - Skill que conecta animaciones generadas por IA en video a scroll, mouse, drag y touch en la web
 
 # #skills

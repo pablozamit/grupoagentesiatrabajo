@@ -83,6 +83,8 @@ Es la práctica de diseñar y construir el sistema alrededor del modelo. Incluye
 
 Un buen harness es el que hace que el agente **funcione sin que tengas que estar vigilándolo**.
 
+Para llevarlo a la práctica hay un curso completo, hands-on y gratis (14 lecciones + 8 proyectos): [[Learn Harness Engineering]].
+
 ## Enlaces relacionados
 
 - [[Hermes Agent]] — ejemplo de agente con harness modular

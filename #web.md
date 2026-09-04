@@ -35,6 +35,9 @@ Notas sobre desarrollo web:
 - [[Landingfolio MCP]] - MCP con 4.600+ screenshots de las mejores landing pages como referencia para tu agente
 - [[BroMetal]] - Alternativa a Three.js para gráficos 3D en la web (shaders TypeScript → WGSL, WebGPU)
 - [[Comp AI CRM]] - CRM open source y agentic
+- [[Dean W. Perkins (@deanwperkins)]] - Tutoriales de webs cinematográficas con Claude Fable 5 (Three.js + GSAP)
 - [[scroll-world]] - Skill que genera landing pages de scroll "fly through the world" desde un prompt
+- [[oil-motion]] - Skill que convierte video IA generado en animaciones web controladas por scroll, mouse o touch
+- [[Pexafy]] - API de búsqueda semántica de imágenes de stock (9 fuentes, 9M+ fotos, 5k requests/mes gratis)
 
 # #web

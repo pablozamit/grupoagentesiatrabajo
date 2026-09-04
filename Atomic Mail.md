@@ -27,6 +27,6 @@ Open alpha gratuito. Conectores open source en [GitHub](https://github.com/atomi
 - El alcance de herramientas y los gates de aprobación viven en tu orquestación
 - El agente tiene su propia dirección separada — no comparte tu inbox
 
-Relacionado: [[Here.Now]] (hosting para agentes), [[Agent-Reach]] (acceso a internet), [[Firecrawl]] (scraping para agentes), [[Marketing Skills]]
+Relacionado: [[Here.Now]] (hosting para agentes), [[Agent-Reach]] (acceso a internet), [[Firecrawl]] (scraping para agentes), [[Marketing Skills]], [[free-for.dev]] (más servicios gratis para agentes)
 
 # #agente #web #ia #oportunidades

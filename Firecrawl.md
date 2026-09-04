@@ -105,6 +105,6 @@ URL: [firecrawl.dev/mcp](https://firecrawl.dev/mcp)
 - Documentación: [docs.firecrawl.dev](https://docs.firecrawl.dev)
 - Servidor MCP: [github.com/mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server)
 
-Relacionado: [[Hermes Agent]] — el agente donde se instala por defecto.
+Relacionado: [[Hermes Agent]] — el agente donde se instala por defecto. [[free-for.dev]] — más servicios con free tier para infra de agentes.
 
 # #agente #web #contenido

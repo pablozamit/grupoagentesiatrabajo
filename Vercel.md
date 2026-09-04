@@ -54,7 +54,7 @@
 
 ## Precio
 
-- **Free**: 100GB bandwidth, funciones limitadas
+- **Free**: 100GB bandwidth, funciones limitadas (ver [[free-for.dev]] para más servicios gratis)
 - **Pro**: $20/mes por usuario
 - **Enterprise**: Custom
 

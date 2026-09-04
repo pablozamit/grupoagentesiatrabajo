@@ -18,5 +18,7 @@ Notas sobre vibecoding:
 - [[Vibecode It Yourself]] - 33 SaaS que puedes reemplazar vibecodeando tú mismo, con prompts completos
 - [[Personajes 3D jugables desde IA]] - Pipeline de vibecoding: imagen a personaje 3D animado en tu motor de juego
 - [[The Complete Shelf]] - Proyecto Three.js open source de Meng To con el prompt completo para remezclarlo
+- [[Learn Harness Engineering]] - Curso gratuito para hacer fiable a tu agente de vibecoding: estado, scope, verificación y loops
+- [[Fable Orchestrator]] - Reparte el trabajo entre Fable 5.1 (planifica) + Luna/DeepSeek Flash (implementan) para no agotar límites
 
 # #vibecoding

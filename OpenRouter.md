@@ -68,4 +68,6 @@ curl -X POST https://openrouter.ai/api/v1/chat/completions \
 - Los créditos gratuitos pueden tener límites diarios
 - Los modelos de pago tienen mejor calidad
 
+Para más servicios de IA con free tier, ver [[free-for.dev]].
+
 # #modelos #contenido

@@ -21,7 +21,7 @@ Notas sobre agentes de IA:
 - [[Marketing Skills]] - 44 skills open source para agentes de IA (SEO, marketing y OKF de Google)
 - [[Browser Use]] - Automatización de navegador con agentes de IA (99.4k estrellas)
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Muchas herramientas con MCP (Godot, Unity, Unreal, Blender, Higgsfield, ElevenLabs, GitHub)
-- [[OpenMontage]] - Producción de video agentic open source (12 pipelines, 52 tools, 500+ skills)
+- [[OpenMontage]] - Producción de video agentic open source (12 pipelines, 100+ tools, 700+ skills, 60+ proveedores)
 - [[Codex]] - Agente de código de OpenAI (incluido en ChatGPT, CLI, IDE, MCP)
 - [[Taste-Skill]] - Framework de skills de diseño anti-slop para agentes de IA (68.5k ⭐)
 - [[Atomic Mail]] - Email API-first para agentes: su propio inbox sin verificación humana
@@ -44,5 +44,13 @@ Notas sobre agentes de IA:
 - [[Comp AI CRM]] - CRM open source basado en un agente de investigación durable (agente = producto)
 - [[Skill Recorder]] - Microsoft: haz una tarea una vez y genera un SKILL.md reutilizable para agentes (Scout y 365 Copilot)
 - [[Blume]] - Convierte tus correcciones repetidas a tus agentes en skills, reglas, hooks o MCPs durables (local-first)
+- [[oil-motion]] - Skill de agente que genera animaciones web interactivas (video IA + scroll/mouse/touch)
+- [[free-for.dev]] - 1.600+ servicios con free tier para infra de agentes: DBs, APIs, hosting, email, IA (132k ⭐)
+- [[grokbot.dev use-cases]] - Directorio de prompts reales para Grok Bot (y transferibles a otros agentes), extraídos de X
+- [[Pexafy]] - API semántica de imágenes de stock para agentes: 9 fuentes libres con una sola key
+- [[World Monitor]] - Dashboard de inteligencia global con servidor MCP para agentes (conflictos, mercados, risk scores)
+- [[Learn Harness Engineering]] - Curso gratis de harness engineering: estructura el repo, controla scope y verifica el trabajo de tu agente
+- [[Rerun]] - Plataforma para crear agentes que piloten tu negocio: 60+ templates, 190+ connectors, Box privado en la nube
+- [[Fable Orchestrator]] - Skill de routing para Codex: Fable 5.1 planifica, GPT-5.6 Luna y DeepSeek Flash implementan (sin límites de uso)
 
 # #agente

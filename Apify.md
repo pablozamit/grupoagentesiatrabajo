@@ -34,7 +34,7 @@
 
 ## Precio
 
-- Gratis con limitaciones
+- Gratis con limitaciones ($5 de créditos/mes incluidos, ver [[free-for.dev]])
 - Planes de pago desde $5/mes
 
 ## Enlace

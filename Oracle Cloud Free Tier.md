@@ -15,4 +15,6 @@
 - Desplegar Docker con agentes, APIs, bases de datos
 - Servidor ligero 24/7 para proyectos personales
 
+Para más servicios con tiers gratuitos, ver [[free-for.dev]] (1.600+ servicios catalogados).
+
 # #hosting #oportunidades #recursos
