@@ -18,6 +18,18 @@ Vercel construye desde `main`. El build ejecuta `npx quartz build --directory .`
 4. `git push origin main`
 5. Vercel despliega automáticamente
 
+## REGLA IMPRESCINDIBLE: commit + push tras CADA tanda de cambios
+
+**Cada vez que yo termine de editar archivos** (añadir notas, actualizar tags, corregir cross-links, etc.), **debo commitear y pushear inmediatamente al terminar**, sin esperar a que el usuario lo pida. No se acumulan cambios sin publicar.
+
+- **Al terminar cualquier tanda de ediciones**: `git add -A .` → `git commit -m "docs: <resumen>"` → `git push origin main`
+- **En una sesión larga**: puedo agrupar 2-3 cambios relacionados en un commit, pero nunca cerrar la sesión dejando trabajo sin commitear
+- **Verificar siempre**: antes de terminar, `git status` debe mostrar el working tree limpio (o el push hecho)
+- **Notas privadas**: `git check-ignore` para confirmar que las notas marcadas como privadas NO se suben
+- Si un commit/push falla, resolverlo en el momento, no dejarlo para después
+
+Esto es una orden permanente del usuario, no una sugerencia: la web (Vercel) solo se actualiza cuando hay push, así que cada edición debe llegar a `main`.
+
 ## Reglas de la vault
 
 - Todo en español (incluso bloques de código y tablas)
