@@ -17,5 +17,6 @@ Notas sobre modelos de IA:
 - [[Meta TRIBE v2]] - Modelo de Meta que predice actividad cerebral desde inputs multimedia
 - [[PixelRAG]] - Qwen3-VL-Embedding fine-tuned para búsqueda visual sobre screenshots
 - [[Ahmad Osman (@TheAhmadOsman)]] - Fundador de Osmantic: IA local/self-hosted, clústeres GPU y series de LLMs locales
+- [[Open Generative AI]] - 400+ modelos de imagen/video/audio en un solo estudio self-hosted (Flux, Midjourney, Kling, Sora, Veo)
 
 # #modelos

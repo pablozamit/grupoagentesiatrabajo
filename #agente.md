@@ -52,5 +52,7 @@ Notas sobre agentes de IA:
 - [[Learn Harness Engineering]] - Curso gratis de harness engineering: estructura el repo, controla scope y verifica el trabajo de tu agente
 - [[Rerun]] - Plataforma para crear agentes que piloten tu negocio: 60+ templates, 190+ connectors, Box privado en la nube
 - [[Fable Orchestrator]] - Skill de routing para Codex: Fable 5.1 planifica, GPT-5.6 Luna y DeepSeek Flash implementan (sin límites de uso)
+- [[RTK (Rust Token Killer)]] - Proxy que corta hasta 90% del output de bash que tu agente lee (ahorra tokens)
+- [[Camofox Browser]] - Navegador anti-detección para agentes: esquiva Cloudflare/bots, refs estables, search macros
 
 # #agente

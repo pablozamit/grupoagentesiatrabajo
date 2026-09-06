@@ -18,5 +18,8 @@ Notas con contenido teórico y de referencia:
 - [[Learn Harness Engineering]] - Curso gratuito de harness engineering: 14 lecciones + 8 proyectos prácticos (disponible en español)
 - [[Fable Orchestrator]] - Skill de routing multi-modelo para Codex: Fable planifica, Luna/DeepSeek implementan
 - [[Dean W. Perkins (@deanwperkins)]] - Tutoriales de webs cinematográficas con IA (Claude Fable 5) y repos de herramientas
+- [[NotFair Plugin]] - 45 skills de SEO/GEO/marketing evidence-led para agentes de IA
+- [[RTK (Rust Token Killer)]] - Cómo un proxy en Rust corta hasta 90% del output de bash que lee tu agente
+- [[NOSignups.net]] - Directorio de 245 herramientas open source sin registro (funcionan en el navegador)
 
 # #contenido

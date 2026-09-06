@@ -8,5 +8,7 @@ Notas sobre gestión del tiempo y productividad:
 - [[Vibecode It Yourself]] - 33 SaaS que puedes reemplazar construyendo tu versión (prompts incluidos)
 - [[grokbot.dev use-cases]] - Prompts reales de agentes para automatizar personal y trabajo (Be Happier, Chief of Staff, workforce checker)
 - [[Rerun]] - Agentes que pilotan tu negocio 24/7: elige tarea, conecta tus tools, corre en tu Box mientras duermes
+- [[RTK (Rust Token Killer)]] - Ahorra tokens: corta hasta 90% del output de bash que lee tu agente (79k ⭐)
+- [[NOSignups.net]] - 245 herramientas open source sin registro que corren en tu navegador (sin muros de signup)
 
 # #productividad

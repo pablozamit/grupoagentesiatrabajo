@@ -26,5 +26,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[Skill Recorder]] - Microsoft: graba cómo haces una tarea una vez y genera un SKILL.md reutilizable (no RPA de coordenadas)
 - [[Blume]] - Observa tus correcciones a los agentes y las convierte en skills, reglas, hooks o MCPs durables
 - [[oil-motion]] - Skill que conecta animaciones generadas por IA en video a scroll, mouse, drag y touch en la web
+- [[NotFair Plugin]] - 45 skills de SEO/GEO/marketing para agentes, evidence-led y host-agnostic (MIT)
 
 # #skills

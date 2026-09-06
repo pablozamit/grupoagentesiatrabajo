@@ -11,5 +11,6 @@ Notas sobre video:
 - [[El vídeo es código]] - Metodología de Borja Perez: crear vídeos de producto con Remotion + agentes de IA
 - [[oil-motion]] - Skill que mapea animaciones de video IA a scroll, mouse, drag y touch en la web
 - [[Pexafy]] - Búsqueda semántica de imágenes de archivo (9 fuentes libres) para alimentar montajes y footage
+- [[Open Generative AI]] - Estudio de generación de imagen/video self-hosted con 400+ modelos y 14 estudios (sin filtros)
 
 # #video

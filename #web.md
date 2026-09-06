@@ -36,6 +36,8 @@ Notas sobre desarrollo web:
 - [[BroMetal]] - Alternativa a Three.js para gráficos 3D en la web (shaders TypeScript → WGSL, WebGPU)
 - [[Comp AI CRM]] - CRM open source y agentic
 - [[Dean W. Perkins (@deanwperkins)]] - Tutoriales de webs cinematográficas con Claude Fable 5 (Three.js + GSAP)
+- [[Camofox Browser]] - Navegador anti-detección para agentes: esquiva Cloudflare/bots, refs estables, macros de búsqueda
+- [[NOSignups.net]] - Directorio de herramientas open source sin registro que corren en el navegador (245 tools)
 - [[scroll-world]] - Skill que genera landing pages de scroll "fly through the world" desde un prompt
 - [[oil-motion]] - Skill que convierte video IA generado en animaciones web controladas por scroll, mouse o touch
 - [[Pexafy]] - API de búsqueda semántica de imágenes de stock (9 fuentes, 9M+ fotos, 5k requests/mes gratis)
