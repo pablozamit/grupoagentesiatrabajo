@@ -29,5 +29,6 @@ Notas con contenido teórico y de referencia:
 - [[Truco HAR → API MCP]] - Truco: crea una API/MCP de cualquier web desde su tráfico HAR capturado en DevTools
 - [[Auditoría de agencia (delivery doc)]] - Framework de Luke Pierce: estructura de una auditoría de $3-5K que hace inevitable el build
 - [[Recent Design]] - Plataforma de inspiración de diseño curada (webs, App Store screenshots, iconos, OG images)
+- [[Laws of UX]] - Colección de mejores prácticas de diseño basadas en psicología (Jon Yablonski, en español)
 
 # #contenido

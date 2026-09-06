@@ -40,5 +40,6 @@ Notas sobre diseño UI/UX:
 - [[react-native-morph-view]] - Vista React Native que morphs una imagen en otra con efecto gooey (Metal/AGSL)
 - [[Recent Design]] - Plataforma de inspiración de diseño: webs, screenshots de App Store, iconos y los mejores diseños de X
 - [[Cursor Design (Open Design)]] - AI design studio open source local-first: point/comment/edit con tu agente
+- [[Laws of UX]] - Las leyes de psicología aplicadas al diseño UI (Fitts, Hick, Jakob, Gestalt...) — el porqué de que un diseño funcione
 
 # #diseno

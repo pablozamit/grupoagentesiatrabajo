@@ -45,5 +45,6 @@ Notas sobre desarrollo web:
 - [[Moli Browser]] - Navegador headless Rust para agentes: estructura primero, render bajo demanda, 3 protocolos
 - [[AG-UI + CopilotKit]] - Protocolo para que agentes rendericen UI y actúen dentro de apps web (React/Next/Angular)
 - [[Truco HAR → API MCP]] - Convierte cualquier web en API/MCP grabando su tráfico de red en DevTools
+- [[Laws of UX]] - Mejores prácticas de diseño web basadas en psicología (Fitts, Hick, Jakob, Gestalt)
 
 # #web
