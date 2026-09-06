@@ -35,5 +35,6 @@ Notas sobre diseño UI/UX:
 - [[Elemental Sandbox]] - VFX playground de skillshots (5 habilidades) en Three.js con 938 parámetros editables en vivo
 - [[Pexafy]] - Búsqueda semántica de imágenes de stock: 9 fuentes libres, 9M+ fotos, por significado no por keywords
 - [[Dean W. Perkins (@deanwperkins)]] - Tutoriales de webs cinematográficas de $50k con Claude Fable 5 (Three.js + GSAP + scroll)
+- [[Cedar Filmstrip]] - Carrusel multi-card accesible y data-driven (adapter-based) del design system Cedar de REI (Vue 3)
 
 # #diseno

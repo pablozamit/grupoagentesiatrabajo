@@ -41,5 +41,6 @@ Notas sobre desarrollo web:
 - [[scroll-world]] - Skill que genera landing pages de scroll "fly through the world" desde un prompt
 - [[oil-motion]] - Skill que convierte video IA generado en animaciones web controladas por scroll, mouse o touch
 - [[Pexafy]] - API de búsqueda semántica de imágenes de stock (9 fuentes, 9M+ fotos, 5k requests/mes gratis)
+- [[Cedar Filmstrip]] - Carrusel multi-card de Vue 3 (adapter-based) del design system Cedar de REI
 
 # #web

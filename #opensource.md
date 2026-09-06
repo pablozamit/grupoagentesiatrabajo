@@ -12,5 +12,6 @@ Notas sobre herramientas y proyectos open source:
 - [[RTK (Rust Token Killer)]] - Proxy CLI en Rust que corta hasta 90% del output de bash para tu agente (Apache-2.0, 79k ⭐)
 - [[Camofox Browser]] - Navegador anti-detección para agentes (MIT, 9.2k ⭐): esquiva Cloudflare/bot detection
 - [[NOSignups.net]] - Directorio de 245 herramientas open source sin registro que corren en el navegador
+- [[Cedar Filmstrip]] - Carrusel accesible data-driven del design system Cedar de REI (MIT, Vue 3)
 
 # #opensource
