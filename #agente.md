@@ -59,5 +59,6 @@ Notas sobre agentes de IA:
 - [[Lieflat Charts]] - Skill de gráficos HTML editoriales para agentes (60+ tipos, reportes)
 - [[Bento]] - Presentaciones en un archivo HTML con JSON plano editable por agentes (PowerPoint alternativo)
 - [[Despliegue de IA en empresa (3 etapas)]] - Modelo de Toni Perez: por qué el salto a IA empresarial va de datos, accesos y trazabilidad
+- [[HarnessRouter + UHP]] - Interfaz unificada self-hosted para agent harnesses: Codex/Claude Code/Hermes detrás de una API
 
 # #agente

@@ -15,5 +15,6 @@ Notas sobre herramientas y proyectos open source:
 - [[Cedar Filmstrip]] - Carrusel accesible data-driven del design system Cedar de REI (MIT, Vue 3)
 - [[Bento]] - Suite de oficina en un archivo HTML (MIT, 4.8k ⭐): PowerPoint alternativo local-first
 - [[Moli Browser]] - Navegador headless Rust para agentes (Apache-2.0/MIT, 1.7k ⭐): structure-first, memoria mínima
+- [[HarnessRouter + UHP]] - Router self-hosted de agent harnesses (Apache-2.0) + protocolo UHP abierto para tareas de agentes
 
 # #opensource

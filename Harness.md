@@ -85,6 +85,8 @@ Un buen harness es el que hace que el agente **funcione sin que tengas que estar
 
 Para llevarlo a la práctica hay un curso completo, hands-on y gratis (14 lecciones + 8 proyectos): [[Learn Harness Engineering]].
 
+Y si quieres la capa de harness como infraestructura compartida (sin construirla tú), existe **HarnessRouter + UHP**: una interfaz unificada self-hosted que expone Codex, Claude Code, Hermes y más detrás de una sola API compatible con Responses, bajo el estándar abierto [[HarnessRouter + UHP|UHP]].
+
 ## Enlaces relacionados
 
 - [[Hermes Agent]] — ejemplo de agente con harness modular
