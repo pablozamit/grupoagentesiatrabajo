@@ -10,7 +10,7 @@ Esta guía enumera 40 herramientas con precio, para qué usarla, cómo funciona 
 
 | Herramienta | Precio | Descripción | Cómo se conecta con IA |
 |-------------|--------|-------------|------------------------|
-| **Godot** | Gratuito, open source | El estándar indie; GDScript o C#. Prototipa y exporta a web y desktop. | Godot MCP o Summer Engine agent |
+| **[[Godot]]** | Gratuito, open source | El estándar indie; GDScript o C#. Prototipa y exporta a web y desktop. | Godot MCP o Summer Engine agent |
 | **Unity** | Gratuito | C#, asset store enorme, publica en todas partes. | Unity MCP + AI assist integrado |
 | **Unreal Engine** | Gratuito (royalties) | Visuales AAA con Nanite y Lumen. Para 3D cinematográfico. | Unreal MCP oficial en 5.8 |
 | **Bevy** | Gratuito, open source | Rust, ECS, data-driven. Control total del bucle. | El agente escribe Rust contigo |

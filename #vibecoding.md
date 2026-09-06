@@ -22,6 +22,7 @@ Notas sobre vibecoding:
 - [[Cedar Filmstrip]] - Componente de carrusel Vue 3 de producción (REI) para copiar/adaptar con tu agente
 - [[react-native-morph-view]] - Componente RN de morph gooey para remezclar con tu agente (Metal/AGSL)
 - [[Cursor Design (Open Design)]] - AI design studio open source: tu agente edita UI por point/comment/edit
+- [[Godot]] - El motor de juegos del vibecoding: open source, GDScript fácil de generar con IA, MCP para tu agente
 - [[Fable Orchestrator]] - Reparte el trabajo entre Fable 5.1 (planifica) + Luna/DeepSeek Flash (implementan) para no agotar límites
 
 # #vibecoding
