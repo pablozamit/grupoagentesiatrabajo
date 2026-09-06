@@ -42,5 +42,6 @@ Notas sobre desarrollo web:
 - [[oil-motion]] - Skill que convierte video IA generado en animaciones web controladas por scroll, mouse o touch
 - [[Pexafy]] - API de búsqueda semántica de imágenes de stock (9 fuentes, 9M+ fotos, 5k requests/mes gratis)
 - [[Cedar Filmstrip]] - Carrusel multi-card de Vue 3 (adapter-based) del design system Cedar de REI
+- [[Moli Browser]] - Navegador headless Rust para agentes: estructura primero, render bajo demanda, 3 protocolos
 
 # #web

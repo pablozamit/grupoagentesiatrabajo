@@ -54,5 +54,10 @@ Notas sobre agentes de IA:
 - [[Fable Orchestrator]] - Skill de routing para Codex: Fable 5.1 planifica, GPT-5.6 Luna y DeepSeek Flash implementan (sin límites de uso)
 - [[RTK (Rust Token Killer)]] - Proxy que corta hasta 90% del output de bash que tu agente lee (ahorra tokens)
 - [[Camofox Browser]] - Navegador anti-detección para agentes: esquiva Cloudflare/bots, refs estables, search macros
+- [[Moli Browser]] - Navegador headless en Rust para agentes: structure-first, 1/7 de la memoria de Chrome, CDP/WebDriver
+- [[Three.js Game Skills (Majid Manzarpour)]] - Skills para que tu agente construya juegos Three.js completos con QA por evidencia
+- [[Lieflat Charts]] - Skill de gráficos HTML editoriales para agentes (60+ tipos, reportes)
+- [[Bento]] - Presentaciones en un archivo HTML con JSON plano editable por agentes (PowerPoint alternativo)
+- [[Despliegue de IA en empresa (3 etapas)]] - Modelo de Toni Perez: por qué el salto a IA empresarial va de datos, accesos y trazabilidad
 
 # #agente

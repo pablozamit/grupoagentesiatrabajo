@@ -10,5 +10,7 @@ Notas sobre gestión del tiempo y productividad:
 - [[Rerun]] - Agentes que pilotan tu negocio 24/7: elige tarea, conecta tus tools, corre en tu Box mientras duermes
 - [[RTK (Rust Token Killer)]] - Ahorra tokens: corta hasta 90% del output de bash que lee tu agente (79k ⭐)
 - [[NOSignups.net]] - 245 herramientas open source sin registro que corren en tu navegador (sin muros de signup)
+- [[Bento]] - Suite de oficina en un archivo HTML: PowerPoint alternativo local-first, editable por agentes
+- [[Despliegue de IA en empresa (3 etapas)]] - Modelo de Toni Perez sobre productividad personal → agentes → datos con gobernanza
 
 # #productividad

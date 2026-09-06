@@ -27,5 +27,7 @@ Notas sobre skills instalables para agentes de IA:
 - [[Blume]] - Observa tus correcciones a los agentes y las convierte en skills, reglas, hooks o MCPs durables
 - [[oil-motion]] - Skill que conecta animaciones generadas por IA en video a scroll, mouse, drag y touch en la web
 - [[NotFair Plugin]] - 45 skills de SEO/GEO/marketing para agentes, evidence-led y host-agnostic (MIT)
+- [[Three.js Game Skills (Majid Manzarpour)]] - 9 skills para construir juegos Three.js completos (director, gameplay, AAA graphics, QA, 3D/Image/Audio gen)
+- [[Lieflat Charts]] - Skill de data viz de estética editorial: 60+ tipos de gráfico HTML y reportes (Lupi/Glance/Basics)
 
 # #skills

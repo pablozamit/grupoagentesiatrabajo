@@ -9,5 +9,6 @@ Promociones, ofertas de bienvenida y ventajas temporales que son útiles mientra
 - [[free-for.dev]] - 1.600+ servicios con tiers gratuitos permanentes (no trials): hosting, DBs, APIs, DNS, email... (132k ⭐)
 - [[Rerun]] - 7-day free trial + plan desde $24/mes: 3 agentes, Box privado, 190+ connectors, ejecuciones ilimitadas
 - [[Camofox Browser]] - Navegador anti-detección gratis (MIT): esquiva Cloudflare/bots sin coste de API
+- [[Moli Browser]] - Navegador headless gratis y open source: memoria mínima para VPS de 1GB y servidores ligeros
 
 # #oportunidades

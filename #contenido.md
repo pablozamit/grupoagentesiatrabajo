@@ -21,5 +21,9 @@ Notas con contenido teórico y de referencia:
 - [[NotFair Plugin]] - 45 skills de SEO/GEO/marketing evidence-led para agentes de IA
 - [[RTK (Rust Token Killer)]] - Cómo un proxy en Rust corta hasta 90% del output de bash que lee tu agente
 - [[NOSignups.net]] - Directorio de 245 herramientas open source sin registro (funcionan en el navegador)
+- [[Bento]] - Presentaciones en un solo archivo HTML (JSON plano editable por agentes y chatbots)
+- [[Lieflat Charts]] - Skill de data viz editorial: gráficos HTML de 60+ tipos y reportes para agentes
+- [[Despliegue de IA en empresa (3 etapas)]] - Modelo de Toni Perez: las 3 etapas del despliegue de IA empresarial
+- [[Pietro Schirano (@skirano)]] - Creador de Claude Engineer/DesignerGPT, demos de 3D y agentes con modelos frontier
 
 # #contenido
