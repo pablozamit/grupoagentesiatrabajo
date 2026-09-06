@@ -43,5 +43,7 @@ Notas sobre desarrollo web:
 - [[Pexafy]] - API de búsqueda semántica de imágenes de stock (9 fuentes, 9M+ fotos, 5k requests/mes gratis)
 - [[Cedar Filmstrip]] - Carrusel multi-card de Vue 3 (adapter-based) del design system Cedar de REI
 - [[Moli Browser]] - Navegador headless Rust para agentes: estructura primero, render bajo demanda, 3 protocolos
+- [[AG-UI + CopilotKit]] - Protocolo para que agentes rendericen UI y actúen dentro de apps web (React/Next/Angular)
+- [[Truco HAR → API MCP]] - Convierte cualquier web en API/MCP grabando su tráfico de red en DevTools
 
 # #web

@@ -19,5 +19,6 @@ Notas sobre videojuegos:
 - [[Personajes 3D jugables desde IA]] - Workflow completo: imagen → pose T → Trellis → rigging con Claude → Godot/Blender MCP
 - [[Elemental Sandbox]] - VFX playground de skillshots: 5 habilidades (Frost Lance, Nova Beam, Voltaic Snare) en Three.js
 - [[Three.js Game Skills (Majid Manzarpour)]] - 9 skills para construir juegos Three.js completos con evidencia de QA (Tripo, Gemini, ElevenLabs)
+- [[GoRest 2D Spritesheet Generator]] - Generador de spritesheets 2D con fake-3D rotation (rotación 360° desde arte 2D, 48 vistas)
 
 # #juegos

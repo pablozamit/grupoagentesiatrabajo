@@ -16,5 +16,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Bento]] - Suite de oficina en un archivo HTML (MIT, 4.8k ⭐): PowerPoint alternativo local-first
 - [[Moli Browser]] - Navegador headless Rust para agentes (Apache-2.0/MIT, 1.7k ⭐): structure-first, memoria mínima
 - [[HarnessRouter + UHP]] - Router self-hosted de agent harnesses (Apache-2.0) + protocolo UHP abierto para tareas de agentes
+- [[CopilotKit]] - Stack frontend para agentes y generative UI (MIT): embedir agentes en apps
+- [[Cactus Needle 2]] - LLM agentic on-device open (Apache-2.0): 14MB, tool-calling para dispositivos diminutos
 
 # #opensource

@@ -60,5 +60,9 @@ Notas sobre agentes de IA:
 - [[Bento]] - Presentaciones en un archivo HTML con JSON plano editable por agentes (PowerPoint alternativo)
 - [[Despliegue de IA en empresa (3 etapas)]] - Modelo de Toni Perez: por qué el salto a IA empresarial va de datos, accesos y trazabilidad
 - [[HarnessRouter + UHP]] - Interfaz unificada self-hosted para agent harnesses: Codex/Claude Code/Hermes detrás de una API
+- [[AG-UI + CopilotKit]] - Protocolo abierto para embedir agentes (Hermes) en apps: generative UI, actuar en la página, human-in-the-loop
+- [[CopilotKit]] - Stack frontend para agentes y generative UI (MIT): el agente renderiza UI y actúa sobre la app
+- [[Truco HAR → API MCP]] - Crea una API/MCP de cualquier web grabando su tráfico HAR y dándoselo a Claude
+- [[Cactus Needle 2]] - LLM agentic de 14MB para tool-calling en dispositivos diminutos (edge <$200)
 
 # #agente

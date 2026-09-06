@@ -25,5 +25,7 @@ Notas con contenido teórico y de referencia:
 - [[Lieflat Charts]] - Skill de data viz editorial: gráficos HTML de 60+ tipos y reportes para agentes
 - [[Despliegue de IA en empresa (3 etapas)]] - Modelo de Toni Perez: las 3 etapas del despliegue de IA empresarial
 - [[Pietro Schirano (@skirano)]] - Creador de Claude Engineer/DesignerGPT, demos de 3D y agentes con modelos frontier
+- [[AG-UI + CopilotKit]] - Cómo un agente terminal-capable (Hermes) vive dentro de una app vía protocolo AG-UI
+- [[Truco HAR → API MCP]] - Truco: crea una API/MCP de cualquier web desde su tráfico HAR capturado en DevTools
 
 # #contenido

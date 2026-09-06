@@ -18,5 +18,6 @@ Notas sobre modelos de IA:
 - [[PixelRAG]] - Qwen3-VL-Embedding fine-tuned para búsqueda visual sobre screenshots
 - [[Ahmad Osman (@TheAhmadOsman)]] - Fundador de Osmantic: IA local/self-hosted, clústeres GPU y series de LLMs locales
 - [[Open Generative AI]] - 400+ modelos de imagen/video/audio en un solo estudio self-hosted (Flux, Midjourney, Kling, Sora, Veo)
+- [[Cactus Needle 2]] - LLM agentic de 14MB para dispositivos diminutos (45M params, tool-calling on-device, 28MB RAM)
 
 # #modelos

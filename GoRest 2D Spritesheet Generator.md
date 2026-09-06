@@ -26,6 +26,33 @@ Normalmente crear sprites y montar escenas de juego requiere programas como Spin
 - **Cada spritesheet lleva metadatos**: nombre del movimiento, dirección (izquierda/derecha), si se repite en bucle, etc.
 - **Todo se guarda localmente** en tu ordenador
 
+## Fake 3D Object Rotation (nuevo)
+
+La feature estrella: **presenta un spritesheet 2D como un objeto 3D rotable**. No carga un modelo 3D en tiempo real; **cambia entre vistas pre-renderizadas del mismo objeto** al arrastrar el preview. Ligero, con fondo transparente, listo para juegos 2D.
+
+- Arrastra **izquierda/derecha** para rotar el azimut; **arriba/abajo** para cambiar la elevación de cámara
+- Modo **Auto rotate** (turntable continuo) o **Stop rotate** (manual)
+- El HUD muestra el azimut y elevación activos
+- Ejemplo incluido: mapache con **16 ángulos horizontales × 3 elevaciones** (+30°, 0°, -30°) = **48 vistas**
+- Exporta spritesheet, GIF o video
+
+Metadata para activar el modo:
+
+```json
+{
+  "frameCount": 48,
+  "gridColumns": 16,
+  "viewMode": "object-rotate",
+  "viewAzimuthFrames": 16,
+  "viewElevationFrames": 3,
+  "viewElevationAngles": [30, 0, -30],
+  "viewDragSensitivity": 18,
+  "viewVerticalDragSensitivity": 58
+}
+```
+
+Para rotación limpia: identidad, escala, iluminación, ancla central y contacto con el suelo consistentes en cada frame; frames de igual dimensión y padding transparente alrededor del silueta completa.
+
 ## Para qué tipo de juegos sirve
 
 Está pensado sobre todo para **juegos de desplazamiento lateral** (los de toda la vida tipo plataformas, aventuras gráficas, run 'n' gun). Pero los sprites se pueden usar en cualquier motor de juego.
@@ -42,6 +69,8 @@ npm run dev
 ```
 
 Se abre en `http://localhost:3000`.
+
+También hay versión hosted en [sprite.gorest.ai](https://sprite.gorest.ai) (en el navegador, sin instalación). El modelo recomendado para el flujo Codex es GPT-5.5. El flujo "no-UI": en vez de operar controles, describes el tool/workflow que necesitas y Codex cambia el software para que coincida.
 
 ## Ejemplo de uso con Codex
 
