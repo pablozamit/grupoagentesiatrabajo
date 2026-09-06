@@ -18,5 +18,8 @@ Notas sobre herramientas y proyectos open source:
 - [[HarnessRouter + UHP]] - Router self-hosted de agent harnesses (Apache-2.0) + protocolo UHP abierto para tareas de agentes
 - [[CopilotKit]] - Stack frontend para agentes y generative UI (MIT): embedir agentes en apps
 - [[Cactus Needle 2]] - LLM agentic on-device open (Apache-2.0): 14MB, tool-calling para dispositivos diminutos
+- [[react-native-morph-view]] - Vista RN de morph gooey open source (MIT, Metal + AGSL)
+- [[Cursor Design (Open Design)]] - AI design studio open source (Apache-2.0, local-first, BYOK)
+- [[Cloudflare Agentic Inbox]] - Email self-hosted con agente IA (Apache-2.0, 7.2k ⭐): corre en tu cuenta de Cloudflare
 
 # #opensource

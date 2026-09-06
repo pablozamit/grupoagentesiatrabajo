@@ -20,5 +20,6 @@ Notas sobre videojuegos:
 - [[Elemental Sandbox]] - VFX playground de skillshots: 5 habilidades (Frost Lance, Nova Beam, Voltaic Snare) en Three.js
 - [[Three.js Game Skills (Majid Manzarpour)]] - 9 skills para construir juegos Three.js completos con evidencia de QA (Tripo, Gemini, ElevenLabs)
 - [[GoRest 2D Spritesheet Generator]] - Generador de spritesheets 2D con fake-3D rotation (rotación 360° desde arte 2D, 48 vistas)
+- [[Sonniss GDC 2026]] - Bundle gratis de 347+ SFX profesionales (7.47GB, royalty-free, uso comercial)
 
 # #juegos

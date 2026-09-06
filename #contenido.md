@@ -27,5 +27,7 @@ Notas con contenido teórico y de referencia:
 - [[Pietro Schirano (@skirano)]] - Creador de Claude Engineer/DesignerGPT, demos de 3D y agentes con modelos frontier
 - [[AG-UI + CopilotKit]] - Cómo un agente terminal-capable (Hermes) vive dentro de una app vía protocolo AG-UI
 - [[Truco HAR → API MCP]] - Truco: crea una API/MCP de cualquier web desde su tráfico HAR capturado en DevTools
+- [[Auditoría de agencia (delivery doc)]] - Framework de Luke Pierce: estructura de una auditoría de $3-5K que hace inevitable el build
+- [[Recent Design]] - Plataforma de inspiración de diseño curada (webs, App Store screenshots, iconos, OG images)
 
 # #contenido

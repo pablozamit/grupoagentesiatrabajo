@@ -10,5 +10,7 @@ Promociones, ofertas de bienvenida y ventajas temporales que son útiles mientra
 - [[Rerun]] - 7-day free trial + plan desde $24/mes: 3 agentes, Box privado, 190+ connectors, ejecuciones ilimitadas
 - [[Camofox Browser]] - Navegador anti-detección gratis (MIT): esquiva Cloudflare/bots sin coste de API
 - [[Moli Browser]] - Navegador headless gratis y open source: memoria mínima para VPS de 1GB y servidores ligeros
+- [[Sonniss GDC 2026]] - 347+ SFX profesionales gratis (7.47GB, royalty-free forever, uso comercial)
+- [[Cloudflare Agentic Inbox]] - Cliente de email + agente IA en tu cuenta de Cloudflare, sin factura por email
 
 # #oportunidades

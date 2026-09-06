@@ -20,6 +20,8 @@ Notas sobre vibecoding:
 - [[The Complete Shelf]] - Proyecto Three.js open source de Meng To con el prompt completo para remezclarlo
 - [[Learn Harness Engineering]] - Curso gratuito para hacer fiable a tu agente de vibecoding: estado, scope, verificación y loops
 - [[Cedar Filmstrip]] - Componente de carrusel Vue 3 de producción (REI) para copiar/adaptar con tu agente
+- [[react-native-morph-view]] - Componente RN de morph gooey para remezclar con tu agente (Metal/AGSL)
+- [[Cursor Design (Open Design)]] - AI design studio open source: tu agente edita UI por point/comment/edit
 - [[Fable Orchestrator]] - Reparte el trabajo entre Fable 5.1 (planifica) + Luna/DeepSeek Flash (implementan) para no agotar límites
 
 # #vibecoding

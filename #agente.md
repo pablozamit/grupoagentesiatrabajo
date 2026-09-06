@@ -64,5 +64,6 @@ Notas sobre agentes de IA:
 - [[CopilotKit]] - Stack frontend para agentes y generative UI (MIT): el agente renderiza UI y actúa sobre la app
 - [[Truco HAR → API MCP]] - Crea una API/MCP de cualquier web grabando su tráfico HAR y dándoselo a Claude
 - [[Cactus Needle 2]] - LLM agentic de 14MB para tool-calling en dispositivos diminutos (edge <$200)
+- [[Cloudflare Agentic Inbox]] - Email self-hosted con agente de IA en Cloudflare Workers (MCP + Wrangler, sin cobro por email)
 
 # #agente

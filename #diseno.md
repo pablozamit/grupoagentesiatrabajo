@@ -37,5 +37,8 @@ Notas sobre diseño UI/UX:
 - [[Dean W. Perkins (@deanwperkins)]] - Tutoriales de webs cinematográficas de $50k con Claude Fable 5 (Three.js + GSAP + scroll)
 - [[Cedar Filmstrip]] - Carrusel multi-card accesible y data-driven (adapter-based) del design system Cedar de REI (Vue 3)
 - [[Lieflat Charts]] - Skill de data visualization editorial: gráficos HTML de 60+ tipos con gramática visual propia
+- [[react-native-morph-view]] - Vista React Native que morphs una imagen en otra con efecto gooey (Metal/AGSL)
+- [[Recent Design]] - Plataforma de inspiración de diseño: webs, screenshots de App Store, iconos y los mejores diseños de X
+- [[Cursor Design (Open Design)]] - AI design studio open source local-first: point/comment/edit con tu agente
 
 # #diseno
