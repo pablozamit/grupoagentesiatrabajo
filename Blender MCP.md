@@ -35,4 +35,6 @@ Requiere tener **Blender 3.0+** instalado y el gestor **uv** ([docs.astral.sh/uv
 - Repositorio: [github.com/ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
 - Web oficial de Blender: [blender.org](https://www.blender.org)
 
+Para **animar** (no solo modelar) con el agente, ver [[Cartwheel MCP]].
+
 # #3d #agente #contenido

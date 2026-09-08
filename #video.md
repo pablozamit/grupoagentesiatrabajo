@@ -12,5 +12,6 @@ Notas sobre video:
 - [[oil-motion]] - Skill que mapea animaciones de video IA a scroll, mouse, drag y touch en la web
 - [[Pexafy]] - Búsqueda semántica de imágenes de archivo (9 fuentes libres) para alimentar montajes y footage
 - [[Open Generative AI]] - Estudio de generación de imagen/video self-hosted con 400+ modelos y 14 estudios (sin filtros)
+- [[Cartwheel MCP]] - Animación de personajes en Blender con agentes (motion humano, física realista o estilizada)
 
 # #video

@@ -30,5 +30,7 @@ Notas con contenido teórico y de referencia:
 - [[Auditoría de agencia (delivery doc)]] - Framework de Luke Pierce: estructura de una auditoría de $3-5K que hace inevitable el build
 - [[Recent Design]] - Plataforma de inspiración de diseño curada (webs, App Store screenshots, iconos, OG images)
 - [[Laws of UX]] - Colección de mejores prácticas de diseño basadas en psicología (Jon Yablonski, en español)
+- [[AI Critic Loop]] - Patrón de prompting: agente crítico que itera sobre screenshots hasta score >8 (anti-slop visual)
+- [[Chimakes 3D Portfolio]] - Portfolio 3D de referencia: Blender + Three.js, día/noche, lecciones de demo viva
 
 # #contenido

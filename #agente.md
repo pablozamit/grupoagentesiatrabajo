@@ -65,5 +65,7 @@ Notas sobre agentes de IA:
 - [[Truco HAR → API MCP]] - Crea una API/MCP de cualquier web grabando su tráfico HAR y dándoselo a Claude
 - [[Cactus Needle 2]] - LLM agentic de 14MB para tool-calling en dispositivos diminutos (edge <$200)
 - [[Cloudflare Agentic Inbox]] - Email self-hosted con agente de IA en Cloudflare Workers (MCP + Wrangler, sin cobro por email)
+- [[Cartwheel MCP]] - MCP para que tu agente anime en Blender (motion humano data-driven, scaling laws)
+- [[AI Critic Loop]] - Patrón de agente crítico: genera, hace screenshots, puntúa y loopa hasta >8 (anti-slop visual)
 
 # #agente

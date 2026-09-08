@@ -23,6 +23,8 @@ Notas sobre vibecoding:
 - [[react-native-morph-view]] - Componente RN de morph gooey para remezclar con tu agente (Metal/AGSL)
 - [[Cursor Design (Open Design)]] - AI design studio open source: tu agente edita UI por point/comment/edit
 - [[Godot]] - El motor de juegos del vibecoding: open source, GDScript fácil de generar con IA, MCP para tu agente
+- [[Cartwheel MCP]] - Dale animación a tus personajes 3D con IA: Astra anima en Blender vía MCP
+- [[AI Critic Loop]] - Prompt hack para que GPT-6 Astra no genere slop: agente crítico con screenshots que loopa hasta score >8
 - [[Fable Orchestrator]] - Reparte el trabajo entre Fable 5.1 (planifica) + Luna/DeepSeek Flash (implementan) para no agotar límites
 
 # #vibecoding
