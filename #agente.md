@@ -67,5 +67,6 @@ Notas sobre agentes de IA:
 - [[Cloudflare Agentic Inbox]] - Email self-hosted con agente de IA en Cloudflare Workers (MCP + Wrangler, sin cobro por email)
 - [[Cartwheel MCP]] - MCP para que tu agente anime en Blender (motion humano data-driven, scaling laws)
 - [[AI Critic Loop]] - Patrón de agente crítico: genera, hace screenshots, puntúa y loopa hasta >8 (anti-slop visual)
+- [[WhatsApp personal para agentes de IA]] - Zapia, WAHA, Evolution API, Baileys, whatsapp-web.js y whatsapp-mcp: cómo conectan agentes a un WhatsApp personal y riesgo de baneo
 
 # #agente

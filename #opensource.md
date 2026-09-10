@@ -23,5 +23,6 @@ Notas sobre herramientas y proyectos open source:
 - [[Cloudflare Agentic Inbox]] - Email self-hosted con agente IA (Apache-2.0, 7.2k ⭐): corre en tu cuenta de Cloudflare
 - [[Godot]] - Motor de juegos open source (MIT): el estándar indie, 2D/3D/XR, sin royalties
 - [[Portless]] - URLs .localhost estables para desarrollo local (vercel-labs, 12.1k ⭐): adiós a los números de puerto
+- [[WhatsApp personal para agentes de IA]] - Alternativas open source para conectar agentes al WhatsApp personal sin la API oficial de Meta
 
 # #opensource
