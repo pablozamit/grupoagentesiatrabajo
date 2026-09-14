@@ -15,5 +15,6 @@ Notas sobre gestión del tiempo y productividad:
 - [[Truco HAR → API MCP]] - Truco que ahorra semanas: API/MCP de cualquier web grabando su tráfico y pasándoselo a Claude
 - [[Laws of UX]] - Leyes de diseño que reducen fricción: menos carga cognitiva, decisiones más rápidas (Fitts, Hick, Doherty)
 - [[Portless]] - Adiós a recordar puertos: URLs .localhost estables con nombre, HTTPS por defecto, para devs y agentes
+- [[WhatsApp personal para agentes de IA]] - Puentes no oficiales para operar WhatsApp personal desde agentes, n8n o MCP
 
 # #productividad

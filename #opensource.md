@@ -25,5 +25,6 @@ Notas sobre herramientas y proyectos open source:
 - [[Portless]] - URLs .localhost estables para desarrollo local (vercel-labs, 12.1k ⭐): adiós a los números de puerto
 - [[Cobalt]] - Descargador de medios self-hosted sin anuncios ni trackers (AGPL-3.0, 43.1k ⭐)
 - [[Crawl4AI]] - Crawler web open source que convierte cualquier URL en Markdown limpio para LLMs (51k ⭐)
+- [[WhatsApp personal para agentes de IA]] - Alternativas open source para conectar agentes al WhatsApp personal sin la API oficial de Meta
 
 # #opensource

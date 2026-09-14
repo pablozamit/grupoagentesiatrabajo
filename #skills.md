@@ -31,5 +31,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[Lieflat Charts]] - Skill de data viz de estética editorial: 60+ tipos de gráfico HTML y reportes (Lupi/Glance/Basics)
 - [[AG-UI + CopilotKit]] - Protocolo y stack para embedir agentes con generative UI en cualquier app
 - [[Transitions-dev]] - Una skill para todo el motion de tu UI (transiciones pulidas con criterio de librería completa)
+- [[WhatsApp personal para agentes de IA]] - Conecta un agente a WhatsApp personal mediante REST, librerías o MCP (con riesgo de baneo)
 
 # #skills
