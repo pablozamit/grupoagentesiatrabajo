@@ -37,4 +37,6 @@ Requiere tener **Blender 3.0+** instalado y el gestor **uv** ([docs.astral.sh/uv
 
 Para **animar** (no solo modelar) con el agente, ver [[Cartwheel MCP]].
 
+Distribución mejorada con headless y benchmarks: [[Blender MCP Enhanced (bpy-dev)]].
+
 # #3d #agente #contenido
