@@ -42,5 +42,6 @@ Notas sobre diseño UI/UX:
 - [[Cursor Design (Open Design)]] - AI design studio open source local-first: point/comment/edit con tu agente
 - [[Laws of UX]] - Las leyes de psicología aplicadas al diseño UI (Fitts, Hick, Jakob, Gestalt...) — el porqué de que un diseño funcione
 - [[Chimakes 3D Portfolio]] - Portfolio 3D referente: garden house interactiva con día/noche (Blender + Three.js)
+- [[Transitions-dev]] - Skill de motion UI: aplica transiciones de la librería Transitions donde tengan sentido
 
 # #diseno

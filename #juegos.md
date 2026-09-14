@@ -22,5 +22,6 @@ Notas sobre videojuegos:
 - [[GoRest 2D Spritesheet Generator]] - Generador de spritesheets 2D con fake-3D rotation (rotación 360° desde arte 2D, 48 vistas)
 - [[Sonniss GDC 2026]] - Bundle gratis de 347+ SFX profesionales (7.47GB, royalty-free, uso comercial)
 - [[Godot]] - Motor de juegos open source: el estándar indie, 2D/3D/XR, con MCP para agentes (GDScript, MIT)
+- [[Meng To Three.js Game Skills]] - Nuevo: SettleCoast, juego multijugador tipo Catan construido entero con Astra en 4 días
 
 # #juegos

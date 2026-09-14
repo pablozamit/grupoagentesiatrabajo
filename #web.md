@@ -47,5 +47,9 @@ Notas sobre desarrollo web:
 - [[Truco HAR → API MCP]] - Convierte cualquier web en API/MCP grabando su tráfico de red en DevTools
 - [[Laws of UX]] - Mejores prácticas de diseño web basadas en psicología (Fitts, Hick, Jakob, Gestalt)
 - [[Portless]] - Sustituye puertos por URLs .localhost estables: HTTPS por proyecto, ideal para agentes (vercel-labs, 12.1k ⭐)
+- [[Cobalt]] - Descargador de medios open source self-hosted: pegas el enlace, obtienes el archivo (43.1k ⭐)
+- [[Crawl4AI]] - Convierte cualquier URL en Markdown limpio para tu agente: open source, sin API key (51k ⭐)
+- [[Transitions-dev]] - Una skill para todo el motion de tu UI: transiciones pulidas decididas por el agente
+- [[Checklist web vibecodeada]] - 20 cosas que le faltan a tu web generada con IA antes de shipear (404, metas, OG...)
 
 # #web

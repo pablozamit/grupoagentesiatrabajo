@@ -8,5 +8,6 @@ Notas sobre SEO y optimización para buscadores (tanto Google como buscadores de
 - [[Marketing Skills]] - 44 skills open source (incluye SEO y OKF de Google)
 - [[Auditoría SEO]] - Plantilla de prompt para auditoría técnica SEO completa + cierre del ciclo de conversión
 - [[NotFair Plugin]] - 45 skills de SEO/GEO/paid media para agentes, evidence-led con Search Console y GA4 en vivo
+- [[Checklist web vibecodeada]] - 20 básicos antes de shipear: metas por página, robots.txt, sitemap, Open Graph
 
 # #seo

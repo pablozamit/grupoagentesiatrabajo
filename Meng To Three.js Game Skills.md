@@ -18,6 +18,16 @@ Un RPG isométrico inspirado en Dark Souls y Diablo, construido con estas skills
 - [Jugar Vesperfall](https://vesperfall.mengto.chatgpt.site)
 - [Catálogo de assets](https://vesperfall.mengto.chatgpt.site/asset-catalog)
 
+## Nuevo juego: SettleCoast (juego de mesa multijugador con Astra)
+
+Meng To construyó **SettleCoast** ([settlecoast.com](https://settlecoast.com)): un juego multijugador inspirado en Catan, creado **entero con Astra en 4 días**. Gratis para jugar:
+
+- Funciona en móvil
+- Narración, guías, personalizaciones y múltiples expansiones
+- Lobby donde cualquiera puede unirse, chatear y usar chat de voz
+
+Es la prueba de que el pipeline skills → juego completo escala a multijugador con lobby en días, no meses.
+
 ## Flujo de trabajo recomendado (según Meng To)
 
 1. Empezar con referencias fuertes del juego (screenshots, monstruos, iconos)

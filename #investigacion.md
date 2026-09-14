@@ -4,5 +4,6 @@ Notas sobre investigación:
 - [[Google Colab para VS Code]] - Ejecuta notebooks con GPU T4 gratuita desde tu editor
 - [[World Monitor]] - Dashboard de inteligencia global open source: 500+ feeds en 15 categorías, resumidos por IA, con globo 3D
 - [[Meta TRIBE v2]] - Predice actividad cerebral desde video, audio y texto en 3D
+- [[Crawl4AI]] - Crawler open source para convertir webs en Markdown limpio y alimentar a tus agentes (51k ⭐)
 
 # #investigacion

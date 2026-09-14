@@ -34,4 +34,6 @@ Requiere Node 18+. yt-dlp y ffmpeg se gestionan automáticamente.
 - Repo: [github.com/pablostanley/yoinks](https://github.com/pablostanley/yoinks)
 - Autor: [@pablostanley](https://x.com/pablostanley) (designer en Vercel)
 
+Alternativa con interfaz web y self-hosting: [[Cobalt]].
+
 # #video #web

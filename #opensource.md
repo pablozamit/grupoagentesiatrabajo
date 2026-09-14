@@ -23,5 +23,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Cloudflare Agentic Inbox]] - Email self-hosted con agente IA (Apache-2.0, 7.2k ⭐): corre en tu cuenta de Cloudflare
 - [[Godot]] - Motor de juegos open source (MIT): el estándar indie, 2D/3D/XR, sin royalties
 - [[Portless]] - URLs .localhost estables para desarrollo local (vercel-labs, 12.1k ⭐): adiós a los números de puerto
+- [[Cobalt]] - Descargador de medios self-hosted sin anuncios ni trackers (AGPL-3.0, 43.1k ⭐)
+- [[Crawl4AI]] - Crawler web open source que convierte cualquier URL en Markdown limpio para LLMs (51k ⭐)
 
 # #opensource

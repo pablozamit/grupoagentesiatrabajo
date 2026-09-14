@@ -13,5 +13,6 @@ Notas sobre video:
 - [[Pexafy]] - Búsqueda semántica de imágenes de archivo (9 fuentes libres) para alimentar montajes y footage
 - [[Open Generative AI]] - Estudio de generación de imagen/video self-hosted con 400+ modelos y 14 estudios (sin filtros)
 - [[Cartwheel MCP]] - Animación de personajes en Blender con agentes (motion humano, física realista o estilizada)
+- [[Cobalt]] - Descarga contenido público (video, audio) pegando el enlace: sin anuncios, sin trackers, self-hosted
 
 # #video

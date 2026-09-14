@@ -245,6 +245,16 @@ npx hyperframes catalog              # explora el catálogo completo
 
 El vídeo del día 22 de la serie demostró el catálogo combinando 9 bloques en un solo documento de 52 segundos: uno por estantería más un outro con logo personalizado.
 
+### Carousel blocks open source (Septiembre 2026)
+
+**25 bloques de carrusel** nuevos añadidos al catálogo, creados por Jake (JakeFromHeyGen). Se instalan todos de golpe:
+
+```bash
+npx hyperframes add carousel
+```
+
+Los atributos de cada componente son editables (por ejemplo la velocidad del movimiento del carrusel). El catálogo total ya supera los **300 componentes**: [hyperframes.heygen.com/catalog](https://hyperframes.heygen.com/catalog).
+
 ## Color Grading (Agosto 2026)
 
 HyperFrames añadió **color grading profesional** controlable por agentes. Corrección y gradación de color sobre elementos `<video>` e `<img>` reales, con el mismo shader SDR/Rec.709 validado tanto en preview como en render.

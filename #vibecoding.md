@@ -26,5 +26,6 @@ Notas sobre vibecoding:
 - [[Cartwheel MCP]] - Dale animación a tus personajes 3D con IA: Astra anima en Blender vía MCP
 - [[AI Critic Loop]] - Prompt hack para que GPT-6 Astra no genere slop: agente crítico con screenshots que loopa hasta score >8
 - [[Fable Orchestrator]] - Reparte el trabajo entre Fable 5.1 (planifica) + Luna/DeepSeek Flash (implementan) para no agotar límites
+- [[Checklist web vibecodeada]] - 20 puntos para dar por terminada tu web generada con IA (404, metas, favicon, OG...)
 
 # #vibecoding
