@@ -29,5 +29,7 @@ Notas sobre vibecoding:
 - [[Checklist web vibecodeada]] - 20 puntos para dar por terminada tu web generada con IA (404, metas, favicon, OG...)
 - [[ZCode Video plugins]] - Video como especificación: de grabación a código React y edición automática con GLM-5.3-Flash
 - [[Arcade AI]] - Describe el juego a la IA y juega sin salir del navegador: crear y jugar son el mismo acto
+- [[Skills de diseño (better-ui y emil-design-eng)]] - Vibecodear con gusto: skills que evitan el slop visual en apps generadas
+- [[Workflow de diseño con IA (Breeje Anadkat)]] - Referencias → draft → feedback → Figma: el loop que convierte slop en diseño
 
 # #vibecoding

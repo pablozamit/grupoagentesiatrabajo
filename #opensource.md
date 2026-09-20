@@ -29,6 +29,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Jev (TypeSafe)]] - Modelo de decisiones (comercial, waitlist) con réplica open source laya-mlx: decisiones en local vía MLX, ~1 GB, 7-14 ms
 - [[VibeTube]] - Grabador estilo Loom + edición completa por Claude/Codex (b-rolls, SFX, subtítulos, vertical)
 - [[GLiNER2.5]] - Extracción y clasificación multi-tarea en local (Apache-2.0, 5.2k ⭐): 74M–287M, sin GPU
+- [[Baguette]] - Manager headless de simuladores iOS (Apache-2.0, 1.7k ⭐): 60 fps, gestos, device farm, `brew install baguette`
 - [[Blender MCP Enhanced (bpy-dev)]] - Distribución mejorada del MCP de Blender (GPL-3.0): headless, backend bpy, BlenderBench
 
 # #opensource

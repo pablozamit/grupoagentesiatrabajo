@@ -35,5 +35,7 @@ Notas con contenido teórico y de referencia:
 - [[Ryze AI]] - Cómo replicar la estrategia GEO de un competidor paso a paso (extensión + SOP de 6 pasos)
 - [[LinkedIn Pulse para GEO]] - SEO parásito: publicar en LinkedIn para salir citado en AI Overviews (datos Pulse vs posts)
 - [[Botón de perfil de Google Search]] - Truco SEO verificado: botón follow de Google que distribuye en Discover (doc 16-sep)
+- [[Workflow de diseño con IA (Breeje Anadkat)]] - Metodología en 3 pasos: referencias, draft + feedback, Figma para el gusto
+- [[Entity Map con Screaming Frog MCP]] - Entity Maps con Claude: del crawl a clusters semánticos sin código
 
 # #contenido

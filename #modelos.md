@@ -21,5 +21,6 @@ Notas sobre modelos de IA:
 - [[Cactus Needle 2]] - LLM agentic de 14MB para dispositivos diminutos (45M params, tool-calling on-device, 28MB RAM)
 - [[Jev (TypeSafe)]] - System One model: decisiones tipadas con confianza calibrada, 20-200× más rápido y 40-400× más barato (caso viral: auditoría SEO de 586 páginas en 45 s por $0.21)
 - [[GLiNER2.5]] - Modelo pequeño open source (74M–287M) para extracción + clasificación en una pasada, en CPU; alternativa local a Jev
+- [[Pi en el navegador (MiniCPM5)]] - Agente de código Pi con MiniCPM5-2B 100% en el navegador (Transformers.js + WebGPU + ONNX 4-bit)
 
 # #modelos

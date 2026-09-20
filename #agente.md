@@ -75,6 +75,9 @@ Notas sobre agentes de IA:
 - [[VibeTube]] - Graba pantalla + cámara y el agente edita el video entero (open source, skills video-use + Hyperframes)
 - [[ZCode Video plugins]] - Video2code y Video Agent Kit: del video al código y a la edición automática
 - [[Arcade AI]] - Companion IA (Morph) para crear y jugar mundos en el navegador con amigos
+- [[Pi en el navegador (MiniCPM5)]] - Coding agent 100% en navegador con modelo 2B local (sin servidor, sin HTTP por CORS)
+- [[Entity Map con Screaming Frog MCP]] - Claude + crawler para mapear entidades semánticas del sitio (canibalización, consolidación)
+- [[Baguette]] - Farm de simuladores iOS headless manejable por agentes: 60 fps, gestos, web UI (1.7k ⭐)
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
 # #agente

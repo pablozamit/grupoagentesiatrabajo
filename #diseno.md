@@ -43,5 +43,7 @@ Notas sobre diseño UI/UX:
 - [[Laws of UX]] - Las leyes de psicología aplicadas al diseño UI (Fitts, Hick, Jakob, Gestalt...) — el porqué de que un diseño funcione
 - [[Chimakes 3D Portfolio]] - Portfolio 3D referente: garden house interactiva con día/noche (Blender + Three.js)
 - [[Transitions-dev]] - Skill de motion UI: aplica transiciones de la librería Transitions donde tengan sentido
+- [[Skills de diseño (better-ui y emil-design-eng)]] - Los dos repos de skills tras el CRM viral (Fable 5.1 implementó, el diseño se hizo en Figma)
+- [[Workflow de diseño con IA (Breeje Anadkat)]] - Referencias primero, draft, feedback específico y Figma para el gusto (307k views)
 
 # #diseno
