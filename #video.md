@@ -15,5 +15,7 @@ Notas sobre video:
 - [[Cartwheel MCP]] - Animación de personajes en Blender con agentes (motion humano, física realista o estilizada)
 - [[Cobalt]] - Descarga contenido público (video, audio) pegando el enlace: sin anuncios, sin trackers, self-hosted
 - [[AI UGC con agentes]] - Clona estilos virales y genera 100 variantes a $0.03/s con GPT-6 Astra (workflow open source Monid × Hypi)
+- [[VibeTube]] - Grabador estilo Loom open source: graba pantalla + cámara y Claude/Codex edita el video entero (b-rolls, SFX, subtítulos, vertical)
+- [[ZCode Video plugins]] - Video2code (URL/grabación → código React) y Video Agent Kit (edición automática) con GLM-5.3-Flash
 
 # #video

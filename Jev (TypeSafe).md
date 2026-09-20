@@ -35,18 +35,27 @@ Prueba pública de [@borjafat](https://x.com/borjafat) con el mismo queue y la m
 - **laya-mlx** ([github.com/mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)): runtime nativo MLX para modelos de decisión tipada — decisiones cortas en **7–14 ms en M3 Max**, máximo ~1 GB en local, jugando al Snake a **60 decisiones/segundo** en el propio dispositivo. Open source
 - **Shipper** ([shipper.now](https://shipper.now)): su cofundador anunció un "System One Agent" construido en 14 h sobre Jev (routear/clasificar/actuar sin LLM para lo determinista). Tomarlo como marketing hasta ver traces de decisión, override paths e impacto medible — y hay reseñas negativas circulando
 
+## Jev fuera del benchmark: browser agents y try-on en vivo
+
+- **Browser Use + Jev = jev-ultrafast** ([github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)): mini agente open source con **espacio de acciones indexado y dinámico** — Jev elige operación + elemento en cada paso sobre el estado DOM, y un LLM pequeño solo escribe texto cuando la operación es TYPE_TEXT. Demo: vuelos Zúrich→Londres en **7.1 s por $0.0039** (2.9M views)
+- **Matiz honesto del propio Gregor Zunic**: en tareas de largo horizonte el mismo enfoque sacó **1/20** frente a 17/20 de BrowserCode + Luna — la velocidad está resuelta, el razonamiento no. Otros datapoints: Jev en Stagehand cortó la latencia de Act 4.3×; Jev + WebMCP resolvió 49/49 a 112× menos coste
+- **Alternativa 100% local**: el mismo agente con **GLiNER2.5** en vez de Jev sale **36× más barato** (post de un investigador de Fastino) — ver [[GLiNER2.5]]
+- **Try-on virtual en tiempo real** (experimento para Drape): hablas, Jev lee la transcripción + lo que llevas puesto, elige de tu armario y cambia tu outfit en vivo — **$0.0011 por decisión, ~620 ms** por decisión
+
 ## Recursos
 
 - Web y waitlist: [typesafe.ai](https://typesafe.ai)
 - Docs y API: [docs.typesafe.ai](https://docs.typesafe.ai)
 - Lanzamiento: [@CompleteSkeptic en X](https://x.com/CompleteSkeptic) (35.9M views)
 - Caso SEO: [@borjafat en X](https://x.com/borjafat) (680k views)
+- TL;DR de 45 segundos: [@MatijaSosic en X](https://x.com/MatijaSosic) (1.6M views)
 
 ## Relacionado
 
 - Caso de uso SEO: [[Auditoría SEO]]
 - Jueces baratos antes de iterar: [[AI Critic Loop]]
-- Modelos locales y diminutos: [[Ollama]], [[Cactus Needle 2]]
+- Modelos locales y diminutos: [[Ollama]], [[Cactus Needle 2]], [[GLiNER2.5]]
 - Decisiones sin LLM en agentes: [[Fable Orchestrator]]
+- Agente navegador con Jev: [[Browser Use]] (jev-ultrafast: 7 s por $0.0039)
 
 # #modelos #opensource #agente #seo

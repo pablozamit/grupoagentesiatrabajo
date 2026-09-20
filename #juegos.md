@@ -23,5 +23,6 @@ Notas sobre videojuegos:
 - [[Sonniss GDC 2026]] - Bundle gratis de 347+ SFX profesionales (7.47GB, royalty-free, uso comercial)
 - [[Godot]] - Motor de juegos open source: el estándar indie, 2D/3D/XR, con MCP para agentes (GDScript, MIT)
 - [[Meng To Three.js Game Skills]] - Nuevo: SettleCoast, juego multijugador tipo Catan construido entero con Astra en 4 días
+- [[Arcade AI]] - Motor de juegos con IA en el navegador: describes el mundo a Morph, lo construyes con amigos y lo juegas sin salir (tryarcade.com)
 
 # #juegos

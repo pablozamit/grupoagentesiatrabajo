@@ -27,5 +27,7 @@ Notas sobre vibecoding:
 - [[AI Critic Loop]] - Prompt hack para que GPT-6 Astra no genere slop: agente crítico con screenshots que loopa hasta score >8
 - [[Fable Orchestrator]] - Reparte el trabajo entre Fable 5.1 (planifica) + Luna/DeepSeek Flash (implementan) para no agotar límites
 - [[Checklist web vibecodeada]] - 20 puntos para dar por terminada tu web generada con IA (404, metas, favicon, OG...)
+- [[ZCode Video plugins]] - Video como especificación: de grabación a código React y edición automática con GLM-5.3-Flash
+- [[Arcade AI]] - Describe el juego a la IA y juega sin salir del navegador: crear y jugar son el mismo acto
 
 # #vibecoding

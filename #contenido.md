@@ -32,5 +32,8 @@ Notas con contenido teórico y de referencia:
 - [[Laws of UX]] - Colección de mejores prácticas de diseño basadas en psicología (Jon Yablonski, en español)
 - [[AI Critic Loop]] - Patrón de prompting: agente crítico que itera sobre screenshots hasta score >8 (anti-slop visual)
 - [[Chimakes 3D Portfolio]] - Portfolio 3D de referencia: Blender + Three.js, día/noche, lecciones de demo viva
+- [[Ryze AI]] - Cómo replicar la estrategia GEO de un competidor paso a paso (extensión + SOP de 6 pasos)
+- [[LinkedIn Pulse para GEO]] - SEO parásito: publicar en LinkedIn para salir citado en AI Overviews (datos Pulse vs posts)
+- [[Botón de perfil de Google Search]] - Truco SEO verificado: botón follow de Google que distribuye en Discover (doc 16-sep)
 
 # #contenido

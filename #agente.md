@@ -70,6 +70,11 @@ Notas sobre agentes de IA:
 - [[WhatsApp personal para agentes de IA]] - Zapia, WAHA, Evolution API, Baileys, whatsapp-web.js y whatsapp-mcp: cómo conectan agentes a un WhatsApp personal y riesgo de baneo
 - [[Jev (TypeSafe)]] - Modelo de decisiones para agentes: clasificar/routear/puntuar sin generar texto (70-500 ms, output gratis)
 - [[AI UGC con agentes]] - Workflow open source (Monid × Hypi) para clonar estilos virales y generar 100 variantes con GPT-6 Astra
+- [[GLiNER2.5]] - Clasificación y extracción local para agentes (74M–287M, CPU): alternativa 36× más barata que Jev
+- [[Polar Browser]] - Navegador que trabaja solo en tus pestañas: research, recruiting, ventas y leads con prompts
+- [[VibeTube]] - Graba pantalla + cámara y el agente edita el video entero (open source, skills video-use + Hyperframes)
+- [[ZCode Video plugins]] - Video2code y Video Agent Kit: del video al código y a la edición automática
+- [[Arcade AI]] - Companion IA (Morph) para crear y jugar mundos en el navegador con amigos
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
 # #agente

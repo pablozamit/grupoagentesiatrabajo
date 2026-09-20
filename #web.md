@@ -51,5 +51,6 @@ Notas sobre desarrollo web:
 - [[Crawl4AI]] - Convierte cualquier URL en Markdown limpio para tu agente: open source, sin API key (51k ⭐)
 - [[Transitions-dev]] - Una skill para todo el motion de tu UI: transiciones pulidas decididas por el agente
 - [[Checklist web vibecodeada]] - 20 cosas que le faltan a tu web generada con IA antes de shipear (404, metas, OG...)
+- [[Polar Browser]] - Navegador agente para knowledge workers: opera tus webs logueado, con workflows programables ($5.7M seed)
 
 # #web

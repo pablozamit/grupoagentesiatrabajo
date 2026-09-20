@@ -20,5 +20,6 @@ Notas sobre modelos de IA:
 - [[Open Generative AI]] - 400+ modelos de imagen/video/audio en un solo estudio self-hosted (Flux, Midjourney, Kling, Sora, Veo)
 - [[Cactus Needle 2]] - LLM agentic de 14MB para dispositivos diminutos (45M params, tool-calling on-device, 28MB RAM)
 - [[Jev (TypeSafe)]] - System One model: decisiones tipadas con confianza calibrada, 20-200× más rápido y 40-400× más barato (caso viral: auditoría SEO de 586 páginas en 45 s por $0.21)
+- [[GLiNER2.5]] - Modelo pequeño open source (74M–287M) para extracción + clasificación en una pasada, en CPU; alternativa local a Jev
 
 # #modelos
