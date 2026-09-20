@@ -17,5 +17,6 @@ Notas sobre video:
 - [[AI UGC con agentes]] - Clona estilos virales y genera 100 variantes a $0.03/s con GPT-6 Astra (workflow open source Monid × Hypi)
 - [[VibeTube]] - Grabador estilo Loom open source: graba pantalla + cámara y Claude/Codex edita el video entero (b-rolls, SFX, subtítulos, vertical)
 - [[ZCode Video plugins]] - Video2code (URL/grabación → código React) y Video Agent Kit (edición automática) con GLM-5.3-Flash
+- [[Lightreel AI]] - Inteligencia de video social: qué creadores fichar y qué hooks funcionan, desde millones de TikToks/Reels/ads
 
 # #video

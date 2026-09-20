@@ -42,6 +42,12 @@ Prueba pública de [@borjafat](https://x.com/borjafat) con el mismo queue y la m
 - **Alternativa 100% local**: el mismo agente con **GLiNER2.5** en vez de Jev sale **36× más barato** (post de un investigador de Fastino) — ver [[GLiNER2.5]]
 - **Try-on virtual en tiempo real** (experimento para Drape): hablas, Jev lee la transcripción + lo que llevas puesto, elige de tu armario y cambia tu outfit en vivo — **$0.0011 por decisión, ~620 ms** por decisión
 
+## Réplicas abiertas (sin waitlist)
+
+- **SemIf** ([openjev.com](https://openjev.com), repo [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf), MIT, 1.6k ⭐, antes OpenJev): experimento vivo y local que compara los dos métodos en tu GPU — **leer logits directos vs generar el JSON token a token**. Medido: 1.023 s y 0 tokens vs 5.332 s y 111 tokens (**5.21×**). Tabla honesta: MiniCPM5-2B 68.6%, Qwen3.5-4B 81.3–84.5%, Jev publicado 88.3% en el mismo subset de 102 filas. Aviso del propio proyecto: el readout directo **no es confianza calibrada**
+- **Servidor wire-compatible** ([razorback16/openjev](https://github.com/razorback16/openjev), Apache-2.0): acepta `jev-latest`/`jev-preview` para que los SDKs de TypeSafe funcionen sin cambios, sobre DiffusionGemma 26B
+- Conexión con la vault: el método directo en navegador es el mismo que [[Pi en el navegador (MiniCPM5)]] (MiniCPM5-2B en WebGPU)
+
 ## Recursos
 
 - Web y waitlist: [typesafe.ai](https://typesafe.ai)

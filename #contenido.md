@@ -37,5 +37,8 @@ Notas con contenido teórico y de referencia:
 - [[Botón de perfil de Google Search]] - Truco SEO verificado: botón follow de Google que distribuye en Discover (doc 16-sep)
 - [[Workflow de diseño con IA (Breeje Anadkat)]] - Metodología en 3 pasos: referencias, draft + feedback, Figma para el gusto
 - [[Entity Map con Screaming Frog MCP]] - Entity Maps con Claude: del crawl a clusters semánticos sin código
+- [[Lightreel AI]] - Research de marketing en video social: dataset de Meta ads + creadores + scripts (con API)
+- [[Skills SEO gratis (TimSEO)]] - 16 skills SEO copiables para tu IA: técnico, keywords, contenido, AEO y programático
+- [[Google goto links]] - Google interpone redirect en el SERP: qué rompe en rank trackers y atribución (confirmado 26-ago)
 
 # #contenido

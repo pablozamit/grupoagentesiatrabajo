@@ -12,5 +12,6 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[Ryze AI]] - Marketer autónomo con autopilot SEO/GEO + extensión que muestra las citas de ChatGPT de cualquier web
 - [[LinkedIn Pulse para GEO]] - Táctica parásita: artículo en LinkedIn citado en AI Overviews en <24 h (con matiz Pulse vs posts)
 - [[Botón de perfil de Google Search]] - Dos líneas de código para convertir visitas en seguidores de Google y distribuir en Discover
+- [[Lightreel AI]] - La IA que hace doomscrolling por ti: dataset de 3M+ Meta ads, creadores, hooks y scripts (1.8M views)
 
 # #marketing
