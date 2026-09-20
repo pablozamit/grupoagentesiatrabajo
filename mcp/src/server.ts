@@ -2,6 +2,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js"
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { z } from "zod"
 import { EncyclopediaIndex } from "./search.js"
+import { optimizarConJev } from "./jev.js"
 
 const index = new EncyclopediaIndex(process.env.ENCICLOPEDIA_INDEX_URL, process.env.ENCICLOPEDIA_SITE_URL)
 await index.ensureLoaded()
@@ -14,5 +15,13 @@ server.tool("get_entry", "Devuelve una entrada completa por slug", { slug: z.str
 server.tool("list_tags", "Lista etiquetas y número de entradas", {}, async () => asText(index.tags()))
 server.tool("list_entries", "Lista entradas, con filtro opcional por etiqueta", { tag: z.string().optional(), offset: z.number().int().min(0).optional(), limit: z.number().int().min(1).max(100).optional() }, async ({ tag, offset, limit }) => asText(index.list({ tag, offset, limit })))
 server.tool("refresh_index", "Recarga el índice público de Quartz", {}, async () => asText({ entries: await index.refresh(), refreshedAt: index.lastRefresh }))
+server.tool("buscar_optimizado", "Busca entradas y las reordena con Jev según relevancia real para la necesidad", { query: z.string().min(1), limit: z.number().int().min(1).max(20).optional() }, async ({ query, limit }) => {
+  const candidatos = index.search(query, { limit: 20 })
+  try {
+    return asText(await optimizarConJev(query, candidatos, limit ?? 10))
+  } catch (error) {
+    return asText({ resultados: candidatos.slice(0, limit ?? 10), jev: false, candidatos: candidatos.length, aviso: `Jev no disponible: ${error instanceof Error ? error.message : error}` })
+  }
+})
 
 await server.connect(new StdioServerTransport())

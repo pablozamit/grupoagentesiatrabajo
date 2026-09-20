@@ -157,6 +157,19 @@
             font-size: 0.85rem;
             font-weight: 600;
         }
+
+        .jev {
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            margin-left: 8px;
+            white-space: nowrap;
+        }
+
+        .jev-alta { background: #27ae60; color: white; }
+        .jev-media { background: #f39c12; color: white; }
+        .jev-baja { background: #95a5a6; color: white; }
         
         .result-snippet {
             color: #666;
@@ -247,17 +260,25 @@
     </div>
 
     <script>
-        // Buscador en tiempo real contra el índice público de la enciclopedia
-        // (el mismo índice que usa el MCP: search_entries / get_entry / list_tags).
+        // Buscador en tiempo real POR MCP: habla el protocolo MCP (initialize +
+        // tools/call → buscar_optimizado) con el servidor de la enciclopedia,
+        // que reordena los candidatos con Jev. Si el MCP no responde, usa el
+        // índice público directamente como respaldo (mismo algoritmo).
         const INDEX_URL = 'https://grupoagentesiatrabajo.vercel.app/static/contentIndex.json';
         const SITE_URL = 'https://grupoagentesiatrabajo.vercel.app';
+        const MCP_POR_DEFECTO = 'http://localhost:3001/mcp';
 
         const searchInput = document.getElementById('searchInput');
         const searchButton = document.getElementById('searchButton');
         const resultsList = document.getElementById('resultsList');
 
+        const params = new URLSearchParams(location.search);
+        let mcpUrl = params.get('mcp') || localStorage.getItem('mcpUrl') || MCP_POR_DEFECTO;
+
         let entries = [];
         let indexReady = false;
+        let mcpListo = false;
+        let sessionId = null;
         let searchTimeout = null;
 
         const normalize = (value) =>
@@ -341,18 +362,73 @@
             }).sort((a, b) => b.score - a.score || a.title.localeCompare(b.title, 'es')).slice(0, limit);
         }
 
-        function showResults(results, query) {
+        // ---- Cliente MCP (Streamable HTTP: initialize + tools/call) ----
+        async function mcpPeticion(cuerpo) {
+            const cabeceras = { 'Content-Type': 'application/json', 'Accept': 'application/json, text/event-stream' };
+            if (sessionId) cabeceras['Mcp-Session-Id'] = sessionId;
+            const res = await fetch(mcpUrl, { method: 'POST', headers: cabeceras, body: JSON.stringify(cuerpo) });
+            const sid = res.headers.get('mcp-session-id');
+            if (sid) sessionId = sid;
+            const texto = await res.text();
+            if (!res.ok) throw new Error(`MCP HTTP ${res.status}`);
+            const tipo = res.headers.get('content-type') || '';
+            if (tipo.includes('text/event-stream')) {
+                const bloques = texto.split('\n\n').map(b => b.trim()).filter(Boolean);
+                let ultimo = null;
+                for (const b of bloques) {
+                    const lineas = b.split('\n').filter(l => l.startsWith('data:'));
+                    if (lineas.length) ultimo = lineas.map(l => l.slice(5).trim()).join('\n');
+                }
+                if (!ultimo) throw new Error('MCP devolvió un stream vacío');
+                return JSON.parse(ultimo);
+            }
+            return JSON.parse(texto);
+        }
+
+        async function mcpConectar() {
+            const init = await mcpPeticion({
+                jsonrpc: '2.0', id: 'init-1', method: 'initialize',
+                params: {
+                    protocolVersion: '2025-06-18', capabilities: {},
+                    clientInfo: { name: 'buscador-enciclopedia', version: '1.0.0' }
+                }
+            });
+            if (init.error) throw new Error(init.error.message || 'initialize falló');
+            await mcpPeticion({ jsonrpc: '2.0', method: 'notifications/initialized' });
+            mcpListo = true;
+        }
+
+        async function mcpBuscar(necesidad) {
+            const resp = await mcpPeticion({
+                jsonrpc: '2.0', id: `q-${Date.now()}`, method: 'tools/call',
+                params: { name: 'buscar_optimizado', arguments: { query: necesidad, limit: 10 } }
+            });
+            if (resp.error) throw new Error(resp.error.message || 'buscar_optimizado falló');
+            const texto = resp.result && resp.result.content && resp.result.content[0] && resp.result.content[0].text;
+            if (!texto) throw new Error('el MCP no devolvió contenido');
+            return JSON.parse(texto);
+        }
+
+        function insigniaJev(r) {
+            if (typeof r.relevanciaJev === 'number') {
+                const clase = r.relevanciaJev >= 70 ? 'jev-alta' : (r.relevanciaJev >= 40 ? 'jev-media' : 'jev-baja');
+                return `<span class="jev ${clase}" title="Relevancia según Jev">Jev ${r.relevanciaJev}%</span>`;
+            }
+            return '';
+        }
+
+        function showResults(results, query, origen) {
             document.querySelector('.results-header').textContent =
-                `Resultados para «${query}» (${results.length}):`;
+                `Resultados para «${query}» (${results.length}) — ${origen}:`;
             if (!results.length) {
                 resultsList.innerHTML = '<div class="no-results"><p>No se encontraron entradas para tu búsqueda.</p><p>Prueba con términos diferentes (ej: video, 3d, agentes, diseño, mcp).</p></div>';
                 return;
             }
             resultsList.innerHTML = results.map(r => `
                 <div class="result-item" data-url="${escapeHtml(r.url)}">
-                    <div class="result-title">${escapeHtml(r.title)}</div>
-                    <div class="result-tags">${r.tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>
-                    <div class="result-snippet">${escapeHtml(r.snippet)}</div>
+                    <div class="result-title">${escapeHtml(r.title)} ${insigniaJev(r)}</div>
+                    <div class="result-tags">${(r.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>
+                    <div class="result-snippet">${escapeHtml(r.snippet || 'Sin descripción disponible.')}</div>
                     <a href="${escapeHtml(r.url)}" target="_blank" rel="noopener" class="result-url">Abrir entrada en pestaña nueva →</a>
                 </div>`).join('');
             document.querySelectorAll('.result-item').forEach(item => {
@@ -362,29 +438,59 @@
             });
         }
 
-        function performSearch(query) {
+        async function performSearch(query) {
             query = (query || '').trim();
             if (query.length < 2) {
                 document.querySelector('.results-header').textContent = 'Resultados encontrados:';
                 resultsList.innerHTML = '<div class="loading">Escribe al menos 2 letras para buscar…</div>';
                 return;
             }
+            // Vía 1: MCP real (buscar_optimizado con Jev)
+            if (mcpListo) {
+                try {
+                    const datos = await mcpBuscar(query);
+                    const origen = datos.jev ? 'MCP + Jev' : 'MCP (Jev no disponible)';
+                    showResults(datos.resultados || [], query, origen);
+                    return;
+                } catch (err) {
+                    console.warn('MCP falló, usando respaldo local:', err);
+                    mcpListo = false;
+                    actualizarEstado();
+                }
+            }
+            // Vía 2: respaldo local contra el índice público
             if (!indexReady) {
                 resultsList.innerHTML = '<div class="loading">Cargando índice de la enciclopedia…</div>';
                 return;
             }
-            showResults(searchIndex(query, 10), query);
+            showResults(searchIndex(query, 10), query, 'índice local (MCP no disponible)');
+        }
+
+        function actualizarEstado() {
+            const barra = document.querySelector('.status-bar');
+            if (mcpListo) {
+                barra.textContent = `Conectado por MCP a ${mcpUrl} • Jev optimiza el orden • clic para abrir en pestaña nueva`;
+            } else if (indexReady) {
+                barra.textContent = `MCP no disponible en ${mcpUrl} — usando índice local con ${entries.length} entradas • arranca el servidor con: npm run dev (carpeta mcp)`;
+            } else {
+                barra.textContent = 'Conectando…';
+            }
         }
 
         async function loadIndex() {
-            resultsList.innerHTML = '<div class="loading">Conectando con la enciclopedia…</div>';
-            const res = await fetch(INDEX_URL, { headers: { accept: 'application/json' } });
-            if (!res.ok) throw new Error(`índice HTTP ${res.status}`);
-            const payload = await res.json();
-            entries = Array.isArray(payload) ? payload : Object.values(payload);
-            indexReady = true;
-            document.querySelector('.status-bar').textContent =
-                `Conectado a la Enciclopedia de Agentes IA • ${entries.length} entradas • actualizado en tiempo real`;
+            resultsList.innerHTML = '<div class="loading">Conectando por MCP con la enciclopedia…</div>';
+            const tareas = [
+                fetch(INDEX_URL, { headers: { accept: 'application/json' } }).then(async res => {
+                    if (!res.ok) throw new Error(`índice HTTP ${res.status}`);
+                    const payload = await res.json();
+                    entries = Array.isArray(payload) ? payload : Object.values(payload);
+                    indexReady = true;
+                }),
+                mcpConectar().catch(err => console.warn('Sin MCP, habrá respaldo local:', err.message))
+            ];
+            await Promise.allSettled(tareas);
+            if (!indexReady && !mcpListo) throw new Error('ni MCP ni índice disponibles');
+            actualizarEstado();
             performSearch(searchInput.value);
         }
 
@@ -401,7 +507,7 @@
         searchInput.value = 'crear videos con IA';
         loadIndex().catch(err => {
             console.error(err);
-            resultsList.innerHTML = `<div class="no-results"><p>No se pudo cargar el índice: ${escapeHtml(err.message)}</p><p>Revisa tu conexión e inténtalo de nuevo.</p></div>`;
+            resultsList.innerHTML = `<div class="no-results"><p>No se pudo conectar: ${escapeHtml(err.message)}</p><p>Arranca el MCP en local (carpeta mcp: npm install y npm run dev) o revisa tu conexión.</p></div>`;
         });
     </script>
 </body>
