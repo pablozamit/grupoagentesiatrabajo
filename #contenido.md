@@ -41,5 +41,6 @@ Notas con contenido teórico y de referencia:
 - [[Skills SEO gratis (TimSEO)]] - 16 skills SEO copiables para tu IA: técnico, keywords, contenido, AEO y programático
 - [[Google goto links]] - Google interpone redirect en el SERP: qué rompe en rank trackers y atribución (confirmado 26-ago)
 - [[Naturaleza humana (Dan Koe)]] - Framework de persuasión: 3 tensiones, 5 palancas y niveles de awareness para tu copy
+- [[Company Brain]] - Framework + objeciones: qué es, por qué ahora y qué lo puede romper (gobernanza, frontier, mantenimiento)
 
 # #contenido

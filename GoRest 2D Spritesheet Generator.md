@@ -80,6 +80,8 @@ Le dices algo como:
 
 Codex genera el spritesheet, lo coloca en la escena, y puedes ver la animación al instante en el navegador.
 
+Lanzamiento open source por Heroza Zhang ([@HerozaZhan73432](https://x.com/HerozaZhan73432), CEO de Gorest AI, 87k views): agente de animación **sin UI** — prompt a Codex + imagen → spritesheet game-ready con live preview y auto-composite, **sin modelo de video ni workflow manual de Spine**. Lo usaba en su propio juego ([TheHorrorNote](https://x.com/TheHorrorNote)); en el hilo discuten pulir patas que se derriten y un PR para usar gpt-image-2.
+
 Relacionado: [[AutoSprite]], [[Pixel Art Sprites]], [[Juegos]], [[3D]]
 
 # #juegos #2d #ia #animacion #opensource

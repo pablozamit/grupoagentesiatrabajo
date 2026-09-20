@@ -82,6 +82,7 @@ Notas sobre agentes de IA:
 - [[Resender]] - API relay para conectar el Instagram/Messenger del cliente a tus agentes vía webhook (bootstrapped, 335k views)
 - [[Edge0]] - Inferencia MoE on-device open source: 35B con ~3 GB pico (con matiz iPhone vs macOS)
 - [[Codex Record & Replay]] - Enseña el workflow una vez en macOS y Codex lo vuelve skill portable (no EEA/UK/CH)
+- [[Company Brain]] - Framework: Slack + GitHub + HubSpot en una capa de inteligencia con cerebro, fleet commander y sub-agentes (338k views)
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
 # #agente

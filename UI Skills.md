@@ -26,4 +26,14 @@ Las skills se instalan en tu agente de IA (Claude Code, Cursor, Codex, etc.). Ca
 
 Entras en [ui-skills.com](https://www.ui-skills.com), eliges la skill, la instalas, y luego le pides a tu agente que la use.
 
+## UI Skills CLI (nuevo)
+
+Repo [ibelick/ui-skills](https://github.com/ibelick/ui-skills) (MIT, 8.1k ⭐): en vez de elegir tú, el agente encuentra **la mejor skill de diseño-ingeniería para el trabajo** y la usa como contexto. Pídele a Codex, Cursor, Claude Code o cualquier agente:
+
+```
+"use `npx ui-skills start` to fix the motion in this dialog"
+```
+
+Comandos: `start` (routear a la skill mínima útil con `ui-skills-root`), `categories`, `list --category motion`, `get baseline-ui`. Regla de oro del router: **1 skill por defecto, máximo 3**. También hay servidor MCP (`ui-skills.com/mcp`) y playbook con lecciones destiladas. Anuncio (63.3k views): [@Ibelick en X](https://x.com/Ibelick).
+
 # #diseno #vibecoding #agente

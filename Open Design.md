@@ -34,6 +34,14 @@ O descarga la app de escritorio en [open-design.ai](https://open-design.ai).
 3. Emite un `<artifact>` en un iframe sandboxed, editable en vivo
 4. Exportas a HTML / PDF / PPTX / MP4 o lo pasas a Cursor/Codex para seguir como código
 
+## Nueva web (hoja de ruta de principiante a AI-native)
+
+La web renovada ([open-design.ai](https://open-design.ai), hilo de [@OpenDesignHQ](https://x.com/OpenDesignHQ)) ordena todo en 6 secciones:
+
+- **Product**: Open Design, **HTML Anything** (de workflow a HTML shipeable) y **HTML Video** (MP4 reales renderizados por tu agente local) — ver también [open-design.ai/html-video](https://open-design.ai/html-video)
+- **Solution**: navegar por caso de uso (Prototype, Dashboard, Slides, Image, Video, Design System) o por rol (Solo Builder, Designer, Engineering, PM, Marketing)
+- Agrega el set completo: **265 plantillas visuales** y 150+ design systems del proyecto
+
 Relacionado: [[Claude Code]], [[HyperFrames]], [[Codex]], [[Hermes Agent]], [[DesignTools.fyi]], [[Best Designs on X]]
 
 # #diseno #ia #agente #herramientas #opensource
