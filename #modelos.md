@@ -23,5 +23,6 @@ Notas sobre modelos de IA:
 - [[GLiNER2.5]] - Modelo pequeño open source (74M–287M) para extracción + clasificación en una pasada, en CPU; alternativa local a Jev
 - [[Pi en el navegador (MiniCPM5)]] - Agente de código Pi con MiniCPM5-2B 100% en el navegador (Transformers.js + WebGPU + ONNX 4-bit)
 - [[Edge0]] - 35B on-device con ~3 GB pico vía SSD expert offload (Apache-2.0, 716k views, con matiz iPhone)
+- [[MiniMax M3]] - Open-weight multimodal 428B/23B con 1M de contexto (MSA): coding + agentes frontera, endpoint gratis NVIDIA
 
 # #modelos

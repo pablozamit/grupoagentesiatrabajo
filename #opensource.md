@@ -34,6 +34,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Edge0]] - Framework de inferencia MoE on-device (Apache-2.0): 35B en ~3 GB, runtime + modelos abiertos
 - [[Kyutai TTS + Unmute]] - Voz open source francesa: TTS 1.6B + Unmute (cualquier LLM habla en <1 s)
 - [[Vibe Kanban]] - Orquestador de agentes de código (Apache-2.0, 27.8k ⭐): en sunset, vivo vía fork comunitario
+- [[MiniMax M3]] - Pesos abiertos 428B/23B multimodales (MiniMax Community License): 1M contexto, reasoning adaptativo
 - [[Blender MCP Enhanced (bpy-dev)]] - Distribución mejorada del MCP de Blender (GPL-3.0): headless, backend bpy, BlenderBench
 
 # #opensource

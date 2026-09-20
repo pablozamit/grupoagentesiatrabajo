@@ -40,6 +40,7 @@ Notas con contenido teórico y de referencia:
 - [[Lightreel AI]] - Research de marketing en video social: dataset de Meta ads + creadores + scripts (con API)
 - [[Skills SEO gratis (TimSEO)]] - 16 skills SEO copiables para tu IA: técnico, keywords, contenido, AEO y programático
 - [[Google goto links]] - Google interpone redirect en el SERP: qué rompe en rank trackers y atribución (confirmado 26-ago)
+- [[Dora Studio (Motion Magic)]] - Motion graphics por chat: del texto al motion descargable, nicho para creators
 - [[Naturaleza humana (Dan Koe)]] - Framework de persuasión: 3 tensiones, 5 palancas y niveles de awareness para tu copy
 - [[Company Brain]] - Framework + objeciones: qué es, por qué ahora y qué lo puede romper (gobernanza, frontier, mantenimiento)
 - [[LlamaCloud (parseo + MCP)]] - Por qué "chat with PDF" alucina en tablas escaneadas y cómo lo resuelve el parseo agéntico

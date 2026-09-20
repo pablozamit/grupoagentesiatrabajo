@@ -32,5 +32,6 @@ Notas sobre vibecoding:
 - [[Skills de diseño (better-ui y emil-design-eng)]] - Vibecodear con gusto: skills que evitan el slop visual en apps generadas
 - [[Workflow de diseño con IA (Breeje Anadkat)]] - Referencias → draft → feedback → Figma: el loop que convierte slop en diseño
 - [[Vibe Kanban]] - Planifica en kanban, ejecuta en workspaces paralelos, revisa diffs: el loop plan→review con agentes
+- [[Rocket.new]] - App full-stack (Next.js/Flutter + Supabase) desde un prompt, sin lock-in: caso app finanzas (169k views)
 
 # #vibecoding

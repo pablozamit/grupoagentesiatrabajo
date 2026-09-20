@@ -171,4 +171,8 @@ O en la configuración del agente, establece `computer_use: true` en las skills 
 
 Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 ajustes clave (memoria persistente, zona horaria, auto-descubrimiento de skills, contexto modular, profundidad de memoria, enrutamiento de outputs, notificaciones, encadenamiento, consolidación y recuperación de fallos). Ver [[Ajustes Avanzados de Hermes Agent]].
 
+## Receta: loop diario de contenido en X (cerrado)
+
+Vía [@boringmarketers](https://x.com/boringmarketers): arma a Hermes con **X API** (top creators + trending de tu nicho), una **skill** que extrae hooks/formatos/temas que funcionan, **postbridge** para publicar tras tu OK y un **cron diario**. Hermes redacta una pieza fresca al día, te la comparte y la publica cuando dices "go" — research→publish en loop cerrado.
+
 # #agente #vibecoding #contenido

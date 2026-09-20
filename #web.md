@@ -55,5 +55,6 @@ Notas sobre desarrollo web:
 - [[Pi en el navegador (MiniCPM5)]] - Coding agent con modelo 2B corriendo en tu GPU vía WebGPU, sin servidor
 - [[Betterwright]] - Navegador token-efficient para agentes: sesión persistente, vault, snapshots-diff (MIT)
 - [[Resender]] - Relay API developer-first: webhook para DMs/comentarios de Meta, responder con un POST
+- [[Rocket.new]] - De prompt a app en producción (staging+prod, dominio, GitHub sync): 1.5M builders, backend Supabase-first
 
 # #web

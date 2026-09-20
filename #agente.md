@@ -86,6 +86,8 @@ Notas sobre agentes de IA:
 - [[LlamaCloud (parseo + MCP)]] - Parseo de PDFs imposibles + MCP server: tablas escaneadas sin alucinaciones, 100+ SCOTUS en <10 min
 - [[Kyutai TTS + Unmute]] - Voz open source para tus agentes: TTS 1.6B (32 usuarios, 350 ms) + Unmute sobre cualquier LLM
 - [[Vibe Kanban]] - Kanban para orquestar agentes de código en paralelo (27.8k ⭐, en sunset: usa el fork indie)
+- [[MiniMax M3]] - Coding + cowork agéntico open-weight: réplica papers solo (12 h, 18 commits) con contexto millonario
+- [[Mint 3D]] - Tu agente genera assets 3D sin salir del proyecto: MCP remoto + plugin Blender, foto→asset en minutos
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
 # #agente

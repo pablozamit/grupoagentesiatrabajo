@@ -24,5 +24,6 @@ Notas sobre videojuegos:
 - [[Godot]] - Motor de juegos open source: el estándar indie, 2D/3D/XR, con MCP para agentes (GDScript, MIT)
 - [[Meng To Three.js Game Skills]] - Nuevo: SettleCoast, juego multijugador tipo Catan construido entero con Astra en 4 días
 - [[Arcade AI]] - Motor de juegos con IA en el navegador: describes el mundo a Morph, lo construyes con amigos y lo juegas sin salir (tryarcade.com)
+- [[Mint 3D]] - Genera los assets de tu juego desde una foto: packs coherentes, personajes riggeados, mundos caminables
 
 # #juegos
