@@ -17,6 +17,7 @@ A diferencia del RPA tradicional (que **replica coordenadas de mouse** y es frá
 
 - **Soporte nativo**: Microsoft Scout y Microsoft 365 Copilot Cowork.
 - **Aún sin soporte directo**: Claude Code, Codex, OpenCode — el `SKILL.md` generado se puede **adaptar manualmente** a esos hosts.
+- **Codex ya tiene su versión nativa**: [[Codex Record & Replay]] (mismo patrón, macOS + Computer Use, no disponible en EEA/UK/CH).
 
 ## Límites (por detectar)
 

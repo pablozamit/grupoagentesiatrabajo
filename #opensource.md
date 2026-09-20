@@ -30,6 +30,8 @@ Notas sobre herramientas y proyectos open source:
 - [[VibeTube]] - Grabador estilo Loom + edición completa por Claude/Codex (b-rolls, SFX, subtítulos, vertical)
 - [[GLiNER2.5]] - Extracción y clasificación multi-tarea en local (Apache-2.0, 5.2k ⭐): 74M–287M, sin GPU
 - [[Baguette]] - Manager headless de simuladores iOS (Apache-2.0, 1.7k ⭐): 60 fps, gestos, device farm, `brew install baguette`
+- [[Betterwright]] - Navegador persistente para agentes (MIT): policy de red, vault cifrado, proof screenshots
+- [[Edge0]] - Framework de inferencia MoE on-device (Apache-2.0): 35B en ~3 GB, runtime + modelos abiertos
 - [[Blender MCP Enhanced (bpy-dev)]] - Distribución mejorada del MCP de Blender (GPL-3.0): headless, backend bpy, BlenderBench
 
 # #opensource

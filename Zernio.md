@@ -31,6 +31,6 @@ Ofrece **MCP server hosted** (cero setup) además de REST, SDKs y CLI. El agente
 - Documentación cuidada ("algo de lo que estoy orgullosa" según su marketing)
 - Lanzaron #2 del día en Product Hunt (19 junio 2026, 307 upvotes)
 
-Relacionado: [[Atomic Mail]] (email para agentes), [[Agent-Reach]], [[Firecrawl]], [[Marketing Skills]]
+Relacionado: [[Atomic Mail]] (email para agentes), [[Agent-Reach]], [[Firecrawl]], [[Marketing Skills]]. Competidor bootstrapped: [[Resender]] (relay API para Messenger/Instagram/WhatsApp vía webhook, sin free tier de momento).
 
 # #web #ia #agente #oportunidades

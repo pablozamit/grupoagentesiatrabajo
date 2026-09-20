@@ -18,5 +18,6 @@ Notas sobre gestión del tiempo y productividad:
 - [[WhatsApp personal para agentes de IA]] - Puentes no oficiales para operar WhatsApp personal desde agentes, n8n o MCP
 - [[Baguette]] - Granja de emuladores iOS accesible desde el móvil o el navegador: QA móvil en remoto vía Tailscale
 - [[Google goto links]] - El cambio de Google que rompe rank trackers: reconcilia GSC vs GA4 cada semana
+- [[Codex Record & Replay]] - Convierte tareas repetitivas en skills reutilizables enseñándolas una vez (macOS, 30 min/sesión)
 
 # #productividad

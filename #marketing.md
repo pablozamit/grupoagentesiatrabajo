@@ -13,5 +13,7 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[LinkedIn Pulse para GEO]] - Táctica parásita: artículo en LinkedIn citado en AI Overviews en <24 h (con matiz Pulse vs posts)
 - [[Botón de perfil de Google Search]] - Dos líneas de código para convertir visitas en seguidores de Google y distribuir en Discover
 - [[Lightreel AI]] - La IA que hace doomscrolling por ti: dataset de 3M+ Meta ads, creadores, hooks y scripts (1.8M views)
+- [[Resender]] - Conecta el Instagram del cliente a tu agente: DMs y comentarios vía webhook (WhatsApp en waitlist)
+- [[Naturaleza humana (Dan Koe)]] - Meta-habilidad: 3 tensiones + 5 palancas de persuasión para distribuir lo que construyes (1.6M views)
 
 # #marketing

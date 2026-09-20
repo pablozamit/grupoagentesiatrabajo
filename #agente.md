@@ -78,6 +78,10 @@ Notas sobre agentes de IA:
 - [[Pi en el navegador (MiniCPM5)]] - Coding agent 100% en navegador con modelo 2B local (sin servidor, sin HTTP por CORS)
 - [[Entity Map con Screaming Frog MCP]] - Claude + crawler para mapear entidades semánticas del sitio (canibalización, consolidación)
 - [[Baguette]] - Farm de simuladores iOS headless manejable por agentes: 60 fps, gestos, web UI (1.7k ⭐)
+- [[Betterwright]] - Navegador persistente con vault de credenciales: skill/MCP/CLI, proof screenshots, CAPTCHAs ($21k en créditos: caso Nav)
+- [[Resender]] - API relay para conectar el Instagram/Messenger del cliente a tus agentes vía webhook (bootstrapped, 335k views)
+- [[Edge0]] - Inferencia MoE on-device open source: 35B con ~3 GB pico (con matiz iPhone vs macOS)
+- [[Codex Record & Replay]] - Enseña el workflow una vez en macOS y Codex lo vuelve skill portable (no EEA/UK/CH)
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
 # #agente

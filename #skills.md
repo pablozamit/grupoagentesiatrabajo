@@ -34,5 +34,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[Skills de diseño (better-ui y emil-design-eng)]] - Skills MIT (5.9k + 35.9k ⭐) tras el CRM en 2 días con Fable 5.1 (con matices honestos)
 - [[WhatsApp personal para agentes de IA]] - Conecta un agente a WhatsApp personal mediante REST, librerías o MCP (con riesgo de baneo)
 - [[Skills SEO gratis (TimSEO)]] - 16 skills SEO copy-paste para tu agente: auditoría, keywords, AEO, programático (organikk.co)
+- [[Codex Record & Replay]] - Graba el workflow en macOS y Codex genera la skill portable (estándar abierto, no EEA/UK/CH)
 
 # #skills

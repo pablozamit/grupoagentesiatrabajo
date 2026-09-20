@@ -53,5 +53,7 @@ Notas sobre desarrollo web:
 - [[Checklist web vibecodeada]] - 20 cosas que le faltan a tu web generada con IA antes de shipear (404, metas, OG...)
 - [[Polar Browser]] - Navegador agente para knowledge workers: opera tus webs logueado, con workflows programables ($5.7M seed)
 - [[Pi en el navegador (MiniCPM5)]] - Coding agent con modelo 2B corriendo en tu GPU vía WebGPU, sin servidor
+- [[Betterwright]] - Navegador token-efficient para agentes: sesión persistente, vault, snapshots-diff (MIT)
+- [[Resender]] - Relay API developer-first: webhook para DMs/comentarios de Meta, responder con un POST
 
 # #web
