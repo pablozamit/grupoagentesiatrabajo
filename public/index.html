@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Herramientas para Agentes IA</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a2a6c, #2c3e50);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+        }
+        
+        h1 {
+            color: white;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .subtitle {
+            color: #e0e0e0;
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .chat-container {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            overflow: hidden;
+            margin-bottom: 30px;
+        }
+        
+        .chat-header {
+            background: #2c3e50;
+            color: white;
+            padding: 16px 24px;
+            font-weight: 600;
+        }
+        
+        .chat-input {
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .input-group {
+            display: flex;
+            gap: 12px;
+        }
+        
+        input[type="text"] {
+            flex: 1;
+            padding: 14px 20px;
+            border: 2px solid #3498db;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+        
+        input[type="text"]:focus {
+            border-color: #2980b9;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+        }
+        
+        .search-icon {
+            width: 48px;
+            height: 48px;
+            background: #3498db;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .search-icon:hover {
+            background: #2980b9;
+            transform: scale(1.05);
+        }
+        
+        .results-container {
+            padding: 20px;
+        }
+        
+        .results-header {
+            margin-bottom: 20px;
+            color: #2c3e50;
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+        
+        .results-list {
+            display: grid;
+            gap: 16px;
+        }
+        
+        .result-item {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            border-left: 4px solid #3498db;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .result-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            background: #eef2f7;
+        }
+        
+        .result-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 8px;
+        }
+        
+        .result-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+        
+        .tag {
+            background: #3498db;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+        
+        .result-snippet {
+            color: #666;
+            font-size: 0.95rem;
+            margin-bottom: 12px;
+        }
+        
+        .result-url {
+            color: #3498db;
+            font-size: 0.9rem;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .result-url:hover {
+            text-decoration: underline;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 40px 20px;
+            color: #666;
+        }
+        
+        .no-results p {
+            font-size: 1.1rem;
+        }
+        
+        .status-bar {
+            background: #2c3e50;
+            color: white;
+            padding: 12px 20px;
+            font-size: 0.9rem;
+            text-align: center;
+        }
+        
+        @media (max-width: 768px) {
+            .input-group {
+                flex-direction: column;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔍 Buscador de Herramientas para Agentes IA</h1>
+            <p class="subtitle">Escribe lo que necesitas y descubre las mejores herramientas de la enciclopedia en tiempo real</p>
+        </header>
+        
+        <div class="chat-container">
+            <div class="chat-header">
+                <span>Necesito herramientas para...</span>
+            </div>
+            <div class="chat-input">
+                <div class="input-group">
+                    <input type="text" id="searchInput" placeholder="ej: crear agentes con código, buscar en documentos, generar imágenes..." autocomplete="off">
+                    <div class="search-icon" id="searchButton">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="11" cy="11" r="8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M21 21L16.65 16.65" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="results-container">
+                <div class="results-header">Resultados encontrados:</div>
+                <div class="results-list" id="resultsList">
+                    <div class="loading">Escriba su búsqueda para comenzar...</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="status-bar">
+            Conectado a la Enciclopedia de Agentes IA • Actualizado en tiempo real
+        </div>
+    </div>
+
+    <script>
+        // Buscador en tiempo real contra el índice público de la enciclopedia
+        // (el mismo índice que usa el MCP: search_entries / get_entry / list_tags).
+        const INDEX_URL = 'https://grupoagentesiatrabajo.vercel.app/static/contentIndex.json';
+        const SITE_URL = 'https://grupoagentesiatrabajo.vercel.app';
+
+        const searchInput = document.getElementById('searchInput');
+        const searchButton = document.getElementById('searchButton');
+        const resultsList = document.getElementById('resultsList');
+
+        let entries = [];
+        let indexReady = false;
+        let searchTimeout = null;
+
+        const normalize = (value) =>
+            String(value || '').normalize('NFD').replace(/\p{Diacritic}/gu, '')
+                .toLocaleLowerCase('es').replace(/[^a-z0-9]+/g, ' ').trim();
+
+        const STOP_WORDS = new Set(['a', 'al', 'de', 'del', 'el', 'en', 'la', 'las', 'los', 'para', 'por', 'que', 'una', 'un', 'y']);
+        const wordsOf = (value) => normalize(value).split(/\s+/).filter(w => w && !STOP_WORDS.has(w));
+
+        function distance(a, b) {
+            const row = Array.from({ length: b.length + 1 }, (_, i) => i);
+            for (let i = 1; i <= a.length; i++) {
+                let prev = row[0];
+                row[0] = i;
+                for (let j = 1; j <= b.length; j++) {
+                    const old = row[j];
+                    row[j] = Math.min(row[j] + 1, row[j - 1] + 1, prev + (a[i - 1] === b[j - 1] ? 0 : 1));
+                    prev = old;
+                }
+            }
+            return row[b.length];
+        }
+
+        function fuzzyMatch(query, candidate) {
+            if (candidate === query) return 1;
+            if (candidate.startsWith(query) || query.startsWith(candidate)) return 0.9;
+            if (query.length >= 5 && candidate.length >= 5 && query.slice(0, 5) === candidate.slice(0, 5)) return 0.84;
+            if (query.length < 5 || candidate.length < 5) return 0;
+            const d = distance(query, candidate);
+            const sim = 1 - d / Math.max(query.length, candidate.length);
+            return sim >= 0.72 ? sim : 0;
+        }
+
+        function makeSnippet(content, terms, max = 260) {
+            const plain = String(content || '').replace(/\s+/g, ' ').trim();
+            if (!plain) return 'Sin descripción disponible.';
+            const normalized = normalize(plain);
+            let start = 0;
+            for (const term of terms) {
+                const hit = normalized.indexOf(term);
+                if (hit >= 0) { start = Math.max(0, hit - 70); break; }
+            }
+            return `${start > 0 ? '…' : ''}${plain.slice(start, start + max)}${start + max < plain.length ? '…' : ''}`;
+        }
+
+        function escapeHtml(s) {
+            return String(s == null ? '' : s)
+                .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+        }
+
+        function searchIndex(query, limit = 10) {
+            const terms = wordsOf(query);
+            if (!terms.length) return [];
+            return entries.flatMap(entry => {
+                const title = entry.title || entry.slug;
+                const tags = Array.isArray(entry.tags) ? entry.tags.map(String) : [];
+                const titleWords = wordsOf(title);
+                const tagWords = wordsOf(tags.join(' '));
+                const contentWords = wordsOf(typeof entry.content === 'string' ? entry.content : '');
+                let score = 0, matched = 0;
+                for (const term of terms) {
+                    const t = Math.max(0, ...titleWords.map(w => fuzzyMatch(term, w)));
+                    const g = Math.max(0, ...tagWords.map(w => fuzzyMatch(term, w)));
+                    const c = Math.max(0, ...contentWords.map(w => fuzzyMatch(term, w)));
+                    const best = Math.max(t * 10, g * 7, c * 2);
+                    if (best > 0) { matched++; score += best; }
+                }
+                const minMatches = terms.length >= 3 ? 2 : 1;
+                if (!score || matched < minMatches) return [];
+                const coverage = matched / terms.length;
+                score += coverage * coverage * 24;
+                return [{
+                    slug: entry.slug,
+                    title,
+                    url: `${SITE_URL}/${entry.slug}`,
+                    tags,
+                    score: Number(score.toFixed(3)),
+                    snippet: makeSnippet(entry.content, terms)
+                }];
+            }).sort((a, b) => b.score - a.score || a.title.localeCompare(b.title, 'es')).slice(0, limit);
+        }
+
+        function showResults(results, query) {
+            document.querySelector('.results-header').textContent =
+                `Resultados para «${query}» (${results.length}):`;
+            if (!results.length) {
+                resultsList.innerHTML = '<div class="no-results"><p>No se encontraron entradas para tu búsqueda.</p><p>Prueba con términos diferentes (ej: video, 3d, agentes, diseño, mcp).</p></div>';
+                return;
+            }
+            resultsList.innerHTML = results.map(r => `
+                <div class="result-item" data-url="${escapeHtml(r.url)}">
+                    <div class="result-title">${escapeHtml(r.title)}</div>
+                    <div class="result-tags">${r.tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>
+                    <div class="result-snippet">${escapeHtml(r.snippet)}</div>
+                    <a href="${escapeHtml(r.url)}" target="_blank" rel="noopener" class="result-url">Abrir entrada en pestaña nueva →</a>
+                </div>`).join('');
+            document.querySelectorAll('.result-item').forEach(item => {
+                item.addEventListener('click', function(e) {
+                    if (e.target.tagName !== 'A') window.open(this.dataset.url, '_blank', 'noopener');
+                });
+            });
+        }
+
+        function performSearch(query) {
+            query = (query || '').trim();
+            if (query.length < 2) {
+                document.querySelector('.results-header').textContent = 'Resultados encontrados:';
+                resultsList.innerHTML = '<div class="loading">Escribe al menos 2 letras para buscar…</div>';
+                return;
+            }
+            if (!indexReady) {
+                resultsList.innerHTML = '<div class="loading">Cargando índice de la enciclopedia…</div>';
+                return;
+            }
+            showResults(searchIndex(query, 10), query);
+        }
+
+        async function loadIndex() {
+            resultsList.innerHTML = '<div class="loading">Conectando con la enciclopedia…</div>';
+            const res = await fetch(INDEX_URL, { headers: { accept: 'application/json' } });
+            if (!res.ok) throw new Error(`índice HTTP ${res.status}`);
+            const payload = await res.json();
+            entries = Array.isArray(payload) ? payload : Object.values(payload);
+            indexReady = true;
+            document.querySelector('.status-bar').textContent =
+                `Conectado a la Enciclopedia de Agentes IA • ${entries.length} entradas • actualizado en tiempo real`;
+            performSearch(searchInput.value);
+        }
+
+        searchInput.addEventListener('input', function() {
+            clearTimeout(searchTimeout);
+            const q = this.value;
+            searchTimeout = setTimeout(() => performSearch(q), 300);
+        });
+        searchButton.addEventListener('click', () => performSearch(searchInput.value));
+        searchInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') { clearTimeout(searchTimeout); performSearch(this.value); }
+        });
+
+        searchInput.value = 'crear videos con IA';
+        loadIndex().catch(err => {
+            console.error(err);
+            resultsList.innerHTML = `<div class="no-results"><p>No se pudo cargar el índice: ${escapeHtml(err.message)}</p><p>Revisa tu conexión e inténtalo de nuevo.</p></div>`;
+        });
+    </script>
+</body>
+</html>

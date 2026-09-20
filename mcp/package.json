@@ -1,0 +1,23 @@
+{
+  "name": "enciclopedia-agentes-ia-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/server.js",
+    "start:http": "node dist/http-server.js",
+    "dev": "tsx src/http-server.ts",
+    "test": "tsx --test test/*.test.ts",
+    "test:integration": "tsx --test test/integration.test.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.18.2",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}

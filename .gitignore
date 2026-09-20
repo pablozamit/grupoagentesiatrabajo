@@ -14,3 +14,6 @@ __pycache__/
 # Stats locales
 enrichment_stats_*.json
 backup_*.csv
+
+# Estado local de here.now (claim tokens, no subir)
+.herenow/
