@@ -37,6 +37,7 @@ El resultado: `utm_source=chatgpt.com` en sus analytics.
 ## Skills y herramientas GEO
 
 - [[Best AEO Skill]] — audita y optimiza tu web para que las IAs te citen (ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews). 33 recolectores, 4 vectores de análisis, correcciones automáticas.
+- [[Menciones en listicles y reviews (GEO)]] — menciones en reviews/listicles como fuente de citas de IA (CrowdReply + alternativas open-source de tracking GEO/AEO).
 - [[Auditoría SEO]] — plantilla de prompt para una auditoría técnica SEO completa (incluye fase GEO y cierre del ciclo de conversión).
 
 ## La ventana del LLM SEO
