@@ -56,5 +56,6 @@ Notas sobre desarrollo web:
 - [[Betterwright]] - Navegador token-efficient para agentes: sesión persistente, vault, snapshots-diff (MIT)
 - [[Resender]] - Relay API developer-first: webhook para DMs/comentarios de Meta, responder con un POST
 - [[Rocket.new]] - De prompt a app en producción (staging+prod, dominio, GitHub sync): 1.5M builders, backend Supabase-first
+- [[Kapso]] - WhatsApp for developers con docs agent-friendly (llms.txt, CLI, MCP): del número al webhook en minutos
 
 # #web

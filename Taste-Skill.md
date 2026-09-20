@@ -60,4 +60,8 @@ Tres números 1-10 al inicio del `SKILL.md`:
 
 Relacionado: [[8 Prompts de Diseño para Agentes de IA]], [[UI Skills]], [[Compact Landing]], [[DesignEngineer.tools]]
 
+## Gusto personal: Taste Finder
+
+Caso complementario (justine, [@justinemach_](https://x.com/justinemach_), 10.5k views): el cuello del buen gusto es **tu contexto personal**. Enseñó a su agente (skill sobre [browse.sh](https://browse.sh)) a scrapear su web, Pinterest e Instagram, y Fable 5 lo destiló en una **estética cohesiva** → un prompt de "taste" pegable en cualquier editor IA para color grading + edición. Demo: [taste-finder.up.railway.app](http://taste-finder.up.railway.app). Donde Taste-Skill da el framework, Taste Finder pone **tu** gusto dentro.
+
 # #diseno #vibecoding #agente #ia #recursos

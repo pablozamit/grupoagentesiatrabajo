@@ -42,6 +42,7 @@ Notas con contenido teórico y de referencia:
 - [[Google goto links]] - Google interpone redirect en el SERP: qué rompe en rank trackers y atribución (confirmado 26-ago)
 - [[Dora Studio (Motion Magic)]] - Motion graphics por chat: del texto al motion descargable, nicho para creators
 - [[Naturaleza humana (Dan Koe)]] - Framework de persuasión: 3 tensiones, 5 palancas y niveles de awareness para tu copy
+- [[Agent loops (mvanhorn)]] - La tesis loop=cron+LLM y sus 3 herramientas (con guía Compound Engineering de Every)
 - [[Company Brain]] - Framework + objeciones: qué es, por qué ahora y qué lo puede romper (gobernanza, frontier, mantenimiento)
 - [[LlamaCloud (parseo + MCP)]] - Por qué "chat with PDF" alucina en tablas escaneadas y cómo lo resuelve el parseo agéntico
 - [[GeoSpy]] - El modelo de dos canales de privacidad fotográfica: borrar EXIF no basta (la IA lee la ventana)

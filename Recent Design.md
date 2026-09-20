@@ -28,6 +28,7 @@ Encaja con la familia de galerías de inspiración: [[Best Designs on X]], [[Dea
 
 - Web: [recent.design](https://recent.design)
 - Difusión: [@Abmankendrick](https://x.com/Abmankendrick)
+- Vuelta y pipeline: [@darylginn](https://x.com/darylginn) (59.1k views) — sin panel admin a propósito: tira un tweet a un chat de **Telegram y Claude (vía Cloudflare Workers + webhooks) lo analiza, etiqueta y asocia al diseñador** automáticamente. Su bookmark caótico convertido en dump continuo curado a diario.
 
 ## Relacionado
 

@@ -15,5 +15,6 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[Lightreel AI]] - La IA que hace doomscrolling por ti: dataset de 3M+ Meta ads, creadores, hooks y scripts (1.8M views)
 - [[Resender]] - Conecta el Instagram del cliente a tu agente: DMs y comentarios vía webhook (WhatsApp en waitlist)
 - [[Naturaleza humana (Dan Koe)]] - Meta-habilidad: 3 tensiones + 5 palancas de persuasión para distribuir lo que construyes (1.6M views)
+- [[Kapso]] - Mete WhatsApp en tu producto o agencia: multi-tenant, setup links y números US incluidos (para SaaS y agencias)
 
 # #marketing

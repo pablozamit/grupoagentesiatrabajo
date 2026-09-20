@@ -75,6 +75,7 @@ Comparativa de librerías: [Best Open-Source WhatsApp Libraries (2026 Guide)](ht
 - Quieres programarlo a medida sin navegador: **Baileys**
 - Prefieres automatizar WhatsApp Web desde Node.js: **whatsapp-web.js**
 - Quieres conectarlo directamente a un agente por MCP: **whatsapp-mcp**
+- Quieres **oficial sin riesgo de baneo** (pagando a Meta): **[[Kapso]]** — Cloud API oficial, nodo n8n verificado, CLI/MCP, plugins Hermes y OpenClaw
 
 Relacionado: [[Dify]], [[AnythingLLM]], [[Truco HAR → API MCP]], [[Cloudflare Agentic Inbox]]
 
