@@ -68,6 +68,8 @@ Notas sobre agentes de IA:
 - [[Cartwheel MCP]] - MCP para que tu agente anime en Blender (motion humano data-driven, scaling laws)
 - [[AI Critic Loop]] - Patrón de agente crítico: genera, hace screenshots, puntúa y loopa hasta >8 (anti-slop visual)
 - [[WhatsApp personal para agentes de IA]] - Zapia, WAHA, Evolution API, Baileys, whatsapp-web.js y whatsapp-mcp: cómo conectan agentes a un WhatsApp personal y riesgo de baneo
+- [[Jev (TypeSafe)]] - Modelo de decisiones para agentes: clasificar/routear/puntuar sin generar texto (70-500 ms, output gratis)
+- [[AI UGC con agentes]] - Workflow open source (Monid × Hypi) para clonar estilos virales y generar 100 variantes con GPT-6 Astra
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
 # #agente

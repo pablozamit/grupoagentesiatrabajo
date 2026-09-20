@@ -47,6 +47,7 @@ Aplicable a: SEO técnico, auditoría completa del sitio, crecimiento de búsque
 
 - [[GEO]] — la nota-tema hermana; esta plantilla incluye la fase GEO (optimización para IA)
 - [[Best AEO Skill]] — auditoría de presencia en IA (GEO Score) complementario
+- [[Jev (TypeSafe)]] — internal linking masivo como trabajo de clasificación: 586 páginas en 45 s por $0.21
 - [[#seo]] — hub de notas de la categoría
 
 # #seo #contenido #productividad

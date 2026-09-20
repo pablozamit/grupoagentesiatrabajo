@@ -9,5 +9,6 @@ Notas sobre SEO y optimización para buscadores (tanto Google como buscadores de
 - [[Auditoría SEO]] - Plantilla de prompt para auditoría técnica SEO completa + cierre del ciclo de conversión
 - [[NotFair Plugin]] - 45 skills de SEO/GEO/paid media para agentes, evidence-led con Search Console y GA4 en vivo
 - [[Checklist web vibecodeada]] - 20 básicos antes de shipear: metas por página, robots.txt, sitemap, Open Graph
+- [[Jev (TypeSafe)]] - Internal linking masivo con un modelo de decisiones: 586 páginas en 45.1 s por $0.21 (~190× más barato que Opus por página)
 
 # #seo

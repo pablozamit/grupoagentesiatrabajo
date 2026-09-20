@@ -28,5 +28,6 @@ Los buscadores tradicionales están optimizados para humanos: una consulta, una 
 ## Relacionado
 
 - [[Acceso a internet desde agentes]] — comparativa completa que incluye a Exa y los buscadores para agentes
+- [[AI UGC con agentes]] — workflow de video viral del mismo equipo (Monid × Hypi) con GPT-6 Astra
 
 # #agente #web

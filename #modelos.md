@@ -19,5 +19,6 @@ Notas sobre modelos de IA:
 - [[Ahmad Osman (@TheAhmadOsman)]] - Fundador de Osmantic: IA local/self-hosted, clústeres GPU y series de LLMs locales
 - [[Open Generative AI]] - 400+ modelos de imagen/video/audio en un solo estudio self-hosted (Flux, Midjourney, Kling, Sora, Veo)
 - [[Cactus Needle 2]] - LLM agentic de 14MB para dispositivos diminutos (45M params, tool-calling on-device, 28MB RAM)
+- [[Jev (TypeSafe)]] - System One model: decisiones tipadas con confianza calibrada, 20-200× más rápido y 40-400× más barato (caso viral: auditoría SEO de 586 páginas en 45 s por $0.21)
 
 # #modelos

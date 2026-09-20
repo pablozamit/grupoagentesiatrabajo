@@ -7,5 +7,6 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[Dean W. Perkins (@deanwperkins)]] - Tutoriales y repos de IA: webs cinematográficas de $50k con Claude Fable 5
 - [[NotFair Plugin]] - 45 skills open source de SEO/GEO/paid media para agentes (Google, Meta, X, LinkedIn Ads + GA4/Search Console)
 - [[Auditoría de agencia (delivery doc)]] - Framework de Luke Pierce: cómo estructurar la entrega de una auditoría de $3-5K que hace inevitable el build
+- [[AI UGC con agentes]] - UGC a escala con agentes: 1 clon → 100 variantes → 100M views (con advertencias de product drift)
 
 # #marketing

@@ -26,6 +26,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Cobalt]] - Descargador de medios self-hosted sin anuncios ni trackers (AGPL-3.0, 43.1k ⭐)
 - [[Crawl4AI]] - Crawler web open source que convierte cualquier URL en Markdown limpio para LLMs (51k ⭐)
 - [[WhatsApp personal para agentes de IA]] - Alternativas open source para conectar agentes al WhatsApp personal sin la API oficial de Meta
+- [[Jev (TypeSafe)]] - Modelo de decisiones (comercial, waitlist) con réplica open source laya-mlx: decisiones en local vía MLX, ~1 GB, 7-14 ms
 - [[Blender MCP Enhanced (bpy-dev)]] - Distribución mejorada del MCP de Blender (GPL-3.0): headless, backend bpy, BlenderBench
 
 # #opensource

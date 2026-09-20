@@ -14,5 +14,6 @@ Notas sobre video:
 - [[Open Generative AI]] - Estudio de generación de imagen/video self-hosted con 400+ modelos y 14 estudios (sin filtros)
 - [[Cartwheel MCP]] - Animación de personajes en Blender con agentes (motion humano, física realista o estilizada)
 - [[Cobalt]] - Descarga contenido público (video, audio) pegando el enlace: sin anuncios, sin trackers, self-hosted
+- [[AI UGC con agentes]] - Clona estilos virales y genera 100 variantes a $0.03/s con GPT-6 Astra (workflow open source Monid × Hypi)
 
 # #video
