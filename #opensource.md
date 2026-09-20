@@ -32,6 +32,8 @@ Notas sobre herramientas y proyectos open source:
 - [[Baguette]] - Manager headless de simuladores iOS (Apache-2.0, 1.7k ⭐): 60 fps, gestos, device farm, `brew install baguette`
 - [[Betterwright]] - Navegador persistente para agentes (MIT): policy de red, vault cifrado, proof screenshots
 - [[Edge0]] - Framework de inferencia MoE on-device (Apache-2.0): 35B en ~3 GB, runtime + modelos abiertos
+- [[Kyutai TTS + Unmute]] - Voz open source francesa: TTS 1.6B + Unmute (cualquier LLM habla en <1 s)
+- [[Vibe Kanban]] - Orquestador de agentes de código (Apache-2.0, 27.8k ⭐): en sunset, vivo vía fork comunitario
 - [[Blender MCP Enhanced (bpy-dev)]] - Distribución mejorada del MCP de Blender (GPL-3.0): headless, backend bpy, BlenderBench
 
 # #opensource

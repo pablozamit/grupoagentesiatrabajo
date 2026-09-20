@@ -83,6 +83,9 @@ Notas sobre agentes de IA:
 - [[Edge0]] - Inferencia MoE on-device open source: 35B con ~3 GB pico (con matiz iPhone vs macOS)
 - [[Codex Record & Replay]] - Enseña el workflow una vez en macOS y Codex lo vuelve skill portable (no EEA/UK/CH)
 - [[Company Brain]] - Framework: Slack + GitHub + HubSpot en una capa de inteligencia con cerebro, fleet commander y sub-agentes (338k views)
+- [[LlamaCloud (parseo + MCP)]] - Parseo de PDFs imposibles + MCP server: tablas escaneadas sin alucinaciones, 100+ SCOTUS en <10 min
+- [[Kyutai TTS + Unmute]] - Voz open source para tus agentes: TTS 1.6B (32 usuarios, 350 ms) + Unmute sobre cualquier LLM
+- [[Vibe Kanban]] - Kanban para orquestar agentes de código en paralelo (27.8k ⭐, en sunset: usa el fork indie)
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
 # #agente

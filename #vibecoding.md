@@ -31,5 +31,6 @@ Notas sobre vibecoding:
 - [[Arcade AI]] - Describe el juego a la IA y juega sin salir del navegador: crear y jugar son el mismo acto
 - [[Skills de diseño (better-ui y emil-design-eng)]] - Vibecodear con gusto: skills que evitan el slop visual en apps generadas
 - [[Workflow de diseño con IA (Breeje Anadkat)]] - Referencias → draft → feedback → Figma: el loop que convierte slop en diseño
+- [[Vibe Kanban]] - Planifica en kanban, ejecuta en workspaces paralelos, revisa diffs: el loop plan→review con agentes
 
 # #vibecoding
