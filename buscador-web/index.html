@@ -453,7 +453,8 @@
                     showResults(datos.resultados || [], query, origen);
                     return;
                 } catch (err) {
-                    console.warn('MCP falló, usando respaldo local:', err);
+                    motivoMcp = (err && err.message) || String(err);
+                    console.warn('MCP falló, usando respaldo local:', motivoMcp);
                     mcpListo = false;
                     actualizarEstado();
                 }
@@ -466,12 +467,13 @@
             showResults(searchIndex(query, 10), query, 'índice local (MCP no disponible)');
         }
 
+        let motivoMcp = '';
         function actualizarEstado() {
             const barra = document.querySelector('.status-bar');
             if (mcpListo) {
                 barra.textContent = `Conectado por MCP a ${mcpUrl} • Jev optimiza el orden • clic para abrir en pestaña nueva`;
             } else if (indexReady) {
-                barra.textContent = `MCP no disponible en ${mcpUrl} — usando índice local con ${entries.length} entradas • arranca el servidor con: npm run dev (carpeta mcp)`;
+                barra.textContent = `MCP no disponible en ${mcpUrl}${motivoMcp ? ` (motivo: ${motivoMcp})` : ''} — usando índice local con ${entries.length} entradas`;
             } else {
                 barra.textContent = 'Conectando…';
             }
@@ -486,7 +488,7 @@
                     entries = Array.isArray(payload) ? payload : Object.values(payload);
                     indexReady = true;
                 }),
-                mcpConectar().catch(err => console.warn('Sin MCP, habrá respaldo local:', err.message))
+                mcpConectar().catch(err => { motivoMcp = err.message || String(err); console.warn('Sin MCP, habrá respaldo local:', motivoMcp); })
             ];
             await Promise.allSettled(tareas);
             if (!indexReady && !mcpListo) throw new Error('ni MCP ni índice disponibles');
