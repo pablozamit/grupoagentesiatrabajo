@@ -38,6 +38,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Qwen-Image-2.1]] - 7B open-weight (Qwen Research License): transparencia RGBA real, ComfyUI day-0, VRAM de consumo
 - [[Blender MCP Enhanced (bpy-dev)]] - Distribución mejorada del MCP de Blender (GPL-3.0): headless, backend bpy, BlenderBench
 - [[Codebase Memory MCP]] - Code intelligence en un binario (MIT, paper): 158 lenguajes, Cypher, dead code, todo en local
+- [[Rare UI y ObsidianUI]] - Componentes animados open source (MIT): Motion/Framer, reduced-motion, plantillas
 - [[OpenResearch]] - Workspace local-first para autoresearch (MIT, 5.3k ⭐): tu agente + tu cómputo, artefactos con pestaña
 - [[Reelbench skills]] - Descompón videos ajenos por tomas y re-sintetiza (Apache-2.0, 697 ⭐): ffmpeg + modelo, sin API key
 

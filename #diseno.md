@@ -47,6 +47,7 @@ Notas sobre diseño UI/UX:
 - [[Workflow de diseño con IA (Breeje Anadkat)]] - Referencias primero, draft, feedback específico y Figma para el gusto (307k views)
 - [[Qwen-Image-2.1]] - Modelo 7B para los visuales de tu diseño: RGBA nativo, edición local con círculos, 10 referencias
 - [[Diseño con Codex (receta Vox)]] - Imagegen primero + trío Impeccable/21st/UX Audit + línea UX/DX/AX (374k views, con disputa Images 2.5)
+- [[Rare UI y ObsidianUI]] - Componentes React animados open source vía shadcn CLI, con AGENTS.md, llms.txt y MCP para agentes
 - [[Game UI Database (blog gratis)]] - Referencia de UI en juegos (76k pantallas) + tutoriales gratis anti-cursos-$900
 
 # #diseno
