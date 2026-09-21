@@ -148,7 +148,6 @@ export default async function handler(req: Req, res: Res) {
       cuerpo = {}
     }
   }
-  }
   if (Array.isArray(cuerpo)) {
     const respuestas = []
     for (const mensaje of cuerpo) {
