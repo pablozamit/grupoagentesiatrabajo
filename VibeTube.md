@@ -8,6 +8,7 @@
 - Genera **versión horizontal y vertical** del mismo video
 - **Quita el fondo de la webcam** (lo que más le costó al autor, según el hilo)
 - **Subida directa** al terminar
+- **Solo macOS de momento** (lo lamentan en las respuestas del hilo)
 
 ## Stack
 

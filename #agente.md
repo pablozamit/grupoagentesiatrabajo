@@ -82,6 +82,7 @@ Notas sobre agentes de IA:
 - [[Resender]] - API relay para conectar el Instagram/Messenger del cliente a tus agentes vía webhook (bootstrapped, 335k views)
 - [[Edge0]] - Inferencia MoE on-device open source: 35B con ~3 GB pico (con matiz iPhone vs macOS)
 - [[Codex Record & Replay]] - Enseña el workflow una vez en macOS y Codex lo vuelve skill portable (no EEA/UK/CH)
+- [[Codebase Memory MCP]] - Grafo del repo para tu agente: 3.400 tokens en vez de 412.000 (MIT, ~40k ⭐, paper arXiv)
 - [[Company Brain]] - Framework: Slack + GitHub + HubSpot en una capa de inteligencia con cerebro, fleet commander y sub-agentes (338k views)
 - [[LlamaCloud (parseo + MCP)]] - Parseo de PDFs imposibles + MCP server: tablas escaneadas sin alucinaciones, 100+ SCOTUS en <10 min
 - [[Kyutai TTS + Unmute]] - Voz open source para tus agentes: TTS 1.6B (32 usuarios, 350 ms) + Unmute sobre cualquier LLM

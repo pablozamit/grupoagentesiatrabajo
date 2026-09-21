@@ -42,6 +42,16 @@ Codex puede lanzar subagentes especializados en paralelo para explorar, analizar
 
 Existe **LazyCodex** ([lazycodex.ai](https://lazycodex.ai)), un harness para Codex que permite ejecutar **cientos de subagentes** durante horas sin problemas de rendimiento. Está basado en OmO (oh-my-openagent) e instala flujos de trabajo como `$ulw-plan`, `$start-work` y `$ulw-loop`. Un desarrollador reportó ejecutar casi **300 subagentes durante más de 24 horas** en la app de escritorio de Codex sin degradación.
 
+## Exprimir ChatGPT Pro (flujo chino, 366k views)
+
+Vía [@gkxspace](https://x.com/gkxspace): si pagas Pro y "no le sacas valor", falta workflow, no modelo:
+
+1. **Pro como arquitecto**: conecta GitHub en la web, Pro diseña; tú abres rama para UX, subes PR; si el build falla, lo bajas a local y arreglas
+2. **Diálogo Pro en Codex desktop** (esquina superior izquierda): trae el contexto del proyecto, análisis profundo, y con `+` **exportas el historial a Codex** para seguir
+3. **Pro como MCP**: puentes comunitarios ([codex-chatgpt-web](https://github.com/mcncarl/yichen-skills), modo Zero Risk) meten el razonamiento Pro en Codex evitando baneos
+
+Comentario que resume: la cuota es la restricción — **sin harness, Pro es una ventana de chat cara**.
+
 ## Recursos
 
 - Web: [codex.openai.com](https://codex.openai.com)

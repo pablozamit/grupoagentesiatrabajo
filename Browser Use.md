@@ -69,7 +69,7 @@ curl -o ~/.claude/skills/browser-use/SKILL.md \
 - Repo: [github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)
 - Docs: [docs.browser-use.com](https://docs.browser-use.com)
 - Benchmark: [github.com/browser-use/benchmark](https://github.com/browser-use/benchmark)
-- **jev-ultrafast**: [github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — mini agente con [[Jev (TypeSafe)]] (espacio de acciones indexado, LLM pequeño solo para escribir): vuelos en 7.1 s por $0.0039; alternativa local con [[GLiNER2.5]] (36× más barato)
+- **jev-ultrafast**: [github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — mini agente con [[Jev (TypeSafe)]] (espacio de acciones indexado, LLM pequeño solo para escribir): vuelos en 7.1 s por $0.0039; alternativa local con [[GLiNER2.5]] (36× más barato). También vía **opencode browser-use CLI** (demo de [@thdxr](https://x.com/thdxr), 363k views)
 - 99.4k estrellas, 318 contribuidores
 
 # #agente #web #recursos

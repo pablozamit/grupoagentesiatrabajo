@@ -105,6 +105,18 @@ Idea sin artefacto aún (hilo japonés, 207k views): **SAM 3.1** (Meta Model API
 
 Vía [@harrisonitsme](https://x.com/harrisonitsme): 1) waitlist en typesafe.ai (el autor dice aprobación el mismo día — otros reportan solo-con-invitación: estado cambiante, compruébalo); 2) `npx skills add typesafe-ai/skills --skill typesafe-ai`; 3) API key en el dashboard; 4) "use the TypeSafe skill" en el prompt. Atajo mencionado: OpenRouter ya lo integra; Qwen3.7-Flash como vía rápida alternativa. Detalle: **Jev viene de la paradoja de Jevons** (más eficiencia → más consumo).
 
+## Playbook Jev Engineering (codila, 1.4M)
+
+Guía completa de [@0xCodila](https://x.com/0xCodila) — setup 2030 con SDK oficial (`typesafe-sdk`, modelo `jev-1.13.0`), router Chief-of-Staff con colas (research/write/review, umbral 0.85) y lo que de verdad importa:
+
+- **El alpha**: el LLM crea/investiga/escribe, **Jev decide** (routea, puntúa, aprueba, escala), el código ejecuta. Separa pensar de decidir
+- **Casos medidos que añade**: Hassan clasifica 1.018 papers por **$0.08** (256 ms/paper: DeepSeek resume → Jev elige entre 24 topics); Riley 500 emails en segundos por **3.5¢**; plugin de Alex Volkov que revisa tool calls: sesión de ~1M tokens → **86K en 1 s**; tamara: compaction instantánea puntuando tool calls en vez de resumir
+- **Rebuild-the-menu** (idea robada a Browser Use): las opciones deben construirse del estado actual (workers vivos, IDs reales) — decidir sobre el menú de ayer es fallar
+- **Preguntas en paralelo** cuando inspeccionan el mismo estado + ramas especulativas; Jev no ve tu question ID (el nombre del campo no instruye: escribe el requisito en la pregunta)
+- **Precio real**: $0.042/M input; los $0.0039 del vuelo = 90.558 tokens Jev + helper (el navegador aparte). Y el aviso: una decisión barata que manda al worker por la rama mala **cuesta más que la decisión**
+- **UI al vuelo** ([@michaeltefula](https://x.com/michaeltefula), 49.5k, con Astra): cada request = **153 multiple-choice** respondidas en paralelo → plan de UI en ≤1 s, 6× más rápido que Gemini 3.8 Flash y GPT 5.6 Luna. Conecta con generative UI ([[AG-UI + CopilotKit]], json-render en awesome-jev)
+- **Bookmarking** ([@iannuttall](https://x.com/iannuttall), 139k): etiquetar contenido desde tu lista **o decidir si hace falta tag nuevo**; prompt "use /typesafe-ai…". Sin acceso: [classifier.dev](https://classifier.dev) (sin registro, para agentes personales)
+
 ## Recursos
 
 - Web y waitlist: [typesafe.ai](https://typesafe.ai)

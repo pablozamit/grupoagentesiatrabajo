@@ -37,5 +37,6 @@ Notas sobre herramientas y proyectos open source:
 - [[MiniMax M3]] - Pesos abiertos 428B/23B multimodales (MiniMax Community License): 1M contexto, reasoning adaptativo
 - [[Qwen-Image-2.1]] - 7B open-weight (Qwen Research License): transparencia RGBA real, ComfyUI day-0, VRAM de consumo
 - [[Blender MCP Enhanced (bpy-dev)]] - Distribución mejorada del MCP de Blender (GPL-3.0): headless, backend bpy, BlenderBench
+- [[Codebase Memory MCP]] - Code intelligence en un binario (MIT, paper): 158 lenguajes, Cypher, dead code, todo en local
 
 # #opensource
