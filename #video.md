@@ -20,5 +20,6 @@ Notas sobre video:
 - [[Lightreel AI]] - Inteligencia de video social: qué creadores fichar y qué hooks funcionan, desde millones de TikToks/Reels/ads
 - [[Dora Studio (Motion Magic)]] - Chat→motion graphics en minutos: mapas, charts, logos y CTAs sin software (desde $20/mes)
 - [[Jev (TypeSafe)]] - Clipping en <2 s por ~2 céntimos: Jev elige timestamps del transcript y FFmpeg corta (juez, no generador)
+- [[Reelbench skills]] - Aprende descomponiendo: tabla por tomas con 15 quality gates + reporte HTML interactivo de un archivo
 
 # #video

@@ -52,6 +52,10 @@ Vía [@gkxspace](https://x.com/gkxspace): si pagas Pro y "no le sacas valor", fa
 
 Comentario que resume: la cuota es la restricción — **sin harness, Pro es una ventana de chat cara**.
 
+## Nivel geek: Pro web + MCP readonly (326k views)
+
+Vía [@Khazix0918](https://x.com/Khazix0918): para no quemar cuota Codex (un uso de Ultra ≈ 10%), expón tus **logs, eventos y tablas en solo-lectura como MCP** (con tu auth, p. ej. Feishu), súbelo como **plugin a ChatGPT** + plugin de GitHub para PRs/código. El Pro web planifica con datos completos; luego pasas la conversación a Codex + Astra high para implementar. Caveat de Steven Cheng (respondido por el autor): granularidad de auth + **rate limiting/API gateway**, permisos y colas con concurrencia controlada — las alucinaciones pueden disparar ráfagas.
+
 ## Recursos
 
 - Web: [codex.openai.com](https://codex.openai.com)

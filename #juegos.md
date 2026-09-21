@@ -25,5 +25,6 @@ Notas sobre videojuegos:
 - [[Meng To Three.js Game Skills]] - Nuevo: SettleCoast, juego multijugador tipo Catan construido entero con Astra en 4 días
 - [[Arcade AI]] - Motor de juegos con IA en el navegador: describes el mundo a Morph, lo construyes con amigos y lo juegas sin salir (tryarcade.com)
 - [[Mint 3D]] - Genera los assets de tu juego desde una foto: packs coherentes, personajes riggeados, mundos caminables
+- [[Game UI Database (blog gratis)]] - 1.900+ juegos y 76k pantallas + blog de 200 págs gratis, sin paywalls, AI-free zone
 
 # #juegos
