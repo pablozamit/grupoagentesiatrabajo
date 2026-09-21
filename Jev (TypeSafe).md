@@ -48,6 +48,15 @@ Prueba pública de [@borjafat](https://x.com/borjafat) con el mismo queue y la m
 - **Servidor wire-compatible** ([razorback16/openjev](https://github.com/razorback16/openjev), Apache-2.0): acepta `jev-latest`/`jev-preview` para que los SDKs de TypeSafe funcionen sin cambios, sobre DiffusionGemma 26B
 - Conexión con la vault: el método directo en navegador es el mismo que [[Pi en el navegador (MiniCPM5)]] (MiniCPM5-2B en WebGPU)
 
+## El patrón real: Jev como juez, no como generador
+
+Dos casos de septiembre 2026 lo dejan cristalino — Jev nunca genera, **ordena candidatos que otro produce**:
+
+- **Escenas 3D en tiempo real** ([@op7418](https://x.com/op7418), 123.8k views, demo viva con tu propia API Jev): de docenas o cientos de **modelos 3D prefabricados**, Jev hace cientos de juicios concurrentes según el texto y a la vez resuelve color, iluminación, posición y estado → **interior completo en 1 segundo**. La lección de un comentarista: muchas cosas no necesitan generarse, solo **llamarse rápido** — generar es en gran parte desperdicio de recursos. El autor añade: aún no es multimodal; cuando lo sea, el rango se amplía (diseño de niveles en vivo, UI personalizada renderizada en tiempo real)
+- **Clipping de video** ([@BurhanUsman](https://x.com/BurhanUsman), 35.8k views): video de 90+ min clipeado sobre cualquier tema en **<2 s por ~2 céntimos**. Y la comunidad lo desmontó con precisión: Jev solo no puede — preprocesas a **transcript con timestamps**, Jev elige los segmentos y FFmpeg corta. El autor lo confirma: la transcripción es commodity, la inteligencia es de Jev (vía transcripts, sin entender imagen). La crítica dura: para eso "un modelo normal con tu transcript basta"
+
+La regla de oro: si tu tarea se puede reformular como **"elegir entre candidatos ya existentes"** (páginas, timestamps, assets, opciones), Jev la hace 20–200× más barata. Si hay que **generar o entender píxeles/audio**, necesitas el pipeline completo (transcribir, prefabricar, extraer) y Jev es solo el juez final. El cuello se mueve a la **calidad de la biblioteca y el juicio estético** (Mr.Quin) — exactamente lo que el workflow de Meng To y el AI Critic Loop ya resolvían por otro lado.
+
 ## Recursos
 
 - Web y waitlist: [typesafe.ai](https://typesafe.ai)
@@ -64,4 +73,4 @@ Prueba pública de [@borjafat](https://x.com/borjafat) con el mismo queue y la m
 - Decisiones sin LLM en agentes: [[Fable Orchestrator]]
 - Agente navegador con Jev: [[Browser Use]] (jev-ultrafast: 7 s por $0.0039)
 
-# #modelos #opensource #agente #seo
+# #modelos #opensource #agente #seo #3d #video

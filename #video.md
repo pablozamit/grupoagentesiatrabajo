@@ -19,5 +19,6 @@ Notas sobre video:
 - [[ZCode Video plugins]] - Video2code (URL/grabación → código React) y Video Agent Kit (edición automática) con GLM-5.3-Flash
 - [[Lightreel AI]] - Inteligencia de video social: qué creadores fichar y qué hooks funcionan, desde millones de TikToks/Reels/ads
 - [[Dora Studio (Motion Magic)]] - Chat→motion graphics en minutos: mapas, charts, logos y CTAs sin software (desde $20/mes)
+- [[Jev (TypeSafe)]] - Clipping en <2 s por ~2 céntimos: Jev elige timestamps del transcript y FFmpeg corta (juez, no generador)
 
 # #video
