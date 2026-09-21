@@ -136,7 +136,19 @@ export default async function handler(req: Req, res: Res) {
     return
   }
 
-  const cuerpo = req.body ?? {}
+  let cuerpo: any = req.body ?? {}
+  if (typeof cuerpo === "string") {
+    // Tolerante a BOM y a cuerpos sin parsear (proxies, CLIs, curl en Windows).
+    // 65279 es el código del carácter BOM (U+FEFF).
+    let limpio = cuerpo.trim()
+    if (limpio.charCodeAt(0) === 65279) limpio = limpio.slice(1)
+    try {
+      cuerpo = limpio ? JSON.parse(limpio) : {}
+    } catch {
+      cuerpo = {}
+    }
+  }
+  }
   if (Array.isArray(cuerpo)) {
     const respuestas = []
     for (const mensaje of cuerpo) {
