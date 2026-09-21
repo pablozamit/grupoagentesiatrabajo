@@ -286,7 +286,29 @@
                 .toLocaleLowerCase('es').replace(/[^a-z0-9]+/g, ' ').trim();
 
         const STOP_WORDS = new Set(['a', 'al', 'de', 'del', 'el', 'en', 'la', 'las', 'los', 'para', 'por', 'que', 'una', 'un', 'y']);
-        const wordsOf = (value) => normalize(value).split(/\s+/).filter(w => w && !STOP_WORDS.has(w));
+
+        // Mismo stemmer ligero que el MCP: gerundios, participios, pasados,
+        // nominalizaciones y plurales ("entrenando" encuentra "entrenar").
+        function stem(palabra) {
+            if (palabra.length <= 4) return palabra;
+            const reglas = [
+                ['mente', 4],
+                ['iendo', 3],
+                ['ando', 3], ['endo', 3],
+                ['ados', 3], ['idos', 3],
+                ['aron', 3], ['ieron', 3], ['eron', 3], ['aban', 3],
+                ['cion', 3], ['sion', 3],
+                ['ado', 3], ['ido', 3]
+            ];
+            for (const [sufijo, minimo] of reglas) {
+                if (palabra.endsWith(sufijo) && palabra.length - sufijo.length >= minimo) {
+                    return palabra.slice(0, -sufijo.length);
+                }
+            }
+            if (palabra.endsWith('s')) return palabra.slice(0, -1);
+            return palabra;
+        }
+        const wordsOf = (value) => normalize(value).split(/\s+/).map(stem).filter(w => w && !STOP_WORDS.has(w));
 
         function distance(a, b) {
             const row = Array.from({ length: b.length + 1 }, (_, i) => i);

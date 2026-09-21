@@ -103,7 +103,7 @@ async function atender(mensaje: Mensaje): Promise<{ estado: number, cuerpo: unkn
       }
       if (nombre === "buscar_optimizado") {
         const consulta = String(args.query || "")
-        const candidatos = idx.search(consulta, { limit: 20 })
+        const candidatos = idx.search(consulta, { limit: 30 })
         try {
           return { estado: 200, cuerpo: { jsonrpc: "2.0", id, result: texto(await optimizarConJev(consulta, candidatos, args.limit ?? 10)) } }
         } catch (fallo) {

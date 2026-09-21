@@ -10,7 +10,8 @@ const JEV_MODEL = process.env.JEV_MODEL || "jev-latest"
 // Umbral mínimo de relevancia: por debajo se descarta (salvo top 3).
 const UMBRAL_RELEVANCIA = 0.35
 // Candidatos máximos enviados a Jev (acota tokens y coste por búsqueda).
-const MAX_CANDIDATOS_JEV = 12
+// 30 preguntas en paralelo apenas cambian la latencia y cuestan ~$0.0002.
+const MAX_CANDIDATOS_JEV = 30
 
 export type ResultadoOptimizado = SearchResult & { relevanciaJev?: number }
 
@@ -41,7 +42,7 @@ export async function optimizarConJev(
   recorte.forEach((c, i) => {
     questions[`candidato_${i}`] = {
       type: "noul",
-      instructions: `La entrada "${c.title}" (etiquetas: ${c.tags.join(", ") || "ninguna"}) dice: "${c.snippet.slice(0, 300)}". ¿Responde esta entrada de forma directa y útil a la necesidad del usuario?`
+      instructions: `La entrada "${c.title}" (etiquetas: ${c.tags.join(", ") || "ninguna"}) dice: "${c.snippet.slice(0, 300)}". ¿Trata esta entrada sobre la necesidad del usuario o sobre algo estrechamente relacionado? Valora la afinidad temática aunque la necesidad esté expresada en pocas palabras.`
     }
   })
 

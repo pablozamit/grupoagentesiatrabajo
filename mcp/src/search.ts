@@ -25,7 +25,30 @@ const normalize = (value: string) =>
   value.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLocaleLowerCase("es").replace(/[^a-z0-9]+/g, " ").trim()
 
 const STOP_WORDS = new Set(["a", "al", "de", "del", "el", "en", "la", "las", "los", "para", "por", "que", "una", "un", "y"])
-const words = (value: string) => normalize(value).split(/\s+/).filter(word => word && !STOP_WORDS.has(word))
+
+// Stemmer ligero de español: recorta gerundios, participios, pasados,
+// nominalizaciones y plurales para que "entrenando" encuentre "entrenar".
+// Se aplica igual a consulta e índice, así que siempre es consistente.
+function stem(palabra: string): string {
+  if (palabra.length <= 4) return palabra
+  const reglas: Array<[string, number]> = [
+    ["mente", 4],
+    ["iendo", 3],
+    ["ando", 3], ["endo", 3],
+    ["ados", 3], ["idos", 3],
+    ["aron", 3], ["ieron", 3], ["eron", 3], ["aban", 3],
+    ["cion", 3], ["sion", 3],
+    ["ado", 3], ["ido", 3],
+  ]
+  for (const [sufijo, minimo] of reglas) {
+    if (palabra.endsWith(sufijo) && palabra.length - sufijo.length >= minimo) {
+      return palabra.slice(0, -sufijo.length)
+    }
+  }
+  if (palabra.endsWith("s")) return palabra.slice(0, -1)
+  return palabra
+}
+const words = (value: string) => normalize(value).split(/\s+/).map(stem).filter(word => word && !STOP_WORDS.has(word))
 
 function distance(a: string, b: string): number {
   const row = Array.from({ length: b.length + 1 }, (_, index) => index)

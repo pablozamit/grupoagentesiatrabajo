@@ -16,7 +16,7 @@ server.tool("list_tags", "Lista etiquetas y número de entradas", {}, async () =
 server.tool("list_entries", "Lista entradas, con filtro opcional por etiqueta", { tag: z.string().optional(), offset: z.number().int().min(0).optional(), limit: z.number().int().min(1).max(100).optional() }, async ({ tag, offset, limit }) => asText(index.list({ tag, offset, limit })))
 server.tool("refresh_index", "Recarga el índice público de Quartz", {}, async () => asText({ entries: await index.refresh(), refreshedAt: index.lastRefresh }))
 server.tool("buscar_optimizado", "Busca entradas y las reordena con Jev según relevancia real para la necesidad", { query: z.string().min(1), limit: z.number().int().min(1).max(20).optional() }, async ({ query, limit }) => {
-  const candidatos = index.search(query, { limit: 20 })
+  const candidatos = index.search(query, { limit: 30 })
   try {
     return asText(await optimizarConJev(query, candidatos, limit ?? 10))
   } catch (error) {
