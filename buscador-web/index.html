@@ -371,6 +371,8 @@
             if (sid) sessionId = sid;
             const texto = await res.text();
             if (!res.ok) throw new Error(`MCP HTTP ${res.status}`);
+            // 202/204 o cuerpo vacío (p. ej. notifications/initialized): nada que parsear
+            if (!texto.trim()) return null;
             const tipo = res.headers.get('content-type') || '';
             if (tipo.includes('text/event-stream')) {
                 const bloques = texto.split('\n\n').map(b => b.trim()).filter(Boolean);
