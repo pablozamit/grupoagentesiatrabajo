@@ -57,12 +57,48 @@ Dos casos de septiembre 2026 lo dejan cristalino — Jev nunca genera, **ordena 
 
 La regla de oro: si tu tarea se puede reformular como **"elegir entre candidatos ya existentes"** (páginas, timestamps, assets, opciones), Jev la hace 20–200× más barata. Si hay que **generar o entender píxeles/audio**, necesitas el pipeline completo (transcribir, prefabricar, extraer) y Jev es solo el juez final. El cuello se mueve a la **calidad de la biblioteca y el juicio estético** (Mr.Quin) — exactamente lo que el workflow de Meng To y el AI Critic Loop ya resolvían por otro lado.
 
+## Mapa del ecosistema: awesome-jev (250+ proyectos)
+
+[yibie/awesome-jev](https://github.com/yibie/awesome-jev) (779 ⭐, 109 forks, 62 contribuidores, 13 categorías): la field guide de quién construye de verdad con Jev. Reparto: Agent Decisions 31, Infra/SDKs 43, Classification & Routing 24, Verification & Guardrails 22, Scoring & Ranking 20, Calibration & Research 22, Evaluación 16, Game & Sim 10, Data Labeling 5, Finance 4, Moderación 4, Compliance 1, Prácticas 54.
+
+Las joyas que importan para la vault:
+
+- **DocJev** (LlamaIndex, open source): clasifica documentos y parte sub-documentos — 40/40 a ~182 ms → con [[LlamaCloud (parseo + MCP)]]
+- **hermes-jev-approvals**: Jev delante de los approvals de Hermes — 8.7× más rápido, 4.4× menos prompts al usuario
+- **taste-lint**: caza slop en UI/copy/instrucciones con probabilidades Jev → con [[AI Critic Loop]]
+- **jev-seo**: radar SEO/GEO agent-first (DuckDuckGo + Jev + MCP server)
+- **BTK audit**: 1.204 páginas por run, 4.816 juicios en <3 min a $0.0048 por batch de 12 queries
+- **LlamaIndex adapter**: nDCG 0.340→0.396 a ~$0.0003/query
+- **CUA-S1-FORMS** (706K params): formulario entero en un pase de 50 ms vs 23 turnos y 39.6 s del LLM — el caso especialista
+- **laya-mlx**: 13.4 ms por decisión (7.4 ms multilingüe), cero output tokens
+- **Luce**: réplica abierta que le gana en su terreno (tickets 91.1 vs 75.1 de Jev)
+- **typesafe-ai/skills**: package oficial (`npx skills add typesafe-ai/skills`)
+- **mastra-jev-moderation**: 9/9 hostiles bloqueados, 0/49 reales, 0.4 s de mediana
+- **Jev Chat Twitch**: filtrado de chat en vivo por ~$0.15/hora
+
+Contra-evidencia (la lista la incluye, y eso la hace fiable):
+
+- Reranking solo con Jev **no batió** al retrieval vectorial (33k entries, 164 queries, 9.831 pares)
+- Compaction vía Jev: pushback fuerte — compactar es reconstruir, no filtrar
+- Calibración independiente: Choice y Score **sobreconfían**, Boolean **infraconfía**
+- Regla de curación: bulk del mismo autor (mismo scaffold, 1–2 commits) = lead, no herramienta validada. Checklist antes de adoptar: ¿llama a la API de verdad? ¿hay check runnable? ¿números con fuente? ¿cuánto es código? ¿hay licencia?
+
+## Routing: el ahorro que rompe la caché (caso Antonio Leiva)
+
+[@antonioleivag](https://x.com/antonioleivag) (84k views, en español): router Jev para Codex ([jev-codex-router](https://github.com/0xNatoshi/jev-codex-router), vía codex-router.com) — primero prometedor (Astra mejoró el prompt, delegaba por dificultad), luego midió: **cache hit 32% con router vs 99.35% sin cambiar de modelo** → "No os recomiendo usar esto". Cada cambio de modelo invalida el prompt cache: lo ahorrado por llamada se pierde en descuento de caché. Pregunta abierta (Javi Vázquez): ¿**harness routing** en vez de model routing? Conecta directo con [[Fable Orchestrator]] (mismo riesgo al repartir Fable/Luna/DeepSeek).
+
+## Jarvis ambiente (Max Blade)
+
+[@_MaxBlade](https://x.com/_MaxBlade) (66.7k): Jev armado siempre, **sin wake word** — por probabilidades distingue si le hablas al ordenador o piensas en voz alta. Coste del clip ~$2, afinable a céntimos. Su ADE: CNVS ([cnvs.dev](https://cnvs.dev), macOS, UI minimalista estilo Jarvis con voz).
+
 ## Recursos
 
 - Web y waitlist: [typesafe.ai](https://typesafe.ai)
 - Docs y API: [docs.typesafe.ai](https://docs.typesafe.ai)
 - Lanzamiento: [@CompleteSkeptic en X](https://x.com/CompleteSkeptic) (35.9M views)
 - Caso SEO: [@borjafat en X](https://x.com/borjafat) (680k views)
+- Mapa del ecosistema: [yibie/awesome-jev en GitHub](https://github.com/yibie/awesome-jev) (250+ proyectos en 13 categorías)
+- Router con caché rota: [@antonioleivag en X](https://x.com/antonioleivag) (medición 32% vs 99.35%)
 - TL;DR de 45 segundos: [@MatijaSosic en X](https://x.com/MatijaSosic) (1.6M views)
 
 ## Relacionado

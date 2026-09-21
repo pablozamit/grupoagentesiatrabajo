@@ -18,6 +18,8 @@ MIT, 410 ⭐, 100% Shell. Difundido en X por [@painn_x](https://x.com/painn_x) (
 
 > Regla: cada nodo de implementación debe usar GPT-5.6 Luna o DeepSeek V4 Flash. Si ninguna ruta de OpenCode Go está disponible, el workflow reporta el bloqueo en vez de inventar un modelo.
 
+> Aviso medido ([caso Antonio Leiva con router Jev](https://x.com/antonioleivag)): repartir entre modelos **rompe el prompt cache** (32% hit con router vs 99.35% sin cambiar de modelo). Lo ahorrado por llamada barata puede perderse en descuento de caché — vigila el hit rate si activas el reparto.
+
 ## Estructura
 
 ```
@@ -51,7 +53,7 @@ El mismo patrón de [[Learn Harness Engineering]]: **separar el planner del impl
 ## Relacionado
 
 - Arquitectura de agentes: [[Learn Harness Engineering]], [[Harness]]
-- Reparto de trabajo entre modelos: [[Ojos baratos para agentes]], [[TokenRouter]], [[AgentRouter]]
+- Reparto de trabajo entre modelos: [[Ojos baratos para agentes]], [[TokenRouter]], [[AgentRouter]], [[Jev (TypeSafe)]] (routing que rompe la caché: caso Antonio Leiva)
 - Agentes de código: [[Codex]], [[Claude Code]], [[Kilo Code]]
 
 # #agente #vibecoding #contenido
