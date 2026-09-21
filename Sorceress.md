@@ -79,6 +79,7 @@ Sorceress incluye **Pixal3D**, un modelo de generación 3D open source que se ej
 - **Publicación directa**: puedes subir el juego a GitHub Pages o al Sorceress Arcade
 - **Pago único de por vida**: $49 es muy agresivo comparado con Unity/Unreal/Godot + suscripciones de IA
 - **Marketplace**: los assets que generes se pueden vender
+- **En expansión continua**: 5 meses de trabajo de DevDude ([@oldgamesnob](https://x.com/oldgamesnob), 23k views en el anuncio), abierto a feature requests. La comunidad ya pide un MD con features para dárselo a su IA (patrón llms.txt) y debate si Astra no lo haría ya solo — más el escepticismo indie clásico hacia la IA, que el autor encaja como "las fases tempranas son lo que estas herramientas aceleran"
 
 ## Casos de uso
 

@@ -39,15 +39,23 @@
 - **Enhanced (bpy-dev)**: pipelines headless y reproducibles (CI, batch sobre `.blend`), agentes que necesitan el backend `bpy` o medir con BlenderBench
 - **Animar personajes**: [[Cartwheel MCP]] en cualquiera de los dos casos
 
+## Límites conocidos
+
+- **Cuerpos humanos**: la debilidad actual — el propio autor recomienda partir de un buen base mesh (pregunta de [@adrscott](https://x.com/adrscott))
+- Estado: work in progress declarado ("clónalo, rómpelo, manda PRs; si pasas BlenderBench con un modelo pequeño, publica el clip")
+
 ## Recursos
 
 - Repositorio: [github.com/bpy-dev/blender-mcp](https://github.com/bpy-dev/blender-mcp)
+- Web open source: [bpy.dev](https://bpy.dev)
 - Docs del proyecto original: [blender.org/lab/mcp-server](https://blender.org/lab/mcp-server)
+- Anuncio: [@michaelgold en X](https://x.com/michaelgold) (26.5k views) — Astra >99% similitud en BlenderBench; patrón de uso: aliméntale el repo a tu agente y él saca el resto
 
 ## Relacionado
 
 - Distribución clásica: [[Blender MCP]]
 - Animación con agentes: [[Cartwheel MCP]]
 - Workflow de personajes: [[Personajes 3D jugables desde IA]]
+- Lo probará [@majidmanzarpour](https://x.com/majidmanzarpour) (autor de [[Three.js Game Skills (Majid Manzarpour)]])
 
 # #3d #agente #opensource
