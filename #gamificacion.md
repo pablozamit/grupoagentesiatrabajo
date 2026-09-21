@@ -5,6 +5,7 @@ La gamificación aplica dinámicas de juego a contextos no lúdicos (apps, produ
 ## Notas relacionadas
 
 - [[Jake Castillo]] - Por qué "casi toda app exitosa es entretenimiento disfrazado" y conviene gamificar todo lo posible.
+- [[Gym tokens (mancuernas por Claude)]] - Series de bíceps convertidas en tokens de Claude: hook que bloquea trabajar sin saldo + Strava como testigo.
 
 ## Mecánicas clásicas
 

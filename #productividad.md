@@ -21,6 +21,7 @@ Notas sobre gestión del tiempo y productividad:
 - [[Codex Record & Replay]] - Convierte tareas repetitivas en skills reutilizables enseñándolas una vez (macOS, 30 min/sesión)
 - [[Company Brain]] - La tesis de 2026: monta tu cerebro de empresa este año o remonta el siguiente (con objeciones de gobernanza)
 - [[Rocket.new]] - Idea→app con research, build e inteligencia de mercado en un solo sistema (Vibe Solutioning)
+- [[Gym tokens (mancuernas por Claude)]] - Commitment device con hooks: sin serie no hay mensajes; dataset propio + Jev casi gratis
 - [[Agent loops (mvanhorn)]] - Loops que ganan: cron + LLM + estado local (SQLite, cookies vivas, lecciones escritas)
 
 # #productividad
