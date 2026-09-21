@@ -57,6 +57,10 @@ npx impeccable detect src/
 
 Selecciona cualquier elemento en tu dev server, deja un comentario, y genera 3 variantes en producción vía HMR.
 
+## Uso Vox (combo con 21st + UX Audit)
+
+Receta de [@Voxyz_ai](https://x.com/Voxel) (161k views): cuando la página está construida pero algo chirría, en vez de "make it look better" usa los modos como verbos — *too bland? bolder. too cluttered? distill. almost finished? polish*. Combínalo con la skill 21st Design (referencias antes de construir) y UX Audit (el agente usa la página de verdad). Ver [[Diseño con Codex (receta Vox)]].
+
 ## Recursos
 
 - Web: [impeccable.style](https://impeccable.style)

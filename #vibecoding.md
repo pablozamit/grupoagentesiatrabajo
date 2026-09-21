@@ -33,5 +33,6 @@ Notas sobre vibecoding:
 - [[Workflow de diseño con IA (Breeje Anadkat)]] - Referencias → draft → feedback → Figma: el loop que convierte slop en diseño
 - [[Vibe Kanban]] - Planifica en kanban, ejecuta en workspaces paralelos, revisa diffs: el loop plan→review con agentes
 - [[Rocket.new]] - App full-stack (Next.js/Flutter + Supabase) desde un prompt, sin lock-in: caso app finanzas (169k views)
+- [[Diseño con Codex (receta Vox)]] - Que Codex diseñe bien: visual primero, skills de gusto y auditoría usándolo de verdad
 
 # #vibecoding

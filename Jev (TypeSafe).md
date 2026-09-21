@@ -85,7 +85,7 @@ Contra-evidencia (la lista la incluye, y eso la hace fiable):
 
 ## Routing: el ahorro que rompe la caché (caso Antonio Leiva)
 
-[@antonioleivag](https://x.com/antonioleivag) (84k views, en español): router Jev para Codex ([jev-codex-router](https://github.com/0xNatoshi/jev-codex-router), vía codex-router.com) — primero prometedor (Astra mejoró el prompt, delegaba por dificultad), luego midió: **cache hit 32% con router vs 99.35% sin cambiar de modelo** → "No os recomiendo usar esto". Cada cambio de modelo invalida el prompt cache: lo ahorrado por llamada se pierde en descuento de caché. Pregunta abierta (Javi Vázquez): ¿**harness routing** en vez de model routing? Conecta directo con [[Fable Orchestrator]] (mismo riesgo al repartir Fable/Luna/DeepSeek).
+[@antonioleivag](https://x.com/antonioleivag) (84k views, en español): router Jev para Codex ([jev-codex-router](https://github.com/0xNatoshi/jev-codex-router), vía codex-router.com) — primero prometedor (Astra mejoró el prompt, delegaba por dificultad), luego midió: **cache hit 32% con router vs 99.35% sin cambiar de modelo** → "No os recomiendo usar esto". Cada cambio de modelo invalida el prompt cache: lo ahorrado por llamada se pierde en descuento de caché. Contrapunto: [@TheAhmadOsman](https://x.com/TheAhmadOsman) reporta **99.7% cache hits** con DeepSeek Harness + GLM-5.3 self-hosted — "la diferencia entre harnesses vibe-codeados y bien ingenierizados". Pregunta abierta (Javi Vázquez): ¿**harness routing** en vez de model routing? Conecta directo con [[Fable Orchestrator]] (mismo riesgo al repartir Fable/Luna/DeepSeek).
 
 ## Jarvis ambiente (Max Blade)
 

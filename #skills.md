@@ -35,5 +35,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[WhatsApp personal para agentes de IA]] - Conecta un agente a WhatsApp personal mediante REST, librerías o MCP (con riesgo de baneo)
 - [[Skills SEO gratis (TimSEO)]] - 16 skills SEO copy-paste para tu agente: auditoría, keywords, AEO, programático (organikk.co)
 - [[Codex Record & Replay]] - Graba el workflow en macOS y Codex genera la skill portable (estándar abierto, no EEA/UK/CH)
+- [[Diseño con Codex (receta Vox)]] - Combo Impeccable + 21st Design + UX Audit para páginas sin slop (con línea UX/DX/AX)
 
 # #skills
