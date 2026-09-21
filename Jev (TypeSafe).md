@@ -69,7 +69,7 @@ Las joyas que importan para la vault:
 - **jev-seo**: radar SEO/GEO agent-first (DuckDuckGo + Jev + MCP server)
 - **BTK audit**: 1.204 páginas por run, 4.816 juicios en <3 min a $0.0048 por batch de 12 queries
 - **LlamaIndex adapter**: nDCG 0.340→0.396 a ~$0.0003/query
-- **CUA-S1-FORMS** (706K params): formulario entero en un pase de 50 ms vs 23 turnos y 39.6 s del LLM — el caso especialista
+- **CUA-S1-FORMS** (706K params, 2.8 MB): formulario entero en un pase de 50 ms vs 23 turnos y 39.6 s del LLM. Verificado: [trycua/cua](https://github.com/trycua/cua) (25k ⭐, MIT, source-only research + pesos en [HF cua-ai/cua-s1-forms](https://huggingface.co/cua-ai/cua-s1-forms)) y demo real de **196 filas** — justo el matiz de David Tran (99.7% vs 83.6% vale en su set, no en general). El loop que propone la comunidad: **Jev decides, Cua acts** (Jev elige entre acciones acotadas, Cua ejecuta en browser/desktop real, re-observa y verifica). Tesis de Layton Gott: un especialista diminuto por cada tarea repetitiva (forms, CRM, data entry, routing) + un agente potente que reparte
 - **laya-mlx**: 13.4 ms por decisión (7.4 ms multilingüe), cero output tokens
 - **Luce**: réplica abierta que le gana en su terreno (tickets 91.1 vs 75.1 de Jev)
 - **typesafe-ai/skills**: package oficial (`npx skills add typesafe-ai/skills`)
@@ -90,6 +90,20 @@ Contra-evidencia (la lista la incluye, y eso la hace fiable):
 ## Jarvis ambiente (Max Blade)
 
 [@_MaxBlade](https://x.com/_MaxBlade) (66.7k): Jev armado siempre, **sin wake word** — por probabilidades distingue si le hablas al ordenador o piensas en voz alta. Coste del clip ~$2, afinable a céntimos. Su ADE: CNVS ([cnvs.dev](https://cnvs.dev), macOS, UI minimalista estilo Jarvis con voz).
+
+## Reglas que el linter no puede (Abide)
+
+Tesis de Ohans Emmanuel ([@OhansEmmanuel](https://x.com/OhansEmmanuel), ColdteaAI, 110k views): el mejor caso de uso de Jev en coding agents es **hacer cumplir reglas que no se pueden codificar**. Los agentes rompen reglas y algunas no admiten linter — Jev puntúa cada turno contra ellas y dice qué arreglar ya, con self-heal vía hooks.
+
+Medido por el autor (replay de 93 sesiones reales de Claude Code: 1.256 edits, 147 turnos, 2 repos contra su AGENTS.md): **1 de cada 13 turnos rompía una regla**, 300 ms por check, **0.1 céntimo por turno**. Diseño: las reglas no-deterministas se traducen a un **rubric JSON**, y en cada check van instrucciones + diff del turno a Jev. Gotcha: muchos checks no tienen sentido por edit — **corre por turno, no por edit**. Paso previo de la comunidad: **jev-rules** (EliaAlberti) pregunta "¿aplica esta regla?" por prompt y archivo, y entrega a Claude solo las que sí; Abide verifica después si se cumplieron. Repo indicado en el hilo: [coldteadotai/abide](https://github.com/coldteadotai/abide) (no verificado independientemente — cifras del autor).
+
+## Frontera: visión barata + juicio (SAM 3.1 × Jev)
+
+Idea sin artefacto aún (hilo japonés, 207k views): **SAM 3.1** (Meta Model API: detección/segmentación/tracking ligero, $2.50/1k imágenes, $0.20/1k frames) detecta barato + Jev decide = ComputerUse casi autónomo. El patrón encaja con la tesis juez-no-generador; falta quien lo construya.
+
+## Empezar (guía china, 354k views)
+
+Vía [@harrisonitsme](https://x.com/harrisonitsme): 1) waitlist en typesafe.ai (el autor dice aprobación el mismo día — otros reportan solo-con-invitación: estado cambiante, compruébalo); 2) `npx skills add typesafe-ai/skills --skill typesafe-ai`; 3) API key en el dashboard; 4) "use the TypeSafe skill" en el prompt. Atajo mencionado: OpenRouter ya lo integra; Qwen3.7-Flash como vía rápida alternativa. Detalle: **Jev viene de la paradoja de Jevons** (más eficiencia → más consumo).
 
 ## Recursos
 
