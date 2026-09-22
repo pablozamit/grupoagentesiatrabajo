@@ -38,6 +38,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Qwen-Image-2.1]] - 7B open-weight (Qwen Research License): transparencia RGBA real, ComfyUI day-0, VRAM de consumo
 - [[Blender MCP Enhanced (bpy-dev)]] - Distribución mejorada del MCP de Blender (GPL-3.0): headless, backend bpy, BlenderBench
 - [[Codebase Memory MCP]] - Code intelligence en un binario (MIT, paper): 158 lenguajes, Cypher, dead code, todo en local
+- [[mini-AGI]] - Continual learning desde cero en un portátil: código mayormente de Claude Opus 5 (pesos aún no liberados)
 - [[Stagehand]] - SDK browser-agent open source (MIT, 23.7k ⭐): self-healing, WebMCP, OTel, TS/Python/Go
 - [[Pascal]] - Editor 3D de edificios en navegador (MIT, 16k ⭐): Astra × Pascal, plugin Bones rayos-X, MCP server
 - [[Rare UI y ObsidianUI]] - Componentes animados open source (MIT): Motion/Framer, reduced-motion, plantillas

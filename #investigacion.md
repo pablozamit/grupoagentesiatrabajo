@@ -8,5 +8,6 @@ Notas sobre investigación:
 - [[LlamaCloud (parseo + MCP)]] - De PDFs imposibles a índice con citas: parseo agéntico + MCP (10k créditos gratis/mes)
 - [[GeoSpy]] - Geolocaliza fotos con IA solo con píxeles (con tabla honesta: interior 0%, landmarks 100%)
 - [[OpenResearch]] - Convierte tu coding agent en research agent: lit review, hipótesis, experimentos reproducibles (5.3k ⭐, #1 trending)
+- [[mini-AGI]] - Aprender sin olvidar en 8 GB: tronco a LR/10, expertos auto-creados, experimento en marcha
 
 # #investigacion
