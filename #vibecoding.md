@@ -35,6 +35,7 @@ Notas sobre vibecoding:
 - [[Rocket.new]] - App full-stack (Next.js/Flutter + Supabase) desde un prompt, sin lock-in: caso app finanzas (169k views)
 - [[Gym tokens (mancuernas por Claude)]] - Cámara + Claude Code + MediaPipe + Jev fallback: entrenar para desbloquear trabajo (48.9k views)
 - [[Diseño con Codex (receta Vox)]] - Que Codex diseñe bien: visual primero, skills de gusto y auditoría usándolo de verdad
+- [[Pascal]] - Carga un plano y que lo construya: editor 3D con MCP para que tu agente edite escenas (`pascal mcp connect`)
 - [[Codebase Memory MCP]] - El agente pregunta al grafo en vez de leerse el repo: nodos, llamadas, rutas (hilo en español)
 
 # #vibecoding

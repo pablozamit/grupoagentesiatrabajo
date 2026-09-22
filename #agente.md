@@ -84,6 +84,8 @@ Notas sobre agentes de IA:
 - [[Codex Record & Replay]] - Enseña el workflow una vez en macOS y Codex lo vuelve skill portable (no EEA/UK/CH)
 - [[Codebase Memory MCP]] - Grafo del repo para tu agente: 3.400 tokens en vez de 412.000 (MIT, ~40k ⭐, paper arXiv)
 - [[OpenResearch]] - Research agents paralelos con tu modelo: worktrees aislados, árbol de experimentos git-nativo (local-first)
+- [[Stagehand]] - SDK para browser agents (23.7k ⭐): APIs Playwright + self-healing, v4 con Jev (−97% LLMs, 11×)
+- [[Fly Sprites (Jev)]] - Jev en microVM Firecracker: la key nunca entra al Sprite, allowlist + checkpoints (con aviso prompt-injection)
 - [[Company Brain]] - Framework: Slack + GitHub + HubSpot en una capa de inteligencia con cerebro, fleet commander y sub-agentes (338k views)
 - [[LlamaCloud (parseo + MCP)]] - Parseo de PDFs imposibles + MCP server: tablas escaneadas sin alucinaciones, 100+ SCOTUS en <10 min
 - [[Kyutai TTS + Unmute]] - Voz open source para tus agentes: TTS 1.6B (32 usuarios, 350 ms) + Unmute sobre cualquier LLM

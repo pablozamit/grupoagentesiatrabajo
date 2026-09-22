@@ -87,6 +87,11 @@ Contra-evidencia (la lista la incluye, y eso la hace fiable):
 
 [@antonioleivag](https://x.com/antonioleivag) (84k views, en español): router Jev para Codex ([jev-codex-router](https://github.com/0xNatoshi/jev-codex-router), vía codex-router.com) — primero prometedor (Astra mejoró el prompt, delegaba por dificultad), luego midió: **cache hit 32% con router vs 99.35% sin cambiar de modelo** → "No os recomiendo usar esto". Cada cambio de modelo invalida el prompt cache: lo ahorrado por llamada se pierde en descuento de caché. Contrapunto: [@TheAhmadOsman](https://x.com/TheAhmadOsman) reporta **99.7% cache hits** con DeepSeek Harness + GLM-5.3 self-hosted — "la diferencia entre harnesses vibe-codeados y bien ingenierizados". Pregunta abierta (Javi Vázquez): ¿**harness routing** en vez de model routing? Conecta directo con [[Fable Orchestrator]] (mismo riesgo al repartir Fable/Luna/DeepSeek).
 
+## Educación y finanzas (el 95% es validar)
+
+- **Educación** ([@Austin_Way](https://x.com/Austin_Way), 17 años, AlphaSchool, 22k): generar lecciones es el 5% del coste; el 95% es **validarlas** (¿sobrecarga la memoria de trabajo del alumno?). Con frontier: ~$250.000; con Jev: **~$2.000**. Repo: [AustinAWay/Working-Memory-Jev](https://github.com/AustinAWay/Working-Memory-Jev). Pregunta abierta (Dale Cloudman): ¿la calidad basta? El repo es la respuesta auditable
+- **Contabilidad** ([@andywang](https://x.com/andywang), fundador de Finta, 23k): 34 meses que un despacho cobró **$20.000+** → Jev en 20 s por **$0.32** ([finta.com/bookkeeper](https://finta.com/bookkeeper)). Críticas que importan (Stanislav Sorokin): el dinero está en el **5% ambiguo** y en el trail defendible en auditoría — ¿marca lo dudoso o adivina con la misma confianza?; un solo error y quiebra el negocio. Moraleja: Jev para clasificar filas limpias + humano para el 5% gris
+
 ## Jarvis ambiente (Max Blade)
 
 [@_MaxBlade](https://x.com/_MaxBlade) (66.7k): Jev armado siempre, **sin wake word** — por probabilidades distingue si le hablas al ordenador o piensas en voz alta. Coste del clip ~$2, afinable a céntimos. Su ADE: CNVS ([cnvs.dev](https://cnvs.dev), macOS, UI minimalista estilo Jarvis con voz).

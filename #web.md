@@ -57,6 +57,7 @@ Notas sobre desarrollo web:
 - [[Resender]] - Relay API developer-first: webhook para DMs/comentarios de Meta, responder con un POST
 - [[Rocket.new]] - De prompt a app en producción (staging+prod, dominio, GitHub sync): 1.5M builders, backend Supabase-first
 - [[Kapso]] - WhatsApp for developers con docs agent-friendly (llms.txt, CLI, MCP): del número al webhook en minutos
+- [[Stagehand]] - Playwright era para testing: SDK agent-first (act/observe/extract), tokens 7.4k vs 35.7k
 - [[Rare UI y ObsidianUI]] - 14–50+ componentes animados por librería, un archivo cada uno, instalables con shadcn CLI
 
 # #web

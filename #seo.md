@@ -15,6 +15,7 @@ Notas sobre SEO y optimización para buscadores (tanto Google como buscadores de
 - [[Botón de perfil de Google Search]] - Seguidores dentro de Google que reparten hasta tu TikTok/IG/YT en Discover (doc oficial 16-sep, con elegibilidad)
 - [[Skills SEO gratis (TimSEO)]] - Biblioteca de 16 skills SEO gratuitas para automatizar con tu agente (organikk.co/skills)
 - [[Google goto links]] - Redirect anti-scraping en resultados: 500–1.000 requests por keyword, GSC como fuente fiable
+- [[Visual Schema]] - Pega URL o JSON-LD y míralo como grafo: valida, inspecciona entidades, descarga imagen (gratis, en español)
 - [[Entity Map con Screaming Frog MCP]] - Mapa de entidades con Claude + Spider v24 (MCP nativo): canibalización y consolidación sin Python
 
 # #seo
