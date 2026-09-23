@@ -43,6 +43,7 @@ Notas con contenido teórico y de referencia:
 - [[Dora Studio (Motion Magic)]] - Motion graphics por chat: del texto al motion descargable, nicho para creators
 - [[Naturaleza humana (Dan Koe)]] - Framework de persuasión: 3 tensiones, 5 palancas y niveles de awareness para tu copy
 - [[Agent loops (mvanhorn)]] - La tesis loop=cron+LLM y sus 3 herramientas (con guía Compound Engineering de Every)
+- [[Tesseract]] - El agente como editor: brief→preview→revisión→render local, proyecto siempre editable (22-sep-2026)
 - [[Fly Sprites (Jev)]] - Seguridad para agentes con decisiones: keys fuera, red acotada, máquina limpia por ticket
 - [[Game UI Database (blog gratis)]] - ~200 págs de tutoriales UI/UX gratis: cross-platform controls primero, sin registro
 - [[Company Brain]] - Framework + objeciones: qué es, por qué ahora y qué lo puede romper (gobernanza, frontier, mantenimiento)
