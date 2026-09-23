@@ -42,6 +42,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Stagehand]] - SDK browser-agent open source (MIT, 23.7k ⭐): self-healing, WebMCP, OTel, TS/Python/Go
 - [[Pascal]] - Editor 3D de edificios en navegador (MIT, 16k ⭐): Astra × Pascal, plugin Bones rayos-X, MCP server
 - [[Rare UI y ObsidianUI]] - Componentes animados open source (MIT): Motion/Framer, reduced-motion, plantillas
+- [[OpenMausBot]] - Equipo de bots open source (Apache-2.0): local-first, aprobaciones, voz, rutinas, MCP server
 - [[OpenResearch]] - Workspace local-first para autoresearch (MIT, 5.3k ⭐): tu agente + tu cómputo, artefactos con pestaña
 - [[Reelbench skills]] - Descompón videos ajenos por tomas y re-sintetiza (Apache-2.0, 697 ⭐): ffmpeg + modelo, sin API key
 

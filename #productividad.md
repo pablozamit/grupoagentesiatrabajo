@@ -22,6 +22,7 @@ Notas sobre gestión del tiempo y productividad:
 - [[Company Brain]] - La tesis de 2026: monta tu cerebro de empresa este año o remonta el siguiente (con objeciones de gobernanza)
 - [[Rocket.new]] - Idea→app con research, build e inteligencia de mercado en un solo sistema (Vibe Solutioning)
 - [[Gym tokens (mancuernas por Claude)]] - Commitment device con hooks: sin serie no hay mensajes; dataset propio + Jev casi gratis
+- [[OpenMausBot]] - Tu equipo de agentes en un chat: bots con computer, rutinas, canales y teams instalables de un Markdown
 - [[Agent loops (mvanhorn)]] - Loops que ganan: cron + LLM + estado local (SQLite, cookies vivas, lecciones escritas)
 
 # #productividad

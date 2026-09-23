@@ -84,6 +84,7 @@ Notas sobre agentes de IA:
 - [[Codex Record & Replay]] - Enseña el workflow una vez en macOS y Codex lo vuelve skill portable (no EEA/UK/CH)
 - [[Codebase Memory MCP]] - Grafo del repo para tu agente: 3.400 tokens en vez de 412.000 (MIT, ~40k ⭐, paper arXiv)
 - [[Tesseract]] - Tu agente edita video de verdad: keyframes, adjustment layers, timing y sonido como primitivas (motor local gratis)
+- [[OpenMausBot]] - Grok Bot open source (Apache-2.0, 2.1k ⭐): cada chat un agente real con su modelo, computer y apps (BYO logins)
 - [[OpenResearch]] - Research agents paralelos con tu modelo: worktrees aislados, árbol de experimentos git-nativo (local-first)
 - [[Stagehand]] - SDK para browser agents (23.7k ⭐): APIs Playwright + self-healing, v4 con Jev (−97% LLMs, 11×)
 - [[Fly Sprites (Jev)]] - Jev en microVM Firecracker: la key nunca entra al Sprite, allowlist + checkpoints (con aviso prompt-injection)
