@@ -59,5 +59,6 @@ Notas sobre desarrollo web:
 - [[Kapso]] - WhatsApp for developers con docs agent-friendly (llms.txt, CLI, MCP): del número al webhook en minutos
 - [[Stagehand]] - Playwright era para testing: SDK agent-first (act/observe/extract), tokens 7.4k vs 35.7k
 - [[Rare UI y ObsidianUI]] - 14–50+ componentes animados por librería, un archivo cada uno, instalables con shadcn CLI
+- [[Fumadocs]] - Framework React para webs de docs (MIT, 13.2k ⭐): MDX, OpenAPI, Obsidian, llms.txt, avalado por shadcn y Vercel
 
 # #web
