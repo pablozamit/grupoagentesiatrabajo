@@ -4,9 +4,10 @@
 
 ## Cómo funciona
 
-- Motor local **gratuito** (macOS y Windows; sin Linux): preview y render en tu máquina, sin cuenta Captions ni suscripción Adobe (tu agente va aparte)
-- Plugin ChatGPT + skills para Claude (y Codex): le das footage + brief, el agente monta, previsualiza, revisa y renderiza
+- Motor local **gratuito** (macOS, Windows **y Linux**; agentes hosteados como ChatGPT Mobile corren el engine en su entorno): preview y render en tu máquina, sin cuenta Captions ni suscripción Adobe (tu agente va aparte)
+- Plugin ChatGPT + skills para Claude (+ páginas dedicadas para **Muse, Grok Bot e Instinct**): le das footage + brief, el agente monta, previsualiza, revisa y renderiza
 - Proyecto siempre editable: cambia un título o un keyframe sin rehacer el video; pídele que te construya **tu propio editor** (timing, tipografía, color)
+- **Export 4K a 60 fps** (no inventa detalle donde no lo hay); guía de prompts para música, storyboards y video editable
 - Repo y setup: [github.com/mirage-hq/Tesseract](https://github.com/mirage-hq/Tesseract)
 
 ## Límites
