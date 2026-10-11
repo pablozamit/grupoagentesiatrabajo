@@ -147,4 +147,8 @@ Una página web pública (`tu-nombre.here.now/negocios-barrio`) con una tabla o 
 - **Respeta los términos de servicio** — no hagas scraping agresivo, usa delays entre peticiones
 - **Si un negocio no tiene web**, Browser Use puede navegar por Google Maps para obtener la ficha
 
+## Ver también
+
+- [[Scraping]] — el concepto y el pipeline completo de scraping en Google Maps
+
 # #proyecto #agente #web
