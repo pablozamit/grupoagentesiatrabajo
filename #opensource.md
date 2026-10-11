@@ -50,4 +50,6 @@ Notas sobre herramientas y proyectos open source:
 - [[Gentle Dot]] - Asistente de escritorio open source (MIT, early preview, 132 ⭐): overlay con ⌥Espacio, computer use con aprobaciones, voz local
 - [[Engram]] - Memoria persistente para agentes de IA (MIT, 7.1k ⭐): binario Go + SQLite FTS5, MCP con 14 agentes, local o cloud
 
+- [[OpenDots]] - Coworkers de IA always-on self-hosted (MIT, 4.8k ⭐, alpha): Spaces, Dots con computadora propia vía OpenBot, aprobaciones en chat
+
 # #opensource
