@@ -167,6 +167,10 @@ O en la configuración del agente, establece `computer_use: true` en las skills 
 2. Nivel 3 y 4 tienen curva de aprendizaje real (Docker, VPS, SSH)
 3. El modelo importa: Hermes hace a un buen modelo mejor, pero no hace magia con modelos pequeños
 
+## Orquestación multi-agente (Caduceus)
+
+**[[Caduceus (Hermes Desktop)]]** (fork de @OnlyTerp, jun 2026) añade un modo de orquestación: agentes en paralelo sincronizados con cualquier modelo, motor de workflows (Loom), auto-router al modelo más barato por subtarea y vista en vivo del despliegue.
+
 ## Skills Hub
 
 El **[[Hermes Skills Hub]]** (jun 2026) es el catálogo oficial de skills instalables para Hermes: 691 skills de varios registros, con escaneo de seguridad (Skills Guard) antes de cada instalación.
