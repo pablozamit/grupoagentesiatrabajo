@@ -62,4 +62,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Iris-3B]] - Generador de imágenes pixel-space de Speridlabs (Apache 2.0): pesos, código y demo en HF
 
+- [[REA (Reverse Engineer Anything)]] - MCP de ingeniería inversa (MIT): inspecciona apps sin código fuente vía Hopper/Ghidra/IDA
+
 # #opensource
