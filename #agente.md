@@ -119,4 +119,5 @@ Notas sobre agentes de IA:
 
 - [[Hermes Skills Hub]] - Catálogo oficial de skills instalables para Hermes Agent (691 skills)
 - [[Caduceus (Hermes Desktop)]] - Modo de orquestación multi-agente en paralelo para Hermes (fork reversible)
+- [[10 Hacks de Hermes Agent (sistema 24/7)]] - 10 configuraciones (cron, /goal, subagentes, skills, webhooks, perfiles) para operación 24/7
 # #agente
