@@ -117,4 +117,5 @@ Notas sobre agentes de IA:
 
 - [[REA (Reverse Engineer Anything)]] - MCP de ingeniería inversa: el agente inspecciona apps sin código fuente (binarios, Electron, .NET, web) y reconstruye features
 
+- [[Hermes Skills Hub]] - Catálogo oficial de skills instalables para Hermes Agent (691 skills)
 # #agente
