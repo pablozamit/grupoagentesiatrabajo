@@ -1,3 +1,12 @@
+- [[MapsData]] - Scraper de Google Maps con emails verificados y API
+- [[Serpdeck]] - Rank tracking self-hosted (cita sin confirmar como fuente de datos de Maps)
+- [[D7]] - D7 Lead Finder: leads de negocios por sector y zona
+- [[RapidAPI]] - Marketplace de APIs: buscar, probar y consumir miles de APIs con una key
+- [[Prospeo]] - Email finder B2B con 100 créditos gratis
+- [[Icypeas]] - Email finder B2B usado por Clay, Lemlist y Apollo
+- [[MillionVerifier]] - Verificación de listas de email antes de campañas
+- [[BounceBan]] - Verificación especializada en emails catch-all, con API
+
 # #web
 
 Notas sobre desarrollo web:
@@ -60,5 +69,14 @@ Notas sobre desarrollo web:
 - [[Stagehand]] - Playwright era para testing: SDK agent-first (act/observe/extract), tokens 7.4k vs 35.7k
 - [[Rare UI y ObsidianUI]] - 14–50+ componentes animados por librería, un archivo cada uno, instalables con shadcn CLI
 - [[Fumadocs]] - Framework React para webs de docs (MIT, 13.2k ⭐): MDX, OpenAPI, Obsidian, llms.txt, avalado por shadcn y Vercel
+
+- [[MapsData]] - Scraper de Google Maps con emails verificados y API
+- [[Serpdeck]] - Rank tracking self-hosted (cita sin confirmar como fuente de datos de Maps)
+- [[D7]] - D7 Lead Finder: leads de negocios por sector y zona
+- [[RapidAPI]] - Marketplace de APIs: buscar, probar y consumir miles de APIs con una key
+- [[Prospeo]] - Email finder B2B con 100 créditos gratis
+- [[Icypeas]] - Email finder B2B usado por Clay, Lemlist y Apollo
+- [[MillionVerifier]] - Verificación de listas de email antes de campañas
+- [[BounceBan]] - Verificación especializada en emails catch-all, con API
 
 # #web
