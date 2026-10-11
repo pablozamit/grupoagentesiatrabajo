@@ -177,7 +177,7 @@ El **[[Hermes Skills Hub]]** (jun 2026) es el catálogo oficial de skills instal
 
 ## Configuración avanzada
 
-Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 ajustes clave (memoria persistente, zona horaria, auto-descubrimiento de skills, contexto modular, profundidad de memoria, enrutamiento de outputs, notificaciones, encadenamiento, consolidación y recuperación de fallos). Ver [[Ajustes Avanzados de Hermes Agent]].
+Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 ajustes clave (memoria persistente, zona horaria, auto-descubrimiento de skills, contexto modular, profundidad de memoria, enrutamiento de outputs, notificaciones, encadenamiento, consolidación y recuperación de fallos). Ver [[Ajustes Avanzados de Hermes Agent]] y [[10 Hacks de Hermes Agent (sistema 24/7)]].
 
 ## Receta: loop diario de contenido en X (cerrado)
 
