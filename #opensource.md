@@ -54,4 +54,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[OpenPencil]] - Editor de diseño open source (MIT, 8.9k ⭐): abre archivos .fig, IA con 100+ herramientas, CLI headless y colaboración P2P
 
+- [[Gemma 4]] - Modelos abiertos de Google DeepMind (Apache 2.0): 5 tamaños (E2B-31B), multimodal, razonamiento configurable, function calling
+
 # #opensource
