@@ -110,4 +110,6 @@ Notas sobre agentes de IA:
 
 - [[OpenPencil]] - Editor de diseño que abre .fig con IA integrada: MCP server e integración con Claude Code, Codex y Gemini CLI
 
+- [[LM Studio]] - Corre modelos locales en tu PC (chat + API local OpenAI-compatible) y Bionic, su agente local para trabajo y código
+
 # #agente
