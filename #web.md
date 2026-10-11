@@ -70,4 +70,5 @@ Notas sobre desarrollo web:
 - [[MillionVerifier]] - Verificación de listas de email antes de campañas
 - [[BounceBan]] - Verificación especializada en emails catch-all, con API
 
+- [[WebMCP]] - API JS (borrador W3C) para que una web exponga herramientas tipadas a agentes; la página actúa como servidor MCP en el cliente
 # #web
