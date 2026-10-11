@@ -1,6 +1,3 @@
-- [[MapsData]] - Scraper de Google Maps con tier gratuito (según el hilo de origen)
-- [[Prospeo]] - Email finder B2B con 100 créditos gratis
-
 # #oportunidades
 
 Promociones, ofertas de bienvenida y ventajas temporales que son útiles mientras están activas. Aquí se listan las oportunidades que conviene aprovechar antes de que caduquen.
