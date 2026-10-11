@@ -53,4 +53,7 @@ Notas con contenido teórico y de referencia:
 
 - [[Scraping]] - Extraer datos de la web automatizándolo; pipeline completo para montar listas B2B desde Google Maps
 
+- [[reel-cli]] - CLI para crear reels verticales con FFmpeg
+- [[Maillayer]] - Email marketing y correo transaccional autoalojado con licencia de pago único
+
 # #contenido
