@@ -101,4 +101,7 @@ Notas sobre agentes de IA:
 
 - [[Devin]] - El agente de código de Cognition: vincula tu plan ChatGPT (Go/Plus/Pro) para pagar el uso de modelos GPT con él
 
+- [[Gentle Dot]] - Asistente personal open source que vive en tu escritorio: una conversación continua con memoria (Engram), control de tu Mac con aprobaciones y voz local
+- [[Engram]] - Memoria persistente para agentes de IA (7.1k ⭐): un binario Go + SQLite, vía MCP con 14 agentes
+
 # #agente
