@@ -15,4 +15,6 @@ Notas sobre hosting/publicar en internet:
 - [[InstaCloud]] - Cloud agent-native (YC): Postgres + storage + cómputo branchable que tu agente opera (CLI/skill/MCP, self-host con insta-oss)
 - [[Fly Sprites (Jev)]] - Un ordenador Firecracker por agente: hiberna, despierta por webhook, $30 trial, conectores sin keys
 
+- [[Maillayer]] - Plataforma de email en un contenedor, con SQLite y proveedor de envío externo
+
 # #hosting
