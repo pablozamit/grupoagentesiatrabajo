@@ -1,12 +1,3 @@
-- [[MapsData]] - Scraper de Google Maps con emails verificados y API
-- [[Serpdeck]] - Rank tracking self-hosted (cita sin confirmar como fuente de datos de Maps)
-- [[D7]] - D7 Lead Finder: leads de negocios por sector y zona
-- [[RapidAPI]] - Marketplace de APIs: buscar, probar y consumir miles de APIs con una key
-- [[Prospeo]] - Email finder B2B con 100 créditos gratis
-- [[Icypeas]] - Email finder B2B usado por Clay, Lemlist y Apollo
-- [[MillionVerifier]] - Verificación de listas de email antes de campañas
-- [[BounceBan]] - Verificación especializada en emails catch-all, con API
-
 # #web
 
 Notas sobre desarrollo web:
