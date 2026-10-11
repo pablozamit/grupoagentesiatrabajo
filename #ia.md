@@ -15,4 +15,6 @@ Notas sobre inteligencia artificial:
 - [[Sorceress]] - Suite web con 30+ herramientas IA para crear juegos completos (assets + motor WizardGenie)
 - [[Google Colab para VS Code]] - Extensión oficial: ejecuta notebooks en VS Code con GPU T4 gratuita de Colab
 
+- [[TurboQuant]] - Cuantización vectorial de Google Research sin entrenamiento (paper arXiv 2504.19874)
+
 # #ia
