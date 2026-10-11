@@ -30,4 +30,6 @@ Notas sobre modelos de IA:
 - [[Gemma 4]] - Familia open de Google DeepMind (Apache 2.0): E2B a 31B, multimodal, 128-256K contexto; el E4B corre 24/7 en un Mac
 - [[LM Studio]] - App de escritorio para correr modelos locales (Mac/Win/Linux): chat local + servidor OpenAI-compatible, ahora con agente Bionic
 
+- [[Iris-3B]] - Generador de imágenes en espacio de píxeles (sin VAE, Apache 2.0) que también hace visión: profundidad, restauración, super-resolución
+
 # #modelos
