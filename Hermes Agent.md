@@ -167,6 +167,10 @@ O en la configuración del agente, establece `computer_use: true` en las skills 
 2. Nivel 3 y 4 tienen curva de aprendizaje real (Docker, VPS, SSH)
 3. El modelo importa: Hermes hace a un buen modelo mejor, pero no hace magia con modelos pequeños
 
+## Skills Hub
+
+El **[[Hermes Skills Hub]]** (jun 2026) es el catálogo oficial de skills instalables para Hermes: 691 skills de varios registros, con escaneo de seguridad (Skills Guard) antes de cada instalación.
+
 ## Configuración avanzada
 
 Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 ajustes clave (memoria persistente, zona horaria, auto-descubrimiento de skills, contexto modular, profundidad de memoria, enrutamiento de outputs, notificaciones, encadenamiento, consolidación y recuperación de fallos). Ver [[Ajustes Avanzados de Hermes Agent]].
