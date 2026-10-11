@@ -38,4 +38,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[Diseño con Codex (receta Vox)]] - Combo Impeccable + 21st Design + UX Audit para páginas sin slop (con línea UX/DX/AX)
 - [[Reelbench skills]] - video-shots (descomponer por tomas) + video-sync (conformar con storyboard): `./scripts/install.sh`
 
+- [[OpenSEO]] - Skills de workflows SEO (auditoría, keywords) + MCP para conectar la suite a tu agente
+
 # #skills
