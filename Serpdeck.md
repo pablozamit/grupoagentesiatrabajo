@@ -2,9 +2,9 @@
 
 **Serpdeck** es una herramienta de rank tracking self-hosted (posicionamiento en buscadores), disponible como proyecto en GitHub (`bensblueprints/serpdeck`).
 
-## Matiz
+## Matiz (afirma el autor, sin verificar)
 
-Un hilo de X sobre outbound B2B la cita como fuente de datos de Google Maps para listas de negocios. Esa función no aparece en su web ni en su repo (verificado oct. 2026): puede tratarse de otra herramienta homónima o de un uso no documentado. Queda pendiente de confirmar.
+El hilo de X de origen la cita como fuente de datos de Google Maps para listas de negocios ("cheap but more limited"), y el propio newsletter del autor repite ese uso. Pero lo único público y verificable con ese nombre (repo y web oficiales, oct. 2026) es el rank tracker: no consta ninguna función de scraping de Maps. Lo más probable es que el autor se refiera a otra herramienta homónima o privada. La afirmación sobre Maps queda marcada como **afirma el autor, sin verificar**.
 
 ## Recursos
 
