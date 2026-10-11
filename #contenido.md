@@ -1,5 +1,3 @@
-- [[Scraping]] - Extraer datos de la web automatizándolo; pipeline completo para montar listas B2B desde Google Maps
-
 # #contenido
 
 Notas con contenido teórico y de referencia:
