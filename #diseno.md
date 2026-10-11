@@ -52,4 +52,5 @@ Notas sobre diseño UI/UX:
 
 - [[OpenPencil]] - Editor de diseño open source (MIT, 8.9k ⭐) que abre .fig: IA con 100+ tools, CLI/MCP, variantes y export JSX/Tailwind
 
+- [[OpenDesign]] - Espacio de diseño con IA open source (Apache 2.0) encima de Codex/Claude Code; app gratis, cloud de pago
 # #diseno
