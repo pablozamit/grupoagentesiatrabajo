@@ -23,4 +23,6 @@ Notas sobre video:
 - [[Tesseract]] - Premiere/After Effects para agentes (Mirage/Captions): motor local gratis, proyecto editable nativo (no HTML)
 - [[Reelbench skills]] - Aprende descomponiendo: tabla por tomas con 15 quality gates + reporte HTML interactivo de un archivo
 
+- [[reel-cli]] - Montaje rápido de fotos y clips en reels verticales con FFmpeg, música y collages
+
 # #video
