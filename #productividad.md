@@ -25,4 +25,6 @@ Notas sobre gestión del tiempo y productividad:
 - [[OpenMausBot]] - Tu equipo de agentes en un chat: bots con computer, rutinas, canales y teams instalables de un Markdown
 - [[Agent loops (mvanhorn)]] - Loops que ganan: cron + LLM + estado local (SQLite, cookies vivas, lecciones escritas)
 
+- [[reel-cli]] - Convierte una carpeta de fotos y vídeos en un reel vertical con montaje aleatorio reproducible
+
 # #productividad
