@@ -50,4 +50,6 @@ Notas sobre diseño UI/UX:
 - [[Rare UI y ObsidianUI]] - Componentes React animados open source vía shadcn CLI, con AGENTS.md, llms.txt y MCP para agentes
 - [[Game UI Database (blog gratis)]] - Referencia de UI en juegos (76k pantallas) + tutoriales gratis anti-cursos-$900
 
+- [[OpenPencil]] - Editor de diseño open source (MIT, 8.9k ⭐) que abre .fig: IA con 100+ tools, CLI/MCP, variantes y export JSX/Tailwind
+
 # #diseno
