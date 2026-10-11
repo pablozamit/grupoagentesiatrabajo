@@ -4,7 +4,7 @@
 
 _—@Fluyeporlaweb (4 jun 2026)_
 
-**Hermes Skills Hub** es el catálogo oficial de skills (habilidades) listas para instalar en [[Hermes Agent]], el agente open source de Nous Research. Anunciado el 4 de junio de 2026 con 691 skills.
+**Hermes Skills Hub** es el catálogo oficial de skills (habilidades) listas para instalar en [[Hermes Agent]], el agente open source de Nous Research. Anunciado el 4 de junio de 2026 con 691 skills. Buscador oficial: [hermes-agent.nousresearch.com/docs/skills](https://hermes-agent.nousresearch.com/docs/skills/).
 
 ## Cómo funciona
 
