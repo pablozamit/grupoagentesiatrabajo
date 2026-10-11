@@ -58,4 +58,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[turbovec]] - Índice vectorial local (Rust+Python, MIT) con TurboQuant: 4 bits/dimensión, 4,4× FAISS
 
+- [[headroom]] - Compresión local de contexto para agentes (Apache 2.0): librería, proxy, wrap y MCP
+
 # #opensource
