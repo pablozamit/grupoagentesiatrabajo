@@ -16,6 +16,7 @@
 - Ejecutar tareas largas y autónomas sobre un proyecto: refactorizar, migrar, documentar, escribir tests
 - Aplicar cambios coordinados en muchos archivos a la vez
 - Investigar bugs leyendo el código y proponiendo arreglos
+- Preparar demos de venta adaptadas al problema del cliente ([[Vender IA]])
 
 ## Cómo empezar
 
