@@ -56,4 +56,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Gemma 4]] - Modelos abiertos de Google DeepMind (Apache 2.0): 5 tamaños (E2B-31B), multimodal, razonamiento configurable, function calling
 
+- [[turbovec]] - Índice vectorial local (Rust+Python, MIT) con TurboQuant: 4 bits/dimensión, 4,4× FAISS
+
 # #opensource
