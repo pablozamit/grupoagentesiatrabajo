@@ -38,4 +38,6 @@ Notas sobre vibecoding:
 - [[Pascal]] - Carga un plano y que lo construya: editor 3D con MCP para que tu agente edite escenas (`pascal mcp connect`)
 - [[Codebase Memory MCP]] - El agente pregunta al grafo en vez de leerse el repo: nodos, llamadas, rutas (hilo en español)
 
+- [[Devin]] - El agente de código de Cognition: vincula tu plan ChatGPT (Go/Plus/Pro) para pagar el uso de modelos GPT con él
+
 # #vibecoding
