@@ -60,4 +60,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[headroom]] - Compresión local de contexto para agentes (Apache 2.0): librería, proxy, wrap y MCP
 
+- [[Iris-3B]] - Generador de imágenes pixel-space de Speridlabs (Apache 2.0): pesos, código y demo en HF
+
 # #opensource
