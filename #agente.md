@@ -106,4 +106,6 @@ Notas sobre agentes de IA:
 
 - [[OpenDots]] - Plantilla open source de CopilotKit para coworkers de IA always-on: Dots con ordenador propio, aprobaciones human-in-the-loop y Slack (matiz: requiere CopilotKit Intelligence)
 
+- [[OpenSEO]] - Suite de SEO con MCP propio (Claude, Codex...): site audits con renderizado JS, keywords, backlinks y AI visibility
+
 # #agente
