@@ -1,3 +1,5 @@
+- [[Scraping]] - Extraer datos de la web automatizándolo; pipeline completo para montar listas B2B desde Google Maps
+
 # #contenido
 
 Notas con contenido teórico y de referencia:
@@ -50,5 +52,7 @@ Notas con contenido teórico y de referencia:
 - [[Company Brain]] - Framework + objeciones: qué es, por qué ahora y qué lo puede romper (gobernanza, frontier, mantenimiento)
 - [[LlamaCloud (parseo + MCP)]] - Por qué "chat with PDF" alucina en tablas escaneadas y cómo lo resuelve el parseo agéntico
 - [[GeoSpy]] - El modelo de dos canales de privacidad fotográfica: borrar EXIF no basta (la IA lee la ventana)
+
+- [[Scraping]] - Extraer datos de la web automatizándolo; pipeline completo para montar listas B2B desde Google Maps
 
 # #contenido
