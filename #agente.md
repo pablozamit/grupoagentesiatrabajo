@@ -104,4 +104,6 @@ Notas sobre agentes de IA:
 - [[Gentle Dot]] - Asistente personal open source que vive en tu escritorio: una conversación continua con memoria (Engram), control de tu Mac con aprobaciones y voz local
 - [[Engram]] - Memoria persistente para agentes de IA (7.1k ⭐): un binario Go + SQLite, vía MCP con 14 agentes
 
+- [[OpenDots]] - Plantilla open source de CopilotKit para coworkers de IA always-on: Dots con ordenador propio, aprobaciones human-in-the-loop y Slack (matiz: requiere CopilotKit Intelligence)
+
 # #agente
