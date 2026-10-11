@@ -1,6 +1,6 @@
 # Kapso
 
-**Kapso** ([kapso.ai](https://kapso.ai)) es **WhatsApp oficial para developers** (Meta Business Partner): la vía sin pelearte con las devtools de Meta para meter WhatsApp en tu producto, tus agentes o tu n8n. 2.000 mensajes gratis/mes + $2 en créditos IA, sin tarjeta. Tutorial viral de [@andresmatte](https://x.com/andresmatte) (24.5k views): WhatsApp oficial → n8n en 3 minutos.
+**Kapso** ([kapso.ai](https://kapso.ai)) es **WhatsApp oficial para developers** (Meta Business Partner): la vía sin pelearte con las devtools de Meta para meter WhatsApp en tu producto, tus agentes o tu n8n. 2.000 mensajes gratis/mes + $2 en créditos IA, sin tarjeta. Según su web, 30.000+ developers la usan. Tutorial viral de [@andresmatte](https://x.com/andresmatte) (24.5k views): WhatsApp oficial → n8n en 3 minutos.
 
 ## Piezas
 
@@ -10,6 +10,7 @@
 - **Chat SDK** (`@kapso/chat-adapter`): agentes WhatsApp con threads, botones y media
 - **Plugins**: OpenClaw (`@kapso/openclaw-whatsapp`) y **Hermes** (`gokapso/hermes-agent-plugin`: `hermes kapso setup` te monta CLI + webhook)
 - **Multi-tenant**: setup links para que tus clientes conecten su número (con números US incluidos) — hecho para SaaS y agencias
+- **Plataforma web**: sandbox con número de prueba, webhooks en tiempo real, logs de API, WhatsApp Flows (mini-apps: formularios, reservas, catálogos), Inbox de equipo, Workflows visuales con 2.700+ apps, Broadcasts y Functions (JS serverless)
 
 ## Vs la nota de WhatsApp no oficial
 
