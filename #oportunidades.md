@@ -1,3 +1,6 @@
+- [[MapsData]] - Scraper de Google Maps con tier gratuito (según el hilo de origen)
+- [[Prospeo]] - Email finder B2B con 100 créditos gratis
+
 # #oportunidades
 
 Promociones, ofertas de bienvenida y ventajas temporales que son útiles mientras están activas. Aquí se listan las oportunidades que conviene aprovechar antes de que caduquen.
@@ -12,5 +15,8 @@ Promociones, ofertas de bienvenida y ventajas temporales que son útiles mientra
 - [[Moli Browser]] - Navegador headless gratis y open source: memoria mínima para VPS de 1GB y servidores ligeros
 - [[Sonniss GDC 2026]] - 347+ SFX profesionales gratis (7.47GB, royalty-free forever, uso comercial)
 - [[Cloudflare Agentic Inbox]] - Cliente de email + agente IA en tu cuenta de Cloudflare, sin factura por email
+
+- [[MapsData]] - Scraper de Google Maps con tier gratuito (según el hilo de origen)
+- [[Prospeo]] - Email finder B2B con 100 créditos gratis
 
 # #oportunidades
