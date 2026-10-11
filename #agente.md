@@ -114,4 +114,7 @@ Notas sobre agentes de IA:
 
 - [[headroom]] - Compresión local de contexto para agentes (librería/proxy/MCP/wrap): 60-95% menos tokens según el autor
 
+
+- [[REA (Reverse Engineer Anything)]] - MCP de ingeniería inversa: el agente inspecciona apps sin código fuente (binarios, Electron, .NET, web) y reconstruye features
+
 # #agente
