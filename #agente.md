@@ -99,4 +99,6 @@ Notas sobre agentes de IA:
 - [[Mint 3D]] - Tu agente genera assets 3D sin salir del proyecto: MCP remoto + plugin Blender, foto→asset en minutos
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
+- [[Devin]] - El agente de código de Cognition: vincula tu plan ChatGPT (Go/Plus/Pro) para pagar el uso de modelos GPT con él
+
 # #agente
