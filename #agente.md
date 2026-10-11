@@ -112,4 +112,6 @@ Notas sobre agentes de IA:
 
 - [[LM Studio]] - Corre modelos locales en tu PC (chat + API local OpenAI-compatible) y Bionic, su agente local para trabajo y código
 
+- [[headroom]] - Compresión local de contexto para agentes (librería/proxy/MCP/wrap): 60-95% menos tokens según el autor
+
 # #agente
