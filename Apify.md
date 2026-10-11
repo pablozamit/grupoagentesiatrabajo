@@ -12,7 +12,7 @@
 ## Para qué sirve
 
 - **Investigación**: Recopilar datos de competidores
-- **Leads**: Extraer contactos de directorios
+- **Leads**: Extraer contactos de directorios; para Google Maps hay scrapers específicos como [[MapsData]] (ver [[Scraping]])
 - **Ecommerce**: Monitorizar precios de productos
 - **Noticias**: Recopilar artículos de prensa
 - **AI**: Alimentar modelos con datos de la web
@@ -43,4 +43,3 @@
 - Store: [apify.com/store](https://apify.com/store)
 
 # #agente #web #contenido
-
