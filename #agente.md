@@ -108,4 +108,6 @@ Notas sobre agentes de IA:
 
 - [[OpenSEO]] - Suite de SEO con MCP propio (Claude, Codex...): site audits con renderizado JS, keywords, backlinks y AI visibility
 
+- [[OpenPencil]] - Editor de diseño que abre .fig con IA integrada: MCP server e integración con Claude Code, Codex y Gemini CLI
+
 # #agente
