@@ -183,4 +183,21 @@ Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 aj
 
 Vía [@boringmarketers](https://x.com/boringmarketers): arma a Hermes con **X API** (top creators + trending de tu nicho), una **skill** que extrae hooks/formatos/temas que funcionan, **postbridge** para publicar tras tu OK y un **cron diario**. Hermes redacta una pieza fresca al día, te la comparte y la publica cuando dices "go" — research→publish en loop cerrado.
 
+## Obsidian como contexto de investigación
+
+La [skill oficial de Obsidian](https://hermes-agent.nousresearch.com/docs/user-guide/skills/bundled/note-taking/note-taking-obsidian) permite leer, buscar, crear y editar notas Markdown y añadir wikilinks directamente en el sistema de archivos. Documenta `OBSIDIAN_VAULT_PATH` para localizar la bóveda. Esto no equivale a cargar toda la bóveda automáticamente en cada conversación: hay que indicar qué notas debe buscar y leer.
+
+Un flujo útil es pedir un resumen periódico que conecte capturas recientes con notas antiguas, cite títulos concretos, contraste afirmaciones incompatibles y proponga una acción. Es el caso de uso descrito en el [artículo de DamiDefi](https://x.com/DamiDefi/status/2060653619116974089), del 30 de mayo de 2026. Sus resultados (23 archivos leídos y conexiones que no había visto) son experiencias del autor, no un benchmark ni una garantía.
+
+### Matices del tutorial
+
+El artículo propone `hermes memory setup --provider obsidian --path ...` y afirma que existe un proveedor de memoria Obsidian de primera clase. La [documentación actual de proveedores de memoria](https://hermes-agent.nousresearch.com/docs/user-guide/features/memory-providers) no confirma ese comando para Obsidian. La vía verificada aquí es la skill de acceso a archivos; no se debe copiar el comando del artículo como instalación validada.
+
+- Empezar por una carpeta acotada y comprobar lecturas y cambios antes de ampliar permisos.
+- Definir en `SOUL.md` las preguntas de investigación, el criterio de fuentes y qué contradicciones buscar. Es contexto de trabajo, no prueba de que los patrones encontrados sean ciertos.
+- Probar un resumen manual antes de programarlo. Pedir referencias a notas evita un resumen genérico, pero hay que revisar las conexiones.
+- El artículo propone subir todo `~/.hermes/` a un repo privado. No hacerlo a ciegas: esa carpeta puede contener credenciales, sesiones y datos privados. Excluir secretos y usar una copia selectiva.
+
+Ver [[Ajustes Avanzados de Hermes Agent]], [[Hermes Dreaming]] y [[RAG]]. Difusión: [tuit con vídeo](https://x.com/DamiDefi/status/2060755673085014342); el vídeo es un meme sin voz ni instrucciones técnicas.
+
 # #agente #vibecoding #contenido
