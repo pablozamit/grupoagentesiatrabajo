@@ -47,4 +47,7 @@ Notas sobre herramientas y proyectos open source:
 - [[OpenResearch]] - Workspace local-first para autoresearch (MIT, 5.3k ⭐): tu agente + tu cómputo, artefactos con pestaña
 - [[Reelbench skills]] - Descompón videos ajenos por tomas y re-sintetiza (Apache-2.0, 697 ⭐): ffmpeg + modelo, sin API key
 
+- [[Gentle Dot]] - Asistente de escritorio open source (MIT, early preview, 132 ⭐): overlay con ⌥Espacio, computer use con aprobaciones, voz local
+- [[Engram]] - Memoria persistente para agentes de IA (MIT, 7.1k ⭐): binario Go + SQLite FTS5, MCP con 14 agentes, local o cloud
+
 # #opensource
