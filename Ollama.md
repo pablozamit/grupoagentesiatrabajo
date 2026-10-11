@@ -172,4 +172,8 @@ Puedes ejecutar modelos pequeños, pero será **muy lento** (10-50x más lento).
 - Web: [ollama.com](https://ollama.com/)
 - Docs: [github.com/ollama/ollama](https://github.com/ollama/ollama)
 
+## Relacionado
+
+- [[AirLLM]] — para modelos enormes (70B-405B) en GPUs pequeñas, capa a capa
+
 # #modelos #contenido
