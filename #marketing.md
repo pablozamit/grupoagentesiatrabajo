@@ -20,4 +20,6 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[Vender IA]] - 26 lecciones de GTM B2B tras un año vendiendo IA a gran cuenta y pymes: ROI, dueño del proyecto y entregas rápidas (@rmarzal)
 
 # #marketing
+- [[Maillayer]] - Campañas, secuencias y API de email sin suscripción propia; servidor y envío aparte
+
 # #marketing
