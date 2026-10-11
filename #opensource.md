@@ -52,4 +52,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[OpenDots]] - Coworkers de IA always-on self-hosted (MIT, 4.8k ⭐, alpha): Spaces, Dots con computadora propia vía OpenBot, aprobaciones en chat
 
+- [[OpenPencil]] - Editor de diseño open source (MIT, 8.9k ⭐): abre archivos .fig, IA con 100+ herramientas, CLI headless y colaboración P2P
+
 # #opensource
