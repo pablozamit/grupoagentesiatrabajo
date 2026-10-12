@@ -27,4 +27,6 @@ Notas sobre videojuegos:
 - [[Mint 3D]] - Genera los assets de tu juego desde una foto: packs coherentes, personajes riggeados, mundos caminables
 - [[Game UI Database (blog gratis)]] - 1.900+ juegos y 76k pantallas + blog de 200 págs gratis, sin paywalls, AI-free zone
 
+- [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
+
 # #juegos
