@@ -121,4 +121,6 @@ Notas sobre agentes de IA:
 - [[Caduceus (Hermes Desktop)]] - Modo de orquestación multi-agente en paralelo para Hermes (fork reversible)
 - [[10 Hacks de Hermes Agent (sistema 24/7)]] - 10 configuraciones (cron, /goal, subagentes, skills, webhooks, perfiles) para operación 24/7
 - [[Hermes Dreaming]] - automejora por fases para Hermes Agent: propone cambios, el humano aprueba, luego escribe
+- [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
+
 # #agente
