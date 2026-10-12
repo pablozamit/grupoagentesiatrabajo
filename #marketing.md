@@ -22,4 +22,8 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 # #marketing
 - [[Maillayer]] - Campañas, secuencias y API de email sin suscripción propia; servidor y envío aparte
 
+- [[Vugola]] - Vídeo largo a clips; créditos y revisión
+
+- [[Postiz]] - Calendario multicanal vía API/CLI/MCP
+
 # #marketing
