@@ -27,4 +27,7 @@ Notas sobre gestión del tiempo y productividad:
 
 - [[reel-cli]] - Convierte una carpeta de fotos y vídeos en un reel vertical con montaje aleatorio reproducible
 
+- [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
+- [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
+
 # #productividad
