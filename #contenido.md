@@ -65,4 +65,6 @@ Notas con contenido teórico y de referencia:
 
 - [[Postiz]] - Calendario multicanal vía API/CLI/MCP
 
+- [[agentmemory]] - Memoria persistente híbrida para agentes, bajo presupuesto y con límites
+
 # #contenido
