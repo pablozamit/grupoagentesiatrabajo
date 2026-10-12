@@ -73,4 +73,10 @@ Notas sobre desarrollo web:
 - [[WebMCP]] - API JS (borrador W3C) para que una web exponga herramientas tipadas a agentes; la página actúa como servidor MCP en el cliente
 - [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
 
+- [[xurl]] - CLI oficial de X, OAuth y perfiles
+
+- [[Postiz]] - Calendario multicanal vía API/CLI/MCP
+
+- [[ScrapeGraphAI]] - Páginas a JSON; librería MIT o API
+
 # #web
