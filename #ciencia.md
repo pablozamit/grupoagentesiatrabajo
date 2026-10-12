@@ -5,4 +5,6 @@ Notas sobre ciencia:
 - [[Meta TRIBE v2]] - Modelo de Meta que predice actividad cerebral desde video, audio y texto en 3D
 - [[World Monitor]] - Plataforma de inteligencia geoespacial open source: correlación de señales, CII y 65+ fuentes de datos
 
+- [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
+
 # #ciencia
