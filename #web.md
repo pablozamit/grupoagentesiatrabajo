@@ -71,4 +71,6 @@ Notas sobre desarrollo web:
 - [[BounceBan]] - Verificación especializada en emails catch-all, con API
 
 - [[WebMCP]] - API JS (borrador W3C) para que una web exponga herramientas tipadas a agentes; la página actúa como servidor MCP en el cliente
+- [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
+
 # #web
