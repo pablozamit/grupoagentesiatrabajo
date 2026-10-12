@@ -56,4 +56,7 @@ Notas con contenido teórico y de referencia:
 - [[reel-cli]] - CLI para crear reels verticales con FFmpeg
 - [[Maillayer]] - Email marketing y correo transaccional autoalojado con licencia de pago único
 
+- [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
+- [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
+
 # #contenido
