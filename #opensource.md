@@ -68,4 +68,8 @@ Notas sobre herramientas y proyectos open source:
 
 - [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
 
+- [[xurl]] - CLI oficial de X, OAuth y perfiles
+
+- [[ScrapeGraphAI]] - Páginas a JSON; librería MIT o API
+
 # #opensource
