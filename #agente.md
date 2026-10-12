@@ -125,4 +125,6 @@ Notas sobre agentes de IA:
 
 - [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
 
+- [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
+
 # #agente
