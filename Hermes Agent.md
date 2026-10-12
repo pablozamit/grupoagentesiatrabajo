@@ -201,3 +201,8 @@ El artículo propone `hermes memory setup --provider obsidian --path ...` y afir
 Ver [[Ajustes Avanzados de Hermes Agent]], [[Hermes Dreaming]] y [[RAG]]. Difusión: [tuit con vídeo](https://x.com/DamiDefi/status/2060755673085014342); el vídeo es un meme sin voz ni instrucciones técnicas.
 
 # #agente #vibecoding #contenido
+
+
+## Conectar X y un flujo de clips
+
+[[xurl]] es el CLI usado por la skill social de X: app, OAuth y cuenta son una conexión separada del LLM. El flujo [[Vugola]] → [[Postiz]] conecta recorte/subtítulos y distribución; Hermes coordina, pero hay que revisar derechos, contenido y cuenta destino. El artículo comercial no prueba ingresos ni autoriza publicar sin límites.
