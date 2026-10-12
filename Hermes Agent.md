@@ -206,3 +206,8 @@ Ver [[Ajustes Avanzados de Hermes Agent]], [[Hermes Dreaming]] y [[RAG]]. Difusi
 ## Conectar X y un flujo de clips
 
 [[xurl]] es el CLI usado por la skill social de X: app, OAuth y cuenta son una conexión separada del LLM. El flujo [[Vugola]] → [[Postiz]] conecta recorte/subtítulos y distribución; Hermes coordina, pero hay que revisar derechos, contenido y cuenta destino. El artículo comercial no prueba ingresos ni autoriza publicar sin límites.
+
+
+## Memoria externa revisable
+
+[[agentmemory]] ofrece integración como memory provider, con captura por hooks y recuperación bajo presupuesto. No es «memoria infinita»: revisar cobertura, retención, proveedores de embeddings y calidad de recuperación. Sus benchmarks propios no garantizan el mismo ahorro en todos los flujos.
