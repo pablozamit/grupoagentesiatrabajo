@@ -66,4 +66,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
 
+- [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
+
 # #opensource
