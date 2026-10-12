@@ -26,4 +26,6 @@ orx up   # dashboard local en 127.0.0.1:4791
 - Orquestar agentes en paralelo: [[Vibe Kanban]], [[Orca]]
 - Metodología fiable: [[Learn Harness Engineering]]
 
+Para literatura biomédica, [[PubMedMCP]] permite buscar PMIDs y recuperar resúmenes o texto disponible en PMC; verificar extracción y versión del servidor antes de generar tablas.
+
 # #investigacion #agente #opensource
