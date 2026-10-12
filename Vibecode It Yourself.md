@@ -53,6 +53,10 @@ Incluye **33 reemplazos** categorizados por tiempo de construcción (Tonight 10,
 
 Cada entrada incluye stack técnico sugerido (Astro + HTMX/Alpine + D1/R2/Workers), tiempo estimado y prompt completo para tu agente de código.
 
+## Reemplazar una suscripción sin construir desde cero
+
+[[Alternativas autohospedadas a SaaS]] reúne proyectos existentes para automatización, reservas, diseño, chat y datos. Comparar licencia, migración y coste total antes de elegir: un servidor barato no incluye parches, backups ni soporte. Las estimaciones de horas del sitio no son una garantía de producción.
+
 ## Tags
 
 - #vibecoding — Metodología: reemplazar SaaS con tu propio código
