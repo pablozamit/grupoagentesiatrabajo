@@ -30,4 +30,6 @@ Notas sobre gestión del tiempo y productividad:
 - [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
 - [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
 
+- [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
+
 # #productividad
