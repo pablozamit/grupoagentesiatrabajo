@@ -200,7 +200,6 @@ El artículo propone `hermes memory setup --provider obsidian --path ...` y afir
 
 Ver [[Ajustes Avanzados de Hermes Agent]], [[Hermes Dreaming]] y [[RAG]]. Difusión: [tuit con vídeo](https://x.com/DamiDefi/status/2060755673085014342); el vídeo es un meme sin voz ni instrucciones técnicas.
 
-# #agente #vibecoding #contenido
 
 
 ## Conectar X y un flujo de clips
@@ -211,3 +210,5 @@ Ver [[Ajustes Avanzados de Hermes Agent]], [[Hermes Dreaming]] y [[RAG]]. Difusi
 ## Memoria externa revisable
 
 [[agentmemory]] ofrece integración como memory provider, con captura por hooks y recuperación bajo presupuesto. No es «memoria infinita»: revisar cobertura, retención, proveedores de embeddings y calidad de recuperación. Sus benchmarks propios no garantizan el mismo ahorro en todos los flujos.
+
+# #agente #vibecoding #contenido
