@@ -72,4 +72,8 @@ Notas sobre herramientas y proyectos open source:
 
 - [[ScrapeGraphAI]] - Páginas a JSON; librería MIT o API
 
+- [[llama.cpp]] - Motor local y servidor; contexto/KV y forks verificables
+
+- [[agentmemory]] - Memoria persistente híbrida para agentes, bajo presupuesto y con límites
+
 # #opensource
