@@ -10,4 +10,6 @@ Notas sobre investigación:
 - [[OpenResearch]] - Convierte tu coding agent en research agent: lit review, hipótesis, experimentos reproducibles (5.3k ⭐, #1 trending)
 - [[mini-AGI]] - Aprender sin olvidar en 8 GB: tronco a LR/10, expertos auto-creados, experimento en marcha
 
+- [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
+
 # #investigacion
