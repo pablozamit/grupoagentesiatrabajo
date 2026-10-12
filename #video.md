@@ -27,4 +27,6 @@ Notas sobre video:
 
 - [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
 
+- [[Vugola]] - Vídeo largo a clips; créditos y revisión
+
 # #video
