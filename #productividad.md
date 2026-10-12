@@ -32,4 +32,6 @@ Notas sobre gestión del tiempo y productividad:
 
 - [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
 
+- [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
+
 # #productividad
