@@ -27,6 +27,10 @@ Google Maps es el mayor directorio de negocios locales que existe; scrapearlo pe
 - [[MillionVerifier]] — verificación de listas de email
 - [[BounceBan]] — verificación de emails catch-all
 
+## Extracción guiada por lenguaje natural
+
+[[ScrapeGraphAI]] ofrece librería propia y API para transformar páginas/HTML en JSON. Evita describir cada selector a mano, pero exige esquema, valores ausentes y contraste con la fuente: JSON bien formado no garantiza datos correctos. Separar tokens/infra propios de créditos cloud.
+
 ## Recursos
 
 - Hilo de origen (difusión): [Christian / @coldemailchris en X](https://x.com/coldemailchris/status/2106847718639632443)
