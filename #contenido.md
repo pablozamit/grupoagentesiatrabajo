@@ -61,4 +61,8 @@ Notas con contenido teórico y de referencia:
 
 - [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
 
+- [[Vugola]] - Vídeo largo a clips; créditos y revisión
+
+- [[Postiz]] - Calendario multicanal vía API/CLI/MCP
+
 # #contenido
