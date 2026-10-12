@@ -32,4 +32,6 @@ Notas sobre modelos de IA:
 
 - [[Iris-3B]] - Generador de imágenes en espacio de píxeles (sin VAE, Apache 2.0) que también hace visión: profundidad, restauración, super-resolución
 
+- [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
+
 # #modelos
