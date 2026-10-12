@@ -34,4 +34,6 @@ Notas sobre modelos de IA:
 
 - [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
 
+- [[llama.cpp]] - Motor local y servidor; contexto/KV y forks verificables
+
 # #modelos
