@@ -59,4 +59,6 @@ Notas con contenido teórico y de referencia:
 - [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
 - [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
 
+- [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
+
 # #contenido
