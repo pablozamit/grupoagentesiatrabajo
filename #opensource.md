@@ -64,4 +64,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[REA (Reverse Engineer Anything)]] - MCP de ingeniería inversa (MIT): inspecciona apps sin código fuente vía Hopper/Ghidra/IDA
 
+- [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
+
 # #opensource
