@@ -123,4 +123,6 @@ Notas sobre agentes de IA:
 - [[Hermes Dreaming]] - automejora por fases para Hermes Agent: propone cambios, el humano aprueba, luego escribe
 - [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
 
+- [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
+
 # #agente
