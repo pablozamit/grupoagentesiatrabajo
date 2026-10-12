@@ -25,4 +25,6 @@ Notas sobre video:
 
 - [[reel-cli]] - Montaje rápido de fotos y clips en reels verticales con FFmpeg, música y collages
 
+- [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
+
 # #video
