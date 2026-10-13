@@ -16,6 +16,10 @@ El [hilo de leopardracer](https://x.com/leopardracer/status/2055539050304409947)
 
 El artículo de dos GPUs citado en el hilo es otra configuración: 4080 SUPER + 5060 Ti, 27B denso como uso principal y llama-swap. No mezclar sus cifras con el M1 Max del vídeo. «Cero timeouts» es experiencia del autor. Ollama/LM Studio añaden más capas y pueden usar otros motores; quitarlas no elimina todos los errores ni garantiza privacidad si se conectan herramientas remotas.
 
+## Otra capa de optimización
+
+[[DeepGEMM]] optimiza kernels de cálculo en GPUs compatibles y requiere integración en el motor. No confundir un motor local como llama.cpp, la compresión de contexto y el precio de una API remota: cada capa tiene límites y medidas distintos.
+
 ## Recursos
 
 - [Repositorio](https://github.com/ggml-org/llama.cpp)
