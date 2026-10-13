@@ -76,4 +76,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[agentmemory]] - Memoria persistente híbrida para agentes, bajo presupuesto y con límites
 
+- [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
+
 # #opensource
