@@ -32,6 +32,10 @@ El HAR (HTTP Archive) contiene **todas las peticiones reales** que hizo la web: 
 
 Estás **recreando la capa de API de un servicio ajeno** para tu uso. Aplica lo mismo que a cualquier scraping: revisa los términos del servicio, no excedas tasas, y no rompas autenticaciones ajenas. La herramienta en sí (HAR del propio tráfico que tú ya generaste) es inofensiva; el uso define los límites.
 
+## De reconstruir una API a operarla con agentes
+
+Crear un esquema MCP a partir de tráfico no decide quién puede ejecutarlo. Un HAR puede contener credenciales y datos privados: redactar secretos antes de compartirlo o almacenarlo. Separar descubrimiento, revisión del propietario, autenticación, autorización y auditoría. El [caso de identidad de Uber](https://www.uber.com/us/en/blog/solving-the-agent-identity-crisis/) muestra por qué conviene conservar también la cadena de actores, no solo la cuenta técnica. Ver [[Company Brain#MCP a escala: descubrimiento no significa permiso]].
+
 ## Recursos
 
 - Hilo original: [@Fluyeporlaweb en X](https://x.com/Fluyeporlaweb)
