@@ -23,6 +23,12 @@ Inventariar las funciones realmente usadas, probar migración y exportación con
 
 El [listado difundido en X](https://x.com/bigaiguy/status/2060286909008806244) afirma «todos gratis y open source», «un comando» y «todos en un servidor de $5/mes». La licencia n8n ya contradice la primera generalización; los READMEs no sustentan la última ni una sustitución funcional completa. No se incorporan ahorros anuales, estrellas ni precios de competidores como cifras actuales.
 
+## Descarga de medios como pieza de un flujo
+
+[ReClip](https://github.com/averygan/reclip), MIT, añade una interfaz autohospedada sobre yt-dlp/ffmpeg para descargar MP4 o extraer MP3, escoger calidad, pegar múltiples enlaces y deduplicar URLs. No es un agente de IA ni una herramienta de recorte inteligente. Puede preparar material para [[Vugola]] o análisis, respetando derechos y permisos.
+
+El README no resuelve por sí solo la pregunta del [hilo](https://x.com/tom_doerr/status/2105616372038308240) sobre autenticación/colas multiusuario. Antes de exponerlo a internet, revisar acceso, límites, almacenamiento y concurrencia. «Más de 1.000 sitios» depende del soporte de yt-dlp y de cambios en los sitios, no garantiza que cada enlace sea accesible.
+
 ## Relacionado
 
 - [[Vibecode It Yourself]]: construir un reemplazo propio es otra opción; tampoco elimina mantenimiento.
