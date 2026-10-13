@@ -36,4 +36,6 @@ Notas sobre modelos de IA:
 
 - [[llama.cpp]] - Motor local y servidor; contexto/KV y forks verificables
 
+- [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
+
 # #modelos
