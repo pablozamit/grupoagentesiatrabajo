@@ -141,4 +141,6 @@ Notas sobre agentes de IA:
 
 - [[agentmemory]] - Memoria persistente híbrida para agentes, bajo presupuesto y con límites
 
+- [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
+
 # #agente
