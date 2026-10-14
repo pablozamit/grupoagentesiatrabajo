@@ -45,15 +45,15 @@ Google Maps es el mayor directorio de negocios locales que existe; scrapearlo pe
 
 ## Leads enriquecidos: Context.dev no elimina la verificación
 
-[Context.dev Answers](https://www.context.dev/answers-api) busca fuentes web y devuelve una respuesta con esquemaJSON. La [documentación de créditos](https://docs.context.dev/account/credits) cobra10enFast y100enUltra(predeterminado) por éxito. [Pricing](https://www.context.dev/pricing) da1000créditosmensuales gratis, sin tarjeta; docs dice email personal o laboral, no sólo trabajo como el hilo.1000créditos no son1000respuestas: serían100Fast o10Ultra antes de otras operaciones. No convertir900Mpersonas/70Mempresas del lanzamiento en garantía de cobertura o actualidad de una ficha concreta.
+[Context.dev Answers](https://www.context.dev/answers-api) busca fuentes web y devuelve una respuesta con esquema JSON. La [documentación de créditos](https://docs.context.dev/account/credits) cobra 10 en Fast y 100 en Ultra (predeterminado) por éxito. [Pricing](https://www.context.dev/pricing) da 1000 créditos mensuales gratis, sin tarjeta; docs dice email personal o laboral, no sólo trabajo como el hilo. 1000 créditos no son 1000 respuestas: serían 100 Fast o 10 Ultra antes de otras operaciones. No convertir 900M personas/70M empresas del lanzamiento en garantía de cobertura o actualidad de una ficha concreta.
 
-El vídeo de66s revisado muestra pregunta, esquema y respuesta investigada con fuentes en dashboard. No prueba exactitud de toda la base. Validar identidad, fecha y fuente de teléfono/dirección antes de publicar un directorio o hacer outreach; preservar desconocidos, no rellenar con conjetura. Mantener datos personales mínimos, finalidad y permisos de uso. Revisar muestra antes de ingesta masiva.
+El vídeo de 66s revisado muestra pregunta, esquema y respuesta investigada con fuentes en dashboard. No prueba exactitud de toda la base. Validar identidad, fecha y fuente de teléfono/dirección antes de publicar un directorio o hacer outreach; preservar desconocidos, no rellenar con conjetura. Mantener datos personales mínimos, finalidad y permisos de uso. Revisar muestra antes de ingesta masiva.
 
 ## Pipeline para vender webs: fallo medible antes de construir
 
-El caso de200webs en12meses es un relato del hilo, sin Reddit original verificado ni contabilidad auditable. Lo transferible es detectar un problema concreto(lentitud,móvil,página ausente), validarlo con auditoría, preparar propuesta y después construir. ClaudeCode/Cloudflare son piezas; no justifican prometer volumen/beneficio.
+El caso de 200 webs en 12 meses es un relato del hilo, sin Reddit original verificado ni contabilidad auditable. Lo transferible es detectar un problema concreto (lentitud, móvil, página ausente), validarlo con auditoría, preparar propuesta y después construir. Claude Code/Cloudflare son piezas; no justifican prometer volumen/beneficio.
 
-Las respuestas señalan coste comercial y mantenimiento:200clientes pueden producir200incidencias, más hosting, soporte, SEO y seguridad. Separar entrega inicial de servicio recurrente, definir quién mantiene y comprobar el defecto antes de afirmarlo a un negocio. Scraping no otorga permiso de contacto ni de copiar sitios. Ver [[Auditoría SEO]], [[Vibecoding]].
+Las respuestas señalan coste comercial y mantenimiento: 200 clientes pueden producir 200 incidencias, más hosting, soporte, SEO y seguridad. Separar entrega inicial de servicio recurrente, definir quién mantiene y comprobar el defecto antes de afirmarlo a un negocio. Scraping no otorga permiso de contacto ni de copiar sitios. Ver [[Auditoría SEO]], [[Vibecoding]].
 
 Ver también: [[Jev (TypeSafe)]], [[Auditoría SEO]].
 
