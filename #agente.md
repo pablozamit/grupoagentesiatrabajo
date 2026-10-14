@@ -145,4 +145,6 @@ Notas sobre agentes de IA:
 
 - [[Mobile MCP]] - Control móvil local, accesibilidad/capturas y resultado verificado
 
+- [[Phonon-2]] - Dictado local/ASR: probar datos propios, nombres y ruido
+
 # #agente
