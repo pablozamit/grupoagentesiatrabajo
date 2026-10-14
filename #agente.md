@@ -143,4 +143,6 @@ Notas sobre agentes de IA:
 
 - [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
 
+- [[Mobile MCP]] - Control móvil local, accesibilidad/capturas y resultado verificado
+
 # #agente
