@@ -8,7 +8,6 @@ MCP open source de ingeniería inversa para agentes de código: el agente inspec
 
 Enlace: https://github.com/morluto/rea (repositorio verificado el 14-oct-2026; el recuento de estrellas es variable)
 
-#agente #opensource
 
 
 ## Perímetro de análisis y límites de la difusión
@@ -20,3 +19,5 @@ El README separa análisis estático de captura en ejecución: JavaScript/.NET e
 El proyecto exige autorización y uso legal; no promete recuperar perfectamente código fuente, resolver cualquier ofuscación ni reemplazar experiencia de ingeniería inversa. Los comentarios sobre firmware y «horas en vez de semanas» son testimonios, no un benchmark controlado.
 
 Ver también: [[Codebase Memory MCP]], [[Truco HAR → API MCP]].
+
+#agente #opensource
