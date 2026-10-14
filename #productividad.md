@@ -34,4 +34,6 @@ Notas sobre gestión del tiempo y productividad:
 
 - [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
 
+- [[Mobile MCP]] - Reproducir bugs con dispositivo dedicado, no sustituyeQA determinista
+
 # #productividad
