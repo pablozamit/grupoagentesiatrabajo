@@ -38,4 +38,6 @@ Notas sobre modelos de IA:
 
 - [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
 
+- [[Phonon-2]] - Pesos CC-BY-4.0, 164MB compacto, no modelo español
+
 # #modelos
