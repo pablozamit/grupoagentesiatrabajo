@@ -47,4 +47,15 @@ El proceso completo llevó ~40 minutos de atención humana (mientras trabajaba e
 - [[Claude Video]] — Skill para que Claude vea y analice videos
 - [[product-launch-video]] — Skill de HyperFrames para vídeos de lanzamiento
 
+
+## onetake: continuidad medida y licencia
+
+[onetake](https://github.com/feitangyuan/onetake) es una skill para vídeos de lanzamiento/demo con cámara continua y elementos que se transforman entre beats. Incluye librería de movimiento, reconstrucción UI y scripts de render/verificación; requiere Python/Playwright, NumPy/SciPy/Pillow, ffmpeg y Node; voz añade dependencias. El «oracle» mide continuidad, no sustituye juicio visual ni garantiza calidad del mensaje.
+
+El clip de 30s del hilo fue inspeccionado: transforma un prompt en calendario Dayline y después en anuncios/pantalla Frame. Es muestra de estilo, no prueba de tiempo de producción ni ausencia de errores en cualquier vídeo. Revisar frames, movimiento, texto y mezcla final.
+
+El README declara PolyForm Noncommercial 1.0.0 y prohíbe uso comercial de edición gratuita. Código visible no equivale a licencia abierta permisiva para entregar trabajos a clientes. No copiar la implementación ni usarla en anuncios/productos sin comprobar permiso aplicable. Las críticas del hilo sobre licencia importan; no confundir con MIT. La página Pro ofrece licencia comercial aparte, sin verificar aquí precio ni comprarla.
+
+Ver también: [[Claude Video]], [[HyperFrames]], [[OpenMontage]].
+
 # #video #agente #contenido
