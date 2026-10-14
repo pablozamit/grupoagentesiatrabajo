@@ -55,4 +55,6 @@ Notas sobre diseño UI/UX:
 - [[OpenDesign]] - Espacio de diseño con IA open source (Apache 2.0) encima de Codex/Claude Code; app gratis, cloud de pago
 - [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
 
+- [[open-slide]] - Canvas, inspector y presentación; exportar no garantiza fidelidad
+
 # #diseno
