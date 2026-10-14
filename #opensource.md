@@ -78,4 +78,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
 
+- [[Mobile MCP]] - Apache2.0: simuladores y dispositivos conectados; nube aparte
+
 # #opensource
