@@ -36,4 +36,6 @@ Notas sobre gestión del tiempo y productividad:
 
 - [[Mobile MCP]] - Reproducir bugs con dispositivo dedicado, no sustituyeQA determinista
 
+- [[open-slide]] - Fuente React y revisión visual antes de entregar
+
 # #productividad
