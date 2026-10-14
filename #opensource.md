@@ -80,4 +80,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Mobile MCP]] - Apache2.0: simuladores y dispositivos conectados; nube aparte
 
+- [[open-slide]] - Framework MIT de slides para agentes, editor y export PPTX con revisión
+
 # #opensource
