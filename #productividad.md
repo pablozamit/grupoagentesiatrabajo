@@ -38,4 +38,6 @@ Notas sobre gestión del tiempo y productividad:
 
 - [[open-slide]] - Fuente React y revisión visual antes de entregar
 
+- [[Readwise CLI]] - Accede a tus highlights, artículos y PDFs de Readwise desde la terminal, para ti y tus agentes
+
 # #productividad

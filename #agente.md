@@ -147,4 +147,10 @@ Notas sobre agentes de IA:
 
 - [[Phonon-2]] - Dictado local/ASR: probar datos propios, nombres y ruido
 
+- [[Obscura]] - Motor de navegador headless en Rust para agentes: ~70MB, CDP nativo, drop-in de Puppeteer/Playwright
+- [[Browser Harness]] - Harness de navegador autorreparable: CDP directo, sin framework, drop-in de Claude Code/Codex
+- [[Readwise CLI]] - Tu biblioteca de Readwise (highlights, artículos, PDFs) desde la terminal, para ti y tus agentes (+ MCP beta)
+- [[Roast Room]] - Skill de Claude: somete tu idea a un consejo de 7 sub-agentes y devuelve veredicto
+- [[GLM-5.3-CYBERSECURITY]] - Modelo de texto abliterated para seguridad ofensiva (MoE, FP8)
+
 # #agente

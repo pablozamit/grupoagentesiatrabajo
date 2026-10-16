@@ -82,4 +82,7 @@ Notas sobre herramientas y proyectos open source:
 
 - [[open-slide]] - Framework MIT de slides para agentes, editor y export PPTX con revisión
 
+- [[Obscura]] - Motor de navegador headless en Rust (CDP nativo): scraping y automatización con agentes
+- [[Browser Harness]] - Harness de navegador autorreparable open source (CDP directo, sin framework)
+
 # #opensource

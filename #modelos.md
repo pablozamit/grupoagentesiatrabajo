@@ -40,4 +40,6 @@ Notas sobre modelos de IA:
 
 - [[Phonon-2]] - Pesos CC-BY-4.0, 164MB compacto, no modelo español
 
+- [[GLM-5.3-CYBERSECURITY]] - Modelo abliterated (sin rechazos) para red teaming y pentesting (MoE, FP8)
+
 # #modelos

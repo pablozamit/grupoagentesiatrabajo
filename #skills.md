@@ -40,4 +40,6 @@ Notas sobre skills instalables para agentes de IA:
 
 - [[OpenSEO]] - Skills de workflows SEO (auditoría, keywords) + MCP para conectar la suite a tu agente
 
+- [[Roast Room]] - Skill de Claude que debate tu idea con 7 sub-agentes (Bezos, PG, Hormozi, Buffett...)
+
 # #skills
