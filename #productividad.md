@@ -42,5 +42,8 @@ Notas sobre gestión del tiempo y productividad:
 - [[Field Theory]] - Tus bookmarks de X en local, buscables (BM25) y clasificables desde la terminal, para tus agentes
 - [[Rube]] - Un endpoint MCP para que tu agente actúe en 500+ apps sin configurar una integración por app
 - [[Helium Browser]] - Navegador rápido, sin bloat ni anuncios por defecto
+- [[Monid]] - Capa unica de acceso y pago por uso a ~1.800 APIs para tus agentes (0 suscripciones)
+- [[Designing AI Agents (Jia Huang)]] - Vocabulario compartido de patrones de diseno de agentes
+
 
 # #productividad

@@ -56,5 +56,7 @@ Notas sobre diseño UI/UX:
 - [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
 
 - [[open-slide]] - Canvas, inspector y presentación; exportar no garantiza fidelidad
+- [[Refactoring UI Skill]] - Lleva los principios del libro Refactoring UI al agente para mejorar interfaces
+
 
 # #diseno

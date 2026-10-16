@@ -89,5 +89,11 @@ Notas sobre herramientas y proyectos open source:
 - [[tailcat]] - netcat sobre el data plane de Tailscale, open source (BSD-3-Clause), sin control plane
 - [[Nanostack]] - Harness de workflow para agentes de código (shell, sin dependencias): 8 skills y gates de fase
 - [[Helium Browser]] - Navegador Chromium sin Google (GPL-3.0): privacidad y uBlock por defecto
+- [[Instabox]] - Ordenadores en la nube para agentes (beta por invitacion)
+- [[Treg People Search]] - Busqueda de personas open source para agentes
+- [[Mistral TTS]] - TTS local de Mistral publicado como open-source
+- [[Monid]] - Router de herramientas de pago para agentes (pago por llamada)
+- [[Cyberstrike]] - Agente de pentesting open source
+
 
 # #opensource

@@ -19,5 +19,7 @@ Notas sobre hosting/publicar en internet:
 
 - [[Nebula]] - Red overlay / mesh VPN open source: conecta servidores y máquinas de agentes sin abrir puertos
 - [[tailcat]] - Túneles WireGuard puntuales sobre los relays DERP de Tailscale, sin cuenta ni root
+- [[Instabox]] - Da a cada agente su propio ordenador en la nube (efimero, con snapshot y URL publica)
+
 
 # #hosting

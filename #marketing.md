@@ -25,5 +25,7 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[Vugola]] - Vídeo largo a clips; créditos y revisión
 
 - [[Postiz]] - Calendario multicanal vía API/CLI/MCP
+- [[Treg People Search]] - People search open source para Claude: leads a $0,0089 con 0% markup (cifras del anuncio)
+
 
 # #marketing

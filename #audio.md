@@ -9,5 +9,7 @@ Notas sobre audio y sonido:
 - [[Kyutai TTS + Unmute]] - TTS 1.6B open source + sistema para dar voz a cualquier LLM en <1 s (172.7k views)
 
 - [[Phonon-2]] - ASR inglés compacto, WER/datos del autor y rutas hardware distintas
+- [[Mistral TTS]] - Voz texto-a-voz open source de Mistral que corre en local (~3 GB RAM)
+
 
 # #audio

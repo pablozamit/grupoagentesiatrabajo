@@ -157,5 +157,12 @@ Notas sobre agentes de IA:
 - [[Nebula]] - Red overlay / mesh VPN open source (Slack): conecta tus máquinas y servidores sin exponerlos
 - [[tailcat]] - netcat sobre el data plane de Tailscale, sin cuenta ni control plane (BSD-3-Clause)
 - [[Nanostack]] - Skills de workflow para agentes de código: plan → review → security → qa → ship con artefactos y gates
+- [[Instabox]] - Ordenadores en la nube para agentes de IA: 4 vCPU/8 GB en <1s, snapshots y URLs publicas (beta)
+- [[Treg People Search]] - Busqueda de personas open source para Claude: $0,0089/lead en vez de suscripciones de ~$600
+- [[Monid]] - "El OpenRouter de las herramientas de agentes": una conexion a ~1.800 APIs con pago por llamada
+- [[Cyberstrike]] - Agente de IA open source para seguridad ofensiva: pentesting autonomo desde la terminal
+- [[Refactoring UI Skill]] - Skill que empaqueta el libro Refactoring UI para que el agente arregle interfaces feas
+- [[Designing AI Agents (Jia Huang)]] - Libro (Manning) que mapea los patrones que todos redescubren al disenar agentes
+
 
 # #agente

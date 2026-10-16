@@ -66,5 +66,8 @@ Notas con contenido teórico y de referencia:
 - [[Postiz]] - Calendario multicanal vía API/CLI/MCP
 
 - [[agentmemory]] - Memoria persistente híbrida para agentes, bajo presupuesto y con límites
+- [[Cyberstrike]] - Seguridad ofensiva con agentes: pentesting autonomo y sus limites legales/eticos
+- [[Designing AI Agents (Jia Huang)]] - Catalogo de patrones y vocabulario comun para disenar agentes
+
 
 # #contenido

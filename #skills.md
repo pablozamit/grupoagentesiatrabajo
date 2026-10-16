@@ -42,5 +42,7 @@ Notas sobre skills instalables para agentes de IA:
 
 - [[Roast Room]] - Skill de Claude que debate tu idea con 7 sub-agentes (Bezos, PG, Hormozi, Buffett...)
 - [[Nanostack]] - 8 skills de ingeniería que corren en orden de sprint (/think → /nano → build → /review → /security → /qa → /ship)
+- [[Refactoring UI Skill]] - Skill que aplica los principios de Refactoring UI para arreglar la UI de tu proyecto
+
 
 # #skills
