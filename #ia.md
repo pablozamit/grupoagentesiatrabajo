@@ -16,5 +16,6 @@ Notas sobre inteligencia artificial:
 - [[Google Colab para VS Code]] - Extensión oficial: ejecuta notebooks en VS Code con GPU T4 gratuita de Colab
 
 - [[TurboQuant]] - Cuantización vectorial de Google Research sin entrenamiento (paper arXiv 2504.19874)
+- [[Rube]] - MCP universal de Composio: un endpoint para 500+ apps, con meta-tools que reducen el contexto
 
 # #ia

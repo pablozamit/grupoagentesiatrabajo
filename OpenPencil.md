@@ -11,6 +11,10 @@
 - **Colaboración P2P** por WebRTC (cursores, presencia, modo follow, llamadas de voz): sin servidor y sin cuenta
 - **App ligera**: ~15 MB con Tauri v2 para macOS, Windows y Linux; también funciona como PWA en el navegador
 
+## v0.16.0 (oct 2026)
+
+Según el anuncio oficial de [@OpenPencilDev](https://x.com/OpenPencilDev/status/2110369794776010886): **shaders**; **componentes interactivos** en la vista previa, exportables a **Storybook**; código **Vue y React**; comentarios y **salas de voz**; mucho menos consumo de memoria con archivos `.fig` grandes; y un chat de IA que **transmite los diseños mientras los genera**. Sigue siendo open source y compatible con Figma.
+
 ## v0.15.0 (sep 2026)
 
 Según el anuncio oficial: variantes de componentes y librerías publicadas, interfaz rediseñada, guías y snapping, y un chat de IA que por fin funciona como espacio de trabajo.

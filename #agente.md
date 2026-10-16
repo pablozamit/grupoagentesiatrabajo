@@ -152,5 +152,10 @@ Notas sobre agentes de IA:
 - [[Readwise CLI]] - Tu biblioteca de Readwise (highlights, artículos, PDFs) desde la terminal, para ti y tus agentes (+ MCP beta)
 - [[Roast Room]] - Skill de Claude: somete tu idea a un consejo de 7 sub-agentes y devuelve veredicto
 - [[GLM-5.3-CYBERSECURITY]] - Modelo de texto abliterated para seguridad ofensiva (MoE, FP8)
+- [[Field Theory]] - CLI que sincroniza tus bookmarks de X a local (SQLite FTS5 + BM25) para que tu agente los consulte
+- [[Rube]] - Servidor MCP universal de Composio: un endpoint para 500+ apps con meta-tools que ahorran contexto
+- [[Nebula]] - Red overlay / mesh VPN open source (Slack): conecta tus máquinas y servidores sin exponerlos
+- [[tailcat]] - netcat sobre el data plane de Tailscale, sin cuenta ni control plane (BSD-3-Clause)
+- [[Nanostack]] - Skills de workflow para agentes de código: plan → review → security → qa → ship con artefactos y gates
 
 # #agente

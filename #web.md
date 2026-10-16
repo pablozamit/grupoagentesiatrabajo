@@ -80,5 +80,6 @@ Notas sobre desarrollo web:
 - [[ScrapeGraphAI]] - Páginas a JSON; librería MIT o API
 
 - [[Obscura]] - Navegador headless en Rust para scraping y agentes: ~70MB, CDP nativo, drop-in de Playwright
+- [[Helium Browser]] - Navegador Chromium sin Google, minimalista: uBlock Origin por defecto y anti-fingerprinting
 
 # #web

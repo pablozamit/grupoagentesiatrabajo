@@ -39,5 +39,8 @@ Notas sobre gestión del tiempo y productividad:
 - [[open-slide]] - Fuente React y revisión visual antes de entregar
 
 - [[Readwise CLI]] - Accede a tus highlights, artículos y PDFs de Readwise desde la terminal, para ti y tus agentes
+- [[Field Theory]] - Tus bookmarks de X en local, buscables (BM25) y clasificables desde la terminal, para tus agentes
+- [[Rube]] - Un endpoint MCP para que tu agente actúe en 500+ apps sin configurar una integración por app
+- [[Helium Browser]] - Navegador rápido, sin bloat ni anuncios por defecto
 
 # #productividad

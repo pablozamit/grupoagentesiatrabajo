@@ -84,5 +84,10 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Obscura]] - Motor de navegador headless en Rust (CDP nativo): scraping y automatización con agentes
 - [[Browser Harness]] - Harness de navegador autorreparable open source (CDP directo, sin framework)
+- [[Field Theory]] - CLI MIT que sincroniza y clasifica tus bookmarks de X en local (SQLite FTS5 + BM25)
+- [[Nebula]] - Mesh VPN open source (MIT) de Slack: ECDH + AES-256-GCM, control plane autoalojado
+- [[tailcat]] - netcat sobre el data plane de Tailscale, open source (BSD-3-Clause), sin control plane
+- [[Nanostack]] - Harness de workflow para agentes de código (shell, sin dependencias): 8 skills y gates de fase
+- [[Helium Browser]] - Navegador Chromium sin Google (GPL-3.0): privacidad y uBlock por defecto
 
 # #opensource

@@ -40,4 +40,6 @@ Notas sobre vibecoding:
 
 - [[Devin]] - El agente de código de Cognition: vincula tu plan ChatGPT (Go/Plus/Pro) para pagar el uso de modelos GPT con él
 
+- [[Nanostack]] - Tu agente vibecodea con disciplina de sprint: plan, review adversarial, security y qa antes de shipear
+
 # #vibecoding
