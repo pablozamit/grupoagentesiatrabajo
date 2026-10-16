@@ -165,4 +165,8 @@ Notas sobre agentes de IA:
 - [[Designing AI Agents (Jia Huang)]] - Libro (Manning) que mapea los patrones que todos redescubren al disenar agentes
 
 
+- [[open-grokbot]] - Reconstruccion open source del Grok Bot de escritorio (0.66.0) via ingenieria inversa con REA/Wakaru: 540 archivos JS portados a TypeScript
+- [[Claude Commerce Agents]] - Blueprint open source de Anthropic para agentes de comercio (shopping + merchant), con guardrails y aprobacion humana
+- [[Magnitude]] - Motor de inferencia open source que ajusta sus kernels a tu hardware (2x Ollama): corre modelos locales y los conecta a tu harness
+
 # #agente

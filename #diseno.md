@@ -59,4 +59,6 @@ Notas sobre diseño UI/UX:
 - [[Refactoring UI Skill]] - Lleva los principios del libro Refactoring UI al agente para mejorar interfaces
 
 
+- [[Handraw-Style Skill]] - Galeria de estilos de dibujo a mano: eliges un numero y genera el prompt de imagen bilingue
+
 # #diseno

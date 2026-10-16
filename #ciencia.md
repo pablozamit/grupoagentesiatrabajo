@@ -7,4 +7,6 @@ Notas sobre ciencia:
 
 - [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
 
+- [[Universal-DeepSeek-OCR-2]] - OCR vision-lenguaje portable: DeepSeek-OCR-2 en CPU, MPS y CUDA (Apache-2.0, ~3B)
+
 # #ciencia

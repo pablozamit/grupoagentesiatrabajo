@@ -70,4 +70,9 @@ Notas con contenido teórico y de referencia:
 - [[Designing AI Agents (Jia Huang)]] - Catalogo de patrones y vocabulario comun para disenar agentes
 
 
+- [[open-grokbot]] - Ingenieria inversa aplicada: como se reconstruye una app Electron entera (Grok Bot) desde su instalacion
+- [[Universal-DeepSeek-OCR-2]] - OCR multimodal portable: DeepSeek-OCR-2 corriendo en CPU, MPS o CUDA
+- [[Handraw-Style Skill]] - Skill de prompts de ilustracion hand-drawn: eliges un numero de estilo y devuelve prompt bilingue
+- [[Screenwriting Skills]] - Teoria de guion (cine, TV, teatro) destilada en skills para Claude Code y Codex
+
 # #contenido

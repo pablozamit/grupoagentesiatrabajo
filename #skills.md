@@ -45,4 +45,7 @@ Notas sobre skills instalables para agentes de IA:
 - [[Refactoring UI Skill]] - Skill que aplica los principios de Refactoring UI para arreglar la UI de tu proyecto
 
 
+- [[Handraw-Style Skill]] - Prompts de ilustracion hand-drawn por numero de estilo (galeria + prompts bilingues)
+- [[Screenwriting Skills]] - Skills de guion para agentes: cine, TV y teatro destilados de libros y guiones
+
 # #skills

@@ -44,4 +44,8 @@ Notas sobre modelos de IA:
 - [[Mistral TTS]] - TTS open source de Mistral (~3 GB RAM, local) que el anuncio compara con ElevenLabs
 
 
+- [[Magnitude]] - Motor de inferencia open source que ajusta kernels a tu hardware: corre modelos locales 2x mas rapido que Ollama
+- [[Universal-DeepSeek-OCR-2]] - DeepSeek-OCR-2 portable (~3B, Apache-2.0) para CPU, MPS y CUDA
+- [[Fish Audio S2.1 Pro]] - Drama 3 (oct 2026): TTS open-weight con control por palabra y cambio de voz intra-frase
+
 # #modelos

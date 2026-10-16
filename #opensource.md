@@ -96,4 +96,9 @@ Notas sobre herramientas y proyectos open source:
 - [[Cyberstrike]] - Agente de pentesting open source
 
 
+- [[open-grokbot]] - Reconstruccion open source del Grok Bot de escritorio por ingenieria inversa (mirror anonimo; no es el codigo original)
+- [[Claude Commerce Agents]] - Implementacion de referencia open source de Anthropic para agentes de compra y de comerciante
+- [[Magnitude]] - Motor de inferencia local open source (Apache-2.0): kernels ajustados a tu hardware, 2x mas rapido que Ollama
+- [[Universal-DeepSeek-OCR-2]] - DeepSeek-OCR-2 portable (Apache-2.0, ~3B) con soporte de CPU, MPS y CUDA
+
 # #opensource

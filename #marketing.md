@@ -28,4 +28,6 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[Treg People Search]] - People search open source para Claude: leads a $0,0089 con 0% markup (cifras del anuncio)
 
 
+- [[Claude Commerce Agents]] - Blueprint de Anthropic para agentes de comercio: shopping agent + merchant agent con aprobacion humana
+
 # #marketing

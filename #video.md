@@ -29,4 +29,6 @@ Notas sobre video:
 
 - [[Vugola]] - Vídeo largo a clips; créditos y revisión
 
+- [[Screenwriting Skills]] - Skills de guion (estructura, personajes, dialogo) para pipelines de video con agentes
+
 # #video
