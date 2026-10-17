@@ -169,4 +169,8 @@ Notas sobre agentes de IA:
 - [[Claude Commerce Agents]] - Blueprint open source de Anthropic para agentes de comercio (shopping + merchant), con guardrails y aprobacion humana
 - [[Magnitude]] - Motor de inferencia open source que ajusta sus kernels a tu hardware (2x Ollama): corre modelos locales y los conecta a tu harness
 
+- [[Vercel ChatSDK]] - Empaqueta la mecánica de chat con agentes de Vercel, agnóstica de la base agéntica (cifra de atribución)
+- [[numasec]] - Agente open source de pentesting desde la terminal: encadena nmap/sqlmap/nuclei con runbooks y contexto persistente
+- [[Blackstorm Security]] - Biblioteca gratuita de investigación ofensiva (kernel Windows, V8, Hyper-V, CVEs reales)
+
 # #agente

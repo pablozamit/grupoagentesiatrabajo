@@ -101,4 +101,9 @@ Notas sobre herramientas y proyectos open source:
 - [[Magnitude]] - Motor de inferencia local open source (Apache-2.0): kernels ajustados a tu hardware, 2x mas rapido que Ollama
 - [[Universal-DeepSeek-OCR-2]] - DeepSeek-OCR-2 portable (Apache-2.0, ~3B) con soporte de CPU, MPS y CUDA
 
+- [[Vercel ChatSDK]] - Paquete de Vercel para construir chats con agentes sobre una base agéntica propia
+- [[MiniMind]] - Entrenamiento de un LLM minúsculo de principio a fin, en PyTorch y con MoE
+- [[numasec]] - Agente de pentesting open source (AGPL-3.0) que orquesta herramientas de seguridad
+- [[Blackstorm Security]] - 19 papers gratuitos de explotación e ingeniería inversa
+
 # #opensource

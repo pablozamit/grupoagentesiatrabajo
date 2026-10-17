@@ -12,4 +12,6 @@ Notas sobre investigación:
 
 - [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
 
+- [[Blackstorm Security]] - Investigación ofensiva abierta (kernel, navegadores, hipervisores, CVEs reales)
+
 # #investigacion

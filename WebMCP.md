@@ -42,6 +42,10 @@ WebMCP es como tener schema.org pero para la interacción del agente con la web.
 
 Como dice Paul Klein (fundador de Browserbase): *"WebMCP facilita que los agentes interactúen con tu sitio, ideal para AEO"*.
 
+## Soporte en ChatGPT (octubre 2026)
+
+[nekuda_ai](https://x.com/nekuda_ai/status/2092700742897590355) señala que **ChatGPT ya soporta WebMCP**: basta con añadir herramientas WebMCP a tu web para que los agentes la usen directamente, y sugiere empezar por un escaneo del sitio o construirlas a partir de tu propio código. Es decir, el estándar deja de ser solo una propuesta de W3C y una implementación de Chrome: un agente de consumo como ChatGPT ya lo consume. Para el sitio, la tarea práctica es la misma que la de AEO: exponer herramientas tipadas (buscar, comprar, consultar) en lugar de exigir que el agente interprete el HTML.
+
 ## Enlaces
 
 - Skill: [skills.sh](https://skills.sh) (busca `webmcp-gen`)

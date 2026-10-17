@@ -48,4 +48,6 @@ Notas sobre modelos de IA:
 - [[Universal-DeepSeek-OCR-2]] - DeepSeek-OCR-2 portable (~3B, Apache-2.0) para CPU, MPS y CUDA
 - [[Fish Audio S2.1 Pro]] - Drama 3 (oct 2026): TTS open-weight con control por palabra y cambio de voz intra-frase
 
+- [[MiniMind]] - Proyecto didáctico para entrenar un LLM desde cero (~25,8 M de parámetros, con variante multimodal MiniMind-V)
+
 # #modelos
