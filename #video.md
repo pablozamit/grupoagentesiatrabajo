@@ -33,4 +33,6 @@ Notas sobre video:
 
 - [[Edición de vídeo con IA (10 repos open source)]] - Recopilación de 10 repos de edición de vídeo con IA (OpenChatCut, AutoClip, AutoSubs, FunClip, LatentSync...)
 
+- [[Frametell]] - Agente director que convierte ideas o material en vídeos explicativos narrados (1080p, storyboard aprobable, voz y subtítulos)
+
 # #video

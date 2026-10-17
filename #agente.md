@@ -178,5 +178,7 @@ Notas sobre agentes de IA:
 - [[SPACE (Perplexity)]] - Plataforma de sandbox con microVMs Firecracker para ejecutar el código de tus agentes (Apache 2.0)
 
 - [[Edición de vídeo con IA (10 repos open source)]] - Repos de edición de vídeo con IA; varios integran Agent Skills y MCP (Herk Edit Kit para Codex/Claude Code, OpenChatCut, FireRed-OpenStoryline)
+- [[Frametell]] - Agente director que convierte ideas o material en vídeos explicativos narrados (1080p); local-first y con cualquier modelo
+- [[Pomerado]] - Convierte cualquier web en una API o MCP en minutos: la vía de "traducir la web" para agentes (open source, MIT)
 
 # #agente

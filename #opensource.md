@@ -111,5 +111,7 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Edición de vídeo con IA (10 repos open source)]] - Diez repos open source de edición de vídeo con IA (OpenChatCut, FireRed-OpenStoryline, AutoClip, Herk Edit Kit, LatentSync...)
 - [[VoiceStudio]] - Alternativa open source y local a ElevenLabs (AGPL-3.0, ~72,3k ⭐): clonación de voz y doblaje en 646 idiomas
+- [[Frametell]] - Vídeos explicativos narrados con un agente director (AGPL-3.0, 203 ⭐): local-first, con cualquier modelo
+- [[Pomerado]] - Convierte cualquier web en API o MCP en minutos (MIT, 24 ⭐, YC F26)
 
 # #opensource

@@ -77,4 +77,7 @@ Notas con contenido teórico y de referencia:
 
 - [[past.dev]] - Memoria a largo plazo para agentes: que se mantiene correcta cuando los hechos cambian (RAG vs valor actual + fuente)
 
+- [[Frametell]] - De una idea a un vídeo explicativo narrado: agente director, storyboard aprobable y render local (cualquier modelo)
+- [[Pomerado]] - Agentes sin cliquear: convertir cualquier web en una API o MCP en minutos (open source)
+
 # #contenido
