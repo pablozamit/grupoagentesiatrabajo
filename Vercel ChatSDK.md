@@ -16,6 +16,5 @@ La comparación con "Openclaw" es del anuncio en X: conviene tratarla como **opi
 
 - [[Readwise CLI]] - otra pieza que expone una biblioteca propia a los agentes
 - [[Firecrawl]] - para dar lectura web al agente del chat
-- [[Opencode]] - otra base para construir agentes, orientada a terminal
 
 # #agente #contenido #opensource
