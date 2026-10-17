@@ -1,3 +1,4 @@
+- [[Kenney Shape]] - Convierte pixel art 2D en assets 3D por extrusion para juegos (Unity, Unreal, Godot, Blender; export voxel); gratis para siempre desde oct 2026
 # #juegos
 
 Notas sobre videojuegos:
