@@ -7,6 +7,7 @@ Notas sobre bases de datos:
 - [[TencentDB Agent Memory]] - Hub de memoria para agentes con Wiki y CodeGraph (9.8k ⭐)
 - [[Despliegue de IA en empresa (3 etapas)]] - Modelo de Toni Perez: datos relacionados, accesos y trazabilidad como la etapa 3
 - [[InstaCloud]] - Postgres real por rama (copy-on-write): cada branch de tu agente con su propia DB
+- [[past.dev]] - Memoria a largo plazo para agentes: guarda el valor actual y el anterior con fecha y fuente, y devuelve evidencia citada
 
 - [[turbovec]] - Índice vectorial local (Rust+Python, MIT) con TurboQuant: 4 bits/dimensión, 4,4× FAISS, sin servidor
 - [[TurboQuant]] - Cuantización vectorial de Google Research sin entrenamiento (paper arXiv 2504.19874)

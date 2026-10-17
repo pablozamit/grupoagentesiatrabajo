@@ -395,6 +395,13 @@ hyperframes cloud render --asset-id asst_abc123 --variables '{"name":"Linus"}' #
 
 Efectos visuales estilizados más allá del grading tradicional: videotape, pixelate, ascii, cross hatch, y look packs personalizados. Lo que se previsualiza es lo que se renderiza.
 
+## Reference Any Video y Brand kits (octubre 2026)
+
+La cuenta oficial ([@HyperFrames_](https://x.com/HyperFrames_/status/2110784695634178256)) anunció dos funciones nuevas en HyperFrames Studio:
+
+- **Reference Any Video**: el agente puede contar tu historia en cualquier formato que le des como referencia.
+- **Brand kits**: se escanea tu web una vez (colores, tipografías y logo) y se aplican solos a los vídeos.
+
 ## Diferencia clave con otras herramientas
 
 A diferencia de herramientas como Remotion (que usan React), HyperFrames usa **HTML plano**. Esto hace que sea más fácil para un agente trabajar con él, porque los agentes ya saben escribir HTML sin necesidad de montar un proyecto React.

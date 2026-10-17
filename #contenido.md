@@ -75,4 +75,6 @@ Notas con contenido teórico y de referencia:
 - [[Handraw-Style Skill]] - Skill de prompts de ilustracion hand-drawn: eliges un numero de estilo y devuelve prompt bilingue
 - [[Screenwriting Skills]] - Teoria de guion (cine, TV, teatro) destilada en skills para Claude Code y Codex
 
+- [[past.dev]] - Memoria a largo plazo para agentes: que se mantiene correcta cuando los hechos cambian (RAG vs valor actual + fuente)
+
 # #contenido

@@ -16,10 +16,15 @@ Piezas: sistemas de diseño (marca, tipografía, logo), plantillas, plugins con 
 
 La app es open source y gratis, pero necesitas traer tu propio agente (con su API o suscripción). La parte de pago es **OpenDesign Cloud**: plan Go desde 8 $ el primer mes con créditos mensuales para varios modelos. O sea: «sin pagar nada» aplica si ya tienes Codex o Claude Code funcionando.
 
+## OpenDesign Motion (octubre 2026)
+
+OpenDesign añadió **OpenDesign Motion**, su generación de **vídeo con movimiento**, presentada como la alternativa open source a Claude Motion: se crean vídeos con cualquier agente y cualquier modelo, sin depender de Opus 5.5. La cuenta oficial ([@OpenDesignHQ](https://x.com/OpenDesignHQ/status/2111023212129829086)) mostró varios ejemplos generados con DeepSeek V4.1 Flash, incluida la propia demo de lanzamiento. Por dentro, la parte de vídeo se apoya en [[HyperFrames]] (HeyGen), con el que renderiza a MP4 desde HTML.
+
 ## Ver también
 
+- [[HyperFrames]]
 - [[Diseño con Codex (receta Vox)]]
 - [[OpenPencil]]
 - [[Hermes Agent]]
 
-# #diseno
+# #diseno #agente

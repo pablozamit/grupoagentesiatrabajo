@@ -106,4 +106,7 @@ Notas sobre herramientas y proyectos open source:
 - [[numasec]] - Agente de pentesting open source (AGPL-3.0) que orquesta herramientas de seguridad
 - [[Blackstorm Security]] - 19 papers gratuitos de explotación e ingeniería inversa
 
+- [[Reason Network]] - Red peer-to-peer para agentes de código (motor Apache 2.0; la CLI que lo configura no es open source)
+- [[SPACE (Perplexity)]] - Sandbox de microVMs Firecracker para agentes (Apache-2.0, ~1,3k ⭐)
+
 # #opensource

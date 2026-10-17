@@ -173,4 +173,8 @@ Notas sobre agentes de IA:
 - [[numasec]] - Agente open source de pentesting desde la terminal: encadena nmap/sqlmap/nuclei con runbooks y contexto persistente
 - [[Blackstorm Security]] - Biblioteca gratuita de investigación ofensiva (kernel Windows, V8, Hyper-V, CVEs reales)
 
+- [[past.dev]] - Memoria a largo plazo para agentes vía API: evidencia fechada, audiencias por identidad y MCP (#1 en BEAM)
+- [[Reason Network]] - Red entre pares para que tus agentes de código se pidan trabajo unos a otros
+- [[SPACE (Perplexity)]] - Plataforma de sandbox con microVMs Firecracker para ejecutar el código de tus agentes (Apache 2.0)
+
 # #agente

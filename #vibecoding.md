@@ -42,4 +42,6 @@ Notas sobre vibecoding:
 
 - [[Nanostack]] - Tu agente vibecodea con disciplina de sprint: plan, review adversarial, security y qa antes de shipear
 
+- [[Reason Network]] - Tus agentes de código se piden trabajo entre ellos sobre la red local, sin pisarse el repositorio
+
 # #vibecoding
