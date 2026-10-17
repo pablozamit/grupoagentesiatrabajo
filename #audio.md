@@ -11,5 +11,7 @@ Notas sobre audio y sonido:
 - [[Phonon-2]] - ASR inglés compacto, WER/datos del autor y rutas hardware distintas
 - [[Mistral TTS]] - Voz texto-a-voz open source de Mistral que corre en local (~3 GB RAM)
 
+- [[VoiceStudio]] - Alternativa open source y local a ElevenLabs: clonación de voz, doblaje y audiolibros en 646 idiomas
+
 
 # #audio

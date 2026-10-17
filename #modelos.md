@@ -49,5 +49,6 @@ Notas sobre modelos de IA:
 - [[Fish Audio S2.1 Pro]] - Drama 3 (oct 2026): TTS open-weight con control por palabra y cambio de voz intra-frase
 
 - [[MiniMind]] - Proyecto didáctico para entrenar un LLM desde cero (~25,8 M de parámetros, con variante multimodal MiniMind-V)
+- [[VoiceStudio]] - Alternativa local a ElevenLabs (AGPL-3.0): clonación y diseño de voz, doblaje y TTS en 646 idiomas
 
 # #modelos

@@ -177,4 +177,6 @@ Notas sobre agentes de IA:
 - [[Reason Network]] - Red entre pares para que tus agentes de código se pidan trabajo unos a otros
 - [[SPACE (Perplexity)]] - Plataforma de sandbox con microVMs Firecracker para ejecutar el código de tus agentes (Apache 2.0)
 
+- [[Edición de vídeo con IA (10 repos open source)]] - Repos de edición de vídeo con IA; varios integran Agent Skills y MCP (Herk Edit Kit para Codex/Claude Code, OpenChatCut, FireRed-OpenStoryline)
+
 # #agente

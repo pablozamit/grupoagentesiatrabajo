@@ -109,4 +109,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Reason Network]] - Red peer-to-peer para agentes de código (motor Apache 2.0; la CLI que lo configura no es open source)
 - [[SPACE (Perplexity)]] - Sandbox de microVMs Firecracker para agentes (Apache-2.0, ~1,3k ⭐)
 
+- [[Edición de vídeo con IA (10 repos open source)]] - Diez repos open source de edición de vídeo con IA (OpenChatCut, FireRed-OpenStoryline, AutoClip, Herk Edit Kit, LatentSync...)
+- [[VoiceStudio]] - Alternativa open source y local a ElevenLabs (AGPL-3.0, ~72,3k ⭐): clonación de voz y doblaje en 646 idiomas
+
 # #opensource

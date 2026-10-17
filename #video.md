@@ -31,4 +31,6 @@ Notas sobre video:
 
 - [[Screenwriting Skills]] - Skills de guion (estructura, personajes, dialogo) para pipelines de video con agentes
 
+- [[Edición de vídeo con IA (10 repos open source)]] - Recopilación de 10 repos de edición de vídeo con IA (OpenChatCut, AutoClip, AutoSubs, FunClip, LatentSync...)
+
 # #video
