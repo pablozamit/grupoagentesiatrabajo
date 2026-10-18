@@ -19,6 +19,18 @@ Redactar no autoriza publicar. Dar acceso a la API no define qué cuenta, destin
 - [CLI y README](https://github.com/xdevplatform/xurl)
 - [Skill oficial en Hermes](https://github.com/NousResearch/hermes-agent/blob/main/skills/social-media/xurl/SKILL.md)
 
+
+## Guía oficial de X (X API + Hermes)
+
+La cuenta oficial [@XDevelopers](https://x.com/XDevelopers/status/2056871280599847054) publicó una guía de puesta en marcha del tándem Hermes + xurl:
+
+- Instalar Hermes (script de una línea) y pasar el asistente (`hermes setup`), eligiendo proveedor (p. ej. OAuth de xAI Grok con suscripción SuperGrok) y modelo.
+- Instalar xurl aparte (script, Homebrew, npm o Go) y asegurarse de que está en el `PATH`.
+- Crear una app de desarrollador en X con OAuth 2.0 y redirect URI `http://localhost:8080/callback`; registrar la app con `xurl auth oauth2 --app my-app`. Mantener la flag `--app` para que el token no se guarde en el perfil por defecto y las llamadas no fallen con 401.
+- Verificar con `xurl whoami` y, dentro de Hermes, cargar la skill `/xurl` y pedir en lenguaje natural publicar, buscar, gestionar bookmarks, listas o timeline.
+
+Es una guía del propio proveedor; conviene comprobar permisos y tiers vigentes de la API de X antes de automatizar escrituras.
+
 ## Relacionado
 
 - [[Hermes Agent]], [[Kapso]], [[Postiz]]

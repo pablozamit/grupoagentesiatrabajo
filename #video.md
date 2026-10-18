@@ -35,4 +35,6 @@ Notas sobre video:
 
 - [[Frametell]] - Agente director que convierte ideas o material en vídeos explicativos narrados (1080p, storyboard aprobable, voz y subtítulos)
 
+- [[Agente de clipping (Hermes + Vugola + Postiz)]] - Recorte, subtítulos y publicación multiplataforma de clips con un agente
+
 # #video

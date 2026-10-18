@@ -52,4 +52,6 @@ Notas sobre modelos de IA:
 - [[VoiceStudio]] - Alternativa local a ElevenLabs (AGPL-3.0): clonación y diseño de voz, doblaje y TTS en 646 idiomas
 - [[MOSS-Image]] - Texto a imagen open source de 5B (Apache-2.0) con control de layout por JSON y renderizado de texto en chino e inglés
 
+- [[Laboratorio de IA local (2 GPU)]] - Modelos locales (Qwen3.6, Gemma 4) en un escritorio con 2 GPU y 32 GB de VRAM
+
 # #modelos

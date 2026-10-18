@@ -82,4 +82,7 @@ Notas con contenido teórico y de referencia:
 
 - [[OpenClaw Supermemory]] - Cómo dar memoria persistente a un agente: inyección antes de cada turno y captura después, con contenedores por tema
 
+- [[Agente de clipping (Hermes + Vugola + Postiz)]] - El negocio del clipping: stack, montaje y playbook de 30 días (con matiz comercial)
+- [[Laboratorio de IA local (2 GPU)]] - Montar un laboratorio de IA en casa: hardware, llama.cpp, llama-swap y qué da 32 GB de VRAM
+
 # #contenido

@@ -120,4 +120,6 @@ Notas sobre herramientas y proyectos open source:
 - [[claude-peers MCP]] - Deja que tus Claude Code se encuentren y se hablen: broker local + SQLite (MIT, 2.2k ⭐)
 - [[Sprite-Pipeline (LayrKits)]] - Kit de spritesheets para juegos 2D desde animación generada por IA (596 ⭐)
 
+- [[Laboratorio de IA local (2 GPU)]] - Stack local abierto (llama.cpp + llama-swap) para correr y servir modelos en tu hardware
+
 # #opensource

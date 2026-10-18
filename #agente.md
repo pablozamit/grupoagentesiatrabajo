@@ -183,4 +183,7 @@ Notas sobre agentes de IA:
 - [[OpenClaw Supermemory]] - Memoria a largo plazo para agentes OpenClaw: recuerda, recupera contexto y construye un perfil persistente (nube de Supermemory)
 - [[claude-peers MCP]] - Deja que tus instancias de Claude Code se encuentren y se manden mensajes al instante por un broker local
 
+- [[Agente de clipping (Hermes + Vugola + Postiz)]] - Pipeline de clipping (Vugola -> Postiz) orquestado por Hermes Agent desde un mensaje de Telegram
+- [[Laboratorio de IA local (2 GPU)]] - Laboratorio privado de modelos locales (llama.cpp + llama-swap) como infraestructura para agentes
+
 # #agente

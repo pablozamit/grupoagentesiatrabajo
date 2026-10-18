@@ -16,6 +16,9 @@
 
 Los sub-agentes forman su opinión, **debaten entre sí** y devuelven un veredicto final.
 
+**Repo:** [nateherkai/roast-room](https://github.com/nateherkai/roast-room) — el creador publicó el repositorio de la skill ([@nateherk](https://x.com/nateherk/status/2109841816917086618)).
+
+
 ## Por qué importa
 
 Es un patrón reutilizable de **crítica multi-agente con roles fijos**: en vez de un único LLM "sí-señor", se fuerza a que cada perspectiva ataque la idea desde un ángulo distinto y luego se sintetice. Encaja con los patrones de generación-crítica de la enciclopedia.
