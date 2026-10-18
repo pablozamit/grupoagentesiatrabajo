@@ -60,5 +60,6 @@ Notas sobre diseño UI/UX:
 
 
 - [[Handraw-Style Skill]] - Galeria de estilos de dibujo a mano: eliges un numero y genera el prompt de imagen bilingue
+- [[MOSS-Image]] - Modelo 5B open source para visuales con texto y layout preciso: pósters e infografías con cajas JSON
 
 # #diseno

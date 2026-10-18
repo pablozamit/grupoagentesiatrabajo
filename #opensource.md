@@ -113,5 +113,6 @@ Notas sobre herramientas y proyectos open source:
 - [[VoiceStudio]] - Alternativa open source y local a ElevenLabs (AGPL-3.0, ~72,3k ⭐): clonación de voz y doblaje en 646 idiomas
 - [[Frametell]] - Vídeos explicativos narrados con un agente director (AGPL-3.0, 203 ⭐): local-first, con cualquier modelo
 - [[Pomerado]] - Convierte cualquier web en API o MCP en minutos (MIT, 24 ⭐, YC F26)
+- [[MOSS-Image]] - Familia texto-a-imagen de 5B (Apache-2.0, 556 ⭐): control de layout por JSON y texto en chino e inglés
 
 # #opensource

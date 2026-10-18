@@ -50,5 +50,6 @@ Notas sobre modelos de IA:
 
 - [[MiniMind]] - Proyecto didáctico para entrenar un LLM desde cero (~25,8 M de parámetros, con variante multimodal MiniMind-V)
 - [[VoiceStudio]] - Alternativa local a ElevenLabs (AGPL-3.0): clonación y diseño de voz, doblaje y TTS en 646 idiomas
+- [[MOSS-Image]] - Texto a imagen open source de 5B (Apache-2.0) con control de layout por JSON y renderizado de texto en chino e inglés
 
 # #modelos
