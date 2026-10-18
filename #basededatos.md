@@ -12,4 +12,6 @@ Notas sobre bases de datos:
 - [[turbovec]] - Índice vectorial local (Rust+Python, MIT) con TurboQuant: 4 bits/dimensión, 4,4× FAISS, sin servidor
 - [[TurboQuant]] - Cuantización vectorial de Google Research sin entrenamiento (paper arXiv 2504.19874)
 
+- [[OpenClaw Supermemory]] - Memoria a largo plazo para agentes OpenClaw: auto-recall, auto-capture y contenedores por etiqueta (nube de Supermemory, plan Pro)
+
 # #basededatos

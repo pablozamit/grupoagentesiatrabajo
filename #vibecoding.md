@@ -44,4 +44,6 @@ Notas sobre vibecoding:
 
 - [[Reason Network]] - Tus agentes de código se piden trabajo entre ellos sobre la red local, sin pisarse el repositorio
 
+- [[claude-peers MCP]] - Tus instancias de Claude Code se descubren y se mandan mensajes al instante por un broker local (localhost + SQLite)
+
 # #vibecoding

@@ -27,6 +27,8 @@ Notas sobre videojuegos:
 - [[Arcade AI]] - Motor de juegos con IA en el navegador: describes el mundo a Morph, lo construyes con amigos y lo juegas sin salir (tryarcade.com)
 - [[Mint 3D]] - Genera los assets de tu juego desde una foto: packs coherentes, personajes riggeados, mundos caminables
 - [[Game UI Database (blog gratis)]] - 1.900+ juegos y 76k pantallas + blog de 200 págs gratis, sin paywalls, AI-free zone
+- [[Sprite-Pipeline (LayrKits)]] - De animación generada por IA a spritesheets 256×256 revisables en el navegador (FFmpeg, matting, skill de agente)
+- [[Hyper3D BANG Parts Skill]] - Imagen → modelo 3D por partes para animar en tu juego (Rodin Gen-2 + BANG)
 
 - [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
 

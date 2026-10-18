@@ -80,4 +80,6 @@ Notas con contenido teórico y de referencia:
 - [[Frametell]] - De una idea a un vídeo explicativo narrado: agente director, storyboard aprobable y render local (cualquier modelo)
 - [[Pomerado]] - Agentes sin cliquear: convertir cualquier web en una API o MCP en minutos (open source)
 
+- [[OpenClaw Supermemory]] - Cómo dar memoria persistente a un agente: inyección antes de cada turno y captura después, con contenedores por tema
+
 # #contenido

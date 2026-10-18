@@ -48,5 +48,7 @@ Notas sobre skills instalables para agentes de IA:
 - [[Handraw-Style Skill]] - Prompts de ilustracion hand-drawn por numero de estilo (galeria + prompts bilingues)
 - [[Screenwriting Skills]] - Skills de guion para agentes: cine, TV y teatro destilados de libros y guiones
 - [[Geo-sleuth]] - Skill de agente que geolocaliza una foto (OpenStreetMap, elevación, satélite, street view) y demuestra el trabajo (MIT, 3.3k ?)
+- [[Hyper3D BANG Parts Skill]] - Skill de Codex/Claude que convierte una imagen o prompt en un modelo 3D dividido en partes animables (Rodin Gen-2 + BANG)
+- [[Sprite-Pipeline (LayrKits)]] - Kit con skill para convertir animación generada por IA en spritesheets 256×256 revisables (FFmpeg, matting, visor)
 
 # #skills

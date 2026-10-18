@@ -180,5 +180,7 @@ Notas sobre agentes de IA:
 - [[Edición de vídeo con IA (10 repos open source)]] - Repos de edición de vídeo con IA; varios integran Agent Skills y MCP (Herk Edit Kit para Codex/Claude Code, OpenChatCut, FireRed-OpenStoryline)
 - [[Frametell]] - Agente director que convierte ideas o material en vídeos explicativos narrados (1080p); local-first y con cualquier modelo
 - [[Pomerado]] - Convierte cualquier web en una API o MCP en minutos: la vía de "traducir la web" para agentes (open source, MIT)
+- [[OpenClaw Supermemory]] - Memoria a largo plazo para agentes OpenClaw: recuerda, recupera contexto y construye un perfil persistente (nube de Supermemory)
+- [[claude-peers MCP]] - Deja que tus instancias de Claude Code se encuentren y se manden mensajes al instante por un broker local
 
 # #agente

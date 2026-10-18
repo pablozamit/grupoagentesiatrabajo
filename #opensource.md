@@ -117,4 +117,7 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Geo-sleuth]] - Skill de geolocalización de fotos open source (MIT, 3.3k ⭐): OSM, elevación y satélite, con evidencia
 
+- [[claude-peers MCP]] - Deja que tus Claude Code se encuentren y se hablen: broker local + SQLite (MIT, 2.2k ⭐)
+- [[Sprite-Pipeline (LayrKits)]] - Kit de spritesheets para juegos 2D desde animación generada por IA (596 ⭐)
+
 # #opensource
