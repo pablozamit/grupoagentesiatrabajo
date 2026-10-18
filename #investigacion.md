@@ -13,5 +13,6 @@ Notas sobre investigación:
 - [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
 
 - [[Blackstorm Security]] - Investigación ofensiva abierta (kernel, navegadores, hipervisores, CVEs reales)
+- [[Geo-sleuth]] - Skill que sitúa dónde se tomó una foto con geometría de mapas, elevación y satélite, y enseña las pruebas
 
 # #investigacion

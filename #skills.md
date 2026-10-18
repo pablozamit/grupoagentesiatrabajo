@@ -47,5 +47,6 @@ Notas sobre skills instalables para agentes de IA:
 
 - [[Handraw-Style Skill]] - Prompts de ilustracion hand-drawn por numero de estilo (galeria + prompts bilingues)
 - [[Screenwriting Skills]] - Skills de guion para agentes: cine, TV y teatro destilados de libros y guiones
+- [[Geo-sleuth]] - Skill de agente que geolocaliza una foto (OpenStreetMap, elevación, satélite, street view) y demuestra el trabajo (MIT, 3.3k ?)
 
 # #skills

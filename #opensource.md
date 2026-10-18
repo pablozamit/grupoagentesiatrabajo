@@ -115,4 +115,6 @@ Notas sobre herramientas y proyectos open source:
 - [[Pomerado]] - Convierte cualquier web en API o MCP en minutos (MIT, 24 ⭐, YC F26)
 - [[MOSS-Image]] - Familia texto-a-imagen de 5B (Apache-2.0, 556 ⭐): control de layout por JSON y texto en chino e inglés
 
+- [[Geo-sleuth]] - Skill de geolocalización de fotos open source (MIT, 3.3k ⭐): OSM, elevación y satélite, con evidencia
+
 # #opensource
