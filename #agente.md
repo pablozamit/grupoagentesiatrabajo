@@ -189,4 +189,7 @@ Notas sobre agentes de IA:
 
 - [[MaxClaw]] - OpenClaw gestionado por MiniMax: agente persistente en Telegram, WhatsApp, Discord y Slack sin VPS ni Docker
 - [[Icarus]] - Plugin de memoria y reemplazo de modelo para Hermes: notas en Markdown, memoria compartida y ajuste fino del propio agente
+
+- [[DeerFlow]] - Super agent harness open source de ByteDance: sub-agentes, memoria (DeerMem) y sandboxes para tareas de minutos a horas (MIT, 84k ⭐)
+- [[Blender Skills (EL4CTEO)]] - 22 skills que dan a los agentes de código un flujo de producción 3D completo en Blender
 # #agente

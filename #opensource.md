@@ -123,4 +123,7 @@ Notas sobre herramientas y proyectos open source:
 - [[Laboratorio de IA local (2 GPU)]] - Stack local abierto (llama.cpp + llama-swap) para correr y servir modelos en tu hardware
 
 - [[Icarus]] - Plugin MIT para Hermes: memoria compartida en Markdown y pipeline para afinar un modelo de reemplazo (155 estrellas)
+
+- [[DeerFlow]] - Super agent harness open source de ByteDance (MIT, 84k ⭐): sub-agentes, memoria y sandboxes para investigación, código y creación
+- [[Blender Skills (EL4CTEO)]] - Paquete MIT de 22 skills de Blender 5.2 para agentes de código (185 ⭐)
 # #opensource

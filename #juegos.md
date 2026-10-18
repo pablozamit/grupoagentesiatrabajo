@@ -31,5 +31,6 @@ Notas sobre videojuegos:
 - [[Hyper3D BANG Parts Skill]] - Imagen → modelo 3D por partes para animar en tu juego (Rodin Gen-2 + BANG)
 
 - [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
+- [[Blender Skills (EL4CTEO)]] - Skills de Blender 5.2 para agentes con export a Roblox, Unity, Unreal y Godot (assets de juego: modelado, rigging, QA, LODs)
 
 # #juegos

@@ -14,5 +14,6 @@ Notas sobre investigación:
 
 - [[Blackstorm Security]] - Investigación ofensiva abierta (kernel, navegadores, hipervisores, CVEs reales)
 - [[Geo-sleuth]] - Skill que sitúa dónde se tomó una foto con geometría de mapas, elevación y satélite, y enseña las pruebas
+- [[DeerFlow]] - Super agent harness de ByteDance para investigación profunda: sub-agentes, memoria y sandbox (MIT, 84k ⭐)
 
 # #investigacion
