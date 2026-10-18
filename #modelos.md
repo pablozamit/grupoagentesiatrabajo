@@ -54,4 +54,6 @@ Notas sobre modelos de IA:
 
 - [[Laboratorio de IA local (2 GPU)]] - Modelos locales (Qwen3.6, Gemma 4) en un escritorio con 2 GPU y 32 GB de VRAM
 
+
+- [[Gemini Embedding 2]] - Primer modelo de embeddings nativamente multimodal de Google: texto, imagen, vídeo, audio y PDF en un único espacio vectorial
 # #modelos

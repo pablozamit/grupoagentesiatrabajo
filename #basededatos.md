@@ -14,4 +14,6 @@ Notas sobre bases de datos:
 
 - [[OpenClaw Supermemory]] - Memoria a largo plazo para agentes OpenClaw: auto-recall, auto-capture y contenedores por etiqueta (nube de Supermemory, plan Pro)
 
+- [[Gemini Embedding 2]] - Embeddings multimodales con dimensiones recortables (3.072, 1.536, 768) para recuperar texto, imagen, audio y vídeo con una sola consulta
+- [[Icarus]] - Memoria de Hermes como notas Markdown compartidas entre instancias, exportable a pares de entrenamiento
 # #basededatos

@@ -23,4 +23,5 @@ Notas sobre hosting/publicar en internet:
 - [[SPACE (Perplexity)]] - Sandbox de microVMs Firecracker para ejecutar código de agentes, self-hosted (Apache 2.0)
 
 
+- [[MaxClaw]] - Agente OpenClaw alojado: se despliega en segundos y evita montar VPS, Docker y claves de API
 # #hosting

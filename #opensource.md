@@ -122,4 +122,5 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Laboratorio de IA local (2 GPU)]] - Stack local abierto (llama.cpp + llama-swap) para correr y servir modelos en tu hardware
 
+- [[Icarus]] - Plugin MIT para Hermes: memoria compartida en Markdown y pipeline para afinar un modelo de reemplazo (155 estrellas)
 # #opensource

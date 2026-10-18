@@ -85,4 +85,5 @@ Notas con contenido teórico y de referencia:
 - [[Agente de clipping (Hermes + Vugola + Postiz)]] - El negocio del clipping: stack, montaje y playbook de 30 días (con matiz comercial)
 - [[Laboratorio de IA local (2 GPU)]] - Montar un laboratorio de IA en casa: hardware, llama.cpp, llama-swap y qué da 32 GB de VRAM
 
+- [[Gemini Embedding 2]] - Qué cambia cuando un embedding entiende texto, imagen, audio y vídeo a la vez: límites, dimensiones y uso desde la Gemini API
 # #contenido

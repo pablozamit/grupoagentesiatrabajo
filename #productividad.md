@@ -46,4 +46,5 @@ Notas sobre gestión del tiempo y productividad:
 - [[Designing AI Agents (Jia Huang)]] - Vocabulario compartido de patrones de diseno de agentes
 
 
+- [[MaxClaw]] - Agente persistente en tus apps de mensajería con memoria de más de 200.000 tokens, sin infraestructura propia
 # #productividad

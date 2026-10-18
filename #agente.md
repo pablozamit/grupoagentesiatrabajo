@@ -186,4 +186,7 @@ Notas sobre agentes de IA:
 - [[Agente de clipping (Hermes + Vugola + Postiz)]] - Pipeline de clipping (Vugola -> Postiz) orquestado por Hermes Agent desde un mensaje de Telegram
 - [[Laboratorio de IA local (2 GPU)]] - Laboratorio privado de modelos locales (llama.cpp + llama-swap) como infraestructura para agentes
 
+
+- [[MaxClaw]] - OpenClaw gestionado por MiniMax: agente persistente en Telegram, WhatsApp, Discord y Slack sin VPS ni Docker
+- [[Icarus]] - Plugin de memoria y reemplazo de modelo para Hermes: notas en Markdown, memoria compartida y ajuste fino del propio agente
 # #agente
