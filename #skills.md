@@ -51,5 +51,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[Hyper3D BANG Parts Skill]] - Skill de Codex/Claude que convierte una imagen o prompt en un modelo 3D dividido en partes animables (Rodin Gen-2 + BANG)
 - [[Sprite-Pipeline (LayrKits)]] - Kit con skill para convertir animación generada por IA en spritesheets 256×256 revisables (FFmpeg, matting, visor)
 - [[Blender Skills (EL4CTEO)]] - 22 skills de Blender 5.2 para agentes: modelado, UVs, PBR, rigging, animación, export y QA (MIT, 185 ⭐)
+- [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic Games para controlar Unreal Editor por MCP (MIT, 30+ toolsets)
 
 # #skills

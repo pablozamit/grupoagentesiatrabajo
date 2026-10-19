@@ -126,4 +126,5 @@ Notas sobre herramientas y proyectos open source:
 
 - [[DeerFlow]] - Super agent harness open source de ByteDance (MIT, 84k ⭐): sub-agentes, memoria y sandboxes para investigación, código y creación
 - [[Blender Skills (EL4CTEO)]] - Paquete MIT de 22 skills de Blender 5.2 para agentes de código (185 ⭐)
+- [[Unreal Engine Skills para Claude Code]] - Plugin MIT de Epic Games para controlar Unreal Editor desde Claude Code por MCP
 # #opensource

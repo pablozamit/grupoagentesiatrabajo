@@ -18,6 +18,12 @@ El README separa análisis estático de captura en ejecución: JavaScript/.NET e
 
 El proyecto exige autorización y uso legal; no promete recuperar perfectamente código fuente, resolver cualquier ofuscación ni reemplazar experiencia de ingeniería inversa. Los comentarios sobre firmware y «horas en vez de semanas» son testimonios, no un benchmark controlado.
 
+## Actualización v6.7.0
+
+La release [rea-agents v6.7.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.7.0), publicada el 18-oct-2026, hace que las ediciones de configuración del cliente sigan la semántica de miembros duplicados que aplican los clientes MCP. Setup y desinstalación operan sobre el último miembro repetido que realmente se lee y rechazan eliminarlo si eso reactivaría una configuración sombreada.
+
+La misma release incorpora los cambios de 6.6.0: proveedor de análisis estático Kuna, vistas reutilizables de hechos JavaScript, tablas de locales APK, análisis Ghidra para PE ARM de Windows y más controles de limpieza, configuración y captura. En Claude Code se exige ahora el JSON estricto que el cliente acepta; los comentarios y las comas finales se rechazan antes de escribir.
+
 Ver también: [[Codebase Memory MCP]], [[Truco HAR → API MCP]].
 
 #agente #opensource
