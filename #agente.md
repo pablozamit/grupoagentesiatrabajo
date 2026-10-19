@@ -192,4 +192,5 @@ Notas sobre agentes de IA:
 
 - [[DeerFlow]] - Super agent harness open source de ByteDance: sub-agentes, memoria (DeerMem) y sandboxes para tareas de minutos a horas (MIT, 84k ⭐)
 - [[Blender Skills (EL4CTEO)]] - 22 skills que dan a los agentes de código un flujo de producción 3D completo en Blender
+- [[Hermes Agent]] - Agente open source de Nous Research; su v0.6.0 (mar 2026) añade perfiles multi-instancia, modo servidor MCP y cadena de proveedores de respaldo
 # #agente

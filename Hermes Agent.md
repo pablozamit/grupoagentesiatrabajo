@@ -175,6 +175,20 @@ O en la configuración del agente, establece `computer_use: true` en las skills 
 
 El **[[Hermes Skills Hub]]** (jun 2026) es el catálogo oficial de skills instalables para Hermes: 691 skills de varios registros, con escaneo de seguridad (Skills Guard) antes de cada instalación.
 
+## v0.6.0 (v2026.3.30): instancias múltiples y modo servidor MCP
+
+La release **v0.6.0** (30 de marzo de 2026), que Nous Research presenta como la «release de multi-instancia», añade:
+
+- **Perfiles (multi-instancia)**: varias instancias de Hermes aisladas desde una misma instalación (`hermes profile create/list/switch/delete/export/import/rename`). Cada perfil tiene su propio config, memoria, sesiones, skills y servicio de gateway, con bloqueo de tokens para que dos perfiles no compartan credenciales de bot.
+- **Modo servidor MCP**: `hermes mcp serve` expone conversaciones, sesiones y adjuntos a cualquier cliente compatible con MCP (Claude Desktop, Cursor, VS Code), por stdio o Streamable HTTP.
+- **Contenedor Docker oficial** para CLI y gateway.
+- **Cadena de proveedores de respaldo** (`fallback_providers`): si el proveedor principal falla, prueba el siguiente de la lista.
+- **Nuevas plataformas de mensajería**: Feishu/Lark y WeCom; Telegram en modo webhook con gateo por mención o regex; Slack multi-workspace por OAuth.
+- **Exa** como backend alternativo de búsqueda web (junto a Firecrawl y DuckDuckGo).
+- **Skills y credenciales en backends remotos**: montar directorios de skills y ficheros de credenciales dentro de contenedores Modal y Docker.
+
+Datos tomados del [changelog oficial de v0.6.0](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.30), difundido por [@NousResearch](https://x.com/NousResearch/status/2038688578201346513). Ver también [[Hermes Skills Hub]], [[Caduceus (Hermes Desktop)]] y [[Ajustes Avanzados de Hermes Agent]].
+
 ## Configuración avanzada
 
 Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 ajustes clave (memoria persistente, zona horaria, auto-descubrimiento de skills, contexto modular, profundidad de memoria, enrutamiento de outputs, notificaciones, encadenamiento, consolidación y recuperación de fallos). Ver [[Ajustes Avanzados de Hermes Agent]] y [[10 Hacks de Hermes Agent (sistema 24/7)]]. Para automejora revisable del propio agente: [[Hermes Dreaming]].

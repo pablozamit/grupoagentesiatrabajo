@@ -24,4 +24,5 @@ Notas sobre hosting/publicar en internet:
 
 
 - [[MaxClaw]] - Agente OpenClaw alojado: se despliega en segundos y evita montar VPS, Docker y claves de API
+- [[Hermes Agent]] - Su v0.6.0 añade contenedor Docker oficial y montaje de skills/credenciales en backends remotos (Modal, Docker)
 # #hosting
