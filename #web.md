@@ -82,5 +82,7 @@ Notas sobre desarrollo web:
 - [[Obscura]] - Navegador headless en Rust para scraping y agentes: ~70MB, CDP nativo, drop-in de Playwright
 - [[Helium Browser]] - Navegador Chromium sin Google, minimalista: uBlock Origin por defecto y anti-fingerprinting
 - [[Pomerado]] - Convierte cualquier web en una API o MCP en minutos (open source, MIT): la vía de "traducir la web" frente a automatizar el navegador
+- [[Webframe]] - Navegador headless ligero para ejecutar páginas como programas
+- [[Coolify]] - Despliegue autohospedado para aplicaciones web
 
 # #web

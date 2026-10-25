@@ -17,5 +17,7 @@ Notas sobre inteligencia artificial:
 
 - [[TurboQuant]] - Cuantización vectorial de Google Research sin entrenamiento (paper arXiv 2504.19874)
 - [[Rube]] - MCP universal de Composio: un endpoint para 500+ apps, con meta-tools que reducen el contexto
+- [[Spline]] - Diseño 3D en el navegador con integración anunciada para ChatGPT/Codex
+- [[Genex]] - Desarrollo de juegos con IA desde una aplicación de escritorio
 
 # #ia

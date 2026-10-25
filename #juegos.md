@@ -33,5 +33,6 @@ Notas sobre videojuegos:
 - [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
 - [[Blender Skills (EL4CTEO)]] - Skills de Blender 5.2 para agentes con export a Roblox, Unity, Unreal y Godot (assets de juego: modelado, rigging, QA, LODs)
 - [[Unreal Engine Skills para Claude Code]] - Plugin de Epic Games para crear y probar juegos en Unreal desde Claude Code mediante MCP
+- [[Genex]] - Aplicación de escritorio para desarrollo de juegos con IA
 
 # #juegos

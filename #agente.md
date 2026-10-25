@@ -194,4 +194,7 @@ Notas sobre agentes de IA:
 - [[Blender Skills (EL4CTEO)]] - 22 skills que dan a los agentes de código un flujo de producción 3D completo en Blender
 - [[Hermes Agent]] - Agente open source de Nous Research; su v0.6.0 (mar 2026) añade perfiles multi-instancia, modo servidor MCP y cadena de proveedores de respaldo
 - [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic Games: Claude controla Unreal Editor mediante MCP y 30+ toolsets
+- [[Webframe]] - Navegador headless ligero para ejecutar una página como un programa
+- [[Phone Use]] - Categoría de APIs/MCP para que agentes operen teléfonos, aún por verificar
+- [[Coolify]] - Despliegue autohospedado de apps desde GitHub y Docker
 # #agente
