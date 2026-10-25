@@ -40,6 +40,7 @@ Notas sobre agentes de IA:
 - [[Orca]] - IDE agéntico: ejecuta múltiples agentes de código en worktrees paralelos (33.2k ⭐)
 - [[Noqa]] - Agente de QA visual para móviles y juegos (desde screenshots, sin localizadores)
 - [[Landingfolio MCP]] - MCP con 4.600+ componentes reales de landing pages para dar buen gusto de diseño a tu agente
+- [[Checklist Design]] - Checklists de UI/UX con Agent Skill, Figma Skill y plugin para revisar el trabajo del agente
 - [[TencentDB Agent Memory]] - Hub de memoria local de Tencent: Chat Memory, Skills, Wiki y CodeGraph para equipos de agentes (9.8k ⭐)
 - [[Comp AI CRM]] - CRM open source basado en un agente de investigación durable (agente = producto)
 - [[Skill Recorder]] - Microsoft: haz una tarea una vez y genera un SKILL.md reutilizable para agentes (Scout y 365 Copilot)
@@ -194,6 +195,7 @@ Notas sobre agentes de IA:
 - [[Blender Skills (EL4CTEO)]] - 22 skills que dan a los agentes de código un flujo de producción 3D completo en Blender
 - [[Hermes Agent]] - Agente open source de Nous Research; su v0.6.0 (mar 2026) añade perfiles multi-instancia, modo servidor MCP y cadena de proveedores de respaldo
 - [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic Games: Claude controla Unreal Editor mediante MCP y 30+ toolsets
+- [[Cloudroom]] - Plataforma open source para ejecutar agentes de código en sandboxes locales o cloud
 - [[Webframe]] - Navegador headless ligero para ejecutar una página como un programa
 - [[Phone Use]] - Categoría de APIs/MCP para que agentes operen teléfonos, aún por verificar
 - [[Coolify]] - Despliegue autohospedado de apps desde GitHub y Docker
