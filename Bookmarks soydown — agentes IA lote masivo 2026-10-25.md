@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Bookmarks de @soydown — lote masivo de agentes IA
 
 Lote bruto de 10 bookmarks: 6 piezas de IA y 4 de salud ajenas a esta enciclopedia (ver «Tratamiento» al final). Los de IA se han repartido en fichas. Los textos son transcripciones del bookmark y deben leerse como material de fuente, no como afirmaciones verificadas.
