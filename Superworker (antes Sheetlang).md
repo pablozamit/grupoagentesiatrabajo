@@ -1,6 +1,6 @@
 # Superworker (antes Sheetlang)
 
-**Superworker** es una hoja de cálculo con IA integrada. Nació en feb 2025 como **Sheetlang.ai**, presentada por su creador, Juan Carlos Garza (@jc__gr), como "el Cursor para hojas de cálculo", un proyecto personal en lista de espera. En marzo de 2025 sus fundadores cambiaron el nombre a Superworker y se dedicaron a él a tiempo completo. Salió de la lista de espera el 3-sep-2025.
+**Superworker** nació como una hoja de cálculo con IA integrada y hoy su web se centra en análisis de ventas de tiendas Shopify y datos de marketing. El proyecto comenzó en feb 2025 como **Sheetlang.ai**, presentada por su creador, Juan Carlos Garza (@jc__gr), como "el Cursor para hojas de cálculo", un proyecto personal en lista de espera. En marzo de 2025 sus fundadores cambiaron el nombre a Superworker y se dedicaron a él a tiempo completo. Salió de la lista de espera el 3-sep-2025.
 
 ## Qué hacía el producto
 
