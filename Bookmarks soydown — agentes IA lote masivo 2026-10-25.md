@@ -1,6 +1,6 @@
 # Bookmarks de @soydown — lote masivo de agentes IA
 
-Contenido con encaje temático claro en agentes, herramientas, programación o flujos de IA. Los textos son transcripciones del bookmark y deben leerse como material de fuente, no como afirmaciones verificadas.
+Lote bruto de 10 bookmarks: 6 piezas de IA y 4 de salud ajenas a esta enciclopedia (ver «Tratamiento» al final). Los de IA se han repartido en fichas. Los textos son transcripciones del bookmark y deben leerse como material de fuente, no como afirmaciones verificadas.
 
 _Captura completa de Ego Lite del 25 de octubre de 2026. Entradas: 10._
 
@@ -200,3 +200,17 @@ _Captura completa de Ego Lite del 25 de octubre de 2026. Entradas: 10._
 > 330
 > 967
 > 188 mil
+
+## Tratamiento (26-oct-2026)
+
+Los textos de arriba se conservan como fuente. Qué se hizo con cada pieza:
+
+| Pieza | Dónde quedó |
+|---|---|
+| elayadesigns (ai-design-skills) | Nota nueva [[AI Design Skills (elayadesign)]], con el repo completado |
+| @PalmerLuckey (notas y chats consultables por LLM) | Sección nueva en [[RAG]], enlazada con [[agentmemory]], [[OpenClaw Supermemory]], [[TencentDB Agent Memory]] |
+| @lxnmnnn (expo + cursor + sonnet 3.7) | Sin nota: el tweet solo dice "30 minutos" y no explica qué app ni cómo. Se conserva aquí como pista |
+| @ai_for_success (Wan 2.1) | Nota nueva [[Wan (Alibaba)]], con versiones posteriores |
+| @jc__gr (Sheetlang.ai) | Nota nueva [[Superworker (antes Sheetlang)]] (el producto cambió de nombre y de foco) |
+| @EHuanglu (Goku AI) | Nota nueva [[Goku (ByteDance)]] |
+| 4 de salud (Enterosgel, sales, melatonina, vitamina C) | No son de agentes IA. Se dejan aquí como texto sin verificar; pertenecen a la enciclopedia de biohacking si Pablo los quiere allí |
