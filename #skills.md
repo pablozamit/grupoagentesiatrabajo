@@ -52,5 +52,6 @@ Notas sobre skills instalables para agentes de IA:
 - [[Sprite-Pipeline (LayrKits)]] - Kit con skill para convertir animación generada por IA en spritesheets 256×256 revisables (FFmpeg, matting, visor)
 - [[Blender Skills (EL4CTEO)]] - 22 skills de Blender 5.2 para agentes: modelado, UVs, PBR, rigging, animación, export y QA (MIT, 185 ⭐)
 - [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic Games para controlar Unreal Editor por MCP (MIT, 30+ toolsets)
+- [[AI Design Skills (elayadesign)]] - Skills de diseño open source: landings completas y demos animadas MP4/GIF
 
 # #skills
