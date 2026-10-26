@@ -1,0 +1,42 @@
+# #video
+
+Notas sobre video:
+
+- [[Claude Video]] - Skill /watch: Claude ve cualquier video, extrae frames y transcribe
+- [[FFmpeg]] - Herramienta para procesar video
+- [[HyperFrames]] - Genera vídeos a partir de HTML, pensado para agentes
+- [[OpenMontage]] - Sistema de producción de video agentic open source (12 pipelines, 100+ tools, 700+ skills, 50.9k ⭐)
+- [[Depthfield]] - Convierte fotos y videos 2D en clips cinematográficos 3D desde el navegador
+- [[Yoinks]] - Descarga videos de YouTube, X, Instagram, TikTok y 1800+ sitios desde la terminal
+- [[El vídeo es código]] - Metodología de Borja Perez: crear vídeos de producto con Remotion + agentes de IA
+- [[oil-motion]] - Skill que mapea animaciones de video IA a scroll, mouse, drag y touch en la web
+- [[Pexafy]] - Búsqueda semántica de imágenes de archivo (9 fuentes libres) para alimentar montajes y footage
+- [[Open Generative AI]] - Estudio de generación de imagen/video self-hosted con 400+ modelos y 14 estudios (sin filtros)
+- [[Cartwheel MCP]] - Animación de personajes en Blender con agentes (motion humano, física realista o estilizada)
+- [[Cobalt]] - Descarga contenido público (video, audio) pegando el enlace: sin anuncios, sin trackers, self-hosted
+- [[AI UGC con agentes]] - Clona estilos virales y genera 100 variantes a $0.03/s con GPT-6 Astra (workflow open source Monid × Hypi)
+- [[VibeTube]] - Grabador estilo Loom open source: graba pantalla + cámara y Claude/Codex edita el video entero (b-rolls, SFX, subtítulos, vertical)
+- [[ZCode Video plugins]] - Video2code (URL/grabación → código React) y Video Agent Kit (edición automática) con GLM-5.3-Flash
+- [[Lightreel AI]] - Inteligencia de video social: qué creadores fichar y qué hooks funcionan, desde millones de TikToks/Reels/ads
+- [[Dora Studio (Motion Magic)]] - Chat→motion graphics en minutos: mapas, charts, logos y CTAs sin software (desde $20/mes)
+- [[Jev (TypeSafe)]] - Clipping en <2 s por ~2 céntimos: Jev elige timestamps del transcript y FFmpeg corta (juez, no generador)
+- [[Tesseract]] - Premiere/After Effects para agentes (Mirage/Captions): motor local gratis, proyecto editable nativo (no HTML)
+- [[Reelbench skills]] - Aprende descomponiendo: tabla por tomas con 15 quality gates + reporte HTML interactivo de un archivo
+
+- [[reel-cli]] - Montaje rápido de fotos y clips en reels verticales con FFmpeg, música y collages
+
+- [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
+
+- [[Vugola]] - Vídeo largo a clips; créditos y revisión
+
+- [[Screenwriting Skills]] - Skills de guion (estructura, personajes, dialogo) para pipelines de video con agentes
+
+- [[Edición de vídeo con IA (10 repos open source)]] - Recopilación de 10 repos de edición de vídeo con IA (OpenChatCut, AutoClip, AutoSubs, FunClip, LatentSync...)
+
+- [[Frametell]] - Agente director que convierte ideas o material en vídeos explicativos narrados (1080p, storyboard aprobable, voz y subtítulos)
+
+- [[Agente de clipping (Hermes + Vugola + Postiz)]] - Recorte, subtítulos y publicación multiplataforma de clips con un agente
+- [[Wan (Alibaba)]] - Familia de vídeo IA de Alibaba: Wan2.1/2.2 open source (Apache-2.0, corre en GPU de consumo) y Wan 2.5/2.6 con audio nativo vía API
+- [[Goku (ByteDance)]] - Modelos de imagen y vídeo de HKU y ByteDance (rectified flow, CVPR 2025); referencia de investigación
+
+# #video
