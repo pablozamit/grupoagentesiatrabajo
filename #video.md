@@ -36,5 +36,7 @@ Notas sobre video:
 - [[Frametell]] - Agente director que convierte ideas o material en vídeos explicativos narrados (1080p, storyboard aprobable, voz y subtítulos)
 
 - [[Agente de clipping (Hermes + Vugola + Postiz)]] - Recorte, subtítulos y publicación multiplataforma de clips con un agente
+- [[Wan (Alibaba)]] - Familia de vídeo IA de Alibaba: Wan2.1/2.2 open source (Apache-2.0, corre en GPU de consumo) y Wan 2.5/2.6 con audio nativo vía API
+- [[Goku (ByteDance)]] - Modelos de imagen y vídeo de HKU y ByteDance (rectified flow, CVPR 2025); referencia de investigación
 
 # #video
