@@ -85,6 +85,17 @@ LEANN se instala como MCP y añade búsqueda semántica real a Claude Code (que 
 - [PixelRAG](#PixelRAG) — RAG sobre píxeles
 - [LEANN](#LEANN) — búsqueda semántica sin almacenar vectores
 
+
+## Memoria personal consultable: notas y chats como dataset para un LLM
+
+Problema que planteó Palmer Luckey en X (2-mar-2025, [tweet](https://x.com/PalmerLuckey/status/1896037835452662069)): cómo convertir una gran colección de notas y chats personales en algo que un LLM pueda interrogar, porque las opciones que conocía perdían contexto al crecer. Su hilo no recoge una solución; estas son las piezas de la enciclopedia que atacan ese problema:
+
+- **El RAG de arriba** es la base, pero con colecciones grandes el fallo típico es recuperar fragmentos sueltos sin su contexto. Hay que conservar metadatos (fecha, conversación, autor) y recuperar con ventana alrededor del fragmento.
+- **Memoria persistente para agentes**: [[agentmemory]], [[OpenClaw Supermemory]] y [[TencentDB Agent Memory]] convierten conversaciones y documentos en memoria recuperable y compartible entre agentes.
+- **Notas como Markdown**: [[Icarus]] guarda la memoria de un agente como notas Markdown compartidas, un formato que el LLM puede leer directamente.
+- **Embeddings multimodales**: [[Gemini Embedding 2]] permite recuperar texto, imagen, audio y vídeo con una sola consulta.
+- **Consulta de la propia enciclopedia**: la idea de un buscador/MCP sobre estas notas es el mismo caso de uso aplicado aquí.
+
 ---
 
 #rag #ia #basededatos #contenido
