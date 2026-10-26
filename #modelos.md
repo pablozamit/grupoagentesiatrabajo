@@ -56,4 +56,7 @@ Notas sobre modelos de IA:
 
 
 - [[Gemini Embedding 2]] - Primer modelo de embeddings nativamente multimodal de Google: texto, imagen, vídeo, audio y PDF en un único espacio vectorial
+- [[Wan (Alibaba)]] - Modelos de vídeo de Alibaba: Wan2.1/2.2 abiertos y Wan 2.5/2.6 con audio nativo
+- [[Goku (ByteDance)]] - Modelos de imagen y vídeo de ByteDance y HKU (flujo rectificado, VBench 84,85)
+
 # #modelos
