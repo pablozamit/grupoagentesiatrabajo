@@ -17,6 +17,7 @@ Notas sobre SEO y optimización para buscadores (tanto Google como buscadores de
 - [[Google goto links]] - Redirect anti-scraping en resultados: 500–1.000 requests por keyword, GSC como fuente fiable
 - [[Visual Schema]] - Pega URL o JSON-LD y míralo como grafo: valida, inspecciona entidades, descarga imagen (gratis, en español)
 - [[Entity Map con Screaming Frog MCP]] - Mapa de entidades con Claude + Spider v24 (MCP nativo): canibalización y consolidación sin Python
+- [[Checklist SEO y AI SEO (Otto F. González)]] - 10 claves para que tu web aparezca en Google y en respuestas de IA (rastreo, indexación, HTML, metas, enlazado interno, keywords específicas)
 
 - [[OpenSEO]] - Suite de SEO open source con MCP para agentes: audits con renderizado JS, keywords, rank tracking y AI visibility
 

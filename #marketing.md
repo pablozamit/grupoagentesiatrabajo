@@ -17,6 +17,8 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[Naturaleza humana (Dan Koe)]] - Meta-habilidad: 3 tensiones + 5 palancas de persuasión para distribuir lo que construyes (1.6M views)
 - [[Kapso]] - Mete WhatsApp en tu producto o agencia: multi-tenant, setup links y números US incluidos (para SaaS y agencias)
 
+- [[Checklist SEO y AI SEO (Otto F. González)]] - 10 claves para que tu web aparezca en Google y en respuestas de IA (rastreo, indexación, HTML, metas, enlazado interno, keywords específicas)
+
 - [[Vender IA]] - 26 lecciones de GTM B2B tras un año vendiendo IA a gran cuenta y pymes: ROI, dueño del proyecto y entregas rápidas (@rmarzal)
 
 # #marketing
