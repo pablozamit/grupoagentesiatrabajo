@@ -55,6 +55,16 @@ browser-use close
 
 Versión cloud con mejor stealth, rotación de proxies, resolución de captchas, 1000+ integraciones (Gmail, Slack, Notion) y sistema de archivos persistente.
 
+### Precios (verificados en browser-use.com/pricing, oct 2026)
+
+- **Pay as you go**: sin suscripción, los créditos no caducan
+- **Navegadores**: $0.02/hora
+- **Proxy residencial**: $5/GB
+- **Agentes de navegador**: coste del modelo + 20%, más tiempo de navegador y tráfico
+- En su benchmark público (BU_Bench_v2), tareas con DeepSeek V4.1 Flash salen a ~$0.14-0.26 por tarea
+
+Su fundador (Gregor Zunic) afirma que Browser Use "se ha abaratado 100x este año" y que ya es "literalmente más barato que las APIs de scraping" ([hilo oct 2026](https://x.com/browser_use/status/2108790563181113770)) — afirmación de marketing del autor; los precios verificables son los de arriba.
+
 ## Skill para Claude Code
 
 ```bash

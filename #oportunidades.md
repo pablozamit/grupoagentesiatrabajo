@@ -13,4 +13,7 @@ Promociones, ofertas de bienvenida y ventajas temporales que son útiles mientra
 - [[Sonniss GDC 2026]] - 347+ SFX profesionales gratis (7.47GB, royalty-free forever, uso comercial)
 - [[Cloudflare Agentic Inbox]] - Cliente de email + agente IA en tu cuenta de Cloudflare, sin factura por email
 
+- [[MapsData]] - Scraper de Google Maps con tier gratuito (según el hilo de origen)
+- [[Prospeo]] - Email finder B2B con 100 créditos gratis
+
 # #oportunidades

@@ -61,4 +61,28 @@ Notas sobre desarrollo web:
 - [[Rare UI y ObsidianUI]] - 14–50+ componentes animados por librería, un archivo cada uno, instalables con shadcn CLI
 - [[Fumadocs]] - Framework React para webs de docs (MIT, 13.2k ⭐): MDX, OpenAPI, Obsidian, llms.txt, avalado por shadcn y Vercel
 
+- [[MapsData]] - Scraper de Google Maps con emails verificados y API
+- [[Serpdeck]] - Rank tracking self-hosted (cita sin confirmar como fuente de datos de Maps)
+- [[D7]] - D7 Lead Finder: leads de negocios por sector y zona
+- [[RapidAPI]] - Marketplace de APIs: buscar, probar y consumir miles de APIs con una key
+- [[Prospeo]] - Email finder B2B con 100 créditos gratis
+- [[Icypeas]] - Email finder B2B usado por Clay, Lemlist y Apollo
+- [[MillionVerifier]] - Verificación de listas de email antes de campañas
+- [[BounceBan]] - Verificación especializada en emails catch-all, con API
+
+- [[WebMCP]] - API JS (borrador W3C) para que una web exponga herramientas tipadas a agentes; la página actúa como servidor MCP en el cliente
+- [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
+
+- [[xurl]] - CLI oficial de X, OAuth y perfiles
+
+- [[Postiz]] - Calendario multicanal vía API/CLI/MCP
+
+- [[ScrapeGraphAI]] - Páginas a JSON; librería MIT o API
+
+- [[Obscura]] - Navegador headless en Rust para scraping y agentes: ~70MB, CDP nativo, drop-in de Playwright
+- [[Helium Browser]] - Navegador Chromium sin Google, minimalista: uBlock Origin por defecto y anti-fingerprinting
+- [[Pomerado]] - Convierte cualquier web en una API o MCP en minutos (open source, MIT): la vía de "traducir la web" frente a automatizar el navegador
+- [[Webframe]] - Navegador headless ligero para ejecutar páginas como programas
+- [[Coolify]] - Despliegue autohospedado para aplicaciones web
+
 # #web

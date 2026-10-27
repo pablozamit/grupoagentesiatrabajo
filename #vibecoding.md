@@ -38,4 +38,12 @@ Notas sobre vibecoding:
 - [[Pascal]] - Carga un plano y que lo construya: editor 3D con MCP para que tu agente edite escenas (`pascal mcp connect`)
 - [[Codebase Memory MCP]] - El agente pregunta al grafo en vez de leerse el repo: nodos, llamadas, rutas (hilo en español)
 
+- [[Devin]] - El agente de código de Cognition: vincula tu plan ChatGPT (Go/Plus/Pro) para pagar el uso de modelos GPT con él
+
+- [[Nanostack]] - Tu agente vibecodea con disciplina de sprint: plan, review adversarial, security y qa antes de shipear
+
+- [[Reason Network]] - Tus agentes de código se piden trabajo entre ellos sobre la red local, sin pisarse el repositorio
+
+- [[claude-peers MCP]] - Tus instancias de Claude Code se descubren y se mandan mensajes al instante por un broker local (localhost + SQLite)
+
 # #vibecoding

@@ -1,0 +1,29 @@
+# REA (Reverse Engineer Anything)
+
+MCP open source de ingeniería inversa para agentes de código: el agente inspecciona una aplicación SIN su código fuente (binarios nativos, apps JavaScript/Electron, ensamblados .NET, sitios web), explica cómo funciona una funcionalidad, muestra la evidencia y construye una versión adaptada para tu proyecto.
+
+- Cómo funciona: conecta al agente con herramientas de análisis - binarios nativos vía Hopper, Ghidra o IDA (usa tu instalación existente; el setup puede instalar Hopper con aprobación) y análisis estático de JavaScript sin motor nativo. El análisis corre en local y cada conclusión incluye su evidencia y sus limitaciones. Las mismas herramientas se pueden usar desde la terminal.
+- Setup: `npx rea-agents setup` (registra REA en tu agente e instala las instrucciones de workflow). Licencia MIT, web rea.tools con guías y casos reales.
+- Matiz de marketing: el tuit viral de Matthew Berman («Reverse Engineer Anything. Software is done», 2,1M views) lo vende como el fin del software; la propia herramienta es más modesta - no promete recuperar el código fuente original ni clonar apps automáticamente, sino inspeccionar cómo funciona una feature y ayudar a construir una versión adaptada.
+
+Enlace: https://github.com/morluto/rea (repositorio verificado el 14-oct-2026; el recuento de estrellas es variable)
+
+
+
+## Perímetro de análisis y límites de la difusión
+
+El [post de robiartec](https://x.com/robiartec/status/2109648332993765760) afirma 130k estrellas y 29k forks. No usar esas cifras como prueba de calidad: el recuento leído en el [repositorio](https://github.com/morluto/rea) no coincide con esa difusión. La web enlazada por el proyecto es [morluto.github.io/rea](https://morluto.github.io/rea/); el enlace «rea.tools» citado antes no fue la referencia verificada en esta revisión.
+
+El README separa análisis estático de captura en ejecución: JavaScript/.NET estáticos no necesitan ejecutar el objetivo, mientras que runtime capture puede iniciar o conectar con procesos bajo los permisos del usuario. «Local» no equivale a sandbox ni a que todo el trabajo sea de sólo lectura. Antes de analizar un archivo desconocido, limitar objetivo y permisos; no ejecutarlo ni abrir red por defecto, y no asumir que un prompt sustituye aislamiento técnico. La configuración del agente debe revisarse antes de aprobar cambios.
+
+El proyecto exige autorización y uso legal; no promete recuperar perfectamente código fuente, resolver cualquier ofuscación ni reemplazar experiencia de ingeniería inversa. Los comentarios sobre firmware y «horas en vez de semanas» son testimonios, no un benchmark controlado.
+
+## Actualización v6.7.0
+
+La release [rea-agents v6.7.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.7.0), publicada el 18-oct-2026, hace que las ediciones de configuración del cliente sigan la semántica de miembros duplicados que aplican los clientes MCP. Setup y desinstalación operan sobre el último miembro repetido que realmente se lee y rechazan eliminarlo si eso reactivaría una configuración sombreada.
+
+La misma release incorpora los cambios de 6.6.0: proveedor de análisis estático Kuna, vistas reutilizables de hechos JavaScript, tablas de locales APK, análisis Ghidra para PE ARM de Windows y más controles de limpieza, configuración y captura. En Claude Code se exige ahora el JSON estricto que el cliente acepta; los comentarios y las comas finales se rechazan antes de escribir.
+
+Ver también: [[Codebase Memory MCP]], [[Truco HAR → API MCP]].
+
+#agente #opensource

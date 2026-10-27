@@ -1,6 +1,6 @@
 # OpenMausBot
 
-**OpenMausBot** ([github.com/milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot), Apache-2.0, 2.1k ⭐, 89 contribuidores) es un **Grok Bot open source y self-hostable**: una app de chat donde cada contacto es un agente real con su modelo, su ordenador y sus apps. De Milind Soni, con [@BuildwithOmkarr](https://x.com/BuildwithOmkarr) difundiendo (29.5k views). Gratis siempre, sin paywall.
+**OpenMausBot** ([github.com/milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot), Apache-2.0, 2.1k ⭐, 89 contribuidores) es un **Grok Bot open source y self-hostable**: una app de chat donde cada contacto es un agente real con su modelo, su ordenador y sus apps. De Milind Soni, con [@BuildwithOmkarr](https://x.com/BuildwithOmkarr) difundiendo (29.5k views). Gratis siempre, sin paywall. Tras el lanzamiento de los **dots de OpenAI** (sep 2026, agentes always-on incluidos en ChatGPT Pro desde $100/mes), se presenta como **la alternativa open source que te pertenece**: cualquier modelo, tus datos en tu máquina.
 
 ## La idea
 
@@ -27,6 +27,7 @@ Un asistente en una caja es la forma equivocada: roster de bots con personalidad
 
 - Harness local: [[HarnessRouter + UHP]], [[Orca]]
 - Orquestar agentes: [[Vibe Kanban]], [[Company Brain]]
+- La otra respuesta open source a los dots: [[OpenDots]]
 - Voces: [[Fish Audio S2.1 Pro]], [[Kyutai TTS + Unmute]]
 
 # #agente #opensource #productividad

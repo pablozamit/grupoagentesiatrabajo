@@ -12,6 +12,12 @@ Fuente: [LA NACION - La app Zapia ahora permite programar mensajes en WhatsApp](
 
 ## Alternativas sin la API oficial
 
+### OpenWA
+
+El bookmark de [@liambraus](https://x.com/liambraus/status/2112176354909135306) presenta **OpenWA** como una API REST autoalojada y gratuita para enviar y recibir mensajes, gestionar varias sesiones, webhooks y un panel web, con conexiones anunciadas para n8n, Chatwoot y agentes mediante MCP. El post afirma 12,8k estrellas y un despliegue con Docker, pero en la captura no aparece el repositorio oficial: esas cifras y capacidades quedan atribuidas al anuncio hasta verificarlas.
+
+Es un cliente no oficial de WhatsApp. Usar un número dedicado, limitar el volumen y asumir el riesgo de bloqueo descrito más abajo; no conectarlo automáticamente al número principal.
+
 ### WAHA
 
 [WAHA](https://github.com/devlikeapro/waha) empaqueta WhatsApp Web en Docker y expone una API HTTP/REST. Se instala en un servidor, se escanea un QR y el agente puede leer o enviar mensajes mediante peticiones a la API.

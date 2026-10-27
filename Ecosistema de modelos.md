@@ -22,7 +22,7 @@ Una vez que sabes qué modelo quieres, hay dos caminos:
 | **[[OpenRouter]]** | Quieres usar modelos en la nube, sin instalar nada | Una API para OpenAI, Anthropic, Google, Meta, DeepSeek, Mistral…; pagas por uso; tiene modelos gratuitos |
 | **[[Ollama]]** | Quieres correr modelos en tu propio PC | Gratis, sin enviar datos a la nube, necesita buena GPU; ideal para privacidad y offline |
 
-Ambos soportan los modelos punteros del mercado.
+Ambos soportan los modelos punteros del mercado. Otra puerta local popular: [[LM Studio]], app de escritorio (Mac/Windows/Linux) con servidor local compatible con la API de OpenAI — es la vía con la que @xeophon corre [[Gemma 4]] E4B 24/7 en su Mac.
 
 ### 3. Orquestar el modelo desde un agente → [[Kilo Code]]
 

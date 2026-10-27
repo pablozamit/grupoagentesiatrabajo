@@ -47,4 +47,84 @@ Notas sobre herramientas y proyectos open source:
 - [[OpenResearch]] - Workspace local-first para autoresearch (MIT, 5.3k ⭐): tu agente + tu cómputo, artefactos con pestaña
 - [[Reelbench skills]] - Descompón videos ajenos por tomas y re-sintetiza (Apache-2.0, 697 ⭐): ffmpeg + modelo, sin API key
 
+- [[Gentle Dot]] - Asistente de escritorio open source (MIT, early preview, 132 ⭐): overlay con ⌥Espacio, computer use con aprobaciones, voz local
+- [[Engram]] - Memoria persistente para agentes de IA (MIT, 7.1k ⭐): binario Go + SQLite FTS5, MCP con 14 agentes, local o cloud
+
+- [[OpenDots]] - Coworkers de IA always-on self-hosted (MIT, 4.8k ⭐, alpha): Spaces, Dots con computadora propia vía OpenBot, aprobaciones en chat
+
+- [[OpenPencil]] - Editor de diseño open source (MIT, 8.9k ⭐): abre archivos .fig, IA con 100+ herramientas, CLI headless y colaboración P2P
+
+- [[Gemma 4]] - Modelos abiertos de Google DeepMind (Apache 2.0): 5 tamaños (E2B-31B), multimodal, razonamiento configurable, function calling
+
+- [[turbovec]] - Índice vectorial local (Rust+Python, MIT) con TurboQuant: 4 bits/dimensión, 4,4× FAISS
+
+- [[headroom]] - Compresión local de contexto para agentes (Apache 2.0): librería, proxy, wrap y MCP
+
+- [[Iris-3B]] - Generador de imágenes pixel-space de Speridlabs (Apache 2.0): pesos, código y demo en HF
+
+- [[REA (Reverse Engineer Anything)]] - MCP de ingeniería inversa (MIT): inspecciona apps sin código fuente vía Hopper/Ghidra/IDA
+
+- [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
+
+- [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
+
+- [[xurl]] - CLI oficial de X, OAuth y perfiles
+
+- [[ScrapeGraphAI]] - Páginas a JSON; librería MIT o API
+
+- [[llama.cpp]] - Motor local y servidor; contexto/KV y forks verificables
+
+- [[agentmemory]] - Memoria persistente híbrida para agentes, bajo presupuesto y con límites
+
+- [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
+
+- [[Mobile MCP]] - Apache2.0: simuladores y dispositivos conectados; nube aparte
+
+- [[open-slide]] - Framework MIT de slides para agentes, editor y export PPTX con revisión
+
+- [[Obscura]] - Motor de navegador headless en Rust (CDP nativo): scraping y automatización con agentes
+- [[Browser Harness]] - Harness de navegador autorreparable open source (CDP directo, sin framework)
+- [[Field Theory]] - CLI MIT que sincroniza y clasifica tus bookmarks de X en local (SQLite FTS5 + BM25)
+- [[Nebula]] - Mesh VPN open source (MIT) de Slack: ECDH + AES-256-GCM, control plane autoalojado
+- [[tailcat]] - netcat sobre el data plane de Tailscale, open source (BSD-3-Clause), sin control plane
+- [[Nanostack]] - Harness de workflow para agentes de código (shell, sin dependencias): 8 skills y gates de fase
+- [[Helium Browser]] - Navegador Chromium sin Google (GPL-3.0): privacidad y uBlock por defecto
+- [[Instabox]] - Ordenadores en la nube para agentes (beta por invitacion)
+- [[Treg People Search]] - Busqueda de personas open source para agentes
+- [[Mistral TTS]] - TTS local de Mistral publicado como open-source
+- [[Monid]] - Router de herramientas de pago para agentes (pago por llamada)
+- [[Cyberstrike]] - Agente de pentesting open source
+
+
+- [[open-grokbot]] - Reconstruccion open source del Grok Bot de escritorio por ingenieria inversa (mirror anonimo; no es el codigo original)
+- [[Claude Commerce Agents]] - Implementacion de referencia open source de Anthropic para agentes de compra y de comerciante
+- [[Magnitude]] - Motor de inferencia local open source (Apache-2.0): kernels ajustados a tu hardware, 2x mas rapido que Ollama
+- [[Universal-DeepSeek-OCR-2]] - DeepSeek-OCR-2 portable (Apache-2.0, ~3B) con soporte de CPU, MPS y CUDA
+
+- [[Vercel ChatSDK]] - Paquete de Vercel para construir chats con agentes sobre una base agéntica propia
+- [[MiniMind]] - Entrenamiento de un LLM minúsculo de principio a fin, en PyTorch y con MoE
+- [[numasec]] - Agente de pentesting open source (AGPL-3.0) que orquesta herramientas de seguridad
+- [[Blackstorm Security]] - 19 papers gratuitos de explotación e ingeniería inversa
+
+- [[Reason Network]] - Red peer-to-peer para agentes de código (motor Apache 2.0; la CLI que lo configura no es open source)
+- [[SPACE (Perplexity)]] - Sandbox de microVMs Firecracker para agentes (Apache-2.0, ~1,3k ⭐)
+
+- [[Edición de vídeo con IA (10 repos open source)]] - Diez repos open source de edición de vídeo con IA (OpenChatCut, FireRed-OpenStoryline, AutoClip, Herk Edit Kit, LatentSync...)
+- [[VoiceStudio]] - Alternativa open source y local a ElevenLabs (AGPL-3.0, ~72,3k ⭐): clonación de voz y doblaje en 646 idiomas
+- [[Frametell]] - Vídeos explicativos narrados con un agente director (AGPL-3.0, 203 ⭐): local-first, con cualquier modelo
+- [[Pomerado]] - Convierte cualquier web en API o MCP en minutos (MIT, 24 ⭐, YC F26)
+- [[MOSS-Image]] - Familia texto-a-imagen de 5B (Apache-2.0, 556 ⭐): control de layout por JSON y texto en chino e inglés
+
+- [[Geo-sleuth]] - Skill de geolocalización de fotos open source (MIT, 3.3k ⭐): OSM, elevación y satélite, con evidencia
+
+- [[claude-peers MCP]] - Deja que tus Claude Code se encuentren y se hablen: broker local + SQLite (MIT, 2.2k ⭐)
+- [[Sprite-Pipeline (LayrKits)]] - Kit de spritesheets para juegos 2D desde animación generada por IA (596 ⭐)
+
+- [[Laboratorio de IA local (2 GPU)]] - Stack local abierto (llama.cpp + llama-swap) para correr y servir modelos en tu hardware
+
+- [[Icarus]] - Plugin MIT para Hermes: memoria compartida en Markdown y pipeline para afinar un modelo de reemplazo (155 estrellas)
+
+- [[DeerFlow]] - Super agent harness open source de ByteDance (MIT, 84k ⭐): sub-agentes, memoria y sandboxes para investigación, código y creación
+- [[Blender Skills (EL4CTEO)]] - Paquete MIT de 22 skills de Blender 5.2 para agentes de código (185 ⭐)
+- [[Unreal Engine Skills para Claude Code]] - Plugin MIT de Epic Games para controlar Unreal Editor desde Claude Code por MCP
 # #opensource

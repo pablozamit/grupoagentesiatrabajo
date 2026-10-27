@@ -35,7 +35,14 @@ Requiere Docker, ~4GB de disco y una API key de un proveedor. Sin cuenta, sin cl
 - **API**: OpenAI Responses-compatible (`/v1/responses`), CRUD de harnesses, sesiones, streaming (SSE), cancelación, idempotencia
 - **Workspaces reales**: bash, git y filesystem (no sandbox emulado)
 - **Console**: la misma del producto hosted (Next.js), thin client sobre la API — todo lo que hace la UI se puede hacer con curl
-- **Starter kits**: Slides (deck por conversación), Sheets (una columna que es un agente), Dashboards (pregunta a tu DB), Videos (describe un film) — los kits son productos enteros para lanzar y estudiar
+- **Starter kits** ([repo](https://github.com/HarnessRouter/starter-kit)): 6 productos completos para lanzar desde la consola — Slides (deck por conversación), Sheets (una columna que es un agente), Dashboards (pregunta a tu DB), Videos (describe un film), Super Mario (juego en navegador controlado por un loop de decisión) y My Workplace (chat de equipo con compañeros de IA que trabajan en grupo) — más 2 demos MIT pequeñas para aprender la API (streaming, sesiones, cancelación, descarga de archivos). Las skills de cada kit se instalan como paquete en formato Agent Plugins
+
+## Matiz de licencia y del marketing (oct 2026)
+
+El [hilo de lanzamiento](https://x.com/HARNESSROUTER/status/2105704990610428362) lo presenta como «free, open source, no lock-in». La realidad del repo es más fina:
+
+- **Licencia mixta**: las demos de referencia son MIT, pero los kits de `kits/` van con una licencia propia (HarnessRouter Starter Kit License Agreement): gratis para uso individual local, con restricciones para uso comercial; las organizaciones que usan HarnessRouter Cloud no pagan licencia de kit aparte, pero sí su plan Cloud
+- El **bot de Grok 24/7** que el hilo anuncia como construido en 24 horas no aparece como kit separado en el repo actual; lo más cercano es el kit My Workplace (grupos de bots que trabajan sin parar)
 
 ## El protocolo UHP
 
@@ -65,7 +72,7 @@ Es la capa que faltaba: **"no más harness engineering para tu producto"**. Sand
 
 - Repositorio: [github.com/HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter)
 - Protocolo UHP: [unifiedharnessprotocol.org](https://unifiedharnessprotocol.org)
-- Starter kits (demos MIT): [github.com/HarnessRouter/starter-kit](https://github.com/HarnessRouter/starter-kit)
+- Starter kits (licencia mixta: demos MIT, kits con licencia propia): [github.com/HarnessRouter/starter-kit](https://github.com/HarnessRouter/starter-kit)
 - Web: [harnessrouter.ai](https://harnessrouter.ai)
 
 ## Relacionado

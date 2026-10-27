@@ -50,4 +50,13 @@ Aplicable a: SEO técnico, auditoría completa del sitio, crecimiento de búsque
 - [[Jev (TypeSafe)]] — internal linking masivo como trabajo de clasificación: 586 páginas en 45 s por $0.21
 - [[#seo]] — hub de notas de la categoría
 
+
+## Herramienta: jev-seo
+
+[jev-seo](https://github.com/AgriciDaniel/jev-seo) (MIT, Python 3.10+) implementa una auditoría con 52 reglas vinculadas a Google Search Central y juicios de [[Jev (TypeSafe)]]. Un `audit.json` alimenta PDF, Excel y Markdown. Rastreo por defecto limitado a 60 páginas; renderizado JS requiere Playwright opcional. Sin clave TypeSafe los apartados Jev quedan no evaluados y la puntuación se etiqueta parcial.
+
+El coste de un céntimo por sitio y la repetibilidad 0,03 son mediciones/estimaciones del proyecto, no promesa de precio, exactitud o ranking. El modo `--full` añade DataForSEO de pago. No sustituye acceso a GSC ni verificación humana: el segundo juez de evaluación fue otro modelo. Útil como lista priorizada y trazable de cambios; no ejecutar correcciones automáticamente sólo por la puntuación.
+
+Ver también: [[Jev (TypeSafe)]], [[OpenSEO]], [[Entity Map con Screaming Frog MCP]].
+
 # #seo #contenido #productividad

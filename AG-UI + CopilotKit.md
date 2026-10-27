@@ -54,5 +54,6 @@ Es el movimiento de **"IA como parte del producto, no como otra ventana"** (Ahme
 - Frontend de agentes: [[CopilotKit]]
 - Arquitectura de agentes: [[HarnessRouter + UHP]], [[Despliegue de IA en empresa (3 etapas)]]
 - El debate de seguridad: [[Camofox Browser]], [[Harness]]
+- Coworkers always-on construidos sobre CopilotKit: [[OpenDots]]
 
 # #agente #web #contenido #skills

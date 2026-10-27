@@ -25,4 +25,28 @@ Notas sobre gestión del tiempo y productividad:
 - [[OpenMausBot]] - Tu equipo de agentes en un chat: bots con computer, rutinas, canales y teams instalables de un Markdown
 - [[Agent loops (mvanhorn)]] - Loops que ganan: cron + LLM + estado local (SQLite, cookies vivas, lecciones escritas)
 
+- [[reel-cli]] - Convierte una carpeta de fotos y vídeos en un reel vertical con montaje aleatorio reproducible
+
+- [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
+- [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
+
+- [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
+
+- [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
+
+- [[Mobile MCP]] - Reproducir bugs con dispositivo dedicado, no sustituyeQA determinista
+
+- [[open-slide]] - Fuente React y revisión visual antes de entregar
+
+- [[Readwise CLI]] - Accede a tus highlights, artículos y PDFs de Readwise desde la terminal, para ti y tus agentes
+- [[Field Theory]] - Tus bookmarks de X en local, buscables (BM25) y clasificables desde la terminal, para tus agentes
+- [[Rube]] - Un endpoint MCP para que tu agente actúe en 500+ apps sin configurar una integración por app
+- [[Helium Browser]] - Navegador rápido, sin bloat ni anuncios por defecto
+- [[Monid]] - Capa unica de acceso y pago por uso a ~1.800 APIs para tus agentes (0 suscripciones)
+- [[Designing AI Agents (Jia Huang)]] - Vocabulario compartido de patrones de diseno de agentes
+
+
+- [[MaxClaw]] - Agente persistente en tus apps de mensajería con memoria de más de 200.000 tokens, sin infraestructura propia
+- [[Superworker (antes Sheetlang)]] - Hoja de cálculo con IA (ex Sheetlang.ai, "Cursor para hojas"); hoy pivotada a análisis de ventas Shopify
+
 # #productividad

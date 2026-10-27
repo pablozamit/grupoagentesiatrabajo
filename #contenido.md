@@ -51,4 +51,39 @@ Notas con contenido teórico y de referencia:
 - [[LlamaCloud (parseo + MCP)]] - Por qué "chat with PDF" alucina en tablas escaneadas y cómo lo resuelve el parseo agéntico
 - [[GeoSpy]] - El modelo de dos canales de privacidad fotográfica: borrar EXIF no basta (la IA lee la ventana)
 
+- [[Scraping]] - Extraer datos de la web automatizándolo; pipeline completo para montar listas B2B desde Google Maps
+
+- [[reel-cli]] - CLI para crear reels verticales con FFmpeg
+- [[Maillayer]] - Email marketing y correo transaccional autoalojado con licencia de pago único
+
+- [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
+- [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
+
+- [[Alternativas autohospedadas a SaaS]] - Diez candidatos, licencias y coste real de operación frente a suscripciones
+
+- [[Vugola]] - Vídeo largo a clips; créditos y revisión
+
+- [[Postiz]] - Calendario multicanal vía API/CLI/MCP
+
+- [[agentmemory]] - Memoria persistente híbrida para agentes, bajo presupuesto y con límites
+- [[Cyberstrike]] - Seguridad ofensiva con agentes: pentesting autonomo y sus limites legales/eticos
+- [[Designing AI Agents (Jia Huang)]] - Catalogo de patrones y vocabulario comun para disenar agentes
+
+
+- [[open-grokbot]] - Ingenieria inversa aplicada: como se reconstruye una app Electron entera (Grok Bot) desde su instalacion
+- [[Universal-DeepSeek-OCR-2]] - OCR multimodal portable: DeepSeek-OCR-2 corriendo en CPU, MPS o CUDA
+- [[Handraw-Style Skill]] - Skill de prompts de ilustracion hand-drawn: eliges un numero de estilo y devuelve prompt bilingue
+- [[Screenwriting Skills]] - Teoria de guion (cine, TV, teatro) destilada en skills para Claude Code y Codex
+
+- [[past.dev]] - Memoria a largo plazo para agentes: que se mantiene correcta cuando los hechos cambian (RAG vs valor actual + fuente)
+
+- [[Frametell]] - De una idea a un vídeo explicativo narrado: agente director, storyboard aprobable y render local (cualquier modelo)
+- [[Pomerado]] - Agentes sin cliquear: convertir cualquier web en una API o MCP en minutos (open source)
+
+- [[OpenClaw Supermemory]] - Cómo dar memoria persistente a un agente: inyección antes de cada turno y captura después, con contenedores por tema
+
+- [[Agente de clipping (Hermes + Vugola + Postiz)]] - El negocio del clipping: stack, montaje y playbook de 30 días (con matiz comercial)
+- [[Laboratorio de IA local (2 GPU)]] - Montar un laboratorio de IA en casa: hardware, llama.cpp, llama-swap y qué da 32 GB de VRAM
+
+- [[Gemini Embedding 2]] - Qué cambia cuando un embedding entiende texto, imagen, audio y vídeo a la vez: límites, dimensiones y uso desde la Gemini API
 # #contenido

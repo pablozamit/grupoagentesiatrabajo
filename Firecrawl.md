@@ -82,6 +82,11 @@ El nuevo Firecrawl MCP llegó con tres mejoras clave:
 
 URL: [firecrawl.dev/mcp](https://firecrawl.dev/mcp)
 
+## Plugin en OpenCode (CLI)
+
+[@firecrawl](https://x.com/firecrawl/status/2035045665777258515) anunció que Firecrawl estrena **plugin para OpenCode**: con 
+pm install -g firecrawl-cli el agente puede hacer *scrape*, *search* y *browse* de la web para obtener contexto en tiempo real **directamente desde la terminal**, sin escribir el cliente a mano. Es una vía de integración distinta del servidor MCP: en vez de montar un servidor, se instala el CLI y OpenCode lo usa como herramienta.
+
 ## Casos de uso habituales
 
 - Investigar un tema y guardar resúmenes en el vault

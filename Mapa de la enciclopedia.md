@@ -20,6 +20,8 @@ Notas sobre agentes y cómo orquestarlos:
 - **Plataformas para construir agentes**: [[Microsoft Foundry]] (Azure, 1.900+ modelos)
 - **Memoria y aprendizaje**: [[Memanto]] (memoria persistente)
 - **Acceso a internet desde agentes**: [[Acceso a internet desde agentes]] (Firecrawl, Agent-Reach, /last30days) → cada nota individual en `#agente` y `#web`
+- **Navegación ligera**: [[Webframe]] para ejecutar páginas como programas
+- **Operar teléfonos**: [[Phone Use]] como categoría API/MCP todavía por verificar
 - **Vídeo y agentes**: [[HyperFrames]]
 
 ### 🧠 Modelos e IA (10 notas)
@@ -36,12 +38,14 @@ Notas sobre agentes y cómo orquestarlos:
 
 - **Recursos visuales**: [[Repositorio 400 Recursos de Diseño Gratuitos]], [[DesignTools.fyi]], [[Dead Simple Sites]], [[Whitespace Experiments]]
 - **Componentes UI**: [[21st.dev]] (galería de prompts), [[Iconiq]] (componentes minimalistas)
+- **Escenas 3D colaborativas**: [[Spline]]
 - **Ilustraciones con IA**: [[Ian Xiaohei Illustrations]]
 - **Presentaciones con IA**: [[Gamma]]
 
 ### 💻 Desarrollo web (10 notas)
 
 - **Frontend y hosting**: [[Vercel]]
+- **Despliegue autohospedado**: [[Coolify]]
 - **3D en la web**: [[Stack 3D en web]]
 - **IDE con IA para web**: [[Google Antigravity]], [[AI Studio]]
 - **Scraping de datos web**: [[Firecrawl]], [[Apify]]
@@ -53,6 +57,7 @@ Notas sobre agentes y cómo orquestarlos:
 - **3D para juegos web**: [[Three.js]], [[Plume]] (partículas)
 - **Juegos publicados**: [[Tinyskies]]
 - **Generación con IA**: [[AutoSprite]] (spritesheets)
+- **Desarrollo de juegos con IA**: [[Genex]]
 
 ### 🎬 Vídeo (2 notas)
 

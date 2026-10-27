@@ -38,4 +38,20 @@ Notas sobre skills instalables para agentes de IA:
 - [[Diseño con Codex (receta Vox)]] - Combo Impeccable + 21st Design + UX Audit para páginas sin slop (con línea UX/DX/AX)
 - [[Reelbench skills]] - video-shots (descomponer por tomas) + video-sync (conformar con storyboard): `./scripts/install.sh`
 
+- [[OpenSEO]] - Skills de workflows SEO (auditoría, keywords) + MCP para conectar la suite a tu agente
+
+- [[Roast Room]] - Skill de Claude que debate tu idea con 7 sub-agentes (Bezos, PG, Hormozi, Buffett...)
+- [[Nanostack]] - 8 skills de ingeniería que corren en orden de sprint (/think → /nano → build → /review → /security → /qa → /ship)
+- [[Refactoring UI Skill]] - Skill que aplica los principios de Refactoring UI para arreglar la UI de tu proyecto
+
+
+- [[Handraw-Style Skill]] - Prompts de ilustracion hand-drawn por numero de estilo (galeria + prompts bilingues)
+- [[Screenwriting Skills]] - Skills de guion para agentes: cine, TV y teatro destilados de libros y guiones
+- [[Geo-sleuth]] - Skill de agente que geolocaliza una foto (OpenStreetMap, elevación, satélite, street view) y demuestra el trabajo (MIT, 3.3k ?)
+- [[Hyper3D BANG Parts Skill]] - Skill de Codex/Claude que convierte una imagen o prompt en un modelo 3D dividido en partes animables (Rodin Gen-2 + BANG)
+- [[Sprite-Pipeline (LayrKits)]] - Kit con skill para convertir animación generada por IA en spritesheets 256×256 revisables (FFmpeg, matting, visor)
+- [[Blender Skills (EL4CTEO)]] - 22 skills de Blender 5.2 para agentes: modelado, UVs, PBR, rigging, animación, export y QA (MIT, 185 ⭐)
+- [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic Games para controlar Unreal Editor por MCP (MIT, 30+ toolsets)
+- [[AI Design Skills (elayadesign)]] - Skills de diseño open source: landings completas y demos animadas MP4/GIF
+
 # #skills

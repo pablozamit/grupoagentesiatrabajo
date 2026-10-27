@@ -27,4 +27,36 @@ Notas sobre modelos de IA:
 - [[Qwen-Image-2.1]] - Generación + edición unificada en 7B open-weight: RGBA nativo, 10 refs, 2K (1.4M views, matiz licencia)
 - [[mini-AGI]] - Byte-level LM que aprende mientras lee en 8 GB VRAM: pesos en disco, 169 expertos, olvido 0.0067 nats
 
+- [[Gemma 4]] - Familia open de Google DeepMind (Apache 2.0): E2B a 31B, multimodal, 128-256K contexto; el E4B corre 24/7 en un Mac
+- [[LM Studio]] - App de escritorio para correr modelos locales (Mac/Win/Linux): chat local + servidor OpenAI-compatible, ahora con agente Bionic
+
+- [[Iris-3B]] - Generador de imágenes en espacio de píxeles (sin VAE, Apache 2.0) que también hace visión: profundidad, restauración, super-resolución
+
+- [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
+
+- [[llama.cpp]] - Motor local y servidor; contexto/KV y forks verificables
+
+- [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
+
+- [[Phonon-2]] - Pesos CC-BY-4.0, 164MB compacto, no modelo español
+
+- [[GLM-5.3-CYBERSECURITY]] - Modelo abliterated (sin rechazos) para red teaming y pentesting (MoE, FP8)
+- [[Mistral TTS]] - TTS open source de Mistral (~3 GB RAM, local) que el anuncio compara con ElevenLabs
+
+
+- [[Magnitude]] - Motor de inferencia open source que ajusta kernels a tu hardware: corre modelos locales 2x mas rapido que Ollama
+- [[Universal-DeepSeek-OCR-2]] - DeepSeek-OCR-2 portable (~3B, Apache-2.0) para CPU, MPS y CUDA
+- [[Fish Audio S2.1 Pro]] - Drama 3 (oct 2026): TTS open-weight con control por palabra y cambio de voz intra-frase
+
+- [[MiniMind]] - Proyecto didáctico para entrenar un LLM desde cero (~25,8 M de parámetros, con variante multimodal MiniMind-V)
+- [[VoiceStudio]] - Alternativa local a ElevenLabs (AGPL-3.0): clonación y diseño de voz, doblaje y TTS en 646 idiomas
+- [[MOSS-Image]] - Texto a imagen open source de 5B (Apache-2.0) con control de layout por JSON y renderizado de texto en chino e inglés
+
+- [[Laboratorio de IA local (2 GPU)]] - Modelos locales (Qwen3.6, Gemma 4) en un escritorio con 2 GPU y 32 GB de VRAM
+
+
+- [[Gemini Embedding 2]] - Primer modelo de embeddings nativamente multimodal de Google: texto, imagen, vídeo, audio y PDF en un único espacio vectorial
+- [[Wan (Alibaba)]] - Modelos de vídeo de Alibaba: Wan2.1/2.2 abiertos y Wan 2.5/2.6 con audio nativo
+- [[Goku (ByteDance)]] - Modelos de imagen y vídeo de ByteDance y HKU (flujo rectificado, VBench 84,85)
+
 # #modelos

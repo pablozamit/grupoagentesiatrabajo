@@ -18,4 +18,6 @@ Notas sobre SEO y optimización para buscadores (tanto Google como buscadores de
 - [[Visual Schema]] - Pega URL o JSON-LD y míralo como grafo: valida, inspecciona entidades, descarga imagen (gratis, en español)
 - [[Entity Map con Screaming Frog MCP]] - Mapa de entidades con Claude + Spider v24 (MCP nativo): canibalización y consolidación sin Python
 
+- [[OpenSEO]] - Suite de SEO open source con MCP para agentes: audits con renderizado JS, keywords, rank tracking y AI visibility
+
 # #seo

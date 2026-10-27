@@ -17,4 +17,17 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 - [[Naturaleza humana (Dan Koe)]] - Meta-habilidad: 3 tensiones + 5 palancas de persuasión para distribuir lo que construyes (1.6M views)
 - [[Kapso]] - Mete WhatsApp en tu producto o agencia: multi-tenant, setup links y números US incluidos (para SaaS y agencias)
 
+- [[Vender IA]] - 26 lecciones de GTM B2B tras un año vendiendo IA a gran cuenta y pymes: ROI, dueño del proyecto y entregas rápidas (@rmarzal)
+
+# #marketing
+- [[Maillayer]] - Campañas, secuencias y API de email sin suscripción propia; servidor y envío aparte
+
+- [[Vugola]] - Vídeo largo a clips; créditos y revisión
+
+- [[Postiz]] - Calendario multicanal vía API/CLI/MCP
+- [[Treg People Search]] - People search open source para Claude: leads a $0,0089 con 0% markup (cifras del anuncio)
+
+
+- [[Claude Commerce Agents]] - Blueprint de Anthropic para agentes de comercio: shopping agent + merchant agent con aprobacion humana
+
 # #marketing

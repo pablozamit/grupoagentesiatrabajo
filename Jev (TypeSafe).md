@@ -140,4 +140,23 @@ Guía completa de [@0xCodila](https://x.com/0xCodila) — setup 2030 con SDK ofi
 - Decisiones sin LLM en agentes: [[Fable Orchestrator]]
 - Agente navegador con Jev: [[Browser Use]] (jev-ultrafast: 7 s por $0.0039)
 
+
+## Comparar con LLMs sin reconstruir el esquema
+
+[System One Adapter](https://github.com/typesafe-ai/system-one-adapter-python) es un adaptador del API `system_one` de `typesafe_sdk`: conserva preguntas tipadas y devuelve una subclase de `SystemOneResponse`, pero consulta OpenAI, Anthropic o Gemini en vez de TypeSafe. El mismo archivo de preguntas permite comparar coste, latencia y respuestas sin reescribir toda la integración. No convierte el LLM en Jev ni prueba equivalencia de precisión.
+
+El README distingue modo `probabilities` (distribución por etiqueta) de `discrete` (un único valor). La normalización puede forzar suma 1 de una distribución inválida, pero no hace que esté calibrada. Una salida tipada válida no demuestra corrección factual ni una confianza comparable entre modelos. Las cifras 448 frente a 1018 tokens del hilo son un ejemplo del autor, no un benchmark general.
+
+Soporta sync/async, salidas estructuradas nativas o JSON validado en cliente y reintentos correctivos ante estructura malformada. `usage` suma tokens de reintentos y latencia; `debug` conserva llamadas, mensajes y respuestas. Revisar esos registros antes de compartirlos: pueden contener los datos enviados al proveedor. Rechazos del proveedor y generaciones incompletas producen error, no un resultado que se deba tratar como decisión fiable. No deducir que `store=False` equivale a retención cero bajo todas las políticas del proveedor.
+
+## Auditoría SEO verificable con jev-seo
+
+[jev-seo](https://github.com/AgriciDaniel/jev-seo) combina rastreo y 52 reglas enlazadas a Search Central con juicios Jev por página. Genera PDF, XLSX y Markdown desde un `audit.json`. Es una aplicación del patrón código para hechos/ordenación y modelo para juicios, no una garantía de posicionamiento.
+
+El repositorio declara MIT, Python 3.10+, límite predeterminado de 60 páginas y auditoría parcial sin clave TypeSafe. Playwright es opcional para renderizado JS; sin él, se audita HTML bruto. PageSpeed puede tener cuotas y DataForSEO es un extra de pago en modo `--full`. El autor estima un céntimo de Jev por sitio, pero depende del alcance, tokens y tarifas. Hay topes configurables antes de cada solicitud.
+
+La repetición sobre 59 páginas dio variación media de puntuaciones≤ 0,03 según evaluación del proyecto. El segundo juez fue otro modelo, no un humano: mide consistencia, no exactitud ni impacto en tráfico. Revisar manualmente hallazgos relevantes y contrastar con Search Console/datos reales. Ver [[Auditoría SEO]], [[OpenSEO]] y [[Entity Map con Screaming Frog MCP]].
+
+Fuentes de difusión de esta ampliación: hilos Mnimiy y GitHubDaily recogidos en Cola. Las capacidades se contrastaron con READMEs de ambos repositorios el 14-oct-2026; no se usa la etiqueta «oficial» del directorio externo como prueba.
+
 # #modelos #opensource #agente #seo #3d #video

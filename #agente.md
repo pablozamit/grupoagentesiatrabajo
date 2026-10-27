@@ -40,6 +40,7 @@ Notas sobre agentes de IA:
 - [[Orca]] - IDE agéntico: ejecuta múltiples agentes de código en worktrees paralelos (33.2k ⭐)
 - [[Noqa]] - Agente de QA visual para móviles y juegos (desde screenshots, sin localizadores)
 - [[Landingfolio MCP]] - MCP con 4.600+ componentes reales de landing pages para dar buen gusto de diseño a tu agente
+- [[Checklist Design]] - Checklists de UI/UX con Agent Skill, Figma Skill y plugin para revisar el trabajo del agente
 - [[TencentDB Agent Memory]] - Hub de memoria local de Tencent: Chat Memory, Skills, Wiki y CodeGraph para equipos de agentes (9.8k ⭐)
 - [[Comp AI CRM]] - CRM open source basado en un agente de investigación durable (agente = producto)
 - [[Skill Recorder]] - Microsoft: haz una tarea una vez y genera un SKILL.md reutilizable para agentes (Scout y 365 Copilot)
@@ -100,4 +101,103 @@ Notas sobre agentes de IA:
 - [[Mint 3D]] - Tu agente genera assets 3D sin salir del proyecto: MCP remoto + plugin Blender, foto→asset en minutos
 - [[Blender MCP Enhanced (bpy-dev)]] - MCP de Blender mejorado para agentes: ejecución headless sobre .blend, backend bpy y benchmark BlenderBench
 
+- [[Devin]] - El agente de código de Cognition: vincula tu plan ChatGPT (Go/Plus/Pro) para pagar el uso de modelos GPT con él
+
+- [[Gentle Dot]] - Asistente personal open source que vive en tu escritorio: una conversación continua con memoria (Engram), control de tu Mac con aprobaciones y voz local
+- [[Engram]] - Memoria persistente para agentes de IA (7.1k ⭐): un binario Go + SQLite, vía MCP con 14 agentes
+
+- [[OpenDots]] - Plantilla open source de CopilotKit para coworkers de IA always-on: Dots con ordenador propio, aprobaciones human-in-the-loop y Slack (matiz: requiere CopilotKit Intelligence)
+
+- [[OpenSEO]] - Suite de SEO con MCP propio (Claude, Codex...): site audits con renderizado JS, keywords, backlinks y AI visibility
+
+- [[OpenPencil]] - Editor de diseño que abre .fig con IA integrada: MCP server e integración con Claude Code, Codex y Gemini CLI
+
+- [[LM Studio]] - Corre modelos locales en tu PC (chat + API local OpenAI-compatible) y Bionic, su agente local para trabajo y código
+
+- [[headroom]] - Compresión local de contexto para agentes (librería/proxy/MCP/wrap): 60-95% menos tokens según el autor
+
+
+- [[REA (Reverse Engineer Anything)]] - MCP de ingeniería inversa: el agente inspecciona apps sin código fuente (binarios, Electron, .NET, web) y reconstruye features
+
+- [[Hermes Skills Hub]] - Catálogo oficial de skills instalables para Hermes Agent (691 skills)
+- [[Caduceus (Hermes Desktop)]] - Modo de orquestación multi-agente en paralelo para Hermes (fork reversible)
+- [[10 Hacks de Hermes Agent (sistema 24/7)]] - 10 configuraciones (cron, /goal, subagentes, skills, webhooks, perfiles) para operación 24/7
+- [[Hermes Dreaming]] - automejora por fases para Hermes Agent: propone cambios, el humano aprueba, luego escribe
+- [[Bops]] - Agentes para operaciones de negocio con ordenador, email y llamadas
+
+- [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
+
+- [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
+
+- [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
+
+- [[xurl]] - CLI oficial de X, OAuth y perfiles
+
+- [[Vugola]] - Vídeo largo a clips; créditos y revisión
+
+- [[Postiz]] - Calendario multicanal vía API/CLI/MCP
+
+- [[ScrapeGraphAI]] - Páginas a JSON; librería MIT o API
+
+- [[llama.cpp]] - Motor local y servidor; contexto/KV y forks verificables
+
+- [[agentmemory]] - Memoria persistente híbrida para agentes, bajo presupuesto y con límites
+
+- [[DeepGEMM]] - Kernels CUDA para infraestructura propia; no descuento de API
+
+- [[Mobile MCP]] - Control móvil local, accesibilidad/capturas y resultado verificado
+
+- [[Phonon-2]] - Dictado local/ASR: probar datos propios, nombres y ruido
+
+- [[Obscura]] - Motor de navegador headless en Rust para agentes: ~70MB, CDP nativo, drop-in de Puppeteer/Playwright
+- [[Browser Harness]] - Harness de navegador autorreparable: CDP directo, sin framework, drop-in de Claude Code/Codex
+- [[Readwise CLI]] - Tu biblioteca de Readwise (highlights, artículos, PDFs) desde la terminal, para ti y tus agentes (+ MCP beta)
+- [[Roast Room]] - Skill de Claude: somete tu idea a un consejo de 7 sub-agentes y devuelve veredicto
+- [[GLM-5.3-CYBERSECURITY]] - Modelo de texto abliterated para seguridad ofensiva (MoE, FP8)
+- [[Field Theory]] - CLI que sincroniza tus bookmarks de X a local (SQLite FTS5 + BM25) para que tu agente los consulte
+- [[Rube]] - Servidor MCP universal de Composio: un endpoint para 500+ apps con meta-tools que ahorran contexto
+- [[Nebula]] - Red overlay / mesh VPN open source (Slack): conecta tus máquinas y servidores sin exponerlos
+- [[tailcat]] - netcat sobre el data plane de Tailscale, sin cuenta ni control plane (BSD-3-Clause)
+- [[Nanostack]] - Skills de workflow para agentes de código: plan → review → security → qa → ship con artefactos y gates
+- [[Instabox]] - Ordenadores en la nube para agentes de IA: 4 vCPU/8 GB en <1s, snapshots y URLs publicas (beta)
+- [[Treg People Search]] - Busqueda de personas open source para Claude: $0,0089/lead en vez de suscripciones de ~$600
+- [[Monid]] - "El OpenRouter de las herramientas de agentes": una conexion a ~1.800 APIs con pago por llamada
+- [[Cyberstrike]] - Agente de IA open source para seguridad ofensiva: pentesting autonomo desde la terminal
+- [[Refactoring UI Skill]] - Skill que empaqueta el libro Refactoring UI para que el agente arregle interfaces feas
+- [[Designing AI Agents (Jia Huang)]] - Libro (Manning) que mapea los patrones que todos redescubren al disenar agentes
+
+
+- [[open-grokbot]] - Reconstruccion open source del Grok Bot de escritorio (0.66.0) via ingenieria inversa con REA/Wakaru: 540 archivos JS portados a TypeScript
+- [[Claude Commerce Agents]] - Blueprint open source de Anthropic para agentes de comercio (shopping + merchant), con guardrails y aprobacion humana
+- [[Magnitude]] - Motor de inferencia open source que ajusta sus kernels a tu hardware (2x Ollama): corre modelos locales y los conecta a tu harness
+
+- [[Vercel ChatSDK]] - Empaqueta la mecánica de chat con agentes de Vercel, agnóstica de la base agéntica (cifra de atribución)
+- [[numasec]] - Agente open source de pentesting desde la terminal: encadena nmap/sqlmap/nuclei con runbooks y contexto persistente
+- [[Blackstorm Security]] - Biblioteca gratuita de investigación ofensiva (kernel Windows, V8, Hyper-V, CVEs reales)
+
+- [[past.dev]] - Memoria a largo plazo para agentes vía API: evidencia fechada, audiencias por identidad y MCP (#1 en BEAM)
+- [[Reason Network]] - Red entre pares para que tus agentes de código se pidan trabajo unos a otros
+- [[SPACE (Perplexity)]] - Plataforma de sandbox con microVMs Firecracker para ejecutar el código de tus agentes (Apache 2.0)
+
+- [[Edición de vídeo con IA (10 repos open source)]] - Repos de edición de vídeo con IA; varios integran Agent Skills y MCP (Herk Edit Kit para Codex/Claude Code, OpenChatCut, FireRed-OpenStoryline)
+- [[Frametell]] - Agente director que convierte ideas o material en vídeos explicativos narrados (1080p); local-first y con cualquier modelo
+- [[Pomerado]] - Convierte cualquier web en una API o MCP en minutos: la vía de "traducir la web" para agentes (open source, MIT)
+- [[OpenClaw Supermemory]] - Memoria a largo plazo para agentes OpenClaw: recuerda, recupera contexto y construye un perfil persistente (nube de Supermemory)
+- [[claude-peers MCP]] - Deja que tus instancias de Claude Code se encuentren y se manden mensajes al instante por un broker local
+
+- [[Agente de clipping (Hermes + Vugola + Postiz)]] - Pipeline de clipping (Vugola -> Postiz) orquestado por Hermes Agent desde un mensaje de Telegram
+- [[Laboratorio de IA local (2 GPU)]] - Laboratorio privado de modelos locales (llama.cpp + llama-swap) como infraestructura para agentes
+
+
+- [[MaxClaw]] - OpenClaw gestionado por MiniMax: agente persistente en Telegram, WhatsApp, Discord y Slack sin VPS ni Docker
+- [[Icarus]] - Plugin de memoria y reemplazo de modelo para Hermes: notas en Markdown, memoria compartida y ajuste fino del propio agente
+
+- [[DeerFlow]] - Super agent harness open source de ByteDance: sub-agentes, memoria (DeerMem) y sandboxes para tareas de minutos a horas (MIT, 84k ⭐)
+- [[Blender Skills (EL4CTEO)]] - 22 skills que dan a los agentes de código un flujo de producción 3D completo en Blender
+- [[Hermes Agent]] - Agente open source de Nous Research; su v0.6.0 (mar 2026) añade perfiles multi-instancia, modo servidor MCP y cadena de proveedores de respaldo
+- [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic Games: Claude controla Unreal Editor mediante MCP y 30+ toolsets
+- [[Cloudroom]] - Plataforma open source para ejecutar agentes de código en sandboxes locales o cloud
+- [[Webframe]] - Navegador headless ligero para ejecutar una página como un programa
+- [[Phone Use]] - Categoría de APIs/MCP para que agentes operen teléfonos, aún por verificar
+- [[Coolify]] - Despliegue autohospedado de apps desde GitHub y Docker
 # #agente

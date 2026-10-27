@@ -29,6 +29,7 @@ Notas sobre diseño UI/UX:
 - [[Colección Csaba Kissi]] - 5 herramientas open source: 7000+ iconos SVG, cursores CSS, inspiración de diseño, componentes UI animados
 - [[#gamificacion]] - Mecánicas de gamificación y retención de usuarios
 - [[Landingfolio MCP]] - 4.600+ componentes de landing pages expuestos como MCP para que tu agente diseñe con buen gusto
+- [[Checklist Design]] - Checklists de UI/UX para websites, apps, componentes y flujos; incluye Agent Skill, Figma Skill y plugin
 - [[Koboyo Icons]] - 71.000+ iconos SVG hand-drawn gratis, sin atribución (currentColor, búsqueda por sinónimos)
 - [[scroll-world]] - Landing pages de scroll con cámara volando entre escenas 3D generadas por IA
 - [[oil-motion]] - Skill que genera animaciones interactivas web (scroll, mouse, touch) a partir de video IA
@@ -49,5 +50,18 @@ Notas sobre diseño UI/UX:
 - [[Diseño con Codex (receta Vox)]] - Imagegen primero + trío Impeccable/21st/UX Audit + línea UX/DX/AX (374k views, con disputa Images 2.5)
 - [[Rare UI y ObsidianUI]] - Componentes React animados open source vía shadcn CLI, con AGENTS.md, llms.txt y MCP para agentes
 - [[Game UI Database (blog gratis)]] - Referencia de UI en juegos (76k pantallas) + tutoriales gratis anti-cursos-$900
+
+- [[OpenPencil]] - Editor de diseño open source (MIT, 8.9k ⭐) que abre .fig: IA con 100+ tools, CLI/MCP, variantes y export JSX/Tailwind
+
+- [[OpenDesign]] - Espacio de diseño con IA open source (Apache 2.0) encima de Codex/Claude Code; app gratis, cloud de pago
+- [[Beatdeck]] - Presentaciones React por escenas y pasos, offline, con skill y verificación visual
+
+- [[open-slide]] - Canvas, inspector y presentación; exportar no garantiza fidelidad
+- [[Refactoring UI Skill]] - Lleva los principios del libro Refactoring UI al agente para mejorar interfaces
+
+
+- [[Handraw-Style Skill]] - Galeria de estilos de dibujo a mano: eliges un numero y genera el prompt de imagen bilingue
+- [[MOSS-Image]] - Modelo 5B open source para visuales con texto y layout preciso: pósters e infografías con cajas JSON
+- [[AI Design Skills (elayadesign)]] - Skills MIT para Claude Code, Cursor y Codex: landing-page-design y design-to-motion
 
 # #diseno

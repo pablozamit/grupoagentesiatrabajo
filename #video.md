@@ -23,4 +23,20 @@ Notas sobre video:
 - [[Tesseract]] - Premiere/After Effects para agentes (Mirage/Captions): motor local gratis, proyecto editable nativo (no HTML)
 - [[Reelbench skills]] - Aprende descomponiendo: tabla por tomas con 15 quality gates + reporte HTML interactivo de un archivo
 
+- [[reel-cli]] - Montaje rápido de fotos y clips en reels verticales con FFmpeg, música y collages
+
+- [[Argil Director]] - De brief a storyboard editable y película; producción por créditos
+
+- [[Vugola]] - Vídeo largo a clips; créditos y revisión
+
+- [[Screenwriting Skills]] - Skills de guion (estructura, personajes, dialogo) para pipelines de video con agentes
+
+- [[Edición de vídeo con IA (10 repos open source)]] - Recopilación de 10 repos de edición de vídeo con IA (OpenChatCut, AutoClip, AutoSubs, FunClip, LatentSync...)
+
+- [[Frametell]] - Agente director que convierte ideas o material en vídeos explicativos narrados (1080p, storyboard aprobable, voz y subtítulos)
+
+- [[Agente de clipping (Hermes + Vugola + Postiz)]] - Recorte, subtítulos y publicación multiplataforma de clips con un agente
+- [[Wan (Alibaba)]] - Familia de vídeo IA de Alibaba: Wan2.1/2.2 open source (Apache-2.0, corre en GPU de consumo) y Wan 2.5/2.6 con audio nativo vía API
+- [[Goku (ByteDance)]] - Modelos de imagen y vídeo de HKU y ByteDance (rectified flow, CVPR 2025); referencia de investigación
+
 # #video

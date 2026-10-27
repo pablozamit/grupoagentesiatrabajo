@@ -167,12 +167,62 @@ O en la configuración del agente, establece `computer_use: true` en las skills 
 2. Nivel 3 y 4 tienen curva de aprendizaje real (Docker, VPS, SSH)
 3. El modelo importa: Hermes hace a un buen modelo mejor, pero no hace magia con modelos pequeños
 
+## Orquestación multi-agente (Caduceus)
+
+**[[Caduceus (Hermes Desktop)]]** (fork de @OnlyTerp, jun 2026) añade un modo de orquestación: agentes en paralelo sincronizados con cualquier modelo, motor de workflows (Loom), auto-router al modelo más barato por subtarea y vista en vivo del despliegue.
+
+## Skills Hub
+
+El **[[Hermes Skills Hub]]** (jun 2026) es el catálogo oficial de skills instalables para Hermes: 691 skills de varios registros, con escaneo de seguridad (Skills Guard) antes de cada instalación.
+
+## v0.6.0 (v2026.3.30): instancias múltiples y modo servidor MCP
+
+La release **v0.6.0** (30 de marzo de 2026), que Nous Research presenta como la «release de multi-instancia», añade:
+
+- **Perfiles (multi-instancia)**: varias instancias de Hermes aisladas desde una misma instalación (`hermes profile create/list/switch/delete/export/import/rename`). Cada perfil tiene su propio config, memoria, sesiones, skills y servicio de gateway, con bloqueo de tokens para que dos perfiles no compartan credenciales de bot.
+- **Modo servidor MCP**: `hermes mcp serve` expone conversaciones, sesiones y adjuntos a cualquier cliente compatible con MCP (Claude Desktop, Cursor, VS Code), por stdio o Streamable HTTP.
+- **Contenedor Docker oficial** para CLI y gateway.
+- **Cadena de proveedores de respaldo** (`fallback_providers`): si el proveedor principal falla, prueba el siguiente de la lista.
+- **Nuevas plataformas de mensajería**: Feishu/Lark y WeCom; Telegram en modo webhook con gateo por mención o regex; Slack multi-workspace por OAuth.
+- **Exa** como backend alternativo de búsqueda web (junto a Firecrawl y DuckDuckGo).
+- **Skills y credenciales en backends remotos**: montar directorios de skills y ficheros de credenciales dentro de contenedores Modal y Docker.
+
+Datos tomados del [changelog oficial de v0.6.0](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.30), difundido por [@NousResearch](https://x.com/NousResearch/status/2038688578201346513). Ver también [[Hermes Skills Hub]], [[Caduceus (Hermes Desktop)]] y [[Ajustes Avanzados de Hermes Agent]].
+
 ## Configuración avanzada
 
-Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 ajustes clave (memoria persistente, zona horaria, auto-descubrimiento de skills, contexto modular, profundidad de memoria, enrutamiento de outputs, notificaciones, encadenamiento, consolidación y recuperación de fallos). Ver [[Ajustes Avanzados de Hermes Agent]].
+Para llevar a Hermes de "chat con IA" a **operación autónoma 24/7**, hay 10 ajustes clave (memoria persistente, zona horaria, auto-descubrimiento de skills, contexto modular, profundidad de memoria, enrutamiento de outputs, notificaciones, encadenamiento, consolidación y recuperación de fallos). Ver [[Ajustes Avanzados de Hermes Agent]] y [[10 Hacks de Hermes Agent (sistema 24/7)]]. Para automejora revisable del propio agente: [[Hermes Dreaming]].
 
 ## Receta: loop diario de contenido en X (cerrado)
 
 Vía [@boringmarketers](https://x.com/boringmarketers): arma a Hermes con **X API** (top creators + trending de tu nicho), una **skill** que extrae hooks/formatos/temas que funcionan, **postbridge** para publicar tras tu OK y un **cron diario**. Hermes redacta una pieza fresca al día, te la comparte y la publica cuando dices "go" — research→publish en loop cerrado.
+
+## Obsidian como contexto de investigación
+
+La [skill oficial de Obsidian](https://hermes-agent.nousresearch.com/docs/user-guide/skills/bundled/note-taking/note-taking-obsidian) permite leer, buscar, crear y editar notas Markdown y añadir wikilinks directamente en el sistema de archivos. Documenta `OBSIDIAN_VAULT_PATH` para localizar la bóveda. Esto no equivale a cargar toda la bóveda automáticamente en cada conversación: hay que indicar qué notas debe buscar y leer.
+
+Un flujo útil es pedir un resumen periódico que conecte capturas recientes con notas antiguas, cite títulos concretos, contraste afirmaciones incompatibles y proponga una acción. Es el caso de uso descrito en el [artículo de DamiDefi](https://x.com/DamiDefi/status/2060653619116974089), del 30 de mayo de 2026. Sus resultados (23 archivos leídos y conexiones que no había visto) son experiencias del autor, no un benchmark ni una garantía.
+
+### Matices del tutorial
+
+El artículo propone `hermes memory setup --provider obsidian --path ...` y afirma que existe un proveedor de memoria Obsidian de primera clase. La [documentación actual de proveedores de memoria](https://hermes-agent.nousresearch.com/docs/user-guide/features/memory-providers) no confirma ese comando para Obsidian. La vía verificada aquí es la skill de acceso a archivos; no se debe copiar el comando del artículo como instalación validada.
+
+- Empezar por una carpeta acotada y comprobar lecturas y cambios antes de ampliar permisos.
+- Definir en `SOUL.md` las preguntas de investigación, el criterio de fuentes y qué contradicciones buscar. Es contexto de trabajo, no prueba de que los patrones encontrados sean ciertos.
+- Probar un resumen manual antes de programarlo. Pedir referencias a notas evita un resumen genérico, pero hay que revisar las conexiones.
+- El artículo propone subir todo `~/.hermes/` a un repo privado. No hacerlo a ciegas: esa carpeta puede contener credenciales, sesiones y datos privados. Excluir secretos y usar una copia selectiva.
+
+Ver [[Ajustes Avanzados de Hermes Agent]], [[Hermes Dreaming]] y [[RAG]]. Difusión: [tuit con vídeo](https://x.com/DamiDefi/status/2060755673085014342); el vídeo es un meme sin voz ni instrucciones técnicas.
+
+
+
+## Conectar X y un flujo de clips
+
+[[xurl]] es el CLI usado por la skill social de X: app, OAuth y cuenta son una conexión separada del LLM. El flujo [[Vugola]] → [[Postiz]] conecta recorte/subtítulos y distribución; Hermes coordina, pero hay que revisar derechos, contenido y cuenta destino. El artículo comercial no prueba ingresos ni autoriza publicar sin límites.
+
+
+## Memoria externa revisable
+
+[[agentmemory]] ofrece integración como memory provider, con captura por hooks y recuperación bajo presupuesto. No es «memoria infinita»: revisar cobertura, retención, proveedores de embeddings y calidad de recuperación. Sus benchmarks propios no garantizan el mismo ahorro en todos los flujos.
 
 # #agente #vibecoding #contenido

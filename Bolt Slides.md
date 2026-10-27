@@ -42,4 +42,8 @@ Cada color, tipografía, radio y sombra vive en `src/styles/tokens.css`. Cambiar
 - [bolt.fyi/agent-slides](https://bolt.fyi/agent-slides) — repo open source
 - [GitHub: stackblitz/bolt-slides](https://github.com/stackblitz/bolt-slides)
 
+## Alternativa por escenas y pasos
+
+[[Beatdeck]] organiza la charla por escenas y beats deterministas con recursos locales y pruebas de cada estado. Encaja cuando importa controlar el ritmo del ponente; no es un PPTX convencional ni un layout responsive.
+
 # #diseno #web #presentaciones #agente

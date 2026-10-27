@@ -18,6 +18,14 @@ En un año dejará de ser ventaja y será **table stakes**. Quien lo construya e
 - **Los frontier te lo comerán** (Deniss Alimovs): cuando vean tracción en enterprise, ofrecerán esto out-of-the-box
 - **Actualización autónoma** (Krishna): el sistema debe mantenerse solo; manualmente es imposible
 
+## MCP a escala: descubrimiento no significa permiso
+
+El [artículo de identidad de Uber](https://www.uber.com/us/en/blog/solving-the-agent-identity-crisis/) describe MCP Gateway como punto de autenticación, autorización y redacción antes de acceder a servicios. La cadena de actores conserva quién inició el trabajo y qué agentes intervinieron: una identidad técnica genérica no basta para atribuir efectos.
+
+El [artículo técnico de octubre, consultado en una copia](https://nitter.cf/UberEng/article/2106071967619322330), separa registro/control y proxy/ejecución. AutoCrawler deriva definiciones de APIs y consulta servidores nativos, pero registra herramientas deshabilitadas: el equipo propietario debe revisarlas y activarlas. Omni MCP descubre servidor, herramientas y esquema antes de ejecutar, sin cargar todo el catálogo en el contexto. Las cifras de más de 800 servidores/5.000 herramientas son las comunicadas por Uber, no un objetivo para cualquier empresa.
+
+La lección aplicable al framework es definir propietario, permisos, trazabilidad, enrutamiento y recuperación antes de multiplicar agentes. El [hilo](https://x.com/santtiagom_/status/2106855197402378246) añade dos preguntas útiles de revisión: ¿un reintento puede repetir una mutación? ¿se puede seguir una llamada entre servicios? Son criterios de diseño, no pruebas de que el gateway elimine todos los riesgos.
+
 ## Relacionado
 
 - Memoria para agentes: [[Memanto]], [[TencentDB Agent Memory]]

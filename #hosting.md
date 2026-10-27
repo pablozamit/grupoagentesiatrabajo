@@ -15,4 +15,14 @@ Notas sobre hosting/publicar en internet:
 - [[InstaCloud]] - Cloud agent-native (YC): Postgres + storage + cómputo branchable que tu agente opera (CLI/skill/MCP, self-host con insta-oss)
 - [[Fly Sprites (Jev)]] - Un ordenador Firecracker por agente: hiberna, despierta por webhook, $30 trial, conectores sin keys
 
+- [[Maillayer]] - Plataforma de email en un contenedor, con SQLite y proveedor de envío externo
+
+- [[Nebula]] - Red overlay / mesh VPN open source: conecta servidores y máquinas de agentes sin abrir puertos
+- [[tailcat]] - Túneles WireGuard puntuales sobre los relays DERP de Tailscale, sin cuenta ni root
+- [[Instabox]] - Da a cada agente su propio ordenador en la nube (efimero, con snapshot y URL publica)
+- [[SPACE (Perplexity)]] - Sandbox de microVMs Firecracker para ejecutar código de agentes, self-hosted (Apache 2.0)
+
+
+- [[MaxClaw]] - Agente OpenClaw alojado: se despliega en segundos y evita montar VPS, Docker y claves de API
+- [[Hermes Agent]] - Su v0.6.0 añade contenedor Docker oficial y montaje de skills/credenciales en backends remotos (Modal, Docker)
 # #hosting

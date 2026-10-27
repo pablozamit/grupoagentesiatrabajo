@@ -24,4 +24,14 @@ Datos de Foundation (Ahrefs): los artículos **Pulse perdieron el 89% de tráfic
 - Menciones externas como fuente de citas: [[Menciones en listicles y reviews (GEO)]]
 - Estrategia general: [[GEO]]
 
+## Un resultado orgánico en 38 minutos no es una garantía GEO
+
+El [vídeo de Eric Siu y Cody Schneider](https://x.com/ericosiu/status/2106761268367671365), 3:09 con audio revisado, enseña una búsqueda de «Facebook ads for kitchen remodeling», un artículo en LinkedIn y una posición orgánica que el presentador atribuye a 38 minutos desde publicación. Es un caso de una query y una sesión, no una auditoría independiente de duración, demanda, tráfico o conversiones. Tampoco es el mismo desenlace que una cita en AI Overviews.
+
+El flujo mostrado toma referencias de las páginas que ya aparecen para la consulta, las pone como contexto de IA y añade, para una marca, una entrevista de unos 30 minutos al fundador con su posicionamiento. El paso útil es añadir conocimiento original del negocio y revisar hechos, atribución y texto antes de publicar, no copiar a escala lo que ya rankea.
+
+El vídeo usa Prime Indexer y advierte expresamente no usar ese enfoque de indexación en la web principal. Esa advertencia del autor no garantiza que sea seguro en otro dominio. Las [políticas de Google](https://developers.google.com/search/docs/essentials/spam-policies) cubren manipulación de enlaces, abuso de contenido a escala y abuso de reputación del sitio; contenido de terceros no es por sí mismo una infracción, importa su finalidad y valor. No recomendar pings artificiales como requisito ni prometer primer puesto permanente. Las respuestas cuestionan baja competencia, persistencia y promoción del indexador: objeciones relevantes, no datos de tráfico demostrados.
+
+Ver también: [[GEO]], [[Ryze AI]].
+
 # #seo #marketing #contenido

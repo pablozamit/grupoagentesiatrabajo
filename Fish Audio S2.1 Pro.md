@@ -18,6 +18,10 @@
 
 Fish Audio compite directamente con Eleven Labs y Cartesia en el espacio de voz sintética para agentes, doblaje y contenido. El precio agresivo (6× más barato que Eleven Labs) y el control por palabra lo hacen especialmente relevante para pipelines de video agentic y narración.
 
+## Drama 3 (oct 2026)
+
+Fish Audio presentó **Drama 3**, su nuevo modelo TTS, descrito como "el más emotivo y controlable del mundo" y **open-weight**. Permite controlar cómo debe sonar **incluso una sola palabra**, cambiar su tono y **mover la voz a mitad de frase**. El [anuncio de @FishAudio](https://x.com/FishAudio/status/2110038429199450126) cita **$52M de seed** y **15M+ usuarios**, y ofrece un mes gratis para empresas. El calificativo "más emotivo del mundo" es **marketing del fabricante** (no un benchmark independiente); el **control por palabra y el cambio de voz intra-frase** sí son capacidades concretas que continúan la línea de S2.1 Pro.
+
 ## Relacionado
 
 - [[Claude Video]] — Usa transcripción Whisper para entender videos

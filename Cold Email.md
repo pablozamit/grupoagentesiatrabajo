@@ -29,6 +29,10 @@ Por [Felix Lee](https://x.com/felixleezd) (CEO ADPList, 500 cold emails enviados
 
 **Follow-up:** no "just bumping this up". Mejor dar una salida fácil: "no worries if it's not the right fit right now".
 
-Relacionado: [[GEO]], [[Marketing Skills]], [[Zernio]] (WhatsApp API para outreach con agentes)
+Relacionado: [[GEO]], [[Marketing Skills]], [[Zernio]] (WhatsApp API para outreach con agentes), [[Scraping]] (listas de negocios locales para outbound)
+
+## Plataforma de envío autoalojada
+
+[[Maillayer]] permite gestionar campañas, secuencias y correo transaccional en tu servidor con licencia de pago único. El hosting y el proveedor de envío (como Amazon SES) se pagan aparte: sin suscripción del software no significa email gratis ni entregabilidad garantizada.
 
 # #contenido #oportunidades #web
