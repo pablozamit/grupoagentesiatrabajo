@@ -87,6 +87,7 @@ Notas sobre agentes de IA:
 - [[InstaCloud]] - Infra que tu agente opera sola: despliega, escala y clona entornos; tú solo apruebas lo crítico
 - [[OpenMausBot]] - Grok Bot open source (Apache-2.0, 2.1k ⭐): cada chat un agente real con su modelo, computer y apps (BYO logins)
 - [[OpenResearch]] - Research agents paralelos con tu modelo: worktrees aislados, árbol de experimentos git-nativo (local-first)
+- [[GPT-6.1 Terra]] - Agente de uso de ordenador (computer-use): clics, escritura, navegación por interfaces desconocidas (109.8k views)
 - [[Stagehand]] - SDK para browser agents (23.7k ⭐): APIs Playwright + self-healing, v4 con Jev (−97% LLMs, 11×)
 - [[Fly Sprites (Jev)]] - Jev en microVM Firecracker: la key nunca entra al Sprite, allowlist + checkpoints (con aviso prompt-injection)
 - [[Company Brain]] - Framework: Slack + GitHub + HubSpot en una capa de inteligencia con cerebro, fleet commander y sub-agentes (338k views)
