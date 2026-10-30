@@ -2,6 +2,7 @@
 
 Notas sobre herramientas y proyectos open source:
 
+- [[Zero Breach Toolkit]] - Chequeo offline y read-only de rastros de spyware mercenario (Pegasus, Predator, Graphite, Candiru) en PC/Mac/Linux, Android e iPhone backups (Apache-2.0, 3,7k ⭐)
 - [[HyperFrames]] - Framework open source de HeyGen para crear vídeos desde HTML (Apache 2.0, 37.7k ⭐)
 - [[PixelRAG]] - RAG visual open source del Berkeley SkyLab (Apache 2.0, 7.4k ⭐)
 - [[TencentDB Agent Memory]] - Hub de memoria local para agentes (MIT, 9.8k ⭐)
