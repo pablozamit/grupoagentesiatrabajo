@@ -174,6 +174,7 @@ Notas sobre agentes de IA:
 - [[Vercel ChatSDK]] - Empaqueta la mecánica de chat con agentes de Vercel, agnóstica de la base agéntica (cifra de atribución)
 - [[numasec]] - Agente open source de pentesting desde la terminal: encadena nmap/sqlmap/nuclei con runbooks y contexto persistente
 - [[Blackstorm Security]] - Biblioteca gratuita de investigación ofensiva (kernel Windows, V8, Hyper-V, CVEs reales)
+- [[Zero Breach Toolkit]] - Chequeo offline y read-only de rastros de spyware mercenario (Pegasus, Predator, Graphite, Candiru) en PC, Android e iPhone backups (Apache-2.0, 3,7k ⭐)
 
 - [[past.dev]] - Memoria a largo plazo para agentes vía API: evidencia fechada, audiencias por identidad y MCP (#1 en BEAM)
 - [[Reason Network]] - Red entre pares para que tus agentes de código se pidan trabajo unos a otros
