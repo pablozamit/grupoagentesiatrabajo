@@ -4,11 +4,11 @@
 
 ## Cómo se paga: saldo, no suscripción
 
-- No hay suscripción: se añade saldo ("top-up") desde 5 $, cada recarga dura **365 días** y Sume paga la comisión de la tarjeta (una recarga de 50 $ son 50 $ de saldo).
+- No hay suscripción: se añade saldo ("top-up") desde 5 USD, cada recarga dura **365 días** y Sume paga la comisión de la tarjeta (una recarga de 50 USD son 50 USD de saldo).
 - Todo (Studio, el agente, la API, la CLI y el MCP) gasta del **mismo saldo en dólares** del workspace.
 - El precio de cada trabajo se reserva al enviarlo y se liquida al terminar; **si una generación falla, se devuelve el saldo**.
-- El precio de cada modelo es por segundo de vídeo o por imagen y figura en su catálogo público. Ejemplos de su página de precios (noviembre 2026): Seedance 2.5 a 480p, 0,1028 $/segundo (~0,41 $ por clip de 4 s); Nano Banana 2.1, 0,0336 $/imagen. Los precios son variables y conviene comprobarlos en la web antes de calcular costes.
-- La concurrencia depende de lo recargado: 25 $ en 28 días permite 10 generaciones a la vez; 100 $, 20; 1.000 $, 40.
+- El precio de cada modelo es por segundo de vídeo o por imagen y figura en su catálogo público. Ejemplos de su página de precios (noviembre 2026): Seedance 2.5 a 480p, 0,1028 USD/segundo (~0,41 USD por clip de 4 s); Nano Banana 2.1, 0,0336 USD/imagen. Los precios son variables y conviene comprobarlos en la web antes de calcular costes.
+- La concurrencia depende de lo recargado: 25 USD en 28 días permite 10 generaciones a la vez; 100 USD, 20; 1.000 USD, 40.
 
 ## Qué incluye
 
