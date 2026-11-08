@@ -16,4 +16,7 @@ Notas sobre bases de datos:
 
 - [[Gemini Embedding 2]] - Embeddings multimodales con dimensiones recortables (3.072, 1.536, 768) para recuperar texto, imagen, audio y vídeo con una sola consulta
 - [[Icarus]] - Memoria de Hermes como notas Markdown compartidas entre instancias, exportable a pares de entrenamiento
+
+- [[Stack Cloudflare para un SaaS pequeño]] - Workers, D1, R2 y correo en un stack compacto.
+
 # #basededatos

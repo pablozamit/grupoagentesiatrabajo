@@ -9,4 +9,7 @@ Notas sobre ciencia:
 
 - [[Universal-DeepSeek-OCR-2]] - OCR vision-lenguaje portable: DeepSeek-OCR-2 en CPU, MPS y CUDA (Apache-2.0, ~3B)
 
+
+- [[RadCheck]] - Proyecto de investigación para detectar contradicciones textuales en informes radiológicos.
+
 # #ciencia

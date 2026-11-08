@@ -64,4 +64,8 @@ Notas sobre diseño UI/UX:
 - [[MOSS-Image]] - Modelo 5B open source para visuales con texto y layout preciso: pósters e infografías con cajas JSON
 - [[AI Design Skills (elayadesign)]] - Skills MIT para Claude Code, Cursor y Codex: landing-page-design y design-to-motion
 
+
+- [[Arrow 2]] - Vectoriza imágenes rasterizadas como SVG editable.
+- [[Skill de diseño de interfaces (material parcial)]] - Pista de una skill de diseño aún no publicada.
+
 # #diseno

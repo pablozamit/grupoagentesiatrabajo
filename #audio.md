@@ -14,4 +14,7 @@ Notas sobre audio y sonido:
 - [[VoiceStudio]] - Alternativa open source y local a ElevenLabs: clonación de voz, doblaje y audiolibros en 646 idiomas
 
 
+
+- [[Woof (Underdog)]] - TTS compacto que puede funcionar offline en el navegador.
+
 # #audio

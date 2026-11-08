@@ -84,7 +84,7 @@ URL: [firecrawl.dev/mcp](https://firecrawl.dev/mcp)
 
 ## Plugin en OpenCode (CLI)
 
-[@firecrawl](https://x.com/firecrawl/status/2035045665777258515) anunció que Firecrawl estrena **plugin para OpenCode**: con 
+Firecrawl ofrece un **plugin para OpenCode**: con
 pm install -g firecrawl-cli el agente puede hacer *scrape*, *search* y *browse* de la web para obtener contexto en tiempo real **directamente desde la terminal**, sin escribir el cliente a mano. Es una vía de integración distinta del servidor MCP: en vez de montar un servidor, se instala el CLI y OpenCode lo usa como herramienta.
 
 ## Casos de uso habituales
@@ -103,6 +103,18 @@ pm install -g firecrawl-cli el agente puede hacer *scrape*, *search* y *browse* 
 - Activa **`waitFor`** (5.000-10.000 ms) en páginas con mucho JavaScript
 - Para datos concretos, usa `extract` con un esquema JSON en lugar de parsear markdown
 - Si necesitas investigar a fondo en varias webs, lanza el `agent` y deja que él decida
+
+
+### Alexandria: datos de personas y empresas para agentes
+
+Firecrawl Alexandria reúne proveedores de datos de personas y empresas en la misma conexión API, MCP o CLI que el agente ya utiliza para buscar y extraer información web. El agente puede descubrir las capacidades disponibles, consultar el precio en créditos y después buscar personas, enriquecer contactos o completar datos de empresa. La búsqueda de personas de Apollo aparece como gratuita; los enriquecimientos y otras operaciones consumen créditos. Algunos proveedores exigen aceptar condiciones de uso antes de la primera consulta y restringen usos concretos de los datos.
+
+Antes de usar esos registros para prospección, comprobar la coincidencia entre persona, empresa y dominio; guardar la procedencia y fecha de verificación de cargo y correo; deduplicar; y respetar las condiciones del proveedor, las solicitudes de eliminación y la base legal aplicable. Un gran número de registros o un precio bajo no demuestra exactitud ni vigencia.
+
+La publicación promocional anuncia una base de más de 250 millones de personas y 26 millones de empresas, 1.000 créditos mensuales gratuitos y un precio hasta un 88 % inferior al de Clay. Son cifras comerciales; la conversación no aporta una comparación independiente, con el mismo conjunto de datos y el mismo flujo de enriquecimiento, que las valide. Revisar el catálogo y el coste por operación antes de presupuestar.
+
+- [Paquete de enriquecimiento de personas y empresas](https://www.firecrawl.dev/changelog/alexandria-people-enrichment)
+- [Catálogo de proveedores de Alexandria](https://alexandria.firecrawl.dev/providers)
 
 ## Recursos
 

@@ -128,4 +128,14 @@ Notas sobre herramientas y proyectos open source:
 - [[DeerFlow]] - Super agent harness open source de ByteDance (MIT, 84k ⭐): sub-agentes, memoria y sandboxes para investigación, código y creación
 - [[Blender Skills (EL4CTEO)]] - Paquete MIT de 22 skills de Blender 5.2 para agentes de código (185 ⭐)
 - [[Unreal Engine Skills para Claude Code]] - Plugin MIT de Epic Games para controlar Unreal Editor desde Claude Code por MCP
+
+- [[DeepSeek-V4-Pro-Qwen3.5-9B (Heretic)]] - Modelo local 9B; revisar cuantización, memoria y runtime.
+- [[Linux y Home Assistant en Android]] - Linux de escritorio o Home Assistant sobre Android sin root.
+- [[AutoVPN]] - Proyecto de proxy sobre Tor con documentación insuficiente.
+- [[reverse-skill]] - Router de skills para análisis y pruebas de ciberseguridad.
+- [[OpenSEO]] - Plataforma SEO web y open source con MCP; combina DataForSEO, Search Console y Analytics.
+- [[Shannon]] - Pentesting agéntico activo para apps y APIs con autorización.
+- [[Warmbly]] - Outreach y gestión de buzones; self-hosting y pool de warmup tienen límites distintos.
+- [[RadCheck]] - Proyecto de investigación para detectar contradicciones textuales en informes radiológicos.
+
 # #opensource

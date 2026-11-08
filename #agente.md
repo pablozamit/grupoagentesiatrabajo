@@ -199,6 +199,14 @@ Notas sobre agentes de IA:
 - [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic Games: Claude controla Unreal Editor mediante MCP y 30+ toolsets
 - [[Cloudroom]] - Plataforma open source para ejecutar agentes de código en sandboxes locales o cloud
 - [[Webframe]] - Navegador headless ligero para ejecutar una página como un programa
-- [[Phone Use]] - Categoría de APIs/MCP para que agentes operen teléfonos, aún por verificar
+- [[Phone Use]] - Distingue el MCP de nube para teléfonos alojados del CLI local para móviles propios
 - [[Coolify]] - Despliegue autohospedado de apps desde GitHub y Docker
+
+- [[DeepSeek-V4-Pro-Qwen3.5-9B (Heretic)]] - Modelo local 9B; revisar cuantización, memoria y runtime.
+- [[Flujo de edición de vídeo con Claude Code]] - Pipeline revisable de edición asistida por agente.
+- [[reverse-skill]] - Router de skills para análisis y pruebas de ciberseguridad.
+- [[Skill de diseño de interfaces (material parcial)]] - Pista de una skill de diseño aún no publicada.
+- [[Write Like Yourself (guía de voz editorial con IA)]] - Guía editorial basada en ejemplos, correcciones y contexto.
+- [[Shannon]] - Pentesting agéntico activo para apps y APIs con autorización.
+
 # #agente

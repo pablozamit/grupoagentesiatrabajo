@@ -21,7 +21,7 @@ Notas sobre agentes y cómo orquestarlos:
 - **Memoria y aprendizaje**: [[Memanto]] (memoria persistente)
 - **Acceso a internet desde agentes**: [[Acceso a internet desde agentes]] (Firecrawl, Agent-Reach, /last30days) → cada nota individual en `#agente` y `#web`
 - **Navegación ligera**: [[Webframe]] para ejecutar páginas como programas
-- **Operar teléfonos**: [[Phone Use]] como categoría API/MCP todavía por verificar
+- **Operar teléfonos**: [[Phone Use]] distingue MCP de nube (teléfono alojado) y CLI local (móvil propio con ADB o iPhone Mirroring).
 - **Vídeo y agentes**: [[HyperFrames]]
 
 ### 🧠 Modelos e IA (10 notas)

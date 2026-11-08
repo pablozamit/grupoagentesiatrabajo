@@ -46,4 +46,7 @@ Notas sobre vibecoding:
 
 - [[claude-peers MCP]] - Tus instancias de Claude Code se descubren y se mandan mensajes al instante por un broker local (localhost + SQLite)
 
+
+- [[Flujo de edición de vídeo con Claude Code]] - Pipeline revisable de edición asistida por agente.
+
 # #vibecoding

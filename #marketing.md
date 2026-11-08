@@ -32,4 +32,7 @@ Notas sobre emprendimiento, marketing, ventas y escalado de productos para apren
 
 - [[Claude Commerce Agents]] - Blueprint de Anthropic para agentes de comercio: shopping agent + merchant agent con aprobacion humana
 
+
+- [[Warmbly]] - Outreach y gestión de buzones; self-hosting y pool de warmup tienen límites distintos.
+
 # #marketing

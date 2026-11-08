@@ -25,4 +25,8 @@ Notas sobre hosting/publicar en internet:
 
 - [[MaxClaw]] - Agente OpenClaw alojado: se despliega en segundos y evita montar VPS, Docker y claves de API
 - [[Hermes Agent]] - Su v0.6.0 añade contenedor Docker oficial y montaje de skills/credenciales en backends remotos (Modal, Docker)
+
+- [[Stack Cloudflare para un SaaS pequeño]] - Workers, D1, R2 y correo en un stack compacto.
+- [[Linux y Home Assistant en Android]] - Linux de escritorio o Home Assistant sobre Android sin root.
+
 # #hosting

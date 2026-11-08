@@ -35,4 +35,7 @@ Notas sobre videojuegos:
 - [[Unreal Engine Skills para Claude Code]] - Plugin de Epic Games para crear y probar juegos en Unreal desde Claude Code mediante MCP
 - [[Genex]] - Aplicación de escritorio para desarrollo de juegos con IA
 
+
+- [[Recursos gratuitos para Blender y 3D]] - Bibliotecas de assets; comprobar las licencias.
+
 # #juegos

@@ -54,4 +54,10 @@ Notas sobre skills instalables para agentes de IA:
 - [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic Games para controlar Unreal Editor por MCP (MIT, 30+ toolsets)
 - [[AI Design Skills (elayadesign)]] - Skills de diseño open source: landings completas y demos animadas MP4/GIF
 
+
+- [[Arrow 2]] - Vectoriza imágenes rasterizadas como SVG editable.
+- [[reverse-skill]] - Router de skills para análisis y pruebas de ciberseguridad.
+- [[Skill de diseño de interfaces (material parcial)]] - Pista de una skill de diseño aún no publicada.
+- [[Write Like Yourself (guía de voz editorial con IA)]] - Guía editorial basada en ejemplos, correcciones y contexto.
+
 # #skills

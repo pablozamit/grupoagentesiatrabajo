@@ -59,4 +59,9 @@ Notas sobre modelos de IA:
 - [[Wan (Alibaba)]] - Modelos de vídeo de Alibaba: Wan2.1/2.2 abiertos y Wan 2.5/2.6 con audio nativo
 - [[Goku (ByteDance)]] - Modelos de imagen y vídeo de ByteDance y HKU (flujo rectificado, VBench 84,85)
 
+
+- [[DeepSeek-V4-Pro-Qwen3.5-9B (Heretic)]] - Modelo local 9B; revisar cuantización, memoria y runtime.
+- [[Woof (Underdog)]] - TTS compacto que puede funcionar offline en el navegador.
+- [[RadCheck]] - Proyecto de investigación para detectar contradicciones textuales en informes radiológicos.
+
 # #modelos

@@ -39,4 +39,9 @@ Notas sobre video:
 - [[Wan (Alibaba)]] - Familia de vídeo IA de Alibaba: Wan2.1/2.2 open source (Apache-2.0, corre en GPU de consumo) y Wan 2.5/2.6 con audio nativo vía API
 - [[Goku (ByteDance)]] - Modelos de imagen y vídeo de HKU y ByteDance (rectified flow, CVPR 2025); referencia de investigación
 
+
+- [[Flujo de edición de vídeo con Claude Code]] - Pipeline revisable de edición asistida por agente.
+- [[Woof (Underdog)]] - TTS compacto que puede funcionar offline en el navegador.
+- [[Doppler de aviones como indicio en vídeos generados por IA]] - Pista contextual de audio, no detector concluyente.
+
 # #video

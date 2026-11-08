@@ -1,17 +1,23 @@
 # Phone Use
 
-**Phone Use** es la categoría de agentes que operan teléfonos reales o cloud phones mediante una API o MCP. El bookmark de [@abdullababakre](https://x.com/abdullababakre/status/2112971597648978044) presenta la idea como una API/MCP para dar a un agente su propio teléfono, con Androids y iPhones en la nube, y permitirle actuar como lo haría una persona.
+Categoría de herramientas que permiten a agentes operar teléfonos físicos, emuladores o teléfonos alojados en la nube. El modo de conexión importa: un endpoint MCP alojado no da acceso al teléfono personal del usuario.
 
-El bookmark no incluye repositorio, licencia ni URL operativa. Por tanto, esta nota conserva la propuesta como pista de investigación, no como herramienta verificada. Antes de conectar un agente habría que comprobar aislamiento, permisos, acceso a SMS y llamadas, retención de datos y controles de aprobación humana.
+## Phone Harness: MCP de nube y CLI local
+
+- **MCP de nube:** el agente se conecta por HTTPS a un teléfono alojado por Phone Harness Cloud: un iPhone dedicado o un emulador Android. Pegar la URL del MCP no da acceso al teléfono personal.
+- **CLI local:** puede controlar un iPhone personal mediante iPhone Mirroring en un Mac compatible o un Android mediante ADB. El emparejamiento, la conexión y los permisos se configuran localmente.
+
+El agente puede leer la pantalla, tocar, escribir y deslizar. La interfaz de nube también permite dispositivos guardados con aplicaciones y sesiones que pueden persistir. Antes de conectar una cuenta sensible, comprobar aislamiento entre clientes, acceso del operador, telemetría, cifrado, retención y borrado. Mantener aprobación humana para mensajes, compras, operaciones financieras y accesos con códigos SMS; no entregar credenciales innecesarias al agente.
+
+La conversación recuperada no responde en detalle a todas las preguntas de privacidad y seguridad. No presentar el servicio en la nube como control local y gratuito del móvil propio.
+
+- [MCP de Phone Harness](https://github.com/phone-harness/mcp)
+- [CLI y conexión de teléfonos propios](https://github.com/phone-harness/phone-harness)
 
 ## Relacionado
 
 - [[Mobile MCP]] — control local de simuladores y dispositivos conectados.
 - [[Baguette]] — granja headless de simuladores iOS.
 - [[WhatsApp personal para agentes de IA]] — integración no oficial con WhatsApp y sus riesgos.
-
-## Fuente
-
-- [@abdullababakre en X](https://x.com/abdullababakre/status/2112971597648978044)
 
 # #agente #contenido #productividad

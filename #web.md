@@ -85,4 +85,14 @@ Notas sobre desarrollo web:
 - [[Webframe]] - Navegador headless ligero para ejecutar páginas como programas
 - [[Coolify]] - Despliegue autohospedado para aplicaciones web
 
+
+- [[Herramientas de lectura de artículos con paywall]] - Servicios de cobertura variable para leer o archivar páginas.
+- [[OSINT y huella digital pública]] - Correlación de cuentas públicas y límites de atribución.
+- [[AutoVPN]] - Proyecto de proxy sobre Tor con documentación insuficiente.
+- [[The Hitchhiker's Guide to Online Anonymity]] - Guía de privacidad organizada por modelo de amenazas.
+- [[Cloudflare DNS para filtrar malware y phishing]] - Filtrado DNS que no sustituye un antivirus.
+- [[Privacy Guides]] - Guías comunitarias de privacidad y criterios de revisión.
+- [[Indexación y rastreo de URLs en Google Search Console]] - Qué pedir a Google y qué no permite la URL Inspection API.
+- [[Encontrar oportunidades de contenido con consultas de Search Console]] - Regex de consultas largas y límites de Search Console.
+
 # #web

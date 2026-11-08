@@ -87,4 +87,19 @@ Notas con contenido teórico y de referencia:
 - [[Laboratorio de IA local (2 GPU)]] - Montar un laboratorio de IA en casa: hardware, llama.cpp, llama-swap y qué da 32 GB de VRAM
 
 - [[Gemini Embedding 2]] - Qué cambia cuando un embedding entiende texto, imagen, audio y vídeo a la vez: límites, dimensiones y uso desde la Gemini API
+
+- [[Stack Cloudflare para un SaaS pequeño]] - Workers, D1, R2 y correo en un stack compacto.
+- [[Recursos gratuitos para Blender y 3D]] - Bibliotecas de assets; comprobar las licencias.
+- [[Arrow 2]] - Vectoriza imágenes rasterizadas como SVG editable.
+- [[Doppler de aviones como indicio en vídeos generados por IA]] - Pista contextual de audio, no detector concluyente.
+- [[Herramientas de lectura de artículos con paywall]] - Servicios de cobertura variable para leer o archivar páginas.
+- [[OSINT y huella digital pública]] - Correlación de cuentas públicas y límites de atribución.
+- [[The Hitchhiker's Guide to Online Anonymity]] - Guía de privacidad organizada por modelo de amenazas.
+- [[Cloudflare DNS para filtrar malware y phishing]] - Filtrado DNS que no sustituye un antivirus.
+- [[Privacy Guides]] - Guías comunitarias de privacidad y criterios de revisión.
+- [[Write Like Yourself (guía de voz editorial con IA)]] - Guía editorial basada en ejemplos, correcciones y contexto.
+- [[Indexación y rastreo de URLs en Google Search Console]] - Qué pedir a Google y qué no permite la URL Inspection API.
+- [[Encontrar oportunidades de contenido con consultas de Search Console]] - Regex de consultas largas y límites de Search Console.
+- [[Warmbly]] - Outreach y gestión de buzones; self-hosting y pool de warmup tienen límites distintos.
+
 # #contenido

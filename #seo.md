@@ -19,6 +19,10 @@ Notas sobre SEO y optimización para buscadores (tanto Google como buscadores de
 - [[Entity Map con Screaming Frog MCP]] - Mapa de entidades con Claude + Spider v24 (MCP nativo): canibalización y consolidación sin Python
 - [[Checklist SEO y AI SEO (Otto F. González)]] - 10 claves para que tu web aparezca en Google y en respuestas de IA (rastreo, indexación, HTML, metas, enlazado interno, keywords específicas)
 
-- [[OpenSEO]] - Suite de SEO open source con MCP para agentes: audits con renderizado JS, keywords, rank tracking y AI visibility
+- [[OpenSEO]] - Plataforma SEO open source con MCP y skills; conecta DataForSEO, Search Console y Analytics, con costes y límites según alojamiento y función
+
+
+- [[Indexación y rastreo de URLs en Google Search Console]] - Qué pedir a Google y qué no permite la URL Inspection API.
+- [[Encontrar oportunidades de contenido con consultas de Search Console]] - Regex de consultas largas y límites de Search Console.
 
 # #seo

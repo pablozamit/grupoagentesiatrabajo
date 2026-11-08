@@ -40,6 +40,8 @@ La lista es especialmente útil para **agentes que necesitan infraestructura sin
 - **Hosting estático** para desplegar lo que el agente construye ([[Vercel]], Cloudflare Pages, [[Here.Now]]).
 - **Servicios de IA** con free tier para no gastar créditos mientras pruebas ([[OpenRouter]], [[AgentRouter]], [[ZenMux AI]]).
 
+- **Cómputo para experimentar:** Simular Box ofrece una máquina en la nube que puede despertarse cuando se necesita y conectarse a un agente. Kaggle ofrece cuotas gratuitas de GPU para notebooks y experimentos de aprendizaje automático. Las cuotas y configuraciones disponibles dependen del servicio y pueden cambiar.
+
 ## Cómo usarlo
 
 - **Lee el README** en [github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) — el índice al principio te lleva directo a la categoría que necesitas.

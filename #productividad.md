@@ -49,4 +49,7 @@ Notas sobre gestión del tiempo y productividad:
 - [[MaxClaw]] - Agente persistente en tus apps de mensajería con memoria de más de 200.000 tokens, sin infraestructura propia
 - [[Superworker (antes Sheetlang)]] - Hoja de cálculo con IA (ex Sheetlang.ai, "Cursor para hojas"); hoy pivotada a análisis de ventas Shopify
 
+
+- [[Linux y Home Assistant en Android]] - Linux de escritorio o Home Assistant sobre Android sin root.
+
 # #productividad

@@ -16,4 +16,14 @@ Notas sobre investigación:
 - [[Geo-sleuth]] - Skill que sitúa dónde se tomó una foto con geometría de mapas, elevación y satélite, y enseña las pruebas
 - [[DeerFlow]] - Super agent harness de ByteDance para investigación profunda: sub-agentes, memoria y sandbox (MIT, 84k ⭐)
 
+
+- [[Doppler de aviones como indicio en vídeos generados por IA]] - Pista contextual de audio, no detector concluyente.
+- [[Herramientas de lectura de artículos con paywall]] - Servicios de cobertura variable para leer o archivar páginas.
+- [[OSINT y huella digital pública]] - Correlación de cuentas públicas y límites de atribución.
+- [[AutoVPN]] - Proyecto de proxy sobre Tor con documentación insuficiente.
+- [[The Hitchhiker's Guide to Online Anonymity]] - Guía de privacidad organizada por modelo de amenazas.
+- [[Cloudflare DNS para filtrar malware y phishing]] - Filtrado DNS que no sustituye un antivirus.
+- [[Privacy Guides]] - Guías comunitarias de privacidad y criterios de revisión.
+- [[Shannon]] - Pentesting agéntico activo para apps y APIs con autorización.
+
 # #investigacion

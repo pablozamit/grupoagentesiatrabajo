@@ -5,9 +5,14 @@ Dos repos de **skills de diseño para agentes** (MIT, instalables con `npx skill
 - **better-ui** ([jakubkrehel/skills](https://github.com/jakubkrehel/skills), 5.9k ⭐): colección que mejora interfaces por disciplinas — better-ui (radios concéntricos, alineación óptica, hit areas...), better-typography, better-colors, better-layout, better-accessibility, better-writing + `interface-review` (auditoría cruzada) y `variant` (múltiples versiones para iterar)
 - **emil-design-eng** ([emilkowalski/skills](https://github.com/emilkowalski/skills), 35.9k ⭐, 250k installs): la filosofía de diseño de Emil Kowalski (ex-Vercel/Linear) — animación con criterio (curvas, duraciones, qué animar y qué no), `review-animations`, `animation-vocabulary` (pedir animaciones con las palabras exactas) y `pick-ui-library`
 
+
+### Gestos e interacciones de arrastre
+
+La skill `/gestures` ayuda a diseñar interacciones táctiles y de arrastre con rebote elástico (*rubber banding*), sensibilidad a la velocidad y continuidad del movimiento al soltar el elemento. También aborda detalles de física de interacción aprendidos al crear componentes como Sonner y Vaul. Al implementarlos, hay que cuidar cómo convive el arrastre con el scroll y decidir los umbrales de acción teniendo en cuenta tanto la distancia como la velocidad, para evitar activaciones accidentales.
+
 ## El caso: CRM Next.js en 2 días
 
-Marcel ([@marcelkargul](https://x.com/marcelkargul), 1.4M views) construyó un **dashboard CRM completo en Next.js en ~2 días** con Claude Fable 5.1 + estas dos skills ([demo viva](https://sales-crm-kargulstudio.vercel.app)).
+Un caso práctico documenta la construcción de un **dashboard CRM completo en Next.js en ~2 días** con Claude Fable 5.1 y estas dos skills ([demo viva](https://sales-crm-kargulstudio.vercel.app)).
 
 ## Matices honestos del propio hilo
 
@@ -23,7 +28,7 @@ npx skills@latest add emilkowalski/skills
 ## Recursos
 
 - Repos: [jakubkrehel/skills](https://github.com/jakubkrehel/skills) · [emilkowalski/skills](https://github.com/emilkowalski/skills)
-- Caso: [@marcelkargul en X](https://x.com/marcelkargul)
+- Demo: [CRM en Next.js](https://sales-crm-kargulstudio.vercel.app)
 
 ## Relacionado
 

@@ -1,6 +1,6 @@
 # El vídeo es código
 
-**"El vídeo es código"** es un artículo de [Borja Perez](https://x.com/borjaperfra) que documenta su proceso completo para crear vídeos de producto con agentes de IA, usando **Remotion** (React renderizado a MP4 fotograma a fotograma). El resultado: un vídeo profesional de 88 segundos en menos de una hora, con 9 iteraciones.
+**"El vídeo es código"** documenta un proceso para crear vídeos de producto con agentes de IA, usando **Remotion** (React renderizado a MP4 fotograma a fotograma). El resultado descrito: un vídeo de 88 segundos en menos de una hora, con 9 iteraciones.
 
 ## El concepto clave
 
@@ -39,6 +39,19 @@ El agente no puede ver ni oír el vídeo, pero puede medir:
 ## Resultado
 
 El proceso completo llevó ~40 minutos de atención humana (mientras trabajaba en otros proyectos). Con un editor tradicional, llevaría días. Al final creó una **skill reutilizable** (`launch-video-kit`) para que el siguiente vídeo lleve la mitad de iteraciones.
+
+
+### Skills oficiales de Remotion para agentes
+
+Remotion mantiene skills que enseñan a los agentes sus prácticas recomendadas, a crear proyectos y composiciones, escribir el marcado React, previsualizar en Studio, renderizar, añadir subtítulos y consultar o actualizar la documentación. Se instalan con:
+
+```bash
+npx skills add remotion-dev/skills
+```
+
+Para acelerar la revisión, pedir primero tres o cuatro fotogramas representativos como imágenes fijas y comprobar texto cortado, elementos fuera del encuadre y errores de composición antes del render completo. Las imágenes fijas no sustituyen la revisión del vídeo final, sus transiciones y su audio.
+
+Repositorio oficial: [remotion-dev/skills](https://github.com/remotion-dev/skills).
 
 ## Relacionado
 

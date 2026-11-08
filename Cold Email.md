@@ -6,7 +6,7 @@ Es la base del outbound B2B: prospección, partnerships, ventas, reach out para 
 
 ## Consejos prácticos
 
-Por [Felix Lee](https://x.com/felixleezd) (CEO ADPList, 500 cold emails enviados).
+Caso práctico: un CEO de una plataforma de networking profesional describe haber enviado 500 correos en frío.
 
 **La regla de oro:** el trabajo completo de un cold email es hacer que una persona real sienta que lo escribiste solo para ella.
 
@@ -34,5 +34,7 @@ Relacionado: [[GEO]], [[Marketing Skills]], [[Zernio]] (WhatsApp API para outrea
 ## Plataforma de envío autoalojada
 
 [[Maillayer]] permite gestionar campañas, secuencias y correo transaccional en tu servidor con licencia de pago único. El hosting y el proveedor de envío (como Amazon SES) se pagan aparte: sin suscripción del software no significa email gratis ni entregabilidad garantizada.
+
+[[Warmbly]] es otra opción autoalojable: reúne campañas, buzones y CRM bajo licencia Apache-2.0. Su calentamiento local solo conecta los buzones de la misma instalación y no equivale al pool alojado compartido; comprobar las condiciones actuales antes de contar con esa función.
 
 # #contenido #oportunidades #web
