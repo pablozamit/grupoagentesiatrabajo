@@ -43,5 +43,6 @@ Notas sobre video:
 - [[Flujo de edición de vídeo con Claude Code]] - Pipeline revisable de edición asistida por agente.
 - [[Woof (Underdog)]] - TTS compacto que puede funcionar offline en el navegador.
 - [[Doppler de aviones como indicio en vídeos generados por IA]] - Pista contextual de audio, no detector concluyente.
+- [[ChatCut]] - Editor de vídeo con IA para agentes (plugin MCP); motor de render GPU anunciado, por confirmar
 
 # #video
