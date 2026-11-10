@@ -402,6 +402,12 @@ La cuenta oficial ([@HyperFrames_](https://x.com/HyperFrames_/status/21107846956
 - **Reference Any Video**: el agente puede contar tu historia en cualquier formato que le des como referencia.
 - **Brand kits**: se escanea tu web una vez (colores, tipografías y logo) y se aplican solos a los vídeos.
 
+## Reverse Any Video (noviembre 2026)
+
+HyperFrames añadió la skill `/reverse-any-video`: reconstruye cualquier archivo de vídeo (motion graphics, talking heads, acción real o metraje generado con IA) como un proyecto HyperFrames editable, verificado fotograma a fotograma contra el original. Forma parte del set de skills por defecto (`npx hyperframes skills update`).
+
+Ojo con la difusión: el post que la presentó la daba por gratuita, pero el README oficial la marca como función **HyperFrames Pro** (de pago). Lo gratuito con cuenta HeyGen es la biblioteca de medios (música, SFX, stock, TTS) ya cubierta arriba.
+
 ## Diferencia clave con otras herramientas
 
 A diferencia de herramientas como Remotion (que usan React), HyperFrames usa **HTML plano**. Esto hace que sea más fácil para un agente trabajar con él, porque los agentes ya saben escribir HTML sin necesidad de montar un proyecto React.
