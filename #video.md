@@ -44,5 +44,6 @@ Notas sobre video:
 - [[Woof (Underdog)]] - TTS compacto que puede funcionar offline en el navegador.
 - [[Doppler de aviones como indicio en vídeos generados por IA]] - Pista contextual de audio, no detector concluyente.
 - [[ChatCut]] - Editor de vídeo con IA para agentes (plugin MCP); motor de render GPU anunciado, por confirmar
+- [[REA-Video]] - Ingeniería inversa de vídeo plano a plano: detecta filmado/IA/código y da plan de réplica (Apache-2.0)
 
 # #video
