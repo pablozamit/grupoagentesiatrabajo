@@ -45,5 +45,9 @@ Notas sobre video:
 - [[Doppler de aviones como indicio en vídeos generados por IA]] - Pista contextual de audio, no detector concluyente.
 - [[ChatCut]] - Editor de vídeo con IA para agentes (plugin MCP); motor de render GPU anunciado, por confirmar
 - [[REA-Video]] - Ingeniería inversa de vídeo plano a plano: detecta filmado/IA/código y da plan de réplica (Apache-2.0)
+- [[cinetic]] - Skill que dirige películas de lanzamiento en código (Remotion o HyperFrames), con música licenciada
+- [[cinecode]] - Películas hechas con código (three.js + ffmpeg) desde Claude Code/Cursor: guion, escenas, sonido y MP4 final
+- [[Stack de vídeo con agentes (Dumble)]] - Stack 3D+vídeo: HyperFrames, Remotion skills, GSAP, video-shotcraft, motionmaxxing, Blender MCP/skills y dream-loop
+- [[Formato cartoon 65s (Dumble)]] - Formato 2.5D (personajes 2D en sets 3D, una voz, historia real): caso de 27M views y curso completo con Opus 5.5 + Blender
 
 # #video
