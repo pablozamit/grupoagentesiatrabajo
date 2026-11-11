@@ -50,4 +50,4 @@ Instala por defecto en `~/.claude/skills` y `~/.agents/skills` (esta última la 
 - [[Personajes 3D jugables desde IA]] - flujo completo de imagen a personaje jugable
 - [[Hyper3D BANG Parts Skill]] - generar modelos 3D por partes animables como skill
 
-# #skills #3d #agente
+# #skills #3d #agente #video
