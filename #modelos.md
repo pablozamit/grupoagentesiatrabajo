@@ -24,6 +24,7 @@ Notas sobre modelos de IA:
 - [[Pi en el navegador (MiniCPM5)]] - Agente de código Pi con MiniCPM5-2B 100% en el navegador (Transformers.js + WebGPU + ONNX 4-bit)
 - [[Edge0]] - 35B on-device con ~3 GB pico vía SSD expert offload (Apache-2.0, 716k views, con matiz iPhone)
 - [[MiniMax M3]] - Open-weight multimodal 428B/23B con 1M de contexto (MSA): coding + agentes frontera, endpoint gratis NVIDIA
+- [[MiniMax H3 Image]] - Generación y edición de imágenes 16 MP open-weight (DiT 33,1B, 6 pasos); ojo: su licencia excluye UE, Reino Unido, Corea del Sur y EE.UU.
 - [[Qwen-Image-2.1]] - Generación + edición unificada en 7B open-weight: RGBA nativo, 10 refs, 2K (1.4M views, matiz licencia)
 - [[mini-AGI]] - Byte-level LM que aprende mientras lee en 8 GB VRAM: pesos en disco, 169 expertos, olvido 0.0067 nats
 
