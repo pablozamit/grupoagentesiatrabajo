@@ -13,4 +13,4 @@ Es una capa de autoría visual que puede complementar [[Three.js]], [[Stack 3D e
 - [Web oficial](https://spline.design/)
 - [Anuncio de la integración](https://x.com/splinetool/status/2112940935478956459)
 
-# #3d #diseno #ia
+# #3d #diseno #ia #video
