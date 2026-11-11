@@ -26,4 +26,4 @@ La misma release incorpora los cambios de 6.6.0: proveedor de análisis estátic
 
 Ver también: [[Codebase Memory MCP]], [[Truco HAR → API MCP]].
 
-#agente #opensource
+#agente #opensource #video
