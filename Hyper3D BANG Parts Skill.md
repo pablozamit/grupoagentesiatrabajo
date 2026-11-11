@@ -30,4 +30,4 @@ Es el eslabón "imagen → partes 3D animables" del pipeline de juegos con IA: d
 - El README no declara licencia ni describe el proyecto más allá del flujo de la skill.
 - El tuit anunciaba "assets 3D animables desde imágenes sin edición manual"; conviene leerlo como demostración de la skill, no como una garantía de calidad del rigging.
 
-# #skills #3d #agente
+# #skills #3d #agente #video
