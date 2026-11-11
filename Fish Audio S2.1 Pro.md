@@ -28,4 +28,4 @@ Fish Audio presentó **Drama 3**, su nuevo modelo TTS, descrito como "el más em
 - [[Quill]] — Transcripción de reuniones open source
 - [[OpenMontage]] — Producción de video agentic con pipelines de voz
 
-# #modelos #audio
+# #modelos #audio #video
