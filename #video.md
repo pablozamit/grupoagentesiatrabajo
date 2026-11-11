@@ -50,4 +50,20 @@ Notas sobre video:
 - [[Stack de vídeo con agentes (Dumble)]] - Stack 3D+vídeo: HyperFrames, Remotion skills, GSAP, video-shotcraft, motionmaxxing, Blender MCP/skills y dream-loop
 - [[Formato cartoon 65s (Dumble)]] - Formato 2.5D (personajes 2D en sets 3D, una voz, historia real): caso de 27M views y curso completo con Opus 5.5 + Blender
 
+- [[Blender MCP]] - Claude controla Blender por MCP: escenas 3D enteras para animación y vídeo
+- [[Blender Skills (EL4CTEO)]] - Skills de Blender para agentes (SKILL.md y scripts probados en Blender real)
+- [[Recursos gratuitos para Blender y 3D]] - Catálogo de recursos gratis para escenas, renders y 3D
+- [[67js]] - Motor 3D en JavaScript con 23 herramientas MCP: render WebGL2 y path tracing por agentes
+- [[Spline]] - Diseño 3D en el navegador con colaboración en tiempo real
+- [[Hyper3D BANG Parts Skill]] - Skill que convierte una imagen o prompt en un modelo 3D por piezas
+- [[Sprite-Pipeline (LayrKits)]] - Convierte animación generada por IA en spritesheets revisables
+- [[Unreal Engine Skills para Claude Code]] - Plugin oficial de Epic: Unreal Editor desde Claude Code por MCP
+- [[Kenney Shape]] - Convierte pixel art 2D en modelos 3D por extrusión, con UV mapping automático
+- [[Handraw-Style Skill]] - Skill de prompts con estilos de dibujo a mano para IA de imágenes
+- [[Mistral TTS]] - Texto a voz open source de Mistral para locuciones
+- [[Fish Audio S2.1 Pro]] - Clonación de voz desde 5 s de audio para locución de vídeos
+- [[VoiceStudio]] - Alternativa local open source a ElevenLabs: clonación, doblaje de vídeo y TTS
+- [[REA (Reverse Engineer Anything)]] - MCP de ingeniería inversa: analiza apps sin su código y explica cómo funcionan
+- [[Postiz]] - Programa y publica clips en redes desde un calendario, con API, CLI y MCP
+
 # #video
