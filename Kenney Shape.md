@@ -31,4 +31,4 @@
 - [[img2threejs]] - convertir fotos en modelos 3D procedurales para juegos.
 - [[Godot]] - motor de juegos open source, destino natural de estos assets.
 
-# #3d #juegos #contenido
+# #3d #juegos #contenido #video
