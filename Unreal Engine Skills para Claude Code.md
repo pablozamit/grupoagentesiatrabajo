@@ -37,4 +37,4 @@ El plugin concede a Claude acceso amplio al editor en ejecución. El MCP local n
 - [[Blender MCP]] - control de Blender mediante MCP.
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] - comparativa de motores y herramientas para juegos con IA.
 
-# #skills #juegos #agente #opensource
+# #skills #juegos #agente #opensource #video
