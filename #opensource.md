@@ -138,4 +138,11 @@ Notas sobre herramientas y proyectos open source:
 - [[Warmbly]] - Outreach y gestión de buzones; self-hosting y pool de warmup tienen límites distintos.
 - [[RadCheck]] - Proyecto de investigación para detectar contradicciones textuales en informes radiológicos.
 
+- [[NewTube]] - SmartTube para el móvil: cliente de YouTube Android con segundo plano, offline y SponsorBlock/DeArrow (MIT, 747 ⭐)
+- [[Tesserae]] - Dashboards e-ink self-hosted: compones en el navegador y empujas a paneles por MQTT/HTTP (AGPL-3.0, 1.182 ⭐)
+- [[GestaltEdit]] - Editor MobileGestalt on-device para iOS 26+: presets, editor de campos y backups (GPL-3.0, 1.011 ⭐)
+- [[WM Keyboard]] - Teclado Android privado y offline: 600+ idiomas, glide typing y 89 herramientas on-device (MIT, 926 ⭐)
+- [[Sellbird]] - Outreach open source en tu plan Claude/ChatGPT: leads, emails verificados, correo en frío y respuestas (AGPL-3.0, 5.243 ⭐)
+- [[AIVPN]] - VPN experimental en Rust que enmascara el tráfico como QUIC/STUN/llamadas ante DPI (MIT, 896 ⭐)
+
 # #opensource
