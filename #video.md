@@ -66,4 +66,6 @@ Notas sobre video:
 - [[REA (Reverse Engineer Anything)]] - MCP de ingeniería inversa: analiza apps sin su código y explica cómo funcionan
 - [[Postiz]] - Programa y publica clips en redes desde un calendario, con API, CLI y MCP
 
+- [[Ponder AI]] - Editor de vídeo con IA conversacional: describes el corte y monta el primer corte; exporta a Premiere, DaVinci, Final Cut y CapCut (gratis con tu propia IA; desde 29 USD/mes)
+
 # #video
