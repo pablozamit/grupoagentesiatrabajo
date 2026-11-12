@@ -68,4 +68,6 @@ Notas sobre video:
 
 - [[Ponder AI]] - Editor de vídeo con IA conversacional: describes el corte y monta el primer corte; exporta a Premiere, DaVinci, Final Cut y CapCut (gratis con tu propia IA; desde 29 USD/mes)
 
+- [[NewTube]] - Cliente de YouTube para Android basado en SmartTube: segundo plano, PiP, offline, SponsorBlock/DeArrow, sin Shorts (MIT)
+
 # #video
