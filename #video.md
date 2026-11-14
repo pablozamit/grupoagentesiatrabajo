@@ -70,4 +70,6 @@ Notas sobre video:
 
 - [[NewTube]] - Cliente de YouTube para Android basado en SmartTube: segundo plano, PiP, offline, SponsorBlock/DeArrow, sin Shorts (MIT)
 
+- [[Raea]] - Motor de renderizado para agentes: vídeo, motion graphics, 3D y juegos descritos en React/TS, renderizados en tu GPU (Rust+Bevy; FSL→Apache-2.0, ~2.412 ⭐)
+
 # #video
