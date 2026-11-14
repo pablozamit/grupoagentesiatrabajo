@@ -72,4 +72,6 @@ Notas sobre video:
 
 - [[Raea]] - Motor de renderizado para agentes: vídeo, motion graphics, 3D y juegos descritos en React/TS, renderizados en tu GPU (Rust+Bevy; FSL→Apache-2.0, ~2.412 ⭐)
 
+- [[EffectCraft]] - Compositor open source de motion graphics y VFX en Rust puro (capas, keyframes, 308 efectos, cámaras 3D; control por MCP; MIT/Apache-2.0, ~8,8k ⭐)
+
 # #video
