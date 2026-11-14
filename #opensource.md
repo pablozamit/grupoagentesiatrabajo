@@ -146,4 +146,16 @@ Notas sobre herramientas y proyectos open source:
 - [[AIVPN]] - VPN experimental en Rust que enmascara el tráfico como QUIC/STUN/llamadas ante DPI (MIT, 896 ⭐)
 
 - [[ThreeRT]] - Path tracer en tiempo real tras API three.js: runtime nativo Rust+wgpu para macOS/Windows/iOS/Android/Steam Deck (MIT, ~173 ⭐)
+- [[TRELLIS.2]] - Imagen→modelo 3D completo de Microsoft (MIT, ~12.904 ⭐)
+
+- [[UniRig]] - Un modelo para riggear cualquier asset 3D (MIT, ~2.113 ⭐)
+
+- [[dream-loop]] - Skill de agente: bucle sueño→build→crítico hasta visuales cuidados (MIT, ~2.152 ⭐)
+
+- [[Budget3D]] - Imagen→3D Gaussian splats a cualquier presupuesto de tokens (Apache-2.0)
+
+- [[Kitesurf]] - Motor de navegador sin Chromium sobre Cloudflare Workers, habla CDP (Apache-2.0, ~850 ⭐)
+
+- [[Graphify]] - Carpeta→grafo de conocimiento consultable, skill /graphify para agentes (Apache-2.0, ~147,5k ⭐)
+
 # #opensource
