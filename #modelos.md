@@ -65,4 +65,6 @@ Notas sobre modelos de IA:
 - [[Woof (Underdog)]] - TTS compacto que puede funcionar offline en el navegador.
 - [[RadCheck]] - Proyecto de investigación para detectar contradicciones textuales en informes radiológicos.
 
+- [[Hunyuan3D 2.1]] - De imagen a asset 3D con materiales PBR (Tencent; Community License con restricción territorial UE/UK/Corea)
+
 # #modelos
