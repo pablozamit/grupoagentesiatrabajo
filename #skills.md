@@ -60,4 +60,8 @@ Notas sobre skills instalables para agentes de IA:
 - [[Skill de diseño de interfaces (material parcial)]] - Pista de una skill de diseño aún no publicada.
 - [[Write Like Yourself (guía de voz editorial con IA)]] - Guía editorial basada en ejemplos, correcciones y contexto.
 
+- [[dream-loop]] - Bucle de autocrítica: el agente sueña la captura objetivo, construye y un crítico itera hasta clavarla (MIT)
+
+- [[Graphify]] - /graphify lee tu carpeta (código, PDFs, capturas) y devuelve un grafo de conocimiento consultable (Apache-2.0)
+
 # #skills
