@@ -158,4 +158,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[Graphify]] - Carpeta→grafo de conocimiento consultable, skill /graphify para agentes (Apache-2.0, ~147,5k ⭐)
 
+- [[EffectCraft]] - Alternativa open source a After Effects en Rust, operable por agentes vía MCP (MIT/Apache-2.0, ~8,8k ⭐)
+
 # #opensource
