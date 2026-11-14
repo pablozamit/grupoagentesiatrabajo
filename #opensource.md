@@ -145,4 +145,5 @@ Notas sobre herramientas y proyectos open source:
 - [[Sellbird]] - Outreach open source en tu plan Claude/ChatGPT: leads, emails verificados, correo en frío y respuestas (AGPL-3.0, 5.243 ⭐)
 - [[AIVPN]] - VPN experimental en Rust que enmascara el tráfico como QUIC/STUN/llamadas ante DPI (MIT, 896 ⭐)
 
+- [[ThreeRT]] - Path tracer en tiempo real tras API three.js: runtime nativo Rust+wgpu para macOS/Windows/iOS/Android/Steam Deck (MIT, ~173 ⭐)
 # #opensource
