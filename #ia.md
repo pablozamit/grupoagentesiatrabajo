@@ -19,5 +19,6 @@ Notas sobre inteligencia artificial:
 - [[Rube]] - MCP universal de Composio: un endpoint para 500+ apps, con meta-tools que reducen el contexto
 - [[Spline]] - Diseño 3D en el navegador con integración anunciada para ChatGPT/Codex
 - [[Genex]] - Desarrollo de juegos con IA desde una aplicación de escritorio
+- [[A2UI]] - Protocolo abierto de Google para que los agentes respondan con UI interactiva nativa (v1.0)
 
 # #ia
