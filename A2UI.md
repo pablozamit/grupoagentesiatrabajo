@@ -16,6 +16,6 @@
 
 ## Relacionado
 
-- [[Rube]], [[Microsoft Foundry]]
+- [[AG-UI + CopilotKit]], [[Rube]], [[Microsoft Foundry]]
 
 # #ia #opensource
