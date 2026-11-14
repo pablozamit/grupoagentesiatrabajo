@@ -21,4 +21,8 @@ Notas sobre inteligencia artificial:
 - [[Genex]] - Desarrollo de juegos con IA desde una aplicación de escritorio
 - [[A2UI]] - Protocolo abierto de Google para que los agentes respondan con UI interactiva nativa (v1.0)
 
+- [[Kitesurf]] - Navegador experimental de Cloudflare para agentes: Workers puros, protocolo CDP, sin Chromium (Apache-2.0)
+
+- [[Graphify]] - Convierte carpetas de archivos en un grafo de conocimiento que el agente consulta con menos tokens (Apache-2.0)
+
 # #ia
