@@ -160,4 +160,6 @@ Notas sobre herramientas y proyectos open source:
 
 - [[EffectCraft]] - Alternativa open source a After Effects en Rust, operable por agentes vía MCP (MIT/Apache-2.0, ~8,8k ⭐)
 
+- [[Armory]] - Motor 3D para juegos dentro de Blender, renderer scriptable deferred/forward (Zlib, ~3.366 ⭐)
+
 # #opensource
