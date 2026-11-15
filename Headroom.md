@@ -12,4 +12,4 @@ Relacionado: [[RTK (Rust Token Killer)]] y [[TokenRouter]], otras herramientas d
 
 Enlace: https://github.com/headroomlabs-ai/headroom (~75k estrellas, oct 2026; repositorio tendencia del día en GitHub, jun 2026)
 
-#agente #opensource
+#tipo/herramienta #tema/agentes
