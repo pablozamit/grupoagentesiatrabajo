@@ -2,6 +2,7 @@
 
 Notas sobre agentes de IA:
 
+- [[Gamified-UI]] - Contexto de diseño para agentes: familias de interfaz de videojuego, componentes, recorridos y criterios de entrega.
 - [[Hermes Agent]] - Agente que aprende de sus tareas
 - [[Ajustes Avanzados de Hermes Agent]] - 10 ajustes para operación 24/7
 - [[Google Jules]] - Agente de código de Google

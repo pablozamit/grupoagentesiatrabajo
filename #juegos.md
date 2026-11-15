@@ -3,6 +3,7 @@
 
 Notas sobre videojuegos:
 
+- [[Gamified-UI]] - Traduce mapas, diarios, tableros, colecciones y HUD a interfaces útiles para aplicaciones.
 - [[Three.js]] - Librería 3D para juegos web
 - [[Plume]] - Efectos de partículas para juegos
 - [[AutoSprite]] - Generador de spritesheets con IA

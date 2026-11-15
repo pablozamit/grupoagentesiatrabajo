@@ -2,6 +2,7 @@
 
 Notas sobre diseño UI/UX:
 
+- [[Gamified-UI]] - Seis familias de interfaces de videojuego para webs y apps, con composición, materiales, estados y un ejemplo completo.
 - [[Three.js]] - Diseño 3D y gráficos
 - [[Whitespace Experiments]] - Experimentos de diseño interactivo
 - [[Repositorio 400 Recursos de Diseño Gratuitos]] - Lista curada de 400+ recursos visuales gratuitos

@@ -9,6 +9,8 @@ La gamificación aplica dinámicas de juego a contextos no lúdicos (apps, produ
 
 ## Mecánicas clásicas
 
+Para llevar estas mecánicas a pantallas concretas, consultar [[Gamified-UI]]: guía para agentes con seis familias visuales, componentes, estados y un recorrido de ejemplo. La elección de mecánicas y el lenguaje visual se diseñan conjuntamente según la actividad real del usuario.
+
 - **Rachas (streaks)**: contar días consecutivos de actividad. Duolingo es el caso de referencia — notificaciones, widgets, recordatorios constantes.
 - **Rankings y tablas de clasificación**: comparación pública con otros usuarios.
 - **Logros e insignias**: hitos desbloqueables por completar objetivos.
