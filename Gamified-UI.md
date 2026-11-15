@@ -400,4 +400,4 @@ Son catálogos para localizar referencias, no evidencia de eficacia. Sus página
 
 El documento aportado sobre recursos de interfaces de videojuego sirvió como punto de partida para localizar los catálogos y la tesis. Las recetas, duraciones, valores visuales y ejemplos de Gamified-UI son propuestas propias que deben probarse en cada producto. No se presentan libros o charlas no consultados como evidencia.
 
-#contenido #diseno #agente
+#tipo/guia #tema/diseno/interfaces #tema/programacion/desarrollo-con-ia #tema/videojuegos/referencias
