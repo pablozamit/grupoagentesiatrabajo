@@ -70,4 +70,5 @@ curl -X POST https://openrouter.ai/api/v1/chat/completions \
 
 Para más servicios de IA con free tier, ver [[free-for.dev]].
 
-# #modelos #contenido
+
+#tipo/herramienta #tema/modelos

@@ -24,4 +24,5 @@
 - Web: [variant.com](https://variant.com)
 - Comunidad: [variant.com/community](https://variant.com/community)
 
-# #diseno #ia
+
+#tipo/herramienta #tema/diseno/interfaces

@@ -15,8 +15,4 @@ Workflow de [André Staltz](https://x.com/andrestaltz) (30/07/2026) para crear p
 - El **rigging** (esqueleto del personaje) y la **animación** los hace Claude Opus 5, no un humano
 - Los **MCP servers** del motor de juego ([[Godot]], Blender) son los que permiten que el agente meta el modelo final dentro del juego
 
-## Tags
-
-- #3d — Modelos 3D desde imagen con Trellis
-- #juegos — Personajes para Godot, Unreal, Unity...
-- #vibecoding — Pipeline completo de creación con IA
+#tipo/guia #tema/imagen-3d/animacion-3d #tema/videojuegos/desarrollo

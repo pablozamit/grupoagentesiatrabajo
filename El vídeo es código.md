@@ -71,4 +71,5 @@ El README declara PolyForm Noncommercial 1.0.0 y prohíbe uso comercial de edici
 
 Ver también: [[Claude Video]], [[HyperFrames]], [[OpenMontage]].
 
-# #video #agente #contenido
+
+#tipo/herramienta #tema/agentes #tema/video

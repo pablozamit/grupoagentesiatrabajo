@@ -14,4 +14,4 @@ Datos/benchmarks del desarrollador, no réplica independiente ejecutada en esta 
 
 Ver también: [[Kyutai TTS + Unmute]], [[Claude Video]], [[Ollama]].
 
-#modelos #audio #agente
+#tipo/modelo #tema/agentes #tema/modelos

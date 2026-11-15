@@ -27,4 +27,5 @@ midudev lo compartió como ejemplo de que "ya no solo hay que trabajar el SEO" �
 
 Relacionado: [[GEO]], [[Marketing Skills]] (OKF de Google), [[8 Prompts de Diseño para Agentes de IA]]
 
-# #web #seo #ia #oportunidades
+
+#tipo/skill #tema/programacion/web #tema/marketing/seo

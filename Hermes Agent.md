@@ -225,4 +225,5 @@ Ver [[Ajustes Avanzados de Hermes Agent]], [[Hermes Dreaming]] y [[RAG]]. Difusi
 
 [[agentmemory]] ofrece integración como memory provider, con captura por hooks y recuperación bajo presupuesto. No es «memoria infinita»: revisar cobertura, retención, proveedores de embeddings y calidad de recuperación. Sus benchmarks propios no garantizan el mismo ahorro en todos los flujos.
 
-# #agente #vibecoding #contenido
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

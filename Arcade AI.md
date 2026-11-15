@@ -21,4 +21,5 @@ Cada juego puede volverse un mundo y cada mundo otra cosa: crear y jugar son el 
 - Mundos multijugador con IA: [[ALON'S LIFE]], [[Tinyskies]]
 - Motores open: [[Godot]]
 
-# #juegos #agente #vibecoding
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

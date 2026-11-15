@@ -1,20 +1,7 @@
-# #audio
+# Audio y voz
 
-Notas sobre audio y sonido:
+Síntesis, transcripción, música y efectos sonoros.
 
-- [[Quill]] - Graba reuniones y las transcribe automáticamente, open source y privado
-- [[Cuelume]] - Sonidos UI sintetizados en tiempo real (2KB, cero dependencias)
-- [[Fish Audio S2.1 Pro]] - Clonación de voz ultraprecisa desde 5 segundos ($52M seed, 6× más barato que Eleven Labs)
-- [[Sonniss GDC 2026]] - Bundle gratis de 347+ SFX profesionales (7.47GB, royalty-free, uso comercial)
-- [[Kyutai TTS + Unmute]] - TTS 1.6B open source + sistema para dar voz a cualquier LLM en <1 s (172.7k views)
+Consulta la clasificación actualizada: [[tags/tema/audio]].
 
-- [[Phonon-2]] - ASR inglés compacto, WER/datos del autor y rutas hardware distintas
-- [[Mistral TTS]] - Voz texto-a-voz open source de Mistral que corre en local (~3 GB RAM)
-
-- [[VoiceStudio]] - Alternativa open source y local a ElevenLabs: clonación de voz, doblaje y audiolibros en 646 idiomas
-
-
-
-- [[Woof (Underdog)]] - TTS compacto que puede funcionar offline en el navegador.
-
-# #audio
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

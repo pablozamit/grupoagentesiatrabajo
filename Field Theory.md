@@ -24,4 +24,5 @@
 - [[Claude Code]] · [[Codex]] — agentes que consumen el archivo local
 - [[Agent loops (mvanhorn)]] — usar el CLI dentro de un cron + LLM
 
-# #agente #productividad #opensource
+
+#tipo/herramienta #tema/agentes

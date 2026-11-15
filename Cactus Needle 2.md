@@ -70,4 +70,5 @@ Eric Migicovsky (fundador de Pebble) corre Needle localmente en la app del **Ind
 - Models pequeños en el edge: [[Ecosistema de modelos]], [[TokenRouter]]
 - Agentes en hardware limitado: [[Learn Harness Engineering]], [[Ahmad Osman (@TheAhmadOsman)]]
 
-# #modelos #agente #ia #opensource
+
+#tipo/modelo #tema/agentes #tema/modelos

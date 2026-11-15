@@ -10,4 +10,5 @@ El repositorio incluye `START-HERE.md`, una plantilla `VOICE.template.md`, promp
 
 Repositorio: [borjaperfra/write-like-yourself](https://github.com/borjaperfra/write-like-yourself). Guía de inicio: [START-HERE.md](https://github.com/borjaperfra/write-like-yourself/blob/main/START-HERE.md).
 
-# #agente #contenido #skills
+
+#tipo/skill #tema/agentes

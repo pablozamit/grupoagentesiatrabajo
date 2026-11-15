@@ -23,4 +23,5 @@
 - [[Phonon-2]] — dictado/ASR local
 - [[Ollama]] · [[LM Studio]] — ejecutar modelos en local
 
-# #audio #modelos #opensource #video
+
+#tipo/herramienta #tema/modelos #tema/video

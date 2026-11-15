@@ -85,4 +85,5 @@ La propia comunidad que ha probado este patrón señala un punto importante:
 - Documentación del protocolo MCP: [modelcontextprotocol.io](https://modelcontextprotocol.io)
 - Claude + MCP: [docs.anthropic.com/en/docs/mcp](https://docs.anthropic.com/en/docs/mcp)
 
-# #proyectos #vibecoding
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/programacion

@@ -6,4 +6,5 @@ Requisitos indicados: Android 7 o posterior, procesador arm64, al menos 3 GB de 
 
 Repositorio: [mayukh4/linux-android](https://github.com/mayukh4/linux-android) (MIT).
 
-# #opensource #hosting #productividad
+
+#tipo/herramienta #tema/infraestructura/hosting

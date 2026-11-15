@@ -23,4 +23,5 @@ Skill open source para **generar animaciones Lottie desde texto** usando agentes
 [[Anime.js]] — animaciones JS ligeras en web
 [[Three.js]] — animaciones 3D en navegador
 
-# #diseno #vibecoding
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

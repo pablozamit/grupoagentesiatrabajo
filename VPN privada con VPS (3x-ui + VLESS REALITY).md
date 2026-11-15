@@ -62,4 +62,5 @@ Es la diferencia entre *"esa app/esa web está bloqueada en mi país"* y *"le do
 - Dónde alquilar el servidor: [[VPS]], [[Oracle Cloud Free Tier]], [[free-for.dev]]
 - Servidores y hosting: [[OpenShip]], [[Here.Now]]
 
-# #hosting #contenido #productividad
+
+#tipo/guia #tema/infraestructura/hosting

@@ -24,4 +24,5 @@ Se maneja por HTTP y server-sent events (no hace falta incrustar Rust). El API p
 - [[Instabox]]
 - [[InstaCloud]]
 
-# #agente #opensource #hosting
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

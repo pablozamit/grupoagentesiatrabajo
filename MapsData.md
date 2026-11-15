@@ -19,4 +19,5 @@
 - [[Apify]] — alternativa generalista
 - [[Cold Email]] — destino típico de las listas
 
-# #web #oportunidades
+
+#tipo/herramienta #tema/datos/extraccion-web

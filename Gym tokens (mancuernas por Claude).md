@@ -30,4 +30,5 @@
 - Accountability pública: [[#gamificacion]] (Strava como testigo, saldo como depósito)
 - Voz local: [[Quill]] (whisper), [[Fish Audio S2.1 Pro]]
 
-# #gamificacion #vibecoding #productividad
+
+#tipo/caso-practico #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

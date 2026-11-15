@@ -47,4 +47,5 @@
 - Edición visual con agentes: [[21st.dev]], [[Landingfolio MCP]]
 - Alternativa local-first: [[Compact Landing]]
 
-# #diseno #vibecoding #web #opensource
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/programacion/web

@@ -23,4 +23,5 @@ Piensa a través del CLI de Claude Code con un plan Claude Pro/Max, o de Codex c
 
 - [[Warmbly]]
 
-# #opensource #marketing
+
+#tipo/herramienta #tema/marketing

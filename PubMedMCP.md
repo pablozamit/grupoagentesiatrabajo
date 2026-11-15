@@ -33,4 +33,4 @@ El [hilo de lanzamiento](https://x.com/masa_ai_med/status/2060293415817138626) a
 - [[OpenResearch]]: workflow de investigación con agentes.
 - [[Claude Code]]: cliente/agente de código.
 
-#opensource #ciencia #investigacion #agente
+#tipo/herramienta #tema/agentes #tema/datos/investigacion

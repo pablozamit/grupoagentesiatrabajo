@@ -111,4 +111,5 @@ Hermes es un agente que orquesta herramientas. Las opciones se pueden instalar c
 
 Una vez instaladas, tu agente puede decidir en cada momento cuál invocar según la tarea.
 
-# #agente #web #contenido
+
+#tipo/guia #tema/agentes/navegacion-y-control #tema/agentes

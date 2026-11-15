@@ -37,4 +37,5 @@ Esto ataca de raíz la inestabilidad del RPA y es más claro que hardcodear un p
 - [[Noqa]] y [[Agent-Reach]] — notas afines sobre habilidades instalables
 - Ver categoría [[#skills]]
 
-# #skills #agente #productividad
+
+#tipo/skill #tema/agentes

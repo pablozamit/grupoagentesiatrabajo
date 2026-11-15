@@ -26,4 +26,5 @@ Límite honesto del propio lab: al ser cascada sobre texto, se pierde emoción, 
 - Voz para agentes: [[OpenFlow]] (dictado), [[Quill]] (transcripción)
 - SFX y música IA: [[Sonniss GDC 2026]]
 
-# #audio #opensource #agente
+
+#tipo/herramienta #tema/agentes #tema/audio

@@ -54,4 +54,5 @@ Sin variables de entorno para el dashboard principal.
 - OSINT y monitoreo de datos: [[last30days]], [[Agent-Reach]]
 - Agentes que consultan datos en vivo: [[Firecrawl]], [[Apify]]
 
-# #3d #investigacion #agente #opensource #ciencia
+
+#tipo/herramienta #tema/agentes #tema/imagen-3d

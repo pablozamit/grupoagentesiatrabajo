@@ -30,4 +30,5 @@ La web muestra un ejemplo de siete tomas, 30 segundos y 1080p, junto al brief y 
 - [[HyperFrames]]
 - [[El vídeo es código]]
 
-# #contenido #video #productividad
+
+#tipo/herramienta #tema/video

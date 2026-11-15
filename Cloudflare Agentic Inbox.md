@@ -60,4 +60,5 @@ Cualquier usuario que pase la política de Cloudflare Access puede acceder a **t
 - Cloudflare para agentes: [[Cuentas Temporales de Cloudflare]], [[free-for.dev]]
 - Plataformas self-hosted: [[OpenShip]], [[AnythingLLM]]
 
-# #agente #opensource #hosting #oportunidades
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

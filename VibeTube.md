@@ -27,4 +27,5 @@
 - Alternativa de shorts con IA: [[OpenMontage]], [[AI UGC con agentes]]
 - Grabar sin editar con IA: [[Cap]] (alternativa Loom open source, sin agente editor)
 
-# #video #opensource #agente
+
+#tipo/herramienta #tema/agentes #tema/video

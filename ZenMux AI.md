@@ -23,4 +23,5 @@
 
 Relacionado: [[TokenRouter]], [[OpenRouter]], [[Ecosistema de modelos]]
 
-# #oportunidades #ia #modelos
+
+#tipo/modelo #tema/modelos

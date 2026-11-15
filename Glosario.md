@@ -61,4 +61,5 @@ Definiciones cortas de términos recurrentes en esta enciclopedia. Si una palabr
 - **Pipeline**: secuencia de pasos donde la salida de uno alimenta el siguiente. [[Ajustes Avanzados de Hermes Agent]] explica cómo encadenar skills en pipelines.
 - **Watchlist / Briefing programado**: ejecuciones periódicas de un agente o skill que producen briefs recurrentes. [[last30days]] tiene `watchlist.py` y `briefing.py` para esto.
 
-# #contenido
+
+#tipo/herramienta #tema/agentes

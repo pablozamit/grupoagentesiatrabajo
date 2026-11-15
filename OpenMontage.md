@@ -182,4 +182,5 @@ Funciona con cualquier asistente que lea archivos y ejecute Python: Claude Code 
 - Skills de video open source: [[Open Design]]
 - Costes y free tiers de APIs: [[free-for.dev]]
 
-# #video #agente #skills #opensource
+
+#tipo/skill #tema/agentes #tema/video

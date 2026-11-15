@@ -33,4 +33,5 @@ TypeScript (52.9%), Python (43%), JavaScript, MDX. 1.348 contribuidores. 164 rel
 
 Relacionado: [[AnythingLLM]], [[Microsoft Foundry]], [[Firecrawl]], [[Memanto]], [[OpenMontage]]
 
-# #agente #ia #web #proyecto
+
+#tipo/herramienta #tema/agentes #tema/programacion/web

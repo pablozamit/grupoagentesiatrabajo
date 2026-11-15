@@ -18,4 +18,5 @@
 
 Relacionado: [[Valessa]] (similar pero con enfoque vidrio/iridiscencia, exporta a GLB), [[Three.js]], [[Mesh3D Gallery]]
 
-# #3d #diseno #web #herramientas
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/diseno/interfaces

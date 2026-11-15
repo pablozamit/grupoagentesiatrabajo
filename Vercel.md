@@ -64,4 +64,5 @@
 - Docs: [vercel.com/docs](https://vercel.com/docs)
 - Marketplace: [vercel.com/marketplace](https://vercel.com/marketplace)
 
-# #hosting #web #contenido
+
+#tipo/herramienta #tema/programacion/web #tema/infraestructura/hosting

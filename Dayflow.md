@@ -29,4 +29,4 @@
 
 Relacionado: [[Chronicle]] (función similar de Codex/OpenAI)
 
-Tags: `#productividad #ia #opensource #agente`
+#tipo/herramienta #tema/agentes

@@ -18,4 +18,5 @@
 
 Relacionado: [[Anime.js]], [[Uiverse]], [[Dead Simple Sites]], [[make-interfaces-feel-better]]
 
-# #diseno #web #contenido
+
+#tipo/herramienta #tema/programacion/web #tema/diseno/interfaces

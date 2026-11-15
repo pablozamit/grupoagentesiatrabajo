@@ -28,4 +28,5 @@ Si no quieres elegir número, la skill también **recomienda estilo + combinaci�
 - [[Taste-Skill]] — criterio estético para imágenes
 - [[Qwen-Image-2.1]] — generación y edición de imágenes
 
-# #skills #diseno #contenido #video
+
+#tipo/skill #tema/diseno/interfaces #tema/video

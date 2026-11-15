@@ -36,4 +36,5 @@ pip install supertonic
 
 - GitHub: [github.com/supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)
 
-# #tts #ia #modelos #audio
+
+#tipo/modelo #tema/modelos #tema/audio

@@ -42,4 +42,5 @@
 - Web: [apify.com](https://apify.com/)
 - Store: [apify.com/store](https://apify.com/store)
 
-# #agente #web #contenido
+
+#tipo/concepto #tema/datos/extraccion-web #tema/agentes

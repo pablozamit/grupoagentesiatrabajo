@@ -64,4 +64,5 @@ Mi webapp (Three.js + lo que sea)
 - Creado por: Ionic (mismo equipo detrás de Ionic Framework)
 - Open source: MIT
 
-# #web #juegos #vibecoding
+
+#tipo/concepto #tema/programacion/desarrollo-con-ia #tema/programacion/web

@@ -12,4 +12,5 @@
 
 - [[Blender MCP]], [[Raea]], [[EffectCraft]]
 
-# #3d #opensource
+
+#tipo/herramienta #tema/imagen-3d

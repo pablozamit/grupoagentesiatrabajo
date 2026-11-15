@@ -64,4 +64,5 @@ export default function App() {
 - Efectos visuales: [[Anime.js]], [[Lottie Animaciones IA]]
 - Componentes UI: [[Cedar Filmstrip]], [[Uiverse]]
 
-# #diseno #web #vibecoding #opensource
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/programacion/web

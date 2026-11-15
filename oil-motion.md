@@ -67,4 +67,5 @@ En la primera generación el agente pedirá configurar la API key de generación
 - Video generado por IA como base de motion: [[Claude Video]], [[Depthfield]]
 - Crear video con agentes: [[HyperFrames]], [[OpenMontage]]
 
-# #skills #video #web #diseno #agente
+
+#tipo/skill #tema/agentes #tema/programacion/web

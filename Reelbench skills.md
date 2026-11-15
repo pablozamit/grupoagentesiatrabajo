@@ -25,4 +25,5 @@ Página interactiva de **un archivo**: reproductor embebido que resalta la toma 
 - Motion programático: [[HyperFrames]], [[Dora Studio (Motion Magic)]]
 - Procesar video: [[FFmpeg]]
 
-# #video #skills #opensource
+
+#tipo/skill #tema/video

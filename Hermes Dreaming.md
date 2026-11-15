@@ -30,4 +30,5 @@ Es un plugin oficial del ecosistema: `hermes plugins install asimons81/hermes-dr
 - [[Hermes Skills Hub]]
 - [[10 Hacks de Hermes Agent (sistema 24/7)]]
 
-# #agente
+
+#tipo/herramienta #tema/agentes

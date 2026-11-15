@@ -45,4 +45,5 @@ Curso completo de Dumble ([@Y0urDumble](https://x.com/Y0urDumble/status/21151649
 
 Relacionado: [[Stack de vídeo con agentes (Dumble)]], [[Blender MCP]], [[HyperFrames]], [[cinecode]]
 
-# #video #contenido #skills #3d
+
+#tipo/skill #tema/imagen-3d #tema/video

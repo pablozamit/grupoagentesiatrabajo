@@ -34,4 +34,5 @@ El vídeo usa Prime Indexer y advierte expresamente no usar ese enfoque de index
 
 Ver también: [[GEO]], [[Ryze AI]].
 
-# #seo #marketing #contenido
+
+#tipo/herramienta #tema/marketing #tema/marketing/seo

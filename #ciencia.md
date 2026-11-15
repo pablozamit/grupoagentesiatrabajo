@@ -1,15 +1,7 @@
-﻿# #ciencia
-Notas sobre ciencia:
-- [[Sci-Bot]] - Asistente de IA para literatura científica
-- [[GenCAD]] - Modelo del MIT para convertir fotos en CAD editable
-- [[Meta TRIBE v2]] - Modelo de Meta que predice actividad cerebral desde video, audio y texto en 3D
-- [[World Monitor]] - Plataforma de inteligencia geoespacial open source: correlación de señales, CII y 65+ fuentes de datos
+# Datos e investigación
 
-- [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
+Investigación científica y análisis de fuentes.
 
-- [[Universal-DeepSeek-OCR-2]] - OCR vision-lenguaje portable: DeepSeek-OCR-2 en CPU, MPS y CUDA (Apache-2.0, ~3B)
+Consulta la clasificación actualizada: [[tags/tema/datos/investigacion]].
 
-
-- [[RadCheck]] - Proyecto de investigación para detectar contradicciones textuales en informes radiológicos.
-
-# #ciencia
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

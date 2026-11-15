@@ -27,4 +27,5 @@ Soportado en Chrome, Edge, Firefox y Safari. Funciona en Windows, Mac, Linux y d
 
 Desde JavaScript, se accede a través de `navigator.gpu.requestAdapter()`. Librerías como **Three.js** ya tienen backend WebGPU (se activa en lugar de WebGL). No necesitas escribir WGSL directamente si usas una librería.
 
-# #contenido #web #3d
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/imagen-3d #tema/programacion/web

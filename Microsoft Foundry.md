@@ -78,4 +78,5 @@ También hay una **extensión para VS Code** para explorar modelos y desarrollar
 - Labs: [ai.azure.com/labs](https://ai.azure.com/labs)
 - Extensión VS Code: [aka.ms/azureaifoundry/vscode](https://aka.ms/azureaifoundry/vscode)
 
-# #ia #agente #modelos
+
+#tipo/herramienta #tema/agentes #tema/modelos

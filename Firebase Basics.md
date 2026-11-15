@@ -41,4 +41,5 @@ El agente sigue estos pasos automáticamente:
 
 Relacionado: [[Firebase]], [[Firestore]], [[Autenticación]], [[Hosting]]
 
-# #firebase #backend #ia #desarrollo
+
+#tipo/herramienta #tema/agentes

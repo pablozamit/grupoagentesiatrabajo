@@ -70,4 +70,5 @@
 - Web: [openship.io](https://openship.io)
 - Autor: [@openshipio](https://x.com/openshipio) (por OblienHQ)
 
-# #hosting #agente #basededatos
+
+#tipo/herramienta #tema/agentes #tema/datos/bases-de-datos

@@ -16,4 +16,5 @@
 
 Relacionado: [[Ollama]], [[Hermes Agent]], [[Browser Use]], [[Modelos]]
 
-# #ia #agente #opensource #python
+
+#tipo/herramienta #tema/agentes

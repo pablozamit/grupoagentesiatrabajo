@@ -16,4 +16,5 @@ Un **VPS (Servidor Privado Virtual)** es un servidor en la nube que funciona 24/
 - Entornos de desarrollo remotos
 - Montar tu propia VPN: [[VPN privada con VPS (3x-ui + VLESS REALITY)]]
 
-# #hosting #oportunidades
+
+#tipo/herramienta #tema/infraestructura/hosting

@@ -79,4 +79,5 @@ La web oficial lo compara con otras herramientas conocidas: Roo Code, Cursor, Wi
 - Blog: [kilo.ai/blog](https://kilo.ai/blog)
 - YouTube, Discord, Reddit (r/kilocode), X, LinkedIn, Bluesky, Instagram
 
-# #agente #vibecoding #modelos
+
+#tipo/modelo #tema/agentes #tema/modelos

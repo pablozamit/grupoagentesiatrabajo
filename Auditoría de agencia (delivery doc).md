@@ -68,4 +68,5 @@ Es el puente entre [[Estrategia 90-10 Local]] / [[Auditoría SEO]] (auditorías 
 - Venta de servicios con IA: [[Cold Email]], [[Marketing Skills]]
 - Modelo de negocio: [[Despliegue de IA en empresa (3 etapas)]]
 
-# #marketing #contenido #productividad #seo
+
+#tipo/guia #tema/marketing #tema/marketing/seo

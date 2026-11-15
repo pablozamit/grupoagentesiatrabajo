@@ -24,4 +24,5 @@ Sin Higgsfield, Seedance ni MiniMax: el workflow abierto deja al agente clonar u
 - Metodología de video con agentes: [[El vídeo es código]]
 - Producción agentic open source: [[OpenMontage]]
 
-# #video #marketing #agente
+
+#tipo/herramienta #tema/agentes #tema/video

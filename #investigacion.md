@@ -1,29 +1,7 @@
-﻿# #investigacion
-Notas sobre investigación:
-- [[Sci-Bot]] - Asistente de IA para literatura científica
-- [[Google Colab para VS Code]] - Ejecuta notebooks con GPU T4 gratuita desde tu editor
-- [[World Monitor]] - Dashboard de inteligencia global open source: 500+ feeds en 15 categorías, resumidos por IA, con globo 3D
-- [[Meta TRIBE v2]] - Predice actividad cerebral desde video, audio y texto en 3D
-- [[Crawl4AI]] - Crawler open source para convertir webs en Markdown limpio y alimentar a tus agentes (51k ⭐)
-- [[LlamaCloud (parseo + MCP)]] - De PDFs imposibles a índice con citas: parseo agéntico + MCP (10k créditos gratis/mes)
-- [[GeoSpy]] - Geolocaliza fotos con IA solo con píxeles (con tabla honesta: interior 0%, landmarks 100%)
-- [[OpenResearch]] - Convierte tu coding agent en research agent: lit review, hipótesis, experimentos reproducibles (5.3k ⭐, #1 trending)
-- [[mini-AGI]] - Aprender sin olvidar en 8 GB: tronco a LR/10, expertos auto-creados, experimento en marcha
+# Datos e investigación
 
-- [[PubMedMCP]] - PubMed/PMC/iCite con paginación; extracción verificable, sin garantía de cero errores
+Investigación, búsqueda de fuentes y análisis de evidencia.
 
-- [[Blackstorm Security]] - Investigación ofensiva abierta (kernel, navegadores, hipervisores, CVEs reales)
-- [[Geo-sleuth]] - Skill que sitúa dónde se tomó una foto con geometría de mapas, elevación y satélite, y enseña las pruebas
-- [[DeerFlow]] - Super agent harness de ByteDance para investigación profunda: sub-agentes, memoria y sandbox (MIT, 84k ⭐)
+Consulta la clasificación actualizada: [[tags/tema/datos/investigacion]].
 
-
-- [[Doppler de aviones como indicio en vídeos generados por IA]] - Pista contextual de audio, no detector concluyente.
-- [[Herramientas de lectura de artículos con paywall]] - Servicios de cobertura variable para leer o archivar páginas.
-- [[OSINT y huella digital pública]] - Correlación de cuentas públicas y límites de atribución.
-- [[AutoVPN]] - Proyecto de proxy sobre Tor con documentación insuficiente.
-- [[The Hitchhiker's Guide to Online Anonymity]] - Guía de privacidad organizada por modelo de amenazas.
-- [[Cloudflare DNS para filtrar malware y phishing]] - Filtrado DNS que no sustituye un antivirus.
-- [[Privacy Guides]] - Guías comunitarias de privacidad y criterios de revisión.
-- [[Shannon]] - Pentesting agéntico activo para apps y APIs con autorización.
-
-# #investigacion
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

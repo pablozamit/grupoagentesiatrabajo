@@ -46,4 +46,5 @@ Antes de generar, pregunta por:
 - Repositorio: [github.com/Danilaa1/compact-landing-skill](https://github.com/Danilaa1/compact-landing-skill)
 - Licencia: MIT
 
-# #diseno #agente #vibecoding
+
+#tipo/concepto #tema/agentes #tema/programacion/desarrollo-con-ia

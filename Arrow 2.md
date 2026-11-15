@@ -9,4 +9,5 @@ La plataforma ofrece una aplicación web y una API. La disponibilidad de la prue
 
 Ver también: [[3DSVG.Design]]
 
-# #diseno #skills #contenido
+
+#tipo/skill #tema/diseno/interfaces

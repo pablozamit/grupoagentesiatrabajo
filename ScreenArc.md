@@ -19,4 +19,5 @@ Usa Electron, React y FFmpeg para conseguir el efecto cinematico.
 
 Relacionado: [[video-use]], [[OpenCut]], [[FFmpeg]], [[HyperFrames]]
 
-# #video #herramientas #opensource #grabacion
+
+#tipo/herramienta #tema/video

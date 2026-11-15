@@ -24,4 +24,5 @@
 
 - [github.com/interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
 
-# #opensource #agente
+
+#tipo/herramienta #tema/agentes

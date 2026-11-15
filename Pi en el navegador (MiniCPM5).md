@@ -23,4 +23,5 @@ Todos los intentos anteriores de un coding agent en local habían fallado por us
 - Modelos pequeños locales: [[Ollama]], [[Cactus Needle 2]], [[GLiNER2.5]]
 - Decisiones baratas en local: [[Jev (TypeSafe)]] (+ réplica laya-mlx en local)
 
-# #modelos #agente #web
+
+#tipo/modelo #tema/agentes/navegacion-y-control #tema/agentes

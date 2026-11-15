@@ -1,16 +1,7 @@
-# #proyectos
+# Programación y aplicaciones
 
-Proyectos y ejercicios prácticos que los alumnos pueden copiar, adaptar o usar como base. Incluyen también ideas de negocio y patrones de desarrollo con IA.
+Los casos prácticos y ejercicios se clasifican por su tipo y tema.
 
-## Cómo usar esta categoría
+Consulta la clasificación actualizada: [[tags/tema/programacion]].
 
-- Cada proyecto está en su propia nota, enlazada aquí
-- Los proyectos están pensados para **copiarse y adaptarse**, no solo para leerse
-- Incluyen ideas de negocio además de ejercicios técnicos
-
-## Proyectos
-
-- [[MCP Server para desarrollo autónomo]] - Patrón para construir apps de forma autónoma con un agente de IA usando un servidor MCP mínimo
-- [[Ideas de negocio con IA]] - Nota reservada para ideas de negocio que se pueden construir o automatizar con agentes de IA
-
-# #proyectos
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

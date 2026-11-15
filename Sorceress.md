@@ -103,4 +103,5 @@ Sorceress incluye **Pixal3D**, un modelo de generación 3D open source que se ej
 - 3D Studio: [sorceress.games/3d-studio](https://sorceress.games/3d-studio)
 - Planes y precios: [sorceress.games/plans](https://sorceress.games/plans)
 
-# #juegos #ia #contenido
+
+#tipo/herramienta #tema/videojuegos

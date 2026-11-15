@@ -17,4 +17,5 @@
 
 Para más servicios con tiers gratuitos, ver [[free-for.dev]] (1.600+ servicios catalogados).
 
-# #hosting #oportunidades #recursos
+
+#tipo/herramienta #tema/infraestructura/hosting

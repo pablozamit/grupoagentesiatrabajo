@@ -16,4 +16,5 @@ El hilo de X de origen la cita como fuente de datos de Google Maps para listas d
 - [[Scraping]] — el pipeline donde se cita
 - [[MapsData]] — alternativa verificada para datos de Maps
 
-# #web #contenido
+
+#tipo/herramienta #tema/datos/extraccion-web

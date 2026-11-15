@@ -8,4 +8,5 @@
 - Organizadas por categoría: UI, prototyping, code, design systems, etc.
 - Útil para encontrar alternativas o especializaciones que no conocías
 
-# #diseno #recursos
+
+#tipo/herramienta #tema/diseno/interfaces

@@ -189,4 +189,5 @@ Lista recopilada a partir de hilos y documentación pública sobre configuració
 
 Relacionado: [[Hermes Agent]] — la nota general de introducción a Hermes.
 
-# #agente #contenido #vibecoding
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

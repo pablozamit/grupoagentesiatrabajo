@@ -20,4 +20,5 @@ La conversación recuperada no responde en detalle a todas las preguntas de priv
 - [[Baguette]] — granja headless de simuladores iOS.
 - [[WhatsApp personal para agentes de IA]] — integración no oficial con WhatsApp y sus riesgos.
 
-# #agente #contenido #productividad
+
+#tipo/herramienta #tema/agentes

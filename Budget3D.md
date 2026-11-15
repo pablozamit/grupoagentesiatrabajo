@@ -12,4 +12,5 @@
 
 - [[TRELLIS.2]], [[Hunyuan3D 2.1]], [[Raea]]
 
-# #3d #opensource
+
+#tipo/herramienta #tema/imagen-3d

@@ -34,4 +34,5 @@
 
 Sigue a [@ThetaForgeCo](https://x.com/ThetaForgeCo) en X para actualizaciones.
 
-# #3d #juegos
+
+#tipo/herramienta #tema/imagen-3d #tema/videojuegos

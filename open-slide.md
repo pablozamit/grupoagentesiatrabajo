@@ -18,4 +18,4 @@ Las skills generan código; hace falta entorno Node/pnpm y revisión de dependen
 
 Ver también: [[Beatdeck]], [[Bolt Slides]], [[Vibecoding]].
 
-#opensource #diseno #productividad
+#tipo/herramienta #tema/diseno/interfaces

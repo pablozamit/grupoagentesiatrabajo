@@ -71,4 +71,5 @@ RTK mide la reducción del **output de bash**, no de tu factura. Los tokens de i
 - Ahorro en agentes: [[Ojos baratos para agentes]], [[Fable Orchestrator]], [[TokenRouter]]
 - Agentes de código donde se instala: [[Claude Code]], [[Codex]], [[Orca]]
 
-# #agente #productividad #contenido #opensource
+
+#tipo/herramienta #tema/agentes

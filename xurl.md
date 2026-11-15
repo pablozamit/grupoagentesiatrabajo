@@ -35,4 +35,4 @@ Es una guía del propio proveedor; conviene comprobar permisos y tiers vigentes 
 
 - [[Hermes Agent]], [[Kapso]], [[Postiz]]
 
-#opensource #web #agente
+#tipo/herramienta #tema/agentes #tema/programacion/web

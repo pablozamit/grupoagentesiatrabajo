@@ -28,4 +28,5 @@ orx up   # dashboard local en 127.0.0.1:4791
 
 Para literatura biomédica, [[PubMedMCP]] permite buscar PMIDs y recuperar resúmenes o texto disponible en PMC; verificar extracción y versión del servidor antes de generar tablas.
 
-# #investigacion #agente #opensource
+
+#tipo/herramienta #tema/agentes #tema/datos/investigacion

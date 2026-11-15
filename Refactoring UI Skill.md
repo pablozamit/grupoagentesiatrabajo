@@ -18,4 +18,5 @@
 - [[Impeccable]] · [[Laws of UX]] — principios de UI/UX
 - [[Claude Code]] · [[Codex]] — agentes donde instalarla
 
-# #skills #diseno #agente
+
+#tipo/skill #tema/agentes #tema/diseno/interfaces

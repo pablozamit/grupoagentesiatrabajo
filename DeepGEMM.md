@@ -23,4 +23,4 @@ El vídeo de 15 segundos solo recorre el repositorio y sus requisitos, sin voz n
 
 [[llama.cpp]], [[Ollama]], [[headroom]]. La compresión de contexto de headroom actúa en otra capa: menos texto enviado al modelo, no kernels de GPU.
 
-#opensource #modelos #agente
+#tipo/modelo #tema/agentes #tema/modelos

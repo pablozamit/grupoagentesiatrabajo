@@ -22,4 +22,5 @@ just setup && just build
 
 - Repo: [github.com/block/buzz](https://github.com/block/buzz)
 
-# #agente #proyecto
+
+#tipo/herramienta #tema/agentes #tema/programacion

@@ -1,52 +1,7 @@
-# #vibecoding
+# Programación y aplicaciones
 
-Notas sobre vibecoding:
+Desarrollo de software con IA y vibecoding.
 
-- [[Vibecoding]] - Metodología de desarrollo con IA
-- [[Kilo Code]] - Agente de código open source para vibecodear
-- [[Claude Code]] - Agente de código oficial de Anthropic para vibecodear
-- [[21st.dev]] - Galería de componentes que se copian como prompt para tu IA
-- [[Memanto]] - Memoria persistente para tus agentes de vibecoding
-- [[DesignTools.fyi]] - Directorio de herramientas de diseño, muchas vibecoding-friendly
-- [[Iconiq]] - Componentes UI minimalistas listos para pegar en tu proyecto
-- [[Ian Xiaohei Illustrations]] - Skill de Codex para generar ilustraciones hand-drawn
-- [[MCP Server para desarrollo autónomo]] - Patrón para que un agente IA construya tu app de forma autónoma
-- [[UI Skills]] - Skills de diseño-ingeniería para agentes de IA
-- [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Guía completa para crear juegos completos con vibecoding: 40 herramientas, pipelines y prompt maestro
-- [[Codex]] - Agente de código de OpenAI para vibecodear (CLI, IDE o cloud)
-- [[Taste-Skill]] - Skills de diseño anti-slop para que tus agentes generen interfaces con buen gusto (47.3k ⭐)
-- [[Vibecode It Yourself]] - 33 SaaS que puedes reemplazar vibecodeando tú mismo, con prompts completos
-- [[Personajes 3D jugables desde IA]] - Pipeline de vibecoding: imagen a personaje 3D animado en tu motor de juego
-- [[The Complete Shelf]] - Proyecto Three.js open source de Meng To con el prompt completo para remezclarlo
-- [[Learn Harness Engineering]] - Curso gratuito para hacer fiable a tu agente de vibecoding: estado, scope, verificación y loops
-- [[Cedar Filmstrip]] - Componente de carrusel Vue 3 de producción (REI) para copiar/adaptar con tu agente
-- [[react-native-morph-view]] - Componente RN de morph gooey para remezclar con tu agente (Metal/AGSL)
-- [[Cursor Design (Open Design)]] - AI design studio open source: tu agente edita UI por point/comment/edit
-- [[Godot]] - El motor de juegos del vibecoding: open source, GDScript fácil de generar con IA, MCP para tu agente
-- [[Cartwheel MCP]] - Dale animación a tus personajes 3D con IA: Astra anima en Blender vía MCP
-- [[AI Critic Loop]] - Prompt hack para que GPT-6 Astra no genere slop: agente crítico con screenshots que loopa hasta score >8
-- [[Fable Orchestrator]] - Reparte el trabajo entre Fable 5.1 (planifica) + Luna/DeepSeek Flash (implementan) para no agotar límites
-- [[Checklist web vibecodeada]] - 20 puntos para dar por terminada tu web generada con IA (404, metas, favicon, OG...)
-- [[ZCode Video plugins]] - Video como especificación: de grabación a código React y edición automática con GLM-5.3-Flash
-- [[Arcade AI]] - Describe el juego a la IA y juega sin salir del navegador: crear y jugar son el mismo acto
-- [[Skills de diseño (better-ui y emil-design-eng)]] - Vibecodear con gusto: skills que evitan el slop visual en apps generadas
-- [[Workflow de diseño con IA (Breeje Anadkat)]] - Referencias → draft → feedback → Figma: el loop que convierte slop en diseño
-- [[Vibe Kanban]] - Planifica en kanban, ejecuta en workspaces paralelos, revisa diffs: el loop plan→review con agentes
-- [[Rocket.new]] - App full-stack (Next.js/Flutter + Supabase) desde un prompt, sin lock-in: caso app finanzas (169k views)
-- [[Gym tokens (mancuernas por Claude)]] - Cámara + Claude Code + MediaPipe + Jev fallback: entrenar para desbloquear trabajo (48.9k views)
-- [[Diseño con Codex (receta Vox)]] - Que Codex diseñe bien: visual primero, skills de gusto y auditoría usándolo de verdad
-- [[Pascal]] - Carga un plano y que lo construya: editor 3D con MCP para que tu agente edite escenas (`pascal mcp connect`)
-- [[Codebase Memory MCP]] - El agente pregunta al grafo en vez de leerse el repo: nodos, llamadas, rutas (hilo en español)
+Consulta la clasificación actualizada: [[tags/tema/programacion/desarrollo-con-ia]].
 
-- [[Devin]] - El agente de código de Cognition: vincula tu plan ChatGPT (Go/Plus/Pro) para pagar el uso de modelos GPT con él
-
-- [[Nanostack]] - Tu agente vibecodea con disciplina de sprint: plan, review adversarial, security y qa antes de shipear
-
-- [[Reason Network]] - Tus agentes de código se piden trabajo entre ellos sobre la red local, sin pisarse el repositorio
-
-- [[claude-peers MCP]] - Tus instancias de Claude Code se descubren y se mandan mensajes al instante por un broker local (localhost + SQLite)
-
-
-- [[Flujo de edición de vídeo con Claude Code]] - Pipeline revisable de edición asistida por agente.
-
-# #vibecoding
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

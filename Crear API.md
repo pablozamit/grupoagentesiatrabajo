@@ -410,4 +410,5 @@ Una API REST funcionando en `https://tu-api.vercel.app` con endpoints:
 - **Sofascore puede cambiar sus endpoints** — revisa cada pocos meses que sigan funcionando
 - **Alternativa legal**: Si necesitas datos para un producto comercial, considera APIs oficiales como Sportmonks, API-Football o Football-Data.org
 
-# #proyecto #web #agente
+
+#tipo/ejercicio #tema/datos/extraccion-web #tema/agentes

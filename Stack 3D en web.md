@@ -82,4 +82,5 @@ Diseño en Blender / Maya / Cinema 4D
 3. Si quieres efectos, instala [[Plume]] sobre Three.js
 4. Para inspirarte, hojea [[Whitespace Experiments]] y copia un experimento
 
-# #3d #diseno #contenido
+
+#tipo/guia #tema/diseno/interfaces #tema/imagen-3d

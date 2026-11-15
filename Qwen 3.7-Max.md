@@ -24,4 +24,4 @@ El autor considera a Qwen a la altura de Gemini y mejor que los otros en este ej
 - [[Gemma 4]]: otra familia de modelos, con condiciones distintas.
 - [[Qwen-Image-2.1]]: modelo de imagen distinto; no trasladar sus capacidades a Max.
 
-#modelos #juegos #agente
+#tipo/modelo #tema/agentes #tema/modelos

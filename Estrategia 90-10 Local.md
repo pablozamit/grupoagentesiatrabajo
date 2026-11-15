@@ -135,4 +135,4 @@ No es local pero es el mismo principio: pagar solo cuando toca.
 
 ---
 
-#modelos #agente #ia #opensource #contenido
+#tipo/modelo #tema/agentes #tema/modelos

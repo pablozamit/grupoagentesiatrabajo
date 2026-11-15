@@ -78,4 +78,4 @@ docker compose up -d
 
 ---
 
-#ia #contenido #opensource #hosting #investigacion
+#tipo/herramienta #tema/datos/investigacion #tema/infraestructura/hosting

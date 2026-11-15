@@ -24,4 +24,5 @@ Qwen lo llama open source, pero los pesos van con **Qwen Research License** (def
 - Usarlo en diseño con agentes: [[Diseño con Codex (receta Vox)]]
 - Edición conversacional: [[VibeTube]]
 
-# #modelos #opensource #diseno
+
+#tipo/modelo #tema/modelos #tema/diseno/interfaces

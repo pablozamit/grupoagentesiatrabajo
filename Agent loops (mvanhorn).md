@@ -22,4 +22,5 @@ Los loops que ganan no son prompts más listos: son **cron + LLM + estado local*
 - Harness fiable: [[Learn Harness Engineering]], [[HarnessRouter + UHP]]
 - Cookies para agentes: [[Browser Use]], [[Camofox Browser]]
 
-# #agente #productividad #contenido
+
+#tipo/herramienta #tema/agentes

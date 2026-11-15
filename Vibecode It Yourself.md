@@ -57,8 +57,4 @@ Cada entrada incluye stack técnico sugerido (Astro + HTMX/Alpine + D1/R2/Worker
 
 [[Alternativas autohospedadas a SaaS]] reúne proyectos existentes para automatización, reservas, diseño, chat y datos. Comparar licencia, migración y coste total antes de elegir: un servidor barato no incluye parches, backups ni soporte. Las estimaciones de horas del sitio no son una garantía de producción.
 
-## Tags
-
-- #vibecoding — Metodología: reemplazar SaaS con tu propio código
-- #contenido — Guía teórica de 33 alternativas
-- #productividad — Ahorro económico y gestión de herramientas
+#tipo/guia #tema/programacion/desarrollo-con-ia #tema/marketing/negocio

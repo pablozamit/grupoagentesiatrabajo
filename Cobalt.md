@@ -33,4 +33,5 @@ Puedes correr tu propia instancia con Docker. Los docs cubren instalación, prot
 - Procesar lo descargado: [[FFmpeg]]
 - Más open source self-hosted: [[Open Generative AI]], [[Bento]]
 
-# #opensource #video #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/video

@@ -48,4 +48,5 @@ Si te interesa **construir webs cinematográficas con IA** (la misma familia que
 - Modelo de Anthropic: Claude Fable 5 (Mythos-class)
 - Otras personas a seguir: [[Andrew (@andrewxroas)]], [[Jake Castillo]]
 
-# #diseno #contenido #marketing #web
+
+#tipo/herramienta #tema/programacion/web #tema/diseno/interfaces

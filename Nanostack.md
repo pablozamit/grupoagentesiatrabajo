@@ -37,4 +37,5 @@ Corre las skills **en el orden de un sprint**:
 - [[Claude Code]] · [[Codex]] — host verificados
 - [[Skills]] — el formato de skill que usa
 
-# #agente #skills #vibecoding
+
+#tipo/skill #tema/agentes #tema/programacion/desarrollo-con-ia

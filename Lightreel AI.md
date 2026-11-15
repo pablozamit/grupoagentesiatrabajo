@@ -35,4 +35,5 @@ Cada píxel del video de lanzamiento es un Meta ad real.
 - Buscar imágenes para montajes: [[Pexafy]]
 - Leads con IA: [[Polar Browser]] (misma idea aplicada a B2B: un prompt → lista)
 
-# #marketing #video #contenido
+
+#tipo/herramienta #tema/video #tema/marketing

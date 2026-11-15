@@ -81,4 +81,5 @@ Combinado con **[[Taste-Skill]]** (el *gusto* visual) y **[[8 Prompts de Diseño
 - Gamificación y retención: [[#gamificacion]]
 - Referencias de diseño: [[Recent Design]], [[Dead Simple Sites]]
 
-# #diseno #contenido #web #productividad
+
+#tipo/herramienta #tema/programacion/web #tema/diseno/interfaces

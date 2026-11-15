@@ -13,4 +13,5 @@ Puede servir como pieza de la capa de navegación de un agente cuando se prioriz
 - [@progrium en X](https://x.com/progrium/status/2114076633749676231)
 - [Repositorio oficial](https://github.com/tractordev/webframe)
 
-# #agente #opensource #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

@@ -84,4 +84,5 @@ Lanzamiento open source por Heroza Zhang ([@HerozaZhan73432](https://x.com/Heroz
 
 Relacionado: [[AutoSprite]], [[Pixel Art Sprites]], [[Juegos]], [[3D]]
 
-# #juegos #2d #ia #animacion #opensource
+
+#tipo/herramienta #tema/videojuegos

@@ -57,4 +57,5 @@ Cuando quieres saber qué herramienta usar para una tarea de diseño y no quiere
 - Editorial: [designtools.fyi/news](https://designtools.fyi/news)
 - Archivo de herramientas: [designtools.fyi/tools](https://designtools.fyi/tools)
 
-# #diseno #contenido #vibecoding
+
+#tipo/concepto #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

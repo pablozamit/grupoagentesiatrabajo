@@ -36,4 +36,5 @@ mimo
 
 Relacionado: [[Claude Code]], [[Kilo Code]], [[Codex]], [[Vibecoding]]
 
-# #vibecoding #agente #modelos #ia
+
+#tipo/modelo #tema/agentes #tema/modelos

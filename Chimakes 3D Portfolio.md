@@ -27,4 +27,5 @@
 - Portfolios 3D de referencia: [[Mesh3D Gallery]], [[Whitespace Experiments]], [[Neo-Forge]]
 - Inspiración: [[Recent Design]], [[Dead Simple Sites]]
 
-# #3d #diseno #web #contenido
+
+#tipo/caso-practico #tema/programacion/web #tema/diseno/interfaces

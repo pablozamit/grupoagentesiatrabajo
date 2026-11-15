@@ -51,4 +51,5 @@ Pexafy encaja perfectamente en el pipeline de **footage libre** de [[OpenMontage
 - Más servicios gratuitos para devs: [[free-for.dev]]
 - Recursos de diseño y media: [[Repositorio 400 Recursos de Diseño Gratuitos]]
 
-# #diseno #web #agente #video
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

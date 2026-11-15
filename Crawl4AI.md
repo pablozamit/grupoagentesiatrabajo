@@ -25,4 +25,5 @@
 - Scraping general: [[Apify]]
 - Dar internet a tu agente: [[Acceso a internet desde agentes]]
 
-# #opensource #investigacion #web
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/datos/investigacion

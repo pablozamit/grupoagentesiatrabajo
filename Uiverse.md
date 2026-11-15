@@ -8,4 +8,5 @@
 - Ideal para prototipar rápido sin escribir CSS desde cero
 - Inspiración para estilos y micro-interacciones
 
-# #diseno #web #recursos
+
+#tipo/herramienta #tema/programacion/web #tema/diseno/interfaces

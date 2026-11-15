@@ -78,4 +78,5 @@ Conecta con la filosofía de la enciclopedia: **URLs estables = agentes fiables*
 - Despliegue local→web: [[Vercel]], [[OpenShip]]
 - Agentes y URLs estables: [[Learn Harness Engineering]], [[Noqa]]
 
-# #web #productividad #opensource #agente
+
+#tipo/herramienta #tema/agentes #tema/programacion/web

@@ -24,4 +24,5 @@ Describe el trabajo → el agente ejecuta en su workspace → revisas el diff �
 - Metodología: [[Vibecoding]], [[Learn Harness Engineering]]
 - Convertir demos en skills: [[Codex Record & Replay]], [[Skill Recorder]]
 
-# #vibecoding #opensource #agente
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

@@ -21,4 +21,5 @@ Joven: la v0.1.1 (primera versión completa, con la app de escritorio) es de nov
 
 - [[67js]], [[Spline]]
 
-# #video #3d
+
+#tipo/herramienta #tema/imagen-3d #tema/video

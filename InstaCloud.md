@@ -39,4 +39,5 @@ Le dices a Claude/Codex/Cursor: *"Deploy this app on InstaCloud with a Postgres 
 - DBs: [[Firebase]], [[TencentDB Agent Memory]]
 - Credenciales sin chat: [[Fly Sprites (Jev)]] (mismo patrón gateway), [[HarnessRouter + UHP]]
 
-# #hosting #basededatos #agente
+
+#tipo/herramienta #tema/agentes #tema/datos/bases-de-datos

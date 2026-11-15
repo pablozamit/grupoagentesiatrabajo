@@ -46,4 +46,5 @@ Es la respuesta directa a los **muros de signup** que frenan a humanos y agentes
 - Herramientas de diseño/recursos: [[Repositorio 400 Recursos de Diseño Gratuitos]], [[Uiverse]]
 - Herramientas sin registro para agentes: [[Cuentas Temporales de Cloudflare]], [[Here.Now]]
 
-# #contenido #productividad #web #opensource
+
+#tipo/herramienta #tema/agentes/navegacion-y-control

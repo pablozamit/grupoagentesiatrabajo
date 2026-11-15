@@ -33,4 +33,5 @@ Casos que cita la autora: 5k visitas/mes desde ChatGPT+Claude tras 3 meses de GE
 - Auditoría on-page para IAs: [[Best AEO Skill]]
 - Medir antes de actuar: [[Auditoría SEO]], [[GEO]]
 
-# #seo #marketing #contenido
+
+#tipo/herramienta #tema/marketing #tema/marketing/seo

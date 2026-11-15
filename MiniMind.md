@@ -23,4 +23,5 @@ La idea es didáctica: reproducir de principio a fin "todo el proceso de constru
 - [[llama.cpp]] - motor de inferencia para correr modelos pequeños en local
 - [[AirLLM]] - técnica para ejecutar modelos grandes en hardware de consumo
 
-# #modelos #opensource #contenido
+
+#tipo/modelo #tema/modelos

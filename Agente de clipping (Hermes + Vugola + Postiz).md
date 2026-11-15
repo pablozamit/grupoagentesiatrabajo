@@ -34,4 +34,5 @@ El artículo es contenido comercial (enlaza a Vugola y Postiz) y no prueba ingre
 - [[Vugola]], [[Postiz]], [[Hermes Agent]]
 - Otros flujos de vídeo y clips: [[xurl]], [[Edición de vídeo con IA (10 repos open source)]], [[VibeTube]]
 
-# #agente #video #contenido
+
+#tipo/herramienta #tema/agentes #tema/video

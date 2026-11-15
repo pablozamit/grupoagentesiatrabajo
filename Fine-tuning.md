@@ -31,4 +31,5 @@ Relato de Crstian ([@crstiax](https://x.com/crstiax)) aprendiendo fine-tuning de
 - [blog.crstian.me](https://blog.crstian.me) - donde anuncia los posts del proceso
 - [Dataset CARES (SINAI, Universidad de Jaén)](https://huggingface.co/datasets/SINAI/CARES)
 
-# #modelos #ia
+
+#tipo/concepto #tema/modelos

@@ -8,4 +8,5 @@ La página enlazada es [genex.games/desktop](https://genex.games/desktop). La af
 
 Genex entra en el cruce de [[Vibecoding]], herramientas de juegos y agentes que editan proyectos locales. Se complementa con [[Godot]], [[Unreal Engine Skills para Claude Code]], [[Three.js Game Skills (Majid Manzarpour)]] y [[Sorceress]].
 
-# #juegos #ia #vibecoding
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/videojuegos

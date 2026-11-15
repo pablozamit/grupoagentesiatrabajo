@@ -30,4 +30,5 @@ UX (usuario) + DX (developer) + AX (**agent experience**: que el próximo agente
 - Metodologías: [[Workflow de diseño con IA (Breeje Anadkat)]], [[AI Critic Loop]] (pasada visual antes de iterar)
 - Frameworks anti-slop: [[Taste-Skill]]
 
-# #diseno #vibecoding #skills
+
+#tipo/skill #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

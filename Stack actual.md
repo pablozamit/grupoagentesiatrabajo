@@ -36,4 +36,5 @@ Las herramientas que uso a día de hoy (noviembre de 2026), revisadas y corregid
 
 - [[Codex]], [[Vercel]], [[Stack-3D-en-web]], [[Stack-Cloudflare-para-un-SaaS-pequeño]], [[Stack-de-vídeo-con-agentes-(Dumble)]]
 
-# #ia
+
+#tipo/guia #tema/agentes

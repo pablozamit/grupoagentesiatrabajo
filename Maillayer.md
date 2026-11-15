@@ -31,4 +31,5 @@ La web documenta SPF, DKIM y DMARC por proveedor, gestión de rebotes y quejas. 
 - [[BounceBan]]
 - [[Marketing Skills]]
 
-# #contenido #marketing #hosting
+
+#tipo/herramienta #tema/infraestructura/hosting #tema/marketing

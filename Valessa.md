@@ -17,4 +17,5 @@
 - Soporta exportación a GLB
 - Orientado a diseñadores de producto que necesitan renders 3D de alta calidad desde el navegador
 
-# #3d #diseno #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/diseno/interfaces

@@ -72,4 +72,5 @@ Es un ejemplo de **componente de carrusel accesible y data-driven** para copiar/
 - Design systems para agentes: [[Taste-Skill]], [[8 Prompts de Diseño para Agentes de IA]]
 - Web con componentes: [[Comp AI CRM]], [[Landingfolio MCP]]
 
-# #diseno #web #vibecoding #opensource
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/programacion/web

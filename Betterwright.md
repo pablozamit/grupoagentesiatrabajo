@@ -31,4 +31,5 @@ Nav ([@NavDoesTech](https://x.com/NavDoesTech), 16.7k views) le pidió que inves
 - Navegadores para agentes: [[Moli Browser]], [[Camofox Browser]], [[Polar Browser]]
 - Créditos gratis para infra: [[free-for.dev]]
 
-# #agente #web #opensource
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

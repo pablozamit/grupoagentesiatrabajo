@@ -22,4 +22,4 @@ La documentación incluye instalación y configuración de proveedores. Autohosp
 
 - [[Vugola]], [[Hermes Agent]], [[xurl]], [[Alternativas autohospedadas a SaaS]]
 
-#contenido #web #marketing #agente #video
+#tipo/herramienta #tema/agentes #tema/programacion/web

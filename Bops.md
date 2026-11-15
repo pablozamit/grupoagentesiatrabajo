@@ -29,4 +29,5 @@ Dar acceso a email, CRM, pagos u ordenador exige permisos acotados y revisión d
 - [[Google Antigravity]]
 - [[Despliegue de IA en empresa (3 etapas)]]
 
-# #contenido #agente #productividad
+
+#tipo/herramienta #tema/agentes

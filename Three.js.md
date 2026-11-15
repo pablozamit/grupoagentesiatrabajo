@@ -38,4 +38,5 @@
 - Para un ejemplo realista de Three.js con page-flip y detalle de librería, ver [[The Complete Shelf]]
 - Para landing pages de scroll con cámara que vuela (sin Three.js, con IA), ver [[scroll-world]]
 
-# #3d #juegos #diseno
+
+#tipo/herramienta #tema/diseno/interfaces #tema/imagen-3d #tema/programacion/web

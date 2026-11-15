@@ -76,4 +76,5 @@ O con la skill **harness-creator**: te genera un harness de producción (AGENTS.
 - Entornos de trabajo para agentes: [[Orca]], [[AgentRouter]]
 - Metodología de desarrollo con agentes: [[Vibecoding]], [[grokbot.dev use-cases]]
 
-# #contenido #agente #vibecoding
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

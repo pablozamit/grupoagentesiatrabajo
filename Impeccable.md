@@ -68,4 +68,5 @@ Receta de [@Voxyz_ai](https://x.com/Voxel) (161k views): cuando la página está
 - CLI (npm): `npx impeccable`
 - GitHub: [github.com/impeccable-ai](https://github.com/impeccable-ai)
 
-# #diseno #web #agente #ux #herramientas
+
+#tipo/herramienta #tema/agentes #tema/programacion/web

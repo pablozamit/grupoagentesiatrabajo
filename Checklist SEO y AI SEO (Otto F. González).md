@@ -167,4 +167,5 @@ Date una vuelta por tu blog (si tienes uno), o mira las páginas que tienes en t
 - [[Google goto links]] - Google interpone redirect en el SERP: qué rompe en rank trackers y atribución
 - [[Botón de perfil de Google Search]] - Seguidores dentro de Google que reparten hasta tu TikTok/IG/YT en Discover
 
-# #seo #marketing #contenido
+
+#tipo/guia #tema/marketing #tema/marketing/seo

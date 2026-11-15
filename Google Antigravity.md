@@ -51,4 +51,5 @@ El vídeo muestra una aplicación concreta, no garantiza que todo proyecto compl
 
 Fuentes: [Build with Google](https://www.antigravity.google/docs/build-with-google/), [Android CLI estable 1.0](https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html), [codelab Stitch MCP](https://codelabs.developers.google.com/design-to-code-with-antigravity-stitch). Difusión y demo: [Google Antigravity en X](https://x.com/antigravity/status/2107585958245712263).
 
-# #ia #agente #vibecoding #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

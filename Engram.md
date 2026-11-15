@@ -29,4 +29,5 @@ y después sigue el setup de tu agente en `docs/AGENT-SETUP.md` del repo.
 - [[Memanto]] — otra capa de memoria open source para agentes
 - [[Claude Code]] — uno de los 14 agentes soportados
 
-# #agente #opensource
+
+#tipo/herramienta #tema/agentes

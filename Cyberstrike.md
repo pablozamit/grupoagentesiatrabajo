@@ -18,4 +18,5 @@ Todas esas cifras son **afirmaciones del anuncio** y no se han verificado de for
 - [[GLiNER2.5]] · [[Firecrawl]] — piezas reutilizables en pipelines de seguridad
 - [[REA (Reverse Engineer Anything)]] — ingeniería inversa sobre binarios (otro uso "ofensivo")
 
-# #agente #opensource #contenido
+
+#tipo/herramienta #tema/agentes

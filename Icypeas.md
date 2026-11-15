@@ -17,4 +17,5 @@
 - [[Scraping]] — el pipeline completo
 - [[Prospeo]] — primera capa del waterfall
 
-# #web #oportunidades
+
+#tipo/herramienta #tema/datos/extraccion-web

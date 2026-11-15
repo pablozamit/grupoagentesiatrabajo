@@ -32,4 +32,5 @@ Consola de Alibaba Cloud para usar los modelos **Qwen** gratis mediante free tri
 - Al agotarse o expirar empieza a cobrar
 - No usar modelos sin free quota
 
-# #modelos #ia #hosting #gratis
+
+#tipo/herramienta #tema/modelos #tema/infraestructura/hosting

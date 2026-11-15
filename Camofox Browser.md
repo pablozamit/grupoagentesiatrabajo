@@ -73,4 +73,5 @@ curl -X POST http://localhost:9377/tabs/TAB_ID/navigate \
 - Scraping para agentes: [[Firecrawl]], [[Apify]], [[Agent-Reach]]
 - Acceso a internet desde agentes: [[Acceso a internet desde agentes]]
 
-# #agente #web #oportunidades #opensource
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

@@ -12,4 +12,5 @@ Hay que distinguir el calentamiento local del pool alojado. En una instalación 
 
 Ver también: [[Cold Email]] [[Maillayer]] [[Icypeas]]
 
-# #marketing #opensource #contenido
+
+#tipo/herramienta #tema/marketing

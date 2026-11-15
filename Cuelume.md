@@ -20,4 +20,5 @@ La mayoría de sonidos UI se sienten baratos porque son MP3 precargados. Cuelume
 - Web: [cuelume-site.pages.dev](https://cuelume-site.pages.dev)
 - Autor: [@dwhitedesign](https://x.com/dwhitedesign)
 
-# #audio #diseno #web
+
+#tipo/herramienta #tema/programacion/web #tema/diseno/interfaces

@@ -29,4 +29,5 @@ Un usuario sugirió montar un **servidor MCP** para que los agentes de IA (Claud
 - Set de componentes/iconos para pegar en tu app: [[Iconiq]]
 - Diferencia/uso en diseño: ver [[#diseno]]
 
-# #diseno #contenido
+
+#tipo/herramienta #tema/diseno/interfaces

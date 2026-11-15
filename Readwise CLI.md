@@ -25,4 +25,5 @@ npm install -g @readwise/cli
 - Acceso a datos propios para agentes: [[Agent loops (mvanhorn)]], [[Acceso a internet desde agentes]]
 - Skills: [[Skills]]
 
-# #agente #productividad #contenido
+
+#tipo/herramienta #tema/agentes

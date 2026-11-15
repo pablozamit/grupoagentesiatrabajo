@@ -49,4 +49,5 @@ Es la prueba de que el pipeline skills → juego completo escala a multijugador 
 
 - Otro proyecto open source de Meng To (estantería 3D realista con prompt): [[The Complete Shelf]]
 
-# #juegos #skills #3d
+
+#tipo/skill #tema/imagen-3d #tema/videojuegos

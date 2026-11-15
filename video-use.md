@@ -65,4 +65,5 @@ Transcribir ──> Empaquetar ──> LLM Razona ──> EDL ──> Renderizar
 
 Relacionado: [[OpenCut]], [[HyperFrames]], [[FFmpeg]], [[Browser Use]], [[Hermes Agent]]
 
-# #video #edicion #agente #ia #opensource
+
+#tipo/herramienta #tema/agentes #tema/video

@@ -27,4 +27,5 @@ Framework con plugins para quien no quiere configurar: routing automático, llms
 - Publicar: [[Vercel]], [[Here.Now]]
 - Documentar APIs: [[Crear API]]
 
-# #web #opensource #contenido
+
+#tipo/herramienta #tema/programacion/web

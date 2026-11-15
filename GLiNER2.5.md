@@ -35,4 +35,5 @@ Es la alternativa local a usar un modelo frontera (o a [[Jev (TypeSafe)]]) para 
 - Donde encaja en un agente navegador: [[Browser Use]]
 - Modelos pequeños locales: [[Ollama]], [[Cactus Needle 2]]
 
-# #modelos #opensource #agente
+
+#tipo/modelo #tema/agentes #tema/modelos

@@ -20,4 +20,5 @@ La promesa del autor ("no he encontrado una tarea que no funcione") es un testim
 - Navegación para agentes: [[Browser Use]], [[Camofox Browser]], [[Moli Browser]], [[Obscura]], [[Stagehand]]
 - Agentes de código: [[Claude Code]], [[Codex]]
 
-# #agente #opensource
+
+#tipo/herramienta #tema/agentes

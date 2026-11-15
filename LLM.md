@@ -10,4 +10,4 @@ Video largo pero vale la pena — explica desde cero qué es un LLM, cómo funci
 
 ---
 
-#ia #contenido #recursos
+#tipo/concepto #tema/modelos

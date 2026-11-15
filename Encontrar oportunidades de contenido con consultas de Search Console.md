@@ -15,4 +15,5 @@ Este filtro solo muestra consultas para las que el sitio ya apareció. Cero resu
 - [Filtros avanzados y regex del informe de rendimiento](https://support.google.com/webmasters/answer/17011165)
 - [Métricas y dimensiones del informe de rendimiento](https://support.google.com/webmasters/answer/7576553)
 
-# #seo #contenido #web
+
+#tipo/guia #tema/programacion/web #tema/marketing/seo

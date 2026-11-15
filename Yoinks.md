@@ -36,4 +36,5 @@ Requiere Node 18+. yt-dlp y ffmpeg se gestionan automáticamente.
 
 Alternativa con interfaz web y self-hosting: [[Cobalt]].
 
-# #video #web
+
+#tipo/herramienta #tema/programacion/web #tema/video

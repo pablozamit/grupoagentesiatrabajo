@@ -58,4 +58,5 @@ Los spritesheets que generas son tuyos: puedes usarlos en prototipos, acceso ant
 - Discord: [discord.gg/h2eFPcNGxx](https://discord.gg/h2eFPcNGxx)
 - X: [@AutoSpriteio](https://x.com/AutoSpriteio)
 
-# #juegos #ia
+
+#tipo/concepto #tema/videojuegos

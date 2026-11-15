@@ -52,4 +52,5 @@ Como dice Paul Klein (fundador de Browserbase): *"WebMCP facilita que los agente
 
 Relacionado: [[Best AEO Skill]], [[GEO]], [[Agent-Reach]], [[Browser Use]], [[MCP]]
 
-# #web #agente #aeo #seo #ia
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/agentes

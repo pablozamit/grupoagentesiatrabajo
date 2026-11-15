@@ -28,4 +28,5 @@ En el benchmark **Lexbench** publicado por [[Moli Browser]] (1.308 tareas compar
 - Scraping/extracción: [[Firecrawl]], [[Crawl4AI]], [[ScrapeGraphAI]]
 - Acceso a internet desde agentes: [[Acceso a internet desde agentes]]
 
-# #agente #opensource #web
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/agentes

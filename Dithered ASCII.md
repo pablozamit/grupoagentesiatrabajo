@@ -24,4 +24,5 @@ Imágenes o animaciones que usan patrones de puntos estilo dithering renderizado
 
 - [[ASCII-Magic]] — herramienta que incluye estilos Dither + Characters
 
-# #diseno #arte #retro #web
+
+#tipo/herramienta #tema/programacion/web #tema/diseno/interfaces

@@ -17,4 +17,5 @@
 - [[Scraping]] — el pipeline completo
 - [[MillionVerifier]] — verificador generalista
 
-# #web #oportunidades
+
+#tipo/herramienta #tema/datos/extraccion-web

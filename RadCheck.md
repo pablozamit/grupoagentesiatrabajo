@@ -15,4 +15,5 @@ El antecedente científico citado por el proyecto es un estudio de 2025 sobre in
 - [RadCheck-Bench-ES](https://github.com/crstian19/radcheck/tree/main/bench)
 - [Estudio en *Radiology* (2025)](https://doi.org/10.1148/radiol.242575)
 
-# #modelos #ciencia #opensource
+
+#tipo/modelo #tema/modelos #tema/datos/investigacion

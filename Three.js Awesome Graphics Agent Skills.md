@@ -69,4 +69,5 @@ npx threejs-awesome-graphics-agent-skills@latest install --agent gemini-cli --fo
 - [[img2threejs]] — convierte imágenes a código Three.js procedural
 - [[Plume]] — efectos de partículas GPU para Three.js
 
-# #3d #skills #juegos
+
+#tipo/skill #tema/imagen-3d #tema/videojuegos

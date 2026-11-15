@@ -36,4 +36,4 @@ El README no resuelve por sí solo la pregunta del [hilo](https://x.com/tom_doer
 - [[OpenPencil]]: alternativa abierta de diseño.
 - [[InstaCloud]]: infraestructura para agentes.
 
-#contenido #web #productividad
+#tipo/guia #tema/programacion/web

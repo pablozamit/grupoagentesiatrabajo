@@ -28,4 +28,5 @@ Sin LLM dentro a propósito: **tu agente es la capa inteligente** que traduce le
 - Menos tokens en terminal: [[RTK (Rust Token Killer)]]
 - Generar skills de lo observado: [[Codex Record & Replay]]
 
-# #agente #vibecoding #opensource
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

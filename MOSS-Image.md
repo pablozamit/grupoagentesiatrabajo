@@ -35,4 +35,5 @@ Según documentación de terceros (stable-diffusion.cpp), el 5B es un DiT single
 - Usarlo en diseño con agentes: [[Diseño con Codex (receta Vox)]]
 - Mismo ecosistema OpenMOSS (TTS): [[VoiceStudio]] usa MOSS-TTS
 
-# #modelos #opensource #diseno
+
+#tipo/modelo #tema/modelos #tema/diseno/interfaces

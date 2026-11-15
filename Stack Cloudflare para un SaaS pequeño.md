@@ -18,4 +18,5 @@ En un proyecto personal de bajo tráfico se comunicó una reducción de unos 50 
 - [Cloudflare Email](https://developers.cloudflare.com/email-service/)
 - [Better Auth](https://www.better-auth.com/)
 
-# #hosting #basededatos #contenido
+
+#tipo/guia #tema/datos/bases-de-datos #tema/infraestructura/hosting

@@ -41,4 +41,5 @@ Es decir, todo lo contrario a las galerías de "sitios con efectos espectaculare
 - Hecho por: [Arcade Labs](https://arcade.la/?ref=DSS)
 - Actualización: semanal (última fecha visible: 06/01/26)
 
-# #diseno #contenido #vibecoding
+
+#tipo/concepto #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

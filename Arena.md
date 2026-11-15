@@ -36,4 +36,5 @@
 - Web: [arena.ai](https://arena.ai/)
 - Líderboard: [lmarena.ai](https://lmarena.ai/)
 
-# #modelos #contenido
+
+#tipo/concepto #tema/modelos

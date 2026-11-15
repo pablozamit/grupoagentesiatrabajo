@@ -51,4 +51,5 @@ HTML5 es la **quinta versión mayor de HTML**, el lenguaje de marcado estándar 
 - Separar **estructura (HTML)**, **estilo (CSS)** y **comportamiento (JavaScript)**
 - Validar el HTML con herramientas como el [Validador del W3C](https://validator.w3.org/)
 
-# #contenido #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/programacion/web

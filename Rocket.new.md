@@ -21,4 +21,5 @@ Supabase, Stripe, Figma, GitHub, OpenAI, Twilio + staging/producción, SEO, anal
 - Backend gratis: [[free-for.dev]] (tiers gratuitos de DBs y APIs)
 - Deploy: [[Vercel]], [[Here.Now]]
 
-# #vibecoding #web #productividad
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/programacion/web

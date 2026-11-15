@@ -37,4 +37,5 @@ Relacionado: [[GEO]], [[Marketing Skills]], [[Zernio]] (WhatsApp API para outrea
 
 [[Warmbly]] es otra opción autoalojable: reúne campañas, buzones y CRM bajo licencia Apache-2.0. Su calentamiento local solo conecta los buzones de la misma instalación y no equivale al pool alojado compartido; comprobar las condiciones actuales antes de contar con esa función.
 
-# #contenido #oportunidades #web
+
+#tipo/concepto #tema/datos/extraccion-web

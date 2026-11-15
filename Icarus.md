@@ -51,4 +51,5 @@ El mismo autor mantiene **esaradev/icarus-memory-infra** (en el hilo aparece com
 - [[Engram]] - memoria persistente local vía MCP
 - [[TencentDB Agent Memory]] - hub de memoria con wiki y CodeGraph
 
-# #agente #basededatos #opensource
+
+#tipo/herramienta #tema/agentes #tema/datos/bases-de-datos

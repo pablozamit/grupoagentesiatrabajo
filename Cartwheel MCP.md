@@ -38,4 +38,5 @@ Conecta directamente con el workflow de [[Personajes 3D jugables desde IA]] (que
 - Animación y motion: [[Three.js Game Skills (Majid Manzarpour)]], [[GoRest 2D Spritesheet Generator]]
 - Modelos frontier en 3D: [[Pietro Schirano (@skirano)]], [[Elemental Sandbox]]
 
-# #3d #agente #video #vibecoding
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

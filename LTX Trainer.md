@@ -26,4 +26,5 @@ Normalmente, si quieres crear un modelo de IA que genere un tipo específico de 
 
 Relacionado: [[video-use]], [[OpenCut]], [[HyperFrames]], [[Claude Code]]
 
-# #video #ia #modelos #opensource
+
+#tipo/modelo #tema/modelos #tema/video

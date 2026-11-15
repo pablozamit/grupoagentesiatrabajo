@@ -23,4 +23,5 @@ El anuncio de [@RoundtableSpace](https://x.com/RoundtableSpace/status/2038258626
 - [[Agent loops (mvanhorn)]] — encadenar tools en un loop
 - [[Hermes Skills Hub]] — otro catálogo de capacidades para agentes
 
-# #agente #productividad #ia
+
+#tipo/herramienta #tema/agentes

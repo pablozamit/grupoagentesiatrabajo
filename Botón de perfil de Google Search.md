@@ -45,4 +45,5 @@ Tras dos años perdiendo tráfico que Google se queda, esto es lo contrario: Goo
 - Estrategia general: [[GEO]], [[Auditoría SEO]]
 - Ser citado por IAs: [[Menciones en listicles y reviews (GEO)]], [[LinkedIn Pulse para GEO]]
 
-# #seo #marketing #contenido
+
+#tipo/herramienta #tema/marketing #tema/marketing/seo

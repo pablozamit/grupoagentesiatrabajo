@@ -60,4 +60,5 @@ Neon Ridge Drift, Championship Snooker Arena, Starship Dogfight, Tide Singer, Ri
 - Juegos Three.js de referencia: [[Messenger]], [[Tinyskies]]
 - Generación de modelos: [[img2threejs]], [[Tripo]]
 
-# #juegos #3d #skills #agente
+
+#tipo/skill #tema/agentes #tema/imagen-3d

@@ -15,4 +15,5 @@
 
 - [[World Monitor]], [[Open Generative AI]]
 
-# #opensource #hosting
+
+#tipo/herramienta #tema/infraestructura/hosting

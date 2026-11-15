@@ -30,8 +30,4 @@ Compatible con Claude Code, Cursor, Codex, Windsurf y VS Code.
 
 > "Tu agente está a una línea de configuración de tener buen gusto." — Danny Postma
 
-## Tags
-
-- #diseno — Referencias visuales de las mejores landing pages
-- #agente — MCP para que el agente diseñe con buen gusto
-- #web — Componentes web de landing pages reales
+#tipo/herramienta #tema/diseno/inspiracion #tema/agentes/integraciones

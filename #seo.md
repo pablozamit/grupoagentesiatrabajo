@@ -1,28 +1,7 @@
-# #seo
+# SEO y GEO
 
-Notas sobre SEO y optimización para buscadores (tanto Google como buscadores de IA):
+Visibilidad en buscadores y respuestas de IA.
 
-- [[GEO]] - Optimización para motores de generación AI (ChatGPT, Perplexity, Gemini, Claude). Caso real Frambuesa, la ventana del LLM SEO, los 8 fundamentos de estructura y checklist completo
-- [[Best AEO Skill]] - Skill open source que audita tu web para que las IAs te citen (GEO Score 0-100)
-- [[Estudio de AI Overviews (SE Ranking)]] - 50.807 búsquedas/465.823 citas: autoridad > expertise, la IA no cita lo que rankea, YouTube líder
-- [[Marketing Skills]] - 44 skills open source (incluye SEO y OKF de Google)
-- [[Auditoría SEO]] - Plantilla de prompt para auditoría técnica SEO completa + cierre del ciclo de conversión
-- [[NotFair Plugin]] - 45 skills de SEO/GEO/paid media para agentes, evidence-led con Search Console y GA4 en vivo
-- [[Checklist web vibecodeada]] - 20 básicos antes de shipear: metas por página, robots.txt, sitemap, Open Graph
-- [[Jev (TypeSafe)]] - Internal linking masivo con un modelo de decisiones: 586 páginas en 45.1 s por $0.21 (~190× más barato que Opus por página)
-- [[Ryze AI]] - Replica la estrategia GEO del competidor: extensión que revela sus citas en ChatGPT + autopilot de fixes ($129/mes)
-- [[LinkedIn Pulse para GEO]] - SEO parásito en LinkedIn: de artículo a citado en AI Overviews en <24 h (Pulse cayó 89%, los posts suben)
-- [[Botón de perfil de Google Search]] - Seguidores dentro de Google que reparten hasta tu TikTok/IG/YT en Discover (doc oficial 16-sep, con elegibilidad)
-- [[Skills SEO gratis (TimSEO)]] - Biblioteca de 16 skills SEO gratuitas para automatizar con tu agente (organikk.co/skills)
-- [[Google goto links]] - Redirect anti-scraping en resultados: 500–1.000 requests por keyword, GSC como fuente fiable
-- [[Visual Schema]] - Pega URL o JSON-LD y míralo como grafo: valida, inspecciona entidades, descarga imagen (gratis, en español)
-- [[Entity Map con Screaming Frog MCP]] - Mapa de entidades con Claude + Spider v24 (MCP nativo): canibalización y consolidación sin Python
-- [[Checklist SEO y AI SEO (Otto F. González)]] - 10 claves para que tu web aparezca en Google y en respuestas de IA (rastreo, indexación, HTML, metas, enlazado interno, keywords específicas)
+Consulta la clasificación actualizada: [[tags/tema/marketing/seo]].
 
-- [[OpenSEO]] - Plataforma SEO open source con MCP y skills; conecta DataForSEO, Search Console y Analytics, con costes y límites según alojamiento y función
-
-
-- [[Indexación y rastreo de URLs en Google Search Console]] - Qué pedir a Google y qué no permite la URL Inspection API.
-- [[Encontrar oportunidades de contenido con consultas de Search Console]] - Regex de consultas largas y límites de Search Console.
-
-# #seo
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

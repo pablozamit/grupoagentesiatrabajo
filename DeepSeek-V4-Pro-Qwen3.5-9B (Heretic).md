@@ -8,4 +8,5 @@ Modelo: https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-h
 
 Ver también: [[Ollama]] [[llama.cpp]]
 
-# #modelos #agente #opensource
+
+#tipo/modelo #tema/agentes #tema/modelos

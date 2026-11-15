@@ -159,4 +159,5 @@ La repetición sobre 59 páginas dio variación media de puntuaciones≤ 0,03 se
 
 Fuentes de difusión de esta ampliación: hilos Mnimiy y GitHubDaily recogidos en Cola. Las capacidades se contrastaron con READMEs de ambos repositorios el 14-oct-2026; no se usa la etiqueta «oficial» del directorio externo como prueba.
 
-# #modelos #opensource #agente #seo #3d #video
+
+#tipo/modelo #tema/agentes #tema/modelos

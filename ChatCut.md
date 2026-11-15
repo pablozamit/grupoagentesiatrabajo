@@ -16,4 +16,5 @@ El 9 de noviembre de 2026, ChatCut anunció en X (@chatcutapp) un motor de rende
 
 Relacionado: [[HyperFrames]], [[OpenMontage]]
 
-# #video #ia
+
+#tipo/herramienta #tema/video

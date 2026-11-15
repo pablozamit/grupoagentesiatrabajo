@@ -40,4 +40,5 @@ Requiere **Bun**, **Claude Code v2.1.80+** y login de claude.ai (los canales no 
 - [[HarnessRouter + UHP]] - varios harnesses (Codex/Claude Code/Hermes) detrás de una API
 - [[Orca]] - ejecuta múltiples agentes en worktrees paralelos
 
-# #agente #opensource #vibecoding
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

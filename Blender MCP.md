@@ -50,4 +50,5 @@ Distribución mejorada con headless y benchmarks: [[Blender MCP Enhanced (bpy-de
 
 Flujo de producción 3D completo como skills de agente: [[Blender Skills (EL4CTEO)]].
 
-# #3d #agente #contenido #video
+
+#tipo/herramienta #tema/agentes #tema/imagen-3d

@@ -21,4 +21,4 @@ El proyecto distingue servidor local de servicios de nube MobileNext; no se veri
 
 Ver también: [[MCP Server para desarrollo autónomo]], [[Stagehand]], [[Vibecoding]].
 
-#opensource #agente #productividad
+#tipo/herramienta #tema/agentes

@@ -7,4 +7,5 @@
 - Ideal para descubrir diseñadores talentosos a los que seguir
 - Inspiración directa del mundo real, no mockups genéricos
 
-# #diseno #web #recursos
+
+#tipo/coleccion #tema/programacion/web #tema/diseno/interfaces

@@ -19,4 +19,5 @@
 - [Página del proyecto](https://saiyan-world.github.io/goku/)
 - [Tweet de @EHuanglu](https://x.com/EHuanglu/status/1889321582226767902) (11-feb-2025), guardado en bookmarks
 
-# #video #modelos #opensource #ia
+
+#tipo/modelo #tema/modelos #tema/video

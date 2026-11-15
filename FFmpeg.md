@@ -48,4 +48,5 @@ ffmpeg -i entrada.mp4 -vf scale=1280:720 salida.mp4
 
 [[reel-cli]] usa FFmpeg para montar una carpeta de fotos y vídeos en un MP4 vertical con collages, música y transiciones. Permite fijar duración, repetir el montaje con una semilla y previsualizar el plan sin renderizar. Es una alternativa sencilla cuando no importa el orden exacto de las tomas.
 
-# #video #contenido
+
+#tipo/concepto #tema/video

@@ -25,4 +25,5 @@ El enfoque es enseñar **cómo piensa un investigador de vulnerabilidades**, no 
 - [[GLM-5.3-CYBERSECURITY]] - modelo para red teaming
 - [[REA (Reverse Engineer Anything)]] - ingeniería inversa sobre binarios
 
-# #contenido #investigacion #opensource
+
+#tipo/herramienta #tema/datos/investigacion

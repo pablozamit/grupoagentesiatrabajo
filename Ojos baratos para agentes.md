@@ -73,4 +73,5 @@ Flash-Lite se pierde cosas sutiles. Si un solo frame decide algo importante, **m
 - [[OpenRouter]] — API unificada de modelos donde conseguir Flash-Lite
 - [[TokenRouter]] — Otra API unificada de modelos, a veces con modelos gratis
 
-# #agente #contenido #modelos
+
+#tipo/herramienta #tema/agentes #tema/modelos

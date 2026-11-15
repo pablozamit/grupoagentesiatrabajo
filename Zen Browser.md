@@ -30,4 +30,4 @@ Ventajas para agentes: ligero, privado, sin tracking, ideal para automatizacione
 - Web: [zen-browser.app](https://zen-browser.app)
 - MCP: [zen-mcp en GitHub](https://github.com/search?q=zen-mcp)
 
-Tags: `#web #agente #recursos #skills`
+#tipo/herramienta #tema/agentes

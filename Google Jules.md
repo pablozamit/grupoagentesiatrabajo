@@ -45,4 +45,5 @@
 - Web: [jules.google.com](https://jules.google.com/)
 - Docs: [jules.google/docs](https://jules.google/docs/)
 
-# #agente #vibecoding #contenido
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

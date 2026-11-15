@@ -47,4 +47,5 @@ python3 -m http.server 4173
 - Base 3D: [[Three.js]], [[Stack 3D en web]]
 - Alternativa ligera con WebGPU: [[BroMetal]]
 
-# #3d #vibecoding #diseno
+
+#tipo/caso-practico #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

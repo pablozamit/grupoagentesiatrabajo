@@ -174,4 +174,5 @@ Construyó Seas of Spark en **4 días** haciendo vibe coding en solitario.
 
 **Selección de 30 segundos:** 1 motor, 1 editor + 1 asistente IA, 1 herramienta de arte, 1 de audio, generadores IA para los huecos, Git LFS desde el primer commit, 1 plataforma para publicar. Cinco herramientas, wire con el prompt maestro, algo pequeño esta semana.
 
-# #juegos #vibecoding #3d #video #agente #modelos #recursos
+
+#tipo/modelo #tema/agentes #tema/modelos

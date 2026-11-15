@@ -8,4 +8,5 @@ No es un escáner pasivo: sus agentes pueden crear usuarios, enviar formularios,
 
 Ver también: [[Cyberstrike]] [[numasec]] [[GLM-5.3-CYBERSECURITY]]
 
-# #agente #opensource #investigacion
+
+#tipo/herramienta #tema/agentes #tema/datos/investigacion

@@ -34,4 +34,5 @@ Solo entran miembros del workspace que han iniciado sesión en sus propios orden
 - [[Vibe Kanban]]
 - [[CopilotKit]]
 
-# #agente #opensource #vibecoding
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

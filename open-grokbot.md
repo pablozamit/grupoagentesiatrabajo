@@ -26,4 +26,5 @@
 - [[REA (Reverse Engineer Anything)]] — skill/MCP usado en la reconstrucción
 - [[grokbot.dev use-cases]] — patrones de uso del Grok Bot oficial
 
-# #agente #opensource #contenido
+
+#tipo/herramienta #tema/agentes

@@ -54,4 +54,5 @@ result = client.models.embed_content(
 - [[TurboQuant]] - cuantización de vectores que reduce el coste de almacenar embeddings de alta dimensión
 - [[MOSS-Image]] - otro modelo multimodal abierto, en este caso generativo
 
-# #modelos #basededatos #contenido
+
+#tipo/modelo #tema/modelos #tema/datos/bases-de-datos

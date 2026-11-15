@@ -8,4 +8,5 @@
 - Descubrir qué herramientas y librerías usa cada sitio
 - Inspirarse para tus propios proyectos web con 3D
 
-# #3d #diseno #web
+
+#tipo/coleccion #tema/programacion/web #tema/diseno/interfaces

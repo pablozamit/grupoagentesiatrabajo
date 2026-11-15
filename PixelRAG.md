@@ -81,4 +81,5 @@ PixelRAG cambia el paradigma del web scraping: en lugar de parsear → extraer �
 - [[Firecrawl]] — API de web scraping tradicional (parseo de HTML)
 - [[Claude Video]] — Skill /watch para que Claude vea videos
 
-# #agente #web #modelos #opensource
+
+#tipo/modelo #tema/datos/extraccion-web #tema/agentes

@@ -16,4 +16,4 @@ Instalación: `pip install turbovec` (Python) o crate `turbovec` (Rust). Licenci
 
 Enlace: https://github.com/RyanCodrai/turbovec (~17k estrellas, oct 2026; tendencia del día en GitHub, jun 2026)
 
-#basededatos #opensource
+#tipo/herramienta #tema/datos/bases-de-datos

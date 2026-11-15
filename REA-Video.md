@@ -23,4 +23,5 @@ No confundir con [[REA (Reverse Engineer Anything)]], que es ingeniería inversa
 
 Relacionado: [[Claude Video]], [[ZCode Video plugins]], [[REA (Reverse Engineer Anything)]]
 
-# #video #ia #opensource #skills
+
+#tipo/skill #tema/video

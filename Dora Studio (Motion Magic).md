@@ -21,4 +21,5 @@ Starter $20 / Pro $60 / Max $120. Tráfico modesto (~19k visitas/mes): herramien
 - Skills de motion: [Motion Graphics Skills en Hermes](https://github.com/iart-ai/motion-skills) (ver [[Hermes Agent]])
 - Edición conversacional: [[VibeTube]], [[El vídeo es código]]
 
-# #video #contenido
+
+#tipo/herramienta #tema/video

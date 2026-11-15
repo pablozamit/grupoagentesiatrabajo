@@ -25,4 +25,5 @@ Es el briefing que le falta a tu agente cuando el copy sale genérico: dale tens
 - Psicología del diseño: [[Laws of UX]]
 - Distribuir lo que construyes: [[Cold Email]], [[Jake Castillo]], [[Andrew (@andrewxroas)]]
 
-# #marketing #contenido
+
+#tipo/herramienta #tema/marketing

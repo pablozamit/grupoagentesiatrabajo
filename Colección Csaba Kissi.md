@@ -26,4 +26,5 @@ Csaba Kissi ([@csaba_kissi](https://x.com/csaba_kissi)) recopiló 5 herramientas
 
 En un post posterior ([@csaba_kissi](https://x.com/csaba_kissi), 15.2k views) añadió: [css-loaders.colorion.co](http://css-loaders.colorion.co) (99 loaders CSS animados, del mismo autor), [21st.dev](http://21st.dev) (ver [[21st.dev]]), [million](http://github.com/aidenybai/million) (React 70% más rápido), [alacritty.org](http://alacritty.org) (terminal OpenGL open source) y [open-design.ai/html-video](https://open-design.ai/html-video) (video programático para agentes, ver [[Open Design]]).
 
-# #diseno #agente #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

@@ -53,4 +53,5 @@ const mjml = await editor.toMjml();
 - Documentación: [docs.templatical.com](https://docs.templatical.com)
 - Repositorio: [github.com/templatical/sdk](https://github.com/templatical/sdk)
 
-# #web #contenido
+
+#tipo/herramienta #tema/programacion/web

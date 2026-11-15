@@ -23,4 +23,5 @@ Es el patrón **video como especificación**: en vez de describir la web o el vi
 - Video programático con agentes: [[HyperFrames]], [[El vídeo es código]]
 - Modelos que coordinan agentes: [[Fable Orchestrator]]
 
-# #video #vibecoding #agente
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

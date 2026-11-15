@@ -11,4 +11,5 @@
 
 - [[Blender Skills (EL4CTEO)]], [[Blender MCP]], [[TRELLIS.2]]
 
-# #3d #opensource
+
+#tipo/herramienta #tema/imagen-3d

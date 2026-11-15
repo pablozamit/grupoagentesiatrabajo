@@ -33,4 +33,4 @@ PNG y MP4 animado hasta 4× resolución. Sin watermark.
 
 ---
 
-#diseno #web #video #herramientas #opensource
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/diseno/interfaces

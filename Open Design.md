@@ -44,4 +44,5 @@ La web renovada ([open-design.ai](https://open-design.ai), hilo de [@OpenDesignH
 
 Relacionado: [[Claude Code]], [[HyperFrames]], [[Codex]], [[Hermes Agent]], [[DesignTools.fyi]], [[Best Designs on X]]
 
-# #diseno #ia #agente #herramientas #opensource
+
+#tipo/herramienta #tema/agentes #tema/diseno/interfaces

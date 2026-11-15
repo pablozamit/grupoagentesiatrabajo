@@ -30,4 +30,4 @@ Memoria persistente puede contener datos sensibles. Revisar qué capturan los ho
 
 - [[Hermes Agent]], [[Codebase Memory MCP]], [[TencentDB Agent Memory]], [[Engram]]
 
-#opensource #contenido #agente
+#tipo/herramienta #tema/agentes

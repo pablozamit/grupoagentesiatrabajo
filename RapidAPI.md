@@ -17,4 +17,5 @@
 - [[Scraping]] — dónde encaja en el pipeline
 - [[MapsData]] — alternativa dedicada con API propia
 
-# #web #contenido
+
+#tipo/herramienta #tema/datos/extraccion-web

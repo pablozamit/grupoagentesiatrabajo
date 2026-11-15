@@ -29,4 +29,5 @@ Si quieres vídeo IA en tu propio equipo sin pagar por clip, Wan2.1/2.2 es el pu
 - [fal: Wan 2.5 Preview](https://blog.fal.ai/wan-2-5-preview-is-now-available-on-fal/)
 - [Tweet de @ai_for_success](https://x.com/ai_for_success/status/1894415836980678792) (25-feb-2025), guardado en bookmarks
 
-# #video #modelos #opensource #ia
+
+#tipo/modelo #tema/modelos #tema/video

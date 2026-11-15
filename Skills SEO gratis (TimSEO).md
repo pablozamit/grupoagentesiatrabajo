@@ -27,4 +27,5 @@ Copias el skill y se lo das a tu agente (Claude Code, Cursor, etc.) como las dem
 - Skills de GEO: [[Best AEO Skill]], [[Marketing Skills]], [[NotFair Plugin]]
 - Entidades semánticas: [[Entity Map con Screaming Frog MCP]]
 
-# #seo #skills #contenido
+
+#tipo/skill #tema/marketing/seo

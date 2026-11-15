@@ -26,4 +26,5 @@ Baguette trae skills y affordances para agentes (topics `agent`, skills en el re
 - URLs estables para dev: [[Portless]]
 - Exponer servicios en remoto: [[VPS]] (Tailscale)
 
-# #opensource #productividad #agente
+
+#tipo/herramienta #tema/agentes

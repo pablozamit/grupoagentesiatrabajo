@@ -97,4 +97,4 @@ Y si quieres la capa de harness como infraestructura compartida (sin construirla
 
 ---
 
-#agente #contenido #ia
+#tipo/concepto #tema/agentes

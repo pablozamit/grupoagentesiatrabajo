@@ -30,4 +30,5 @@ El encuadre "GitHub esconde herramientas increíbles" y el "de horas a minutos" 
 - [[HyperFrames]] — plantillas de motion graphics (que usa Herk Edit Kit)
 - [[FFmpeg]] — motor subyacente de muchos de estos recortes
 
-# #video #opensource #agente
+
+#tipo/herramienta #tema/agentes #tema/video

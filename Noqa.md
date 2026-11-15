@@ -36,8 +36,4 @@ noqa action swipe -d "Carrusel de onboarding, izquierda"
 noqa screenshot resultado.png
 ```
 
-## Tags
-
-- #agente — Agente de IA para QA
-- #skills — CLI para coding agents
-- #juegos — Soporta Unity, Unreal y Godot
+#tipo/herramienta #tema/programacion/pruebas #tema/agentes/navegacion-y-control

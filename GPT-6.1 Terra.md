@@ -15,4 +15,5 @@
 - Toma de decisiones tipadas: [[Jev (TypeSafe)]]
 - Ejecución local de modelos: [[Edge0]], [[Pi en el navegador (MiniCPM5)]]
 
-# #agente #modelos #vibecoding
+
+#tipo/modelo #tema/agentes #tema/modelos

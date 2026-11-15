@@ -6,4 +6,5 @@ La falta de documentación suficiente y la discrepancia de versiones impiden rec
 
 Repositorio: [hack8us/autovpn](https://gitlab.com/hack8us/autovpn).
 
-# #web #opensource #investigacion
+
+#tipo/herramienta #tema/programacion/web #tema/datos/investigacion

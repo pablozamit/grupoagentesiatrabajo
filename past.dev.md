@@ -38,4 +38,5 @@ La tabla comparativa de su web usa cifras publicadas por cada proveedor por sepa
 - [[Engram]]
 - [[Codebase Memory MCP]]
 
-# #agente #basededatos #contenido
+
+#tipo/herramienta #tema/agentes #tema/datos/bases-de-datos

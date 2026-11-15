@@ -414,4 +414,5 @@ A diferencia de herramientas como Remotion (que usan React), HyperFrames usa **H
 
 Relacionado: [[video-use]], [[OpenCut]], [[MoneyPrinterTurbo]], [[FFmpeg]], [[Open Design]]
 
-# #video #agente #contenido #opensource
+
+#tipo/herramienta #tema/agentes #tema/video

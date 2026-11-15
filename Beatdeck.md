@@ -33,4 +33,4 @@ En el [hilo de Antonio Leiva](https://x.com/antonioleivag/status/210783353666953
 - [[Open Design]]: documentos y contenido en HTML con agentes.
 - [[Claude Code]]: agente de código para construir e iterar.
 
-#opensource #diseno #productividad #agente
+#tipo/herramienta #tema/agentes #tema/diseno/interfaces

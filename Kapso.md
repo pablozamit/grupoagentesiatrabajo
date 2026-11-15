@@ -38,4 +38,5 @@ La [web actual](https://kapso.com) distingue sandbox, número gestionado por Kap
 - Competidores relay: [[Zernio]] (ya con WhatsApp Business API), [[Resender]] (WhatsApp en waitlist)
 - Automatizar encima: [[Rerun]] (agentes que pilotan negocio)
 
-# #agente #marketing #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

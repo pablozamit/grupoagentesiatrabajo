@@ -142,4 +142,5 @@ Son complementarios: Agent-Reach te da las herramientas, /last30days te da el in
 - Changelog: `CHANGELOG.md`
 - Licencia: MIT
 
-# #agente #web #contenido
+
+#tipo/herramienta #tema/agentes #tema/programacion/web

@@ -31,4 +31,5 @@ Es una fuente de **audio libre de calidad comercial** que complementa la secció
 - Producción de video: [[OpenMontage]], [[HyperFrames]]
 - Assets gratis: [[free-for.dev]], [[Repositorio 400 Recursos de Diseño Gratuitos]]
 
-# #audio #juegos #oportunidades #video
+
+#tipo/herramienta #tema/videojuegos #tema/video

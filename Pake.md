@@ -33,4 +33,5 @@ Pake incluye builds pre-empaquetados para: Grok, ChatGPT, Gemini, Discord, YouTu
 - Repo: [github.com/tw93/Pake](https://github.com/tw93/Pake) — 51k ⭐
 - Autor: [tw93](https://github.com/tw93)
 
-# #productividad #web #proyecto
+
+#tipo/herramienta #tema/programacion/web #tema/programacion

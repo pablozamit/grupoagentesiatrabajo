@@ -18,4 +18,5 @@
 - [[Icypeas]] — segunda capa del waterfall
 - [[Cold Email]] — el uso de esos emails
 
-# #web #oportunidades
+
+#tipo/herramienta #tema/datos/extraccion-web

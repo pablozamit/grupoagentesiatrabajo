@@ -29,4 +29,5 @@ Luego le dices en lenguaje natural: *"Ve a esta web, extrae estos datos y tráem
 
 Relacionado: [[Browser Use]], [[Pinchtab]], [[Agent-Reach]], [[Hermes Agent]]
 
-# #web #agente #automacion #ia #opensource
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/agentes

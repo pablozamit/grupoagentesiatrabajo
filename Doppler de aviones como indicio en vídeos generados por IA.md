@@ -6,4 +6,5 @@ Una comprobación anecdótica con 120 vídeos generados habría encontrado que l
 
 La ausencia de Doppler también puede ser completamente normal: quizá no pasaba ningún avión, la grabación era interior, el avión volaba alto o lejos, o el micrófono, la compresión y la reducción de ruido eliminaron el sonido. A la inversa, un audio generado o editado puede añadirlo. Es, como mucho, una señal contextual que debe combinarse con otras comprobaciones; por sí sola no confirma que un vídeo sea real o generado.
 
-# #video #contenido #investigacion
+
+#tipo/herramienta #tema/video #tema/datos/investigacion

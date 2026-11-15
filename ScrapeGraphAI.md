@@ -23,4 +23,4 @@ El [post](https://x.com/scrapegraphai/status/2056306192570314986) promete menos 
 
 - [[Scraping]], [[Crawl4AI]], [[Firecrawl]], [[Ollama]]
 
-#opensource #web #agente
+#tipo/herramienta #tema/datos/extraccion-web #tema/agentes

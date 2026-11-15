@@ -30,4 +30,5 @@ Es un ejemplo de cómo los modelos de IA están cruzando la frontera entre lo di
 - [[GenCAD]] — Modelo del MIT que convierte fotos en CAD editable
 - [[Sci-Bot]] — Asistente de IA para literatura científica
 
-# #3d #ciencia #modelos
+
+#tipo/modelo #tema/modelos #tema/imagen-3d

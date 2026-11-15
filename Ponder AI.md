@@ -27,4 +27,5 @@ Precios consultados el 12 de noviembre de 2026 en [ponder.ai/pricing](https://po
 
 - [[ChatCut]], [[Tesseract]], [[VibeTube]]
 
-# #video #ia
+
+#tipo/herramienta #tema/video

@@ -8,4 +8,5 @@
 - Sirve para componer referencias visuales, hacer lluvias de ideas visuales o preparar paletas de inspiración para diseño web
 - Ligera, sin registro, funciona en navegador
 
-# #diseno #web #recursos
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/diseno/interfaces

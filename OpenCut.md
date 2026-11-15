@@ -16,4 +16,5 @@ Alternativa open source a CapCut sin marcas de agua ni paywalls. Editor de víde
 
 Relacionado: [[FFmpeg]], [[HyperFrames]], [[Video]]
 
-# #video #ia #recursos #edicion
+
+#tipo/herramienta #tema/video

@@ -38,4 +38,5 @@ El prompt que usa FLUX para generar la figurita:
 
 Relacionado: [[3D]], [[Diseño]], [[Impresión 3D]]
 
-# #3d #ia #diseno #huggingface
+
+#tipo/herramienta #tema/diseno/interfaces #tema/imagen-3d

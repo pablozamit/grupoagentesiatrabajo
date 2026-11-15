@@ -19,4 +19,5 @@ Unas 2.000 estrellas (noviembre 2026); creado el 3 de noviembre de 2026. El auto
 
 Relacionado: [[cinetic]], [[HyperFrames]], [[El vídeo es código]]
 
-# #video #skills #ia #opensource
+
+#tipo/skill #tema/video

@@ -59,4 +59,5 @@ El coste de un céntimo por sitio y la repetibilidad 0,03 son mediciones/estimac
 
 Ver también: [[Jev (TypeSafe)]], [[OpenSEO]], [[Entity Map con Screaming Frog MCP]].
 
-# #seo #contenido #productividad
+
+#tipo/guia #tema/marketing/seo

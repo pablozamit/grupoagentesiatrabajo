@@ -6,4 +6,5 @@ Es compatible con Claude Code, Codex, Cursor, OpenCode y otros clientes. La conf
 
 Repositorio: [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) (MIT).
 
-# #agente #opensource #skills
+
+#tipo/skill #tema/agentes

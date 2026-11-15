@@ -47,4 +47,5 @@ Crear un esquema MCP a partir de tráfico no decide quién puede ejecutarlo. Un 
 - Convertir webs en APIs: [[wrapapi.com]], [[OctenAI]]
 - MCP y agentes: [[Blender MCP]], [[Landingfolio MCP]], [[Acceso a internet desde agentes]]
 
-# #agente #web #contenido #productividad
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/agentes

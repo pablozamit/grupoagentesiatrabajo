@@ -30,4 +30,5 @@ Node 24 + npm, `npm run dev`, y después conectar un proyecto Intelligence y un 
 - [[OpenMausBot]] — otro equipo de bots open source con aprobaciones, voz y MCP
 - [[Devin]] — el coworker de IA comercial de referencia
 
-# #agente #opensource
+
+#tipo/herramienta #tema/agentes

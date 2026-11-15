@@ -27,4 +27,5 @@ Funciona todo en local, sin depender de servicios externos.
 
 Relacionado: [[video-use]], [[OpenCut]], [[HyperFrames]], [[Video]]
 
-# #video #ia #opensource #creacion-contenido
+
+#tipo/herramienta #tema/video

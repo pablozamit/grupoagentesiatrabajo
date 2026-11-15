@@ -27,4 +27,5 @@ OpenDesign añadió **OpenDesign Motion**, su generación de **vídeo con movimi
 - [[OpenPencil]]
 - [[Hermes Agent]]
 
-# #diseno #agente
+
+#tipo/herramienta #tema/agentes #tema/diseno/interfaces

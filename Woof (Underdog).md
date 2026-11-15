@@ -8,4 +8,5 @@ Web: http://underdog.ai/woof
 
 Ver también: [[Mistral TTS]] [[Supertonic]] [[Fish Audio S2.1 Pro]]
 
-# #audio #modelos #video
+
+#tipo/modelo #tema/modelos #tema/video

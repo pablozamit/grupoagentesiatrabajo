@@ -73,4 +73,5 @@ Razones para evitarlos:
 - Mismo registro de fundador de apps que escalan: [[Andrew (@andrewxroas)]]
 - Para decidir qué construir: [[Ideas de negocio con IA]]
 
-# #marketing #contenido #gamificacion
+
+#tipo/herramienta #tema/marketing #tema/diseno/interfaces

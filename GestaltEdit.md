@@ -22,4 +22,5 @@ Según su README: usa APIs privadas y modifica datos de caché del sistema; valo
 
 - [[Zero Breach Toolkit]]
 
-# #opensource
+
+#tipo/herramienta #tema/modelos

@@ -96,4 +96,5 @@ Tiene un **plan gratuito** para explorar, pero los despliegues se cobran a nivel
 - **Solo quieres ejecutarlo todo local**: [[Ollama]] + un cliente de chat. Si tu GPU es modesta, [[AirLLM]] te permite correr modelos de hasta 405B en 8GB de VRAM cargando una capa a la vez
 - **Solo quieres un asistente 24/7**: [[Hermes Agent]] (ya viene con 300+ modelos por OpenRouter)
 
-# #modelos #contenido
+
+#tipo/guia #tema/modelos

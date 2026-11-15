@@ -15,4 +15,5 @@ Sus autores lo presentan como respuesta a la carpeta `/raw` de Karpathy (donde v
 
 - [[RAG]], [[Claude Code]]
 
-# #skills #ia #opensource
+
+#tipo/skill #tema/agentes

@@ -18,4 +18,5 @@
 - [[BounceBan]] — complemento para catch-all
 - [[Cold Email]] — la campaña que protege
 
-# #web #oportunidades
+
+#tipo/herramienta #tema/datos/extraccion-web

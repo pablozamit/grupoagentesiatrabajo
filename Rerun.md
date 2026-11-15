@@ -68,4 +68,5 @@ La lección: **centralizar el sistema de diseño en un solo sistema generativo**
 - Email y outreach con agentes: [[Atomic Mail]], [[Marketing Skills]]
 - Comparativa de acceso a internet: [[Acceso a internet desde agentes]]
 
-# #agente #productividad #oportunidades
+
+#tipo/herramienta #tema/agentes

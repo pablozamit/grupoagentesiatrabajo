@@ -57,4 +57,5 @@ Las respuestas señalan coste comercial y mantenimiento: 200 clientes pueden pro
 
 Ver también: [[Jev (TypeSafe)]], [[Auditoría SEO]].
 
-# #contenido #web
+
+#tipo/concepto #tema/datos/extraccion-web

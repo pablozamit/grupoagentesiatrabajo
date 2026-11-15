@@ -42,4 +42,5 @@ El [repositorio de Kargul](https://github.com/kargulstudio/sales-crm) contiene u
 
 El autor atribuye el diseño a [better-ui](https://skills.sh/jakubkrehel/skills/better-ui) y [emil-design-eng](https://skills.sh/emilkowalski/skills/emil-design-eng). Son recursos de diseño verificables, no prueba de que todo dashboard se construya en dos días ni de un resultado garantizado del modelo citado. El vídeo muestra navegación de interfaz; no una auditoría de backend. Ver [[Checklist web vibecodeada]].
 
-# #diseno #vibecoding #agente
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

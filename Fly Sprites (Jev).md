@@ -23,4 +23,5 @@ Jev lee lo que pongas en el state **sin tratarlo como hostil**: un ticket malici
 - Sandboxes para agentes: [[HarnessRouter + UHP]] (self-hosted), [[VPS]]
 - Guardrails: [[Abide]] (en nota Jev), [[Skill Recorder]]
 
-# #agente #hosting #contenido
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

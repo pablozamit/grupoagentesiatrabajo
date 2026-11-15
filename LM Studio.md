@@ -22,4 +22,5 @@ Florian Brand ([@xeophon](https://x.com/xeophon/status/2063581687590649888)) man
 - Modelos para correr en local: [[Gemma 4]], [[AirLLM]]
 - El flujo completo: [[Ecosistema de modelos]]
 
-# #modelos #agente
+
+#tipo/herramienta #tema/agentes #tema/modelos

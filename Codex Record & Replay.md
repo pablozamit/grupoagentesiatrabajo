@@ -24,4 +24,5 @@ Plugins → + → **Record a skill** → das contexto → apruebas grabar → ha
 - Observar correcciones y durificarlas: [[Blume]]
 - Skills para Codex: [[Codex]], [[Fable Orchestrator]]
 
-# #skills #agente #productividad
+
+#tipo/skill #tema/agentes

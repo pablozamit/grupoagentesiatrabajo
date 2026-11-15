@@ -41,4 +41,4 @@ Usa **PixiJS** para la composición de escena, tanto en preview como en exportac
 
 ---
 
-#video #contenido #herramientas #opensource
+#tipo/herramienta #tema/video

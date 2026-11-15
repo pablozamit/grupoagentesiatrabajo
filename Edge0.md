@@ -24,4 +24,5 @@ El post vende "35B en un iPhone con 1–2.5 GB". El README público soporta hoy 
 - Agentes en local: [[Pi en el navegador (MiniCPM5)]]
 - Generar juegos con IA: [[Arcade AI]]
 
-# #modelos #opensource #agente
+
+#tipo/modelo #tema/agentes #tema/modelos

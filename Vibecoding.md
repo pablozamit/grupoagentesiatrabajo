@@ -73,4 +73,5 @@ En vibecoding dirías:
 - Para producción, considera pagar o usar otro proveedor
 - Los límites pueden cambiar sin aviso
 
-# #vibecoding #contenido
+
+#tipo/concepto #tema/programacion/desarrollo-con-ia

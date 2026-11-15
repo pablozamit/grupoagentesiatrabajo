@@ -25,4 +25,5 @@ Desde octubre de 2026, Devin permite vincular tu suscripción personal de ChatGP
 - [[Codex]] — el agente de código de OpenAI
 - [[Google Jules]] — otro agente de código autónomo
 
-# #agente #vibecoding
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

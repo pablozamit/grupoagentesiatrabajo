@@ -38,4 +38,5 @@ Estilos incluidos: `warm-story`, `study`, `chalkboard`, `whiteboard`, `tech-dark
 - [[MoneyPrinterTurbo]] · [[Fish Audio S2.1 Pro]] — otra pieza de la cadena de vídeo + voz
 - [[Argil Director]] — de brief a storyboard y película (comercial, por créditos)
 
-# #video #agente #opensource
+
+#tipo/herramienta #tema/agentes #tema/video

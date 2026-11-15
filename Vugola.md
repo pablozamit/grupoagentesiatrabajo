@@ -21,4 +21,4 @@ Revisar derechos del vídeo, autorización del creador/campaña, contenido reuti
 
 - [[Hermes Agent]], [[Postiz]], [[Argil Director]], [[reel-cli]]
 
-#contenido #video #marketing #agente
+#tipo/herramienta #tema/agentes #tema/video

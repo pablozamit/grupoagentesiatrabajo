@@ -30,4 +30,4 @@ El artículo de dos GPUs citado en el hilo es otra configuración: 4080 SUPER + 
 
 - [[Ollama]], [[Kilo Code]], [[Open WebUI]], [[Estrategia 90-10 Local]]
 
-#opensource #modelos #agente
+#tipo/modelo #tema/agentes #tema/modelos

@@ -182,4 +182,5 @@ Puedes ejecutar modelos pequeños, pero será **muy lento** (10-50x más lento).
 
 [[llama.cpp]] expone servidor, contexto y cuantización KV sin la capa de gestión de Ollama. Puede ser útil para diagnosticar integración o probar un fork, pero no es garantía de cero timeouts. El tutorial de TurboQuant usa un fork específico: comprobar flags y build. Privacidad local solo si también lo son las herramientas conectadas; un modelo cloud no mantiene todo en el PC.
 
-# #modelos #contenido
+
+#tipo/herramienta #tema/modelos

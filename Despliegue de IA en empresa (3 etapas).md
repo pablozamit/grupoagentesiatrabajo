@@ -48,4 +48,5 @@ Es el mapa mental para entender **por qué los proyectos de agentes empresariale
 - Bases de datos y estado: [[basededatos]], [[TokenRouter]]
 - RAG y datos para agentes: [[Ecosistema de modelos]], [[AnythingLLM]]
 
-# #contenido #agente #basededatos #productividad
+
+#tipo/guia #tema/agentes #tema/datos/bases-de-datos

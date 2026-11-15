@@ -31,4 +31,5 @@ Es uno de los primeros en mostrar **qué pueden hacer los modelos frontier hoy**
 - Generación 3D: [[Three.js]], [[img2threejs]]
 - Otras personas a seguir: [[Dean W. Perkins (@deanwperkins)]], [[Andrew (@andrewxroas)]]
 
-# #contenido #agente #3d
+
+#tipo/herramienta #tema/agentes #tema/imagen-3d

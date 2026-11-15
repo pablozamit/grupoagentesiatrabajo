@@ -56,4 +56,5 @@ El mismo patrón de [[Learn Harness Engineering]]: **separar el planner del impl
 - Reparto de trabajo entre modelos: [[Ojos baratos para agentes]], [[TokenRouter]], [[AgentRouter]], [[Jev (TypeSafe)]] (routing que rompe la caché: caso Antonio Leiva)
 - Agentes de código: [[Codex]], [[Claude Code]], [[Kilo Code]]
 
-# #agente #vibecoding #contenido
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

@@ -33,4 +33,5 @@ Experimentos visuales interactivos para inspirar y aprender:
 
 - Web: [experiments.thisiswhitespace.com](https://experiments.thisiswhitespace.com/)
 
-# #diseno #3d
+
+#tipo/herramienta #tema/diseno/interfaces #tema/imagen-3d

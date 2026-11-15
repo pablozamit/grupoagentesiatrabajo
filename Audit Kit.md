@@ -48,4 +48,5 @@ Todo queda en `audits/<fecha-cliente>/` con archivos separados: informe técnico
 
 Relacionado: [[Best AEO Skill]], [[GEO]], [[#seo]]
 
-# #web #seo #herramientas #auditoria
+
+#tipo/herramienta #tema/programacion/web #tema/marketing/seo

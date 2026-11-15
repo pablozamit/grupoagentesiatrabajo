@@ -20,4 +20,5 @@ Los modos, la licencia y las capacidades son **lo que afirma el anuncio**; no se
 - [[GLM-5.3-CYBERSECURITY]] - modelo abliterated para red teaming
 - [[REA (Reverse Engineer Anything)]] - ingeniería inversa sobre binarios
 
-# #agente #opensource #contenido
+
+#tipo/herramienta #tema/agentes

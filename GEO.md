@@ -100,4 +100,5 @@ Tanto Google como los LLMs **escanean la estructura primero** y el texto despué
 - La nota hermana sobre datos: [[Estudio de AI Overviews (SE Ranking)]] — 82% de búsquedas con AI Overviews, autoridad > expertise, y por qué la IA no cita las páginas que rankean.
 - [[Marketing Skills]] (incluye OKF de Google), [[8 Prompts de Diseño para Agentes de IA]], [[#seo]]
 
-# #seo #web #ia #oportunidades
+
+#tipo/concepto #tema/datos/extraccion-web #tema/marketing/seo

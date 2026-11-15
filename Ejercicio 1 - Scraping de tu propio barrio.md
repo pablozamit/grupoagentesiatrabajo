@@ -151,4 +151,5 @@ Una página web pública (`tu-nombre.here.now/negocios-barrio`) con una tabla o 
 
 - [[Scraping]] — el concepto y el pipeline completo de scraping en Google Maps
 
-# #proyecto #agente #web
+
+#tipo/ejercicio #tema/datos/extraccion-web #tema/agentes

@@ -22,4 +22,5 @@ Indexó más de 100 opiniones de la Corte Suprema (2022–2024) con alta precisi
 - Alternativa open source total: [[Crawl4AI]] (web → Markdown, sin API key)
 - Extracción web con MCP: [[Firecrawl]]
 
-# #agente #investigacion #contenido
+
+#tipo/herramienta #tema/agentes #tema/datos/investigacion

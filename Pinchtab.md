@@ -17,4 +17,5 @@ Da a cualquier agente de IA control total del navegador mediante una API HTTP. B
 
 Relacionado: [[Browser Use]], [[Agent-Reach]], [[Hermes Agent]], [[Acceso a internet desde agentes]]
 
-# #agente #web #ia #herramientas
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

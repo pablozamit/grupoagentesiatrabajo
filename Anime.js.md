@@ -51,4 +51,5 @@ O vía CDN directamente en el navegador.
 - Docs Three.js adapter: [animejs.com/documentation/adapters/threejs-adapter](https://animejs.com/documentation/adapters/threejs-adapter)
 - Changelog v4.5: [github.com/juliangarnier/anime/releases/tag/v4.5.0](https://github.com/juliangarnier/anime/releases/tag/v4.5.0)
 
-# #diseno #web #recursos #3d
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/diseno/interfaces

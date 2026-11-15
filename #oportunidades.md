@@ -1,19 +1,7 @@
-# #oportunidades
+# Marketing, ventas y negocio
 
-Promociones, ofertas de bienvenida y ventajas temporales que son útiles mientras están activas. Aquí se listan las oportunidades que conviene aprovechar antes de que caduquen.
+Las promociones y oportunidades comerciales se explican en la ficha correspondiente con sus condiciones y vigencia.
 
-- [[AgentRouter]] - 100 $ de crédito API al registrarte con GitHub
-- [[Firecrawl]] - Gratis ahora (plan gratuito disponible para scraping y crawling básico)
-- [[Oracle Cloud Free Tier]] - VPS gratis Always Free: 4 OCPU + 24 GB RAM para AnythingLLM y Docker
-- [[ZenMux AI]] - GLM 5.2, Kimi K2.7 y Step 3.7 Flash gratis, API key compatible OpenAI (tiempo limitado)
-- [[free-for.dev]] - 1.600+ servicios con tiers gratuitos permanentes (no trials): hosting, DBs, APIs, DNS, email... (132k ⭐)
-- [[Rerun]] - 7-day free trial + plan desde $24/mes: 3 agentes, Box privado, 190+ connectors, ejecuciones ilimitadas
-- [[Camofox Browser]] - Navegador anti-detección gratis (MIT): esquiva Cloudflare/bots sin coste de API
-- [[Moli Browser]] - Navegador headless gratis y open source: memoria mínima para VPS de 1GB y servidores ligeros
-- [[Sonniss GDC 2026]] - 347+ SFX profesionales gratis (7.47GB, royalty-free forever, uso comercial)
-- [[Cloudflare Agentic Inbox]] - Cliente de email + agente IA en tu cuenta de Cloudflare, sin factura por email
+Consulta la clasificación actualizada: [[tags/tema/marketing]].
 
-- [[MapsData]] - Scraper de Google Maps con tier gratuito (según el hilo de origen)
-- [[Prospeo]] - Email finder B2B con 100 créditos gratis
-
-# #oportunidades
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

@@ -65,4 +65,5 @@ npm run build:single   # → dist-single/Bento_Slides.bento.html
 - Documentos editables por agentes: [[Logseq]]
 - Más herramientas de productividad: [[NOSignups.net]], [[free-for.dev]]
 
-# #productividad #contenido #opensource #agente
+
+#tipo/herramienta #tema/agentes

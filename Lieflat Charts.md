@@ -69,4 +69,5 @@ Ejemplos de prompts:
 - Datos y visualización: [[Glosario]], [[Bento]]
 - HTML como formato de salida: [[HyperFrames]], [[Bento]]
 
-# #diseno #skills #agente #contenido
+
+#tipo/skill #tema/agentes #tema/diseno/interfaces

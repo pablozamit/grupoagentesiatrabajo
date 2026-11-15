@@ -98,4 +98,4 @@ Problema que planteó Palmer Luckey en X (2-mar-2025, [tweet](https://x.com/Palm
 
 ---
 
-#rag #ia #basededatos #contenido
+#tipo/concepto #tema/datos/bases-de-datos

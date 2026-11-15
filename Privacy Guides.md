@@ -14,4 +14,5 @@ La conversación también deja tres criterios prácticos: entender la privacidad
 
 Las respuestas incluyen objeciones al tono sensacionalista y acusaciones de vigilancia o robo de datos, además de recomendaciones promocionales. La conversación no aporta pruebas para esas acusaciones, así que no sirven por sí solas para concluir que una herramienta sea insegura o esté vinculada a un gobierno. Hay que comprobar cada afirmación en los criterios, documentación y revisiones públicas de la herramienta concreta.
 
-# #web #investigacion #contenido
+
+#tipo/coleccion #tema/agentes/navegacion-y-control #tema/datos/investigacion

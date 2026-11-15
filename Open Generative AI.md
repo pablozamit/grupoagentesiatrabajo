@@ -60,4 +60,5 @@ Es el "todo-en-uno" self-hosted para generación de media: **un solo UI** para 4
 - Más herramientas de video: [[Herramientas video-audio para agentes (privado)]]
 - Auto-hosting de apps: [[AnythingLLM]], [[Dify]]
 
-# #video #modelos #opensource #agente
+
+#tipo/modelo #tema/agentes #tema/modelos

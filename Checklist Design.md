@@ -19,4 +19,5 @@
 
 - [@ferminrp en X](https://x.com/ferminrp/status/2086067951736639534) — recomienda usar las checklists directamente como base para que un agente revise interfaces.
 
-# #agente #diseno #web #contenido
+
+#tipo/guia #tema/agentes #tema/programacion/web

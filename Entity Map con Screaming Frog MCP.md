@@ -31,4 +31,5 @@
 - Entidades → citas de IA: [[Menciones en listicles y reviews (GEO)]], [[GEO]]
 - Alternativa gratuita de crawl: [[Crawl4AI]], [[Firecrawl]]
 
-# #seo #agente #contenido
+
+#tipo/herramienta #tema/agentes #tema/marketing/seo

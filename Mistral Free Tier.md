@@ -43,4 +43,5 @@ Si te importa que no usen tus datos para entrenar: **Ajustes > Data Training > D
 
 Relacionado: [[Ecosistema de modelos]], [[OpenRouter]], [[Modelos]]
 
-# #ia #modelos #gratis #codigo #api
+
+#tipo/modelo #tema/modelos

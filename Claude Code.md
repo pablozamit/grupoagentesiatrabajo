@@ -30,4 +30,5 @@
 - [[AgentRouter]] - 100 $ de crédito API compatibles con Claude Code al registrarse con GitHub
 - [[Kilo Code]] - Alternativa open source con acceso a 500+ modelos
 
-# #agente #vibecoding #modelos
+
+#tipo/modelo #tema/agentes #tema/modelos

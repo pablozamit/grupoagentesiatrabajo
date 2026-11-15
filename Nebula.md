@@ -32,4 +32,5 @@ La conclusión práctica: Nebula es la opción si quieres una malla **100% abier
 - [[VPN privada con VPS (3x-ui + VLESS REALITY)]] — VPN de salida para un VPS
 - [[VPS]] · [[Oracle Cloud Free Tier]] — dónde alojar los lighthouses
 
-# #agente #opensource #hosting
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

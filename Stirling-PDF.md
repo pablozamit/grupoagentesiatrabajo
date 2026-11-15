@@ -37,4 +37,5 @@ Luego abres `http://localhost:8080` y ya tienes el editor funcionando.
 
 Relacionado: [[Open Notebook]], [[Apify]], [[Firecrawl]]
 
-# #herramientas #opensource #productividad #privacidad
+
+#tipo/herramienta #tema/agentes

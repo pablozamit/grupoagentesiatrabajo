@@ -4,4 +4,5 @@ Se estaba compartiendo una skill para diseño de interfaces y se enviaba a quien
 
 El artículo enlazado no se pudo recuperar mediante las consultas públicas: redirige al inicio de sesión. Por eso se conserva aquí todo lo que sí queda confirmado, pero no se atribuyen a la skill técnicas, instrucciones ni resultados que no se pudieron leer.
 
-# #diseno #agente #skills
+
+#tipo/skill #tema/agentes #tema/diseno/interfaces

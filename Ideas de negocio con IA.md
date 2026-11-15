@@ -13,4 +13,5 @@ Nota reservada para ideas de negocio que se pueden construir o automatizar con a
 
 Antes de construir, lee [[Andrew (@andrewxroas)]]: su regla es no construir si no hay ya al menos un competidor haciendo $100k MRR en ese nicho, y escalar ganando en distribución (funnel + anuncios), no solo en el producto.
 
-# #proyectos #contenido
+
+#tipo/herramienta #tema/programacion

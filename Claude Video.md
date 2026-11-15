@@ -47,4 +47,5 @@ npx skills add bradautomates/claude-video -g
 - [[HyperFrames]] — Genera vídeos desde HTML, pensado para agentes
 - [[OpenMontage]] — Producción de video agentic open source
 
-# #skills #video #agente
+
+#tipo/skill #tema/agentes #tema/video

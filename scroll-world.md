@@ -64,4 +64,5 @@ Requisitos: **Monid CLI** con API key + balance (backend por defecto, billing po
 - Base 3D: [[Three.js]], alternativa ligera [[BroMetal]]
 - Otras skills de agente para gráficos: [[Three.js Awesome Graphics Agent Skills]], [[Meng To Three.js Game Skills]]
 
-# #3d #web #skills #diseno
+
+#tipo/skill #tema/programacion/web #tema/diseno/interfaces

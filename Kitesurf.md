@@ -12,4 +12,5 @@
 
 - [[WebMCP]], [[Mobile-MCP]]
 
-# #ia #opensource
+
+#tipo/herramienta #tema/agentes

@@ -22,4 +22,5 @@ Los agentes solo son tan buenos como el contexto que les das. Blume hace que ese
 
 Relacionado: [[Claude Code]], [[Codex]], [[Hermes Agent]]
 
-# #agente #skills #productividad
+
+#tipo/skill #tema/agentes

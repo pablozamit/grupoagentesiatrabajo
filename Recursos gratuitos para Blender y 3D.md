@@ -17,4 +17,5 @@ Antes de usar un recurso en un proyecto publicado o comercial, comprobar su lice
 
 Ver también: [[Blender MCP]] [[#juegos]]
 
-# #3d #juegos #contenido #video
+
+#tipo/coleccion #tema/imagen-3d #tema/videojuegos

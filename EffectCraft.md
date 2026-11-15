@@ -15,4 +15,5 @@ Sus autores lo describen como «joven, moviéndose rápido y ya usable». El pos
 
 - [[Raea]], [[Blender MCP]]
 
-# #video #opensource
+
+#tipo/herramienta #tema/video

@@ -36,4 +36,5 @@ El instalador detecta la instalación de Hermes, hace copia de seguridad de cada
 
 Fuente: [post de @OnlyTerp](https://x.com/OnlyTerp/status/2062035353800765941) (3 jun 2026) + README del repositorio.
 
-# #agente
+
+#tipo/herramienta #tema/agentes

@@ -22,4 +22,5 @@
 - [[Zen Browser]] · [[Moli Browser]] · [[Camofox Browser]] · [[Polar Browser]] — otros navegadores del catálogo (con otros enfoques)
 - [[NOSignups.net]] — herramientas sin registro en el navegador
 
-# #web #opensource #productividad
+
+#tipo/herramienta #tema/agentes/navegacion-y-control

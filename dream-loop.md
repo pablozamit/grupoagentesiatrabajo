@@ -17,4 +17,5 @@ Necesita un agente con generación de imágenes (integrada o por API, p. ej. una
 
 - [[Blender Skills (EL4CTEO)]], [[Blender MCP]], [[Raea]]
 
-# #skills #opensource
+
+#tipo/skill #tema/agentes

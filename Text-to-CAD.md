@@ -35,4 +35,5 @@ A diferencia de las herramientas texto→3D que solo generan mallas (como Meshy 
 - [[img2threejs]] — Convierte fotos a modelos procedurales Three.js
 - [[40 Mejores Herramientas para Vibe Coding de Juegos]] — Incluye pipelines 3D con meshes
 
-# #3d #proyecto #web
+
+#tipo/herramienta #tema/programacion/web #tema/imagen-3d

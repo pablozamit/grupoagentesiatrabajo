@@ -45,4 +45,4 @@ npx skills add coreyhaines31/marketingskills --skill cro copywriting
 
 Relacionado: [[Skills]], [[Best AEO Skill]], [[Agent-Reach]]
 
-Tags: `#agente #contenido #vibecoding #skills`
+#tipo/herramienta #tema/agentes

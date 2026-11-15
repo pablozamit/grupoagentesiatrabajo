@@ -68,4 +68,5 @@ También incluye **`npx notfair@latest`**: una app local que convierte un objeti
 - Skills instalables: [[Skills]], [[Oil-motion]]
 - Agentes: [[Claude Code]], [[Codex]], [[Hermes Agent]]
 
-# #marketing #seo #agente #skills
+
+#tipo/skill #tema/agentes #tema/marketing

@@ -41,4 +41,5 @@ make setup
 - [[SPACE (Perplexity)]] - sandbox de microVMs para agentes
 - [[MiniMind]] - experimento didáctico de LLM desde cero
 
-# #agente #investigacion #opensource
+
+#tipo/herramienta #tema/agentes #tema/datos/investigacion

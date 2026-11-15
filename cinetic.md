@@ -28,4 +28,5 @@ Unas 1.100 estrellas (noviembre 2026); creado en septiembre de 2026. Los films d
 
 Relacionado: [[HyperFrames]], [[El vídeo es código]]
 
-# #video #skills #ia #opensource
+
+#tipo/skill #tema/video

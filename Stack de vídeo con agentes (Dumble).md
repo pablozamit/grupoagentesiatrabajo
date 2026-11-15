@@ -26,4 +26,5 @@ Listado publicado por Dumble ([@Y0urDumble](https://x.com/Y0urDumble/status/2119
 
 Relacionado: [[HyperFrames]], [[OpenMontage]], [[Blender MCP]], [[cinetic]]
 
-# #video #3d #skills #opensource
+
+#tipo/skill #tema/imagen-3d #tema/video

@@ -58,4 +58,5 @@
 - Workflow de personajes: [[Personajes 3D jugables desde IA]]
 - Lo probará [@majidmanzarpour](https://x.com/majidmanzarpour) (autor de [[Three.js Game Skills (Majid Manzarpour)]])
 
-# #3d #agente #opensource
+
+#tipo/herramienta #tema/agentes #tema/imagen-3d

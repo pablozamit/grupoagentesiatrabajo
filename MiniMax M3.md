@@ -20,4 +20,5 @@
 - Agentes que lo usan: [[Sorceress]] (MiniMax M2.7 en su stack), [[Fable Orchestrator]]
 - Video con IA: [[Open Generative AI]] (Hailuo en su catálogo)
 
-# #modelos #opensource #agente
+
+#tipo/modelo #tema/agentes #tema/modelos

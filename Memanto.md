@@ -74,4 +74,5 @@ Versión con memoria integrada de larga duración para **NemoClaw**: trae las ca
 - Web: [memanto.ai](https://memanto.ai)
 - Repositorio: [github.com/moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto)
 
-# #agente #ia #vibecoding
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

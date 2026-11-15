@@ -31,4 +31,5 @@ Es un ejemplo excepcional de visualización científica con Three.js y shaders. 
 - [[Mesh3D Gallery]] — Más sitios con gráficos 3D
 - [[img2threejs]] — Convierte fotos a modelos procedurales Three.js
 
-# #3d #web #proyecto
+
+#tipo/caso-practico #tema/agentes/navegacion-y-control #tema/imagen-3d

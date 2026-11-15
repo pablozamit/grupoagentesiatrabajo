@@ -33,4 +33,5 @@ La lección aplicable al framework es definir propietario, permisos, trazabilida
 - Agentes que pilotan negocio: [[Rerun]]
 - Gobernanza de IA en empresa: [[Despliegue de IA en empresa (3 etapas)]]
 
-# #agente #productividad #contenido
+
+#tipo/herramienta #tema/agentes

@@ -26,4 +26,5 @@ curl -fsSL https://here.now/install.sh | bash
 
 Sin cuentas, sin tarjetas, sin esperas.
 
-# #hosting #agente #web
+
+#tipo/herramienta #tema/agentes #tema/programacion/web

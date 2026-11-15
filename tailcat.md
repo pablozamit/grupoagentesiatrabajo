@@ -21,4 +21,5 @@
 - [[VPS]] · [[Acceso a internet desde agentes]] — mover tráfico y conectar nodos de agentes
 - [[Portless]] — exponer localhost de forma estable para agentes
 
-# #agente #opensource #hosting
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

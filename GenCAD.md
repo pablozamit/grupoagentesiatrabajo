@@ -28,4 +28,5 @@ Para ejecutarlo necesitas **Docker** o **conda + Python 3.10** con GPU (CUDA). N
 
 - Repositorio: [github.com/ferdous-alam/GenCAD](https://github.com/ferdous-alam/GenCAD)
 
-# #modelos #ciencia
+
+#tipo/modelo #tema/modelos #tema/datos/investigacion

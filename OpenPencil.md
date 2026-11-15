@@ -31,4 +31,5 @@ Según el anuncio oficial: variantes de componentes y librerías publicadas, int
 - [[8 Prompts de Diseño para Agentes de IA]] — prompts de diseño para agentes
 - [[Claude Code]] — uno de los agentes de escritorio integrados
 
-# #diseno #agente #opensource
+
+#tipo/herramienta #tema/agentes #tema/diseno/interfaces

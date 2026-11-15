@@ -30,4 +30,5 @@ Un asistente en una caja es la forma equivocada: roster de bots con personalidad
 - La otra respuesta open source a los dots: [[OpenDots]]
 - Voces: [[Fish Audio S2.1 Pro]], [[Kyutai TTS + Unmute]]
 
-# #agente #opensource #productividad
+
+#tipo/herramienta #tema/agentes

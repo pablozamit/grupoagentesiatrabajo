@@ -31,4 +31,5 @@
 - Post de [@HeyMaysarah](https://x.com/HeyMaysarah) con **4.8M views**: el dueño original es [@abeto_co](https://x.com/abeto_co)
 - Un dev ruso intenta un clon similar con **Claude Opus 4.8**: [opusdev.org](https://opusdev.org) — caso vivo de "replicar un referente con un frontier" (ver [[AI Critic Loop]])
 
-# #web #3d
+
+#tipo/caso-practico #tema/agentes/navegacion-y-control #tema/imagen-3d

@@ -14,4 +14,5 @@ En vez de elegir animaciones a mano (qué easing, qué duración, qué transici�
 - Sistemas de diseño para agentes: [[Taste-Skill]], [[UI Skills]], [[Open Design]]
 - Transiciones de vídeo (hermano audiovisual): [[HyperFrames]] (familias CSS transitions y shader transitions del catálogo)
 
-# #skills #diseno #web
+
+#tipo/skill #tema/programacion/web #tema/diseno/interfaces

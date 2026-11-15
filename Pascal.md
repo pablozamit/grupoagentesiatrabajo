@@ -21,4 +21,5 @@
 - Foto → asset: [[Mint 3D]], [[img2threejs]]
 - Agentes que modelan: [[Blender MCP]], [[Cartwheel MCP]]
 
-# #3d #opensource #vibecoding
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/imagen-3d

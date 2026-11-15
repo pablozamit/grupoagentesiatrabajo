@@ -63,8 +63,4 @@ Cada capa pone un límite distinto:
 
 > La conclusión del autor: no es un stack que te haga ser x10 más rápido, sino x10 mejor. Y ninguna de las tres piezas te tiene de rehén: todas respetan las mismas convenciones.
 
-## Tags
-
-- #agente — Orquesta múltiples agentes en paralelo
-- #skills — Tiene CLI y ecosistema de skills
-- #proyecto — Proyecto open source activo
+#tipo/herramienta #tema/agentes/orquestacion #tema/programacion/desarrollo-con-ia

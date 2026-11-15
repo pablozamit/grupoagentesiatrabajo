@@ -38,4 +38,5 @@ openclaw gateway restart
 - [[Engram]] - memoria persistente local (un binario Go + SQLite) vía MCP
 - [[Kapso]] - otro plugin para OpenClaw (WhatsApp oficial)
 
-# #agente #basededatos #contenido
+
+#tipo/herramienta #tema/agentes #tema/datos/bases-de-datos

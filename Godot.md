@@ -49,4 +49,5 @@ Descarga desde [godotengine.org/download](https://godotengine.org/download) (ver
 - QA: [[Noqa]], [[Elemental Sandbox]]
 - Publicar en web: [[Here.Now]], [[Vercel]], [[NOSignups.net]]
 
-# #juegos #3d #vibecoding #opensource
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/imagen-3d

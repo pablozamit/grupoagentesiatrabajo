@@ -62,4 +62,5 @@ Vía [@Khazix0918](https://x.com/Khazix0918): para no quemar cuota Codex (un uso
 - Docs: [platform.openai.com/docs/guides/codex](https://platform.openai.com/docs/guides/codex)
 - Incluye gpt-image-2 para generar imágenes dentro del agente
 
-# #agente #vibecoding #modelos
+
+#tipo/modelo #tema/agentes #tema/modelos

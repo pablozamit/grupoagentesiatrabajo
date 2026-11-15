@@ -31,4 +31,5 @@ El [vídeo de Héctor de León](https://x.com/powerhdeleon/status/21064685313195
 - Auditoría completa: [[Auditoría SEO]], [[GEO]]
 - Inspiración de webs simples que sí shipean: [[Dead Simple Sites]]
 
-# #vibecoding #web #seo
+
+#tipo/guia #tema/programacion/desarrollo-con-ia #tema/programacion/web

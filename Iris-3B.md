@@ -8,4 +8,4 @@ Modelo generativo de 3B parámetros de Speridlabs que trabaja directamente en es
 
 Enlaces: proyecto https://speridlabs.com/research/iris - pesos https://huggingface.co/speridlabs/iris-3b - código https://github.com/speridlabs/iris-3b
 
-#modelos #opensource
+#tipo/modelo #tema/modelos

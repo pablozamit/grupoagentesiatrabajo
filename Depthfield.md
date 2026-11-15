@@ -33,4 +33,5 @@ Subes una imagen o video y la IA genera automáticamente un mapa de profundidad 
 
 - Web: [depthfield.app](https://depthfield.app)
 
-# #diseno #3d #video
+
+#tipo/herramienta #tema/diseno/interfaces #tema/imagen-3d

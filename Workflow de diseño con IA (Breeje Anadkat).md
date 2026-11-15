@@ -24,4 +24,5 @@ Es el mismo patrón que el flujo de Meng To ([[Meng To Three.js Game Skills]]: r
 - Anti-slop visual: [[AI Critic Loop]]
 - Inspiración: [[Recent Design]], [[Dead Simple Sites]]
 
-# #diseno #vibecoding #contenido
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

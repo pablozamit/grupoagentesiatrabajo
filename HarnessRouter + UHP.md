@@ -82,4 +82,5 @@ Es la capa que faltaba: **"no más harness engineering para tu producto"**. Sand
 - Orquestación de agentes: [[Fable Orchestrator]], [[Despliegue de IA en empresa (3 etapas)]]
 - Infra self-hosted: [[OpenShip]], [[Dify]], [[AnythingLLM]]
 
-# #agente #opensource #hosting
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

@@ -14,4 +14,5 @@ Primera entrega: esquemas de control cross-plataforma y layouts.
 - Crear juegos: [[40 Mejores Herramientas para Vibe Coding de Juegos]]
 - Skills de UI: [[UI Skills]]
 
-# #juegos #diseno #contenido
+
+#tipo/coleccion #tema/diseno/interfaces #tema/videojuegos

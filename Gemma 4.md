@@ -27,4 +27,5 @@ El E4B es el punto dulce para correr un modelo capaz en un portátil: 4.5B efect
 - Para correrlo en tu PC: [[LM Studio]], [[Ollama]], [[AirLLM]]
 - El flujo completo de elección: [[Ecosistema de modelos]]
 
-# #modelos #opensource
+
+#tipo/modelo #tema/modelos

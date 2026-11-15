@@ -18,4 +18,5 @@ Los datos provienen de un hilo promocional de [@HuggingModels](https://x.com/Hug
 - Modelos abiertos: [[Ecosistema de modelos]], [[MiniMax M3]], [[Gemma 4]]
 - Herramientas de seguridad/inversión: [[REA (Reverse Engineer Anything)]]
 
-# #modelos #agente
+
+#tipo/modelo #tema/agentes #tema/modelos

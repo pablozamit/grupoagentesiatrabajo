@@ -48,4 +48,5 @@ Pills rápida para decidir qué construir:
 - Metodología complementaria de generación/validación: [[Ideas de negocio con IA]]
 - Cómo publicar lo que construyas: [[Here.Now]], [[Vercel]]
 
-# #marketing #contenido #productividad
+
+#tipo/herramienta #tema/marketing

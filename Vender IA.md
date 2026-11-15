@@ -45,4 +45,5 @@
 - [[Ideas de negocio con IA]] — qué construir para luego venderlo
 - [[Claude Code]] — herramienta citada para demos de venta
 
-# #marketing #contenido
+
+#tipo/herramienta #tema/marketing

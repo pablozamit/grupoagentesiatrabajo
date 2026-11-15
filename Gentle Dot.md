@@ -40,4 +40,5 @@ pnpm package:linux    # genera el .deb (y el paquete Arch en amd64)
 - [[Devin]] — otro agente autónomo, pero en la nube
 - [[Browser Use]] — agente que opera el navegador por ti
 
-# #agente #opensource
+
+#tipo/herramienta #tema/agentes

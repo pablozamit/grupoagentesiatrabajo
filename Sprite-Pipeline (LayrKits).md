@@ -39,4 +39,5 @@ El problema del arte de juego generado: tienes movimiento de personaje "aprox" y
 - [[AutoSprite]] - generador de spritesheets con IA
 - [[Sorceress]] - suite de herramientas IA para crear juegos completos
 
-# #juegos #skills #opensource #video
+
+#tipo/skill #tema/videojuegos #tema/video

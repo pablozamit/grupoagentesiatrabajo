@@ -37,4 +37,5 @@ Luego entras en `http://localhost:3001`, configuras tu modelo y empiezas a chate
 
 Relacionado: [[LLM]] — qué es un modelo de lenguaje grande
 
-# #agente #hosting #contenido
+
+#tipo/concepto #tema/agentes #tema/infraestructura/hosting

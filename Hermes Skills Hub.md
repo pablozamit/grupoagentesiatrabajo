@@ -34,4 +34,5 @@ Convierte al agente en una plataforma modular: en vez de programar cada integrac
 
 Fuentes: [post de @Fluyeporlaweb](https://x.com/Fluyeporlaweb/status/2062414219123765748) (4 jun 2026), documentación técnica de hermes-agent (deepwiki.com/NousResearch/hermes-agent), fast.io.
 
-# #agente
+
+#tipo/skill #tema/agentes

@@ -26,4 +26,5 @@ npx shadcn@latest add https://obsidianui.dev/r/apple-spotlight.json
 - Referencias copiables: [[21st.dev]] (patrón skill en [[Diseño con Codex (receta Vox)]])
 - Skills de motion: [[Transitions-dev]], [[Anime.js]]
 
-# #diseno #web #opensource
+
+#tipo/herramienta #tema/programacion/web #tema/diseno/interfaces

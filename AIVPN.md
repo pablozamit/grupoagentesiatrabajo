@@ -16,4 +16,5 @@ Su README lo presenta como **proyecto experimental de investigación**: no garan
 
 - [[Camofox Browser]]
 
-# #opensource
+
+#tipo/herramienta #tema/imagen-3d

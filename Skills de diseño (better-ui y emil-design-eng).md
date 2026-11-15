@@ -37,4 +37,5 @@ npx skills@latest add emilkowalski/skills
 - Metodología con referencias: [[Workflow de diseño con IA (Breeje Anadkat)]]
 - Generación 3D con frontier: [[Pietro Schirano (@skirano)]] (Fable 5 en webs cinematográficas)
 
-# #skills #diseno #vibecoding
+
+#tipo/skill #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

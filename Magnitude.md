@@ -32,4 +32,5 @@ Perfila el equipo y **rankea modelos por velocidad, precisión, inteligencia y m
 - [[Ecosistema de modelos]] — elegir, acceder, orquestar y llevar a producción
 - [[Edge0]] — inferencia on-device
 
-# #modelos #opensource #agente
+
+#tipo/modelo #tema/agentes #tema/modelos

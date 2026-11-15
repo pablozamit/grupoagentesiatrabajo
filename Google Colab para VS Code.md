@@ -44,4 +44,5 @@ La [extensión](https://github.com/googlecolab/colab-vscode) y [anuncio 13-nov-2
 
 Ver también: [[VPS]], [[Oracle Cloud Free Tier]].
 
-# #ia #investigacion #recursos
+
+#tipo/herramienta #tema/datos/investigacion

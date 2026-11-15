@@ -39,4 +39,5 @@ Si te interesa **correr IA en local** ([[AirLLM]], [[TokenRouter]], [[AnythingLL
 - Agentes con memoria local: [[Memanto]], [[TencentDB Agent Memory]]
 - Comunidad de modelos: [[Ecosistema de modelos]], [[OpenRouter]]
 
-# #modelos #contenido #agente
+
+#tipo/modelo #tema/agentes #tema/modelos

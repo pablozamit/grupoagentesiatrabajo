@@ -27,4 +27,5 @@ La dirección "agente que trabaja sobre la hoja" (hoja como herramienta del agen
 - [Oscar Rojas: AI Spreadsheets](https://oscarrojas.co/projects/ai-spreadsheets)
 - [Tweet de @jc__gr](https://x.com/jc__gr/status/1892705094463844688) (20-feb-2025), guardado en bookmarks
 
-# #productividad #ia #agente
+
+#tipo/herramienta #tema/agentes

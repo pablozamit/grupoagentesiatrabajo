@@ -46,4 +46,5 @@ Icon Bar, Infinite Ribbon, Origin Button, FAQ Pro, Theme Toggle, Verified Badge.
 - Instalación: [iconiqui.com/installation](https://iconiqui.com/installation)
 - Repositorio: [github.com/edwinvakayil/iconiq](https://github.com/edwinvakayil/iconiq)
 
-# #diseno #contenido #vibecoding
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

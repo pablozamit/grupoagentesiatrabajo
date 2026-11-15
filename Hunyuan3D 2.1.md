@@ -15,4 +15,5 @@ No es open source OSI: se distribuye bajo la «Tencent Hunyuan 3D 2.1 Community 
 
 - [[TRELLIS.2]], [[Budget3D]], [[Blender MCP]]
 
-# #3d #modelos
+
+#tipo/modelo #tema/modelos #tema/imagen-3d

@@ -36,4 +36,5 @@ Al generar código en lugar de assets, los resultados son:
 - Autor: [@NickDevFE](https://x.com/NickDevFE)
 - Discord de la comunidad disponible
 
-# #3d #agente #juegos
+
+#tipo/herramienta #tema/agentes #tema/imagen-3d

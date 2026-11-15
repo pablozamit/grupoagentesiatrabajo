@@ -12,4 +12,5 @@
 
 - [[Hunyuan3D 2.1]], [[Budget3D]], [[UniRig]], [[Blender MCP]]
 
-# #3d #opensource
+
+#tipo/herramienta #tema/imagen-3d

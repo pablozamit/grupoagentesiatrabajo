@@ -62,4 +62,5 @@ La conclusión del autor: **si construyes tu sitio como un folleto, la IA te ign
 - La parte práctica de optimización: [[GEO]]
 - Herramientas de auditoría: [[Best AEO Skill]]
 
-# #seo #contenido #investigacion
+
+#tipo/herramienta #tema/datos/investigacion #tema/marketing/seo

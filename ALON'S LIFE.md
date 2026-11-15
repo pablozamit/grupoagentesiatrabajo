@@ -36,4 +36,5 @@
 - Copia (scam): https://www.alons.life/
 - Repo docs (desaparecido): https://github.com/rapkuryer/alonslife-docs
 
-# #web #3d #juegos
+
+#tipo/caso-practico #tema/agentes/navegacion-y-control #tema/imagen-3d

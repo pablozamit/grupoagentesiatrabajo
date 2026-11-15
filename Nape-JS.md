@@ -30,4 +30,5 @@
 - Repo histórico: [github.com/deltaluca/nape](https://github.com/deltaluca/nape) (archivado)
 - Documentación antigua archivada: varios mirrors en Wayback Machine
 
-# #juegos #contenido
+
+#tipo/herramienta #tema/videojuegos

@@ -1,137 +1,60 @@
 # Mapa de la enciclopedia
 
-Punto de entrada rápido a la enciclopedia. Si no sabes por dónde empezar o quieres ver el árbol completo de un vistazo, esta nota es para ti.
+Punto de entrada para recorrer las notas, entender cómo se relacionan y elegir un itinerario de aprendizaje.
 
 ## Cómo está organizada
 
-- **Notas de contenido**: una por herramienta, concepto o recurso. Siempre en español, con tags al final.
-- **Notas comparativas**: agrupan varias notas de un mismo cluster (acceso a internet, modelos, 3D).
-- **Notas de referencia**: glosario, este mapa, guías.
-- **Índices `#tag.md`**: una nota por cada categoría temática, listan las notas relevantes.
+Cada ficha de contenido tiene **un tipo** —qué es— y uno o varios **temas** —sobre qué trata—. Las páginas de etiquetas se generan desde las propias fichas, para que los listados no dependan de índices duplicados.
 
-## Los grandes bloques
+- [[index]] — entrada por temas y tipos.
+- [[Guía de Tags]] — definiciones, límites y reglas de clasificación.
+- [[Glosario]] — términos recurrentes.
+- [[Mapa visual]] — relaciones entre notas.
 
-### 🤖 Agentes de IA (10 notas)
+## Recorridos recomendados
 
-Notas sobre agentes y cómo orquestarlos:
+### Crear mi primer agente
 
-- **El agente open source más completo**: [[Hermes Agent]] + [[Ajustes Avanzados de Hermes Agent]]
-- **Agentes de código**: [[Kilo Code]] (500+ modelos), [[Google Jules]] (asíncrono en GitHub), [[Google Antigravity]] (multi-agente, solo Windows)
-- **Plataformas para construir agentes**: [[Microsoft Foundry]] (Azure, 1.900+ modelos)
-- **Memoria y aprendizaje**: [[Memanto]] (memoria persistente)
-- **Acceso a internet desde agentes**: [[Acceso a internet desde agentes]] (Firecrawl, Agent-Reach, /last30days) → cada nota individual en `#agente` y `#web`
-- **Navegación ligera**: [[Webframe]] para ejecutar páginas como programas
-- **Operar teléfonos**: [[Phone Use]] distingue MCP de nube (teléfono alojado) y CLI local (móvil propio con ADB o iPhone Mirroring).
-- **Vídeo y agentes**: [[HyperFrames]]
+1. Entiende qué es un [[Harness]] y qué hace un [[Agente]].
+2. Explora [[Hermes Agent]] o una alternativa como [[Open WebUI]].
+3. Añade capacidades con [[Firecrawl]] y memoria con [[Memanto]].
+4. Practica con [[Ejercicio 1 - Scraping de tu propio barrio]].
 
-### 🧠 Modelos e IA (10 notas)
+### Crear y publicar una aplicación
 
-- **Comparativa del ecosistema**: [[Ecosistema de modelos]]
-- **Comparar modelos por votos reales**: [[Arena]]
-- **Acceso unificado a muchos modelos**: [[OpenRouter]]
-- **Modelos locales en tu PC**: [[Ollama]]
-- **Modelos en Azure**: [[Microsoft Foundry]]
-- **Apps con IA en el navegador**: [[AI Studio]], [[Vibecoding]]
-- **Generadores con IA**: [[Gamma]] (presentaciones, webs), [[Memanto]] (memoria)
+1. Empieza con [[Vibecoding]].
+2. Prueba [[AI Studio]], [[Google Antigravity]] o [[Kilo Code]].
+3. Mejora la interfaz con [[Impeccable]] y [[21st.dev]].
+4. Publica con [[Vercel]].
+5. Aplica el flujo en [[Ejercicio 2 - De imagen a web con IA]].
 
-### 🎨 Diseño y vibecoding (15+ notas)
+### Trabajar con modelos locales
 
-- **Recursos visuales**: [[Repositorio 400 Recursos de Diseño Gratuitos]], [[DesignTools.fyi]], [[Dead Simple Sites]], [[Whitespace Experiments]]
-- **Componentes UI**: [[21st.dev]] (galería de prompts), [[Iconiq]] (componentes minimalistas)
-- **Escenas 3D colaborativas**: [[Spline]]
-- **Ilustraciones con IA**: [[Ian Xiaohei Illustrations]]
-- **Presentaciones con IA**: [[Gamma]]
+1. Revisa [[Ecosistema de modelos]] para entender las opciones.
+2. Prueba [[Ollama]] o [[LM Studio]].
+3. Explora los modelos en [[tags/tema/modelos]].
 
-### 💻 Desarrollo web (10 notas)
+### Crear algo visual o un videojuego
 
-- **Frontend y hosting**: [[Vercel]]
-- **Despliegue autohospedado**: [[Coolify]]
-- **3D en la web**: [[Stack 3D en web]]
-- **IDE con IA para web**: [[Google Antigravity]], [[AI Studio]]
-- **Scraping de datos web**: [[Firecrawl]], [[Apify]]
-- **Acceso a internet desde un agente**: [[Agent-Reach]], [[last30days]], [[Firecrawl]] (ver comparativa en [[Acceso a internet desde agentes]])
-- **Juegos web**: [[Tinyskies]]
+- Para web 3D, sigue [[Stack 3D en web]].
+- Para videojuegos, explora [[Godot]] y [[Three.js]].
+- Para 3D con IA, consulta [[Personajes 3D jugables desde IA]].
 
-### 🕹️ Juegos (4 notas)
+### Investigar con IA
 
-- **3D para juegos web**: [[Three.js]], [[Plume]] (partículas)
-- **Juegos publicados**: [[Tinyskies]]
-- **Generación con IA**: [[AutoSprite]] (spritesheets)
-- **Desarrollo de juegos con IA**: [[Genex]]
+1. Empieza por [[RAG]] y [[LlamaCloud (parseo + MCP)]].
+2. Para extraer datos web, explora [[Firecrawl]] y [[Apify]].
+3. Para fuentes científicas, prueba [[PubMedMCP]].
 
-### 🎬 Vídeo (2 notas)
+### Encontrar clientes y distribuir un producto
 
-- **Generación con HTML**: [[HyperFrames]]
-- **Procesamiento multimedia**: [[FFmpeg]]
+1. Consulta [[Marketing Skills]] y las guías de [[SEO y GEO]].
+2. Explora herramientas de prospección y distribución en [[tags/tema/marketing]].
+3. Revisa [[Vender IA]] para ventas B2B.
 
-### 🗄️ Bases de datos (1 nota)
+## Explorar el catálogo completo
 
-- **Backend sin servidor**: [[Firebase]]
+- [Explorar por tema](index.md)
+- [Explorar por tipo de recurso](index.md)
 
-### 📚 Proyectos y ejercicios (2 notas)
-
-- **Patrón de desarrollo autónomo**: [[MCP Server para desarrollo autónomo]]
-- **Ideas de negocio**: [[Ideas de negocio con IA]]
-
-### 📖 Referencia (2 notas)
-
-- **Definiciones de términos**: [[Glosario]]
-- **Este mapa**: [[Mapa de la enciclopedia]]
-
-## Por objetivo
-
-### Si quieres empezar a vibecodear ya
-
-1. Lee [[Vibecoding]] para entender la metodología
-2. Prueba [[AI Studio]] (gratis, sin código)
-3. Cuando necesites más control: [[Google Antigravity]] o [[Kilo Code]]
-4. Para desplegar: [[Vercel]]
-
-### Si quieres construir un agente
-
-1. Empieza con [[Hermes Agent]] (open source, completo)
-2. Aplica los [[Ajustes Avanzados de Hermes Agent]] para operación 24/7
-3. Dale acceso a internet con [[Firecrawl]], [[Agent-Reach]] o [[last30days]]
-4. Añade memoria persistente con [[Memanto]]
-5. Si quieres infra gestionada: [[Microsoft Foundry]] (Azure)
-
-### Si quieres experimentar con modelos
-
-1. Compara opciones con [[Arena]]
-2. Elige un modelo y consíguelo vía [[OpenRouter]] (API) o [[Ollama]] (local)
-3. Para apps en el navegador: [[AI Studio]]
-4. Si necesitas más infraestructura: [[Microsoft Foundry]]
-
-### Si quieres hacer algo visual
-
-- **Web**: [[Vercel]] + [[Three.js]] + [[Whitespace Experiments]] para inspirarte
-- **3D**: ver [[Stack 3D en web]]
-- **Componentes UI**: [[21st.dev]] + [[Iconiq]]
-- **Presentaciones**: [[Gamma]]
-
-### Si quieres investigar un tema con IA
-
-1. Usa [[last30days]] para un brief razonado de los últimos 30 días
-2. Para datos concretos de una web: [[Firecrawl]]
-3. Para datos en masa: [[Apify]]
-4. Para ciencia: [[Sci-Bot]]
-
-## Índices de tags
-
-Las notas también se organizan por `#tag.md`. Los más activos:
-
-- `#agente` — todo sobre agentes
-- `#ia` — inteligencia artificial en general
-- `#web` — desarrollo web
-- `#diseno` — diseño UI/UX
-- `#vibecoding` — programar con IA
-- `#modelos` — modelos de IA
-- `#3d` — gráficos 3D
-- `#juegos` — videojuegos
-- `#video` — producción de vídeo
-- `#contenido` — conceptos teóricos y de referencia
-- `#proyectos` — ejercicios prácticos
-- `#basededatos` — bases de datos
-- `#hosting` — publicar en internet
-
-# #contenido
+Los listados completos de cada tema y tipo aparecen en las páginas automáticas de etiquetas. Las páginas heredadas `#tag` se mantienen como accesos compatibles y remiten a la clasificación nueva.

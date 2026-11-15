@@ -24,4 +24,5 @@
 - [[Qwen-Image-2.1]] - Otro modelo abierto de generación + edición, también con matiz de licencia
 - [[Wan (Alibaba)]] y [[Goku (ByteDance)]] - Modelos abiertos de generación de vídeo
 
-# #modelos #ia #opensource
+
+#tipo/modelo #tema/modelos

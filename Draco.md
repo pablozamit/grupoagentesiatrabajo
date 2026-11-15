@@ -50,4 +50,5 @@ Ideal para desarrolladores web que quieren mostrar modelos 3D en páginas sin la
 - Implementación JavaScript: [github.com/mrdoob/draco.js](https://github.com/mrdoob/draco.js)
 - Uso en Three.js: ver [[Three.js]]
 
-# #3d #contenido
+
+#tipo/herramienta #tema/imagen-3d

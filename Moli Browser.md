@@ -77,4 +77,5 @@ Hay skills instalables para agentes (`skills/` en el repo): `moli-webfetch` para
 - Scraping/extracción: [[Firecrawl]], [[Apify]]
 - Acceso a internet desde agentes: [[Acceso a internet desde agentes]]
 
-# #agente #web #opensource #oportunidades
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

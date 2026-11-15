@@ -19,4 +19,5 @@ El anuncio **no detalla** qué patrones concretos cubre el libro; es una referen
 - [[Jev (TypeSafe)]] — clasificar/routear/puntuar como patrón sin generar texto
 - [[Skills]] · [[AGENTS.md]] — otros documentos de referencia para agentes
 
-# #contenido #agente #productividad
+
+#tipo/herramienta #tema/agentes

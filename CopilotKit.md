@@ -25,4 +25,5 @@ CopilotKit construyó el **adapter AG-UI dentro de Hermes** (PR en NousResearch/
 - El agente que se embedde: [[Hermes Agent]]
 - Frontend con agentes: [[Despliegue de IA en empresa (3 etapas)]]
 
-# #agente #web #contenido
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

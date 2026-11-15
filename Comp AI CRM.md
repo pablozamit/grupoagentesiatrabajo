@@ -41,4 +41,5 @@ Imprime al arrancar cuáles están activas:
 - Repositorio: [github.com/trycompai/crm](https://github.com/trycompai/crm)
 - Acceso directo https://trycompai.com
 
-# #agente #web #opensource
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

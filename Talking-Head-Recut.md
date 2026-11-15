@@ -34,4 +34,4 @@ git clone https://github.com/heygen-com/hyperframes.git
 
 Relacionado: [[Skills]], [[HyperFrames]]
 
-Tags: `#video #agente #skills #contenido`
+#tipo/herramienta #tema/agentes

@@ -19,4 +19,5 @@ Las cifras (**4M de transacciones de agentes, $2,1M de pre-seed, 1.800 APIs, 0 s
 - [[AgentRouter]] · [[TokenRouter]] — otros routers/proxies de acceso
 - [[Agent loops (mvanhorn)]] — usar tools dentro de un loop autónomo
 
-# #agente #opensource #productividad
+
+#tipo/herramienta #tema/agentes

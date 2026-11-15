@@ -32,4 +32,5 @@
 
 - Web: [sci-bot.ru](https://sci-bot.ru/)
 
-# #ciencia #agente #investigacion
+
+#tipo/herramienta #tema/agentes #tema/datos/investigacion

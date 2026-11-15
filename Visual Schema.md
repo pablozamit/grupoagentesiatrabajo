@@ -11,4 +11,5 @@ Nota del autor: no la enlaza desde ningún sitio para no saturarla — guárdala
 - Auditoría completa: [[Auditoría SEO]]
 - Entidades → citas: [[Entity Map con Screaming Frog MCP]], [[Menciones en listicles y reviews (GEO)]]
 
-# #seo #contenido
+
+#tipo/herramienta #tema/marketing/seo

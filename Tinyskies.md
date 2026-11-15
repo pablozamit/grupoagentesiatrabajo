@@ -114,4 +114,5 @@ URLs en producción:
 - Repositorio: [github.com/dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
 - Juego en vivo: [tinyskies.vercel.app](https://tinyskies.vercel.app)
 
-# #juegos #contenido #web
+
+#tipo/caso-practico #tema/programacion/web #tema/videojuegos

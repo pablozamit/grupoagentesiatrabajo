@@ -40,4 +40,5 @@ En lugar de buscar en Google, aquí tienes una lista curada y organizada por cat
 
 Lista curada por [Noah Elhadedy](https://github.com/noahelhadedy), con contribuciones de la comunidad.
 
-# #diseno #contenido #vibecoding
+
+#tipo/coleccion #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

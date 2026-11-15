@@ -27,4 +27,5 @@
 - Crawlers bajo tu control: [[Entity Map con Screaming Frog MCP]], [[Crawl4AI]]
 - Ser citado sin depender de Google: [[GEO]], [[LinkedIn Pulse para GEO]]
 
-# #seo #contenido #productividad
+
+#tipo/herramienta #tema/marketing/seo

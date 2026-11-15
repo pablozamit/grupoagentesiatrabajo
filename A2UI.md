@@ -18,4 +18,5 @@
 
 - [[AG-UI + CopilotKit]], [[Rube]], [[Microsoft Foundry]]
 
-# #ia #opensource
+
+#tipo/herramienta #tema/agentes

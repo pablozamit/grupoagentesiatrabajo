@@ -30,4 +30,5 @@ Starter/Pro ($25/mes Pro: 100k mensajes, 5 páginas). En las respuestas piden fr
 - WhatsApp para agentes (pendiente aquí): [[WhatsApp personal para agentes de IA]]
 - Email para agentes: [[Atomic Mail]], [[Cloudflare Agentic Inbox]]
 
-# #agente #marketing #web
+
+#tipo/herramienta #tema/agentes #tema/programacion/web

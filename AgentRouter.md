@@ -30,4 +30,5 @@ Para experimentar con modelos de primer nivel sin coste inicial. Útil si quiere
 
 > **Nota**: al ser una oferta de bienvenida, podría caducar. Si el link deja de funcionar, búscalo como "AgentRouter 100$ GitHub" para localizar posibles extensiones o equivalentes.
 
-# #oportunidades #modelos #agente
+
+#tipo/modelo #tema/agentes #tema/modelos

@@ -4,4 +4,4 @@ Método de cuantización de vectores de Google Research (paper arXiv 2504.19874)
 
 Implementación de referencia en Rust + Python: [[turbovec]].
 
-#basededatos #ia
+#tipo/herramienta #tema/datos/bases-de-datos

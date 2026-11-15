@@ -31,4 +31,5 @@ Los valores de diseño (fuentes, colores, espaciado, movimiento) están en una s
 - [Repositorio](https://github.com/elayadesign/ai-design-skills) (README, leído el 26-oct-2026)
 - [Tweet de @elayadesigns](https://x.com/elayadesigns/status/2114049200749175174) — anuncio con la demo de landings. Guardado en bookmarks de @soydown; la URL del tweet venía cortada y se completó con el README.
 
-# #skills #diseno #web #agente #opensource
+
+#tipo/skill #tema/agentes #tema/programacion/web

@@ -34,4 +34,5 @@ La novedad se difundió en [el post de Santi del 6-oct](https://x.com/santtiagom
 - Edición conversacional: [[VibeTube]], [[El vídeo es código]], [[Reelbench skills]]
 - Motion por chat: [[Dora Studio (Motion Magic)]]
 
-# #video #agente #contenido
+
+#tipo/herramienta #tema/agentes #tema/video

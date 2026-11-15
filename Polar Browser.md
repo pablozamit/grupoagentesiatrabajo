@@ -27,4 +27,5 @@ Opera dentro de tus cuentas logueadas: antes de desplegarlo, revisar permisos, a
 - Navegadores para agentes: [[Moli Browser]], [[Camofox Browser]], [[BrowserAct Skills]]
 - Leads con IA: [[Cold Email]]
 
-# #agente #marketing #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

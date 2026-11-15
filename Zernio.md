@@ -33,4 +33,5 @@ Ofrece **MCP server hosted** (cero setup) además de REST, SDKs y CLI. El agente
 
 Relacionado: [[Atomic Mail]] (email para agentes), [[Agent-Reach]], [[Firecrawl]], [[Marketing Skills]]. Competidor bootstrapped: [[Resender]] (relay API para Messenger/Instagram/WhatsApp vía webhook, sin free tier de momento).
 
-# #web #ia #agente #oportunidades
+
+#tipo/herramienta #tema/agentes #tema/programacion/web

@@ -19,4 +19,5 @@
 - Memoria que persiste: [[Memanto]], [[TencentDB Agent Memory]]
 - Entrenar con agentes: [[Learn Harness Engineering]]
 
-# #modelos #opensource #investigacion
+
+#tipo/modelo #tema/modelos #tema/datos/investigacion

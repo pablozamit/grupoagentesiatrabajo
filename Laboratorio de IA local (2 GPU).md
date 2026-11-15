@@ -36,4 +36,5 @@ Rutas de arranque del autor: 12-16 GB para modelos de 7B a 14B; 24 GB cómodo pa
 - [[llama.cpp]], [[Ollama]], [[LM Studio]], [[Ecosistema de modelos]]
 - Contexto: [[Ahmad Osman (@TheAhmadOsman)]]
 
-# #modelos #opensource #agente #contenido
+
+#tipo/modelo #tema/agentes #tema/modelos

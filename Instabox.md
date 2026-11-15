@@ -36,4 +36,5 @@ La disponibilidad de cinco máquinas gratuitas es una excepción temporal para p
 - [[VPS]] · [[Oracle Cloud Free Tier]] — la alternativa "hazlo tú mismo"
 - [[Dayflow]] · [[Devin]] — agentes pensados para ejecutarse de forma desatendida
 
-# #agente #hosting #opensource
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

@@ -29,4 +29,5 @@ Es un patrón reutilizable de **crítica multi-agente con roles fijos**: en vez 
 - Skills de agente: [[Skills]], [[Skill Recorder]]
 - Agentes: [[Claude Code]]
 
-# #skills #agente #contenido
+
+#tipo/skill #tema/agentes

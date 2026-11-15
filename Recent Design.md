@@ -36,4 +36,5 @@ Encaja con la familia de galerías de inspiración: [[Best Designs on X]], [[Dea
 - Componentes UI: [[Uiverse]], [[21st.dev]], [[DesignTools.fyi]]
 - Diseño para agentes: [[Taste-Skill]], [[Landingfolio MCP]]
 
-# #diseno #contenido #web
+
+#tipo/herramienta #tema/programacion/web #tema/diseno/interfaces

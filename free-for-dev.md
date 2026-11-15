@@ -63,4 +63,5 @@ La lista es especialmente útil para **agentes que necesitan infraestructura sin
 - Créditos API al registrarte: [[AgentRouter]], [[ZenMux AI]]
 - Modelos de IA gratis: [[OpenRouter]]
 
-# #hosting #oportunidades #contenido #agente
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

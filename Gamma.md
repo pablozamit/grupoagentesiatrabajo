@@ -66,4 +66,5 @@ El flujo se resume en tres pasos:
 
 - Web: [gamma.app](https://gamma.app)
 
-# #diseno #ia #contenido
+
+#tipo/herramienta #tema/diseno/interfaces

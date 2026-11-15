@@ -12,4 +12,4 @@ Uso: después de instalar, ejecutar `/make-interfaces-feel-better` para empezar.
 
 ---
 
-#diseno #agente #web #ux
+#tipo/herramienta #tema/agentes #tema/programacion/web

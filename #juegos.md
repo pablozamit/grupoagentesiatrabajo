@@ -1,41 +1,7 @@
-- [[Kenney Shape]] - Convierte pixel art 2D en assets 3D por extrusion para juegos (Unity, Unreal, Godot, Blender; export voxel); gratis para siempre desde oct 2026
-# #juegos
+# Videojuegos
 
-Notas sobre videojuegos:
+Desarrollo, motores, recursos y referencias de videojuegos.
 
-- [[Three.js]] - Librería 3D para juegos web
-- [[Plume]] - Efectos de partículas para juegos
-- [[AutoSprite]] - Generador de spritesheets con IA
-- [[Tinyskies]] - Juego multijugador en Three.js, referencia para tus propios juegos
-- [[Sorceress]] - Suite web con 30+ herramientas IA para crear juegos completos (assets + motor WizardGenie)
-- [[Nape-JS]] - Motor de física 2D en JavaScript (histórico, base de muchas demos clásicas)
-- [[Capacitor]] - Framework para empaquetar juegos web como apps nativas iOS/Android
-- [[Messenger]] - Juego 3D WebGL para estudiar: Three.js puro, shaders custom y multiplayer en navegador
-- [[40 Mejores Herramientas para Vibe Coding de Juegos]] - Guía completa: 40 herramientas, pipelines y prompt maestro para crear juegos con IA
-- [[ALON'S LIFE]] - Mundo 3D multijugador P2E en navegador, creado con IA
-- [[Meng To Three.js Game Skills]] - Skills open source de Meng To para crear RPGs isométricos con Three.js
-- [[img2threejs]] - Convierte fotos a modelos procedurales Three.js para assets de juegos
-- [[Three.js Awesome Graphics Agent Skills]] - Skills y ejemplos de gráficos 3D avanzados para juegos
-- [[Noqa]] - Agente de QA visual para juegos móviles (Unity, Unreal, Godot)
-- [[Personajes 3D jugables desde IA]] - Workflow completo: imagen → pose T → Trellis → rigging con Claude → Godot/Blender MCP
-- [[Elemental Sandbox]] - VFX playground de skillshots: 5 habilidades (Frost Lance, Nova Beam, Voltaic Snare) en Three.js
-- [[Three.js Game Skills (Majid Manzarpour)]] - 9 skills para construir juegos Three.js completos con evidencia de QA (Tripo, Gemini, ElevenLabs)
-- [[GoRest 2D Spritesheet Generator]] - Generador de spritesheets 2D con fake-3D rotation (rotación 360° desde arte 2D, 48 vistas)
-- [[Sonniss GDC 2026]] - Bundle gratis de 347+ SFX profesionales (7.47GB, royalty-free, uso comercial)
-- [[Godot]] - Motor de juegos open source: el estándar indie, 2D/3D/XR, con MCP para agentes (GDScript, MIT)
-- [[Meng To Three.js Game Skills]] - Nuevo: SettleCoast, juego multijugador tipo Catan construido entero con Astra en 4 días
-- [[Arcade AI]] - Motor de juegos con IA en el navegador: describes el mundo a Morph, lo construyes con amigos y lo juegas sin salir (tryarcade.com)
-- [[Mint 3D]] - Genera los assets de tu juego desde una foto: packs coherentes, personajes riggeados, mundos caminables
-- [[Game UI Database (blog gratis)]] - 1.900+ juegos y 76k pantallas + blog de 200 págs gratis, sin paywalls, AI-free zone
-- [[Sprite-Pipeline (LayrKits)]] - De animación generada por IA a spritesheets 256×256 revisables en el navegador (FFmpeg, matting, skill de agente)
-- [[Hyper3D BANG Parts Skill]] - Imagen → modelo 3D por partes para animar en tu juego (Rodin Gen-2 + BANG)
+Consulta la clasificación actualizada: [[tags/tema/videojuegos]].
 
-- [[Qwen 3.7-Max]] - Modelo textual de Alibaba; demo HTML de fútbol no es ranking ni prueba de entrada multimodal
-- [[Blender Skills (EL4CTEO)]] - Skills de Blender 5.2 para agentes con export a Roblox, Unity, Unreal y Godot (assets de juego: modelado, rigging, QA, LODs)
-- [[Unreal Engine Skills para Claude Code]] - Plugin de Epic Games para crear y probar juegos en Unreal desde Claude Code mediante MCP
-- [[Genex]] - Aplicación de escritorio para desarrollo de juegos con IA
-
-
-- [[Recursos gratuitos para Blender y 3D]] - Bibliotecas de assets; comprobar las licencias.
-
-# #juegos
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

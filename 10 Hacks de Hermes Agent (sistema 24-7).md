@@ -28,4 +28,5 @@ Fuentes: [artículo de @IBuzovskyi](https://x.com/IBuzovskyi/status/206210106884
 - [[Hermes Skills Hub]]
 - [[Caduceus (Hermes Desktop)]]
 
-# #agente
+
+#tipo/herramienta #tema/agentes

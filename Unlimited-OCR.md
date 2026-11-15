@@ -35,4 +35,5 @@ La [difusión en X de @Ryrenz](https://x.com/Ryrenz/status/2094213834575667525) 
 - GitHub (PaddlePaddle): [github.com/PaddlePaddle/Unlimited-OCR](https://github.com/PaddlePaddle/Unlimited-OCR)
 - Paper: arXiv 2606.23050 (citado en la difusión, no comprobado aquí)
 
-# #ocrt #ia #modelos
+
+#tipo/modelo #tema/modelos

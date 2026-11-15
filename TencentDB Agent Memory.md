@@ -57,8 +57,4 @@ Soporta actualmente OpenClaw, Hermes y SDK; el resto de frameworks está en road
 
 Relacionado: [[Memanto]] (memoria local para agentes), [[Hermes Agent]].
 
-## Tags
-
-- #agente — Memoria a largo plazo para agentes de IA
-- #basededatos — Hub de memoria con CodeGraph y LLM-Wiki
-- #opensource — 100% open source (MIT), sin nube ni costes de API
+#tipo/herramienta #tema/agentes/memoria #tema/datos/bases-de-datos

@@ -27,4 +27,5 @@
 - [[LlamaCloud (parseo + MCP)]] — parseo de PDFs para agentes
 - [[Ojos baratos para agentes]] — visión barata para agentes
 
-# #modelos #ciencia #contenido
+
+#tipo/modelo #tema/modelos #tema/datos/investigacion

@@ -20,4 +20,5 @@
 - [[Claude Code]] · [[Codex]] — donde corre
 - [[El vídeo es código]] — guion dentro de un pipeline de vídeo con agentes
 
-# #skills #contenido #video
+
+#tipo/skill #tema/video

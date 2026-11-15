@@ -94,4 +94,5 @@ Ejemplo real: [github.com/Leonxlnx/tutorialnexora](https://github.com/Leonxlnx/t
 - ChatGPT con Images 2.0
 - Adobe Express (opcional, para quitar fondos)
 
-# #contenido #diseno #vibecoding #proyecto
+
+#tipo/ejercicio #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

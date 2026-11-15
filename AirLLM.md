@@ -35,4 +35,5 @@ Democratiza el acceso a modelos de frontera (como Llama 405B) permitiendo ejecut
 - Descubierto vía: [@0xKento_](https://x.com/0xKento_)
 - Actualizado 11/10/2026 con el hilo de [@oliviscusAI](https://x.com/oliviscusAI/status/2108875316160860402)
 
-# #modelos #agente #investigacion
+
+#tipo/modelo #tema/agentes #tema/modelos

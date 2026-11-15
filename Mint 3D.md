@@ -23,4 +23,5 @@ Es el eslabón "foto → asset usable" del pipeline de juegos con IA: combina co
 - Animar lo generado: [[Cartwheel MCP]], [[Blender MCP]]
 - Motores destino: [[Godot]], [[Three.js Game Skills (Majid Manzarpour)]]
 
-# #3d #agente #juegos
+
+#tipo/herramienta #tema/agentes #tema/imagen-3d

@@ -85,4 +85,5 @@ Comparativa de librerías: [Best Open-Source WhatsApp Libraries (2026 Guide)](ht
 
 Relacionado: [[Dify]], [[AnythingLLM]], [[Truco HAR → API MCP]], [[Cloudflare Agentic Inbox]]
 
-# #agente #opensource #productividad #skills
+
+#tipo/skill #tema/agentes

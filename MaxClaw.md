@@ -44,4 +44,5 @@ Además se conecta a **Expert 2.0**, una biblioteca de más de 10.000 agentes ex
 - [[Kapso]] - WhatsApp oficial como plugin para agentes OpenClaw
 - [[VPS]] - la vía autoalojada que MaxClaw evita
 
-# #agente #productividad #hosting
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting

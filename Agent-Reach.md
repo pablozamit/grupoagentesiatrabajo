@@ -130,4 +130,5 @@ openclaw config set tools.profile "coding"
 - Instalación: [docs/install.md](https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md)
 - Licencia: MIT
 
-# #agente #web #contenido
+
+#tipo/concepto #tema/agentes #tema/programacion/web

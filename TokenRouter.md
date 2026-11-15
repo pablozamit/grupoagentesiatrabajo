@@ -34,4 +34,5 @@ O desde la interfaz del agente, busca "Custom API endpoint" o "Base URL" y pega 
 
 > **Nota**: los modelos gratuitos pueden desaparecer sin aviso. Si un modelo deja de funcionar, revisa la web para ver qué hay disponible.
 
-# #modelos #agente
+
+#tipo/herramienta #tema/agentes #tema/modelos

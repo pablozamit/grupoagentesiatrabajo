@@ -40,4 +40,5 @@ Sirve para centralizar datos SEO de varias fuentes y dejar que un agente los con
 - [[Skills SEO gratis (TimSEO)]]
 - [[Entity Map con Screaming Frog MCP]]
 
-# #seo #agente #skills #opensource
+
+#tipo/skill #tema/agentes #tema/marketing/seo

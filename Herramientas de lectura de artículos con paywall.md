@@ -4,4 +4,5 @@ Hay servicios que intentan recuperar artículos de páginas con paywall, entre e
 
 También se mencionaron [Smry](https://smry.ai/), [Bye Bye Paywall](https://byebyepaywall.com/en/) y [Archive.today](https://archive.ph/) como alternativas de lectura o archivo; no son equivalentes y su cobertura tampoco es universal. Respetar las condiciones de acceso y las licencias de cada publicación.
 
-# #web #contenido #investigacion
+
+#tipo/herramienta #tema/programacion/web #tema/datos/investigacion

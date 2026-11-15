@@ -26,4 +26,5 @@ Demuestra el pipeline completo de img2threejs aplicado a un caso real: referenci
 - [[Three.js]] — Librería de gráficos 3D para web
 - [[Mesh3D Gallery]] — Más sitios con gráficos 3D
 
-# #3d #web #proyecto
+
+#tipo/caso-practico #tema/agentes/navegacion-y-control #tema/imagen-3d

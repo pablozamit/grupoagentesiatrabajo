@@ -21,4 +21,5 @@ El repositorio ([github.com/pingdotgg/t3code](https://github.com/pingdotgg/t3cod
 
 Relacionado: [[Claude Code]]
 
-# #agente #opensource #vibecoding #ia
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

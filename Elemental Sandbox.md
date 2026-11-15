@@ -61,4 +61,5 @@ La regla que lo hace "editable mientras está pausado" funciona así: cada siste
 - Juegos Three.js como referencia de estudio: [[Messenger]], [[ALON'S LIFE]]
 - Skills de agentes para gráficos 3D: [[Three.js Awesome Graphics Agent Skills]], [[Meng To Three.js Game Skills]]
 
-# #3d #juegos #diseno #opensource
+
+#tipo/herramienta #tema/diseno/interfaces #tema/imagen-3d

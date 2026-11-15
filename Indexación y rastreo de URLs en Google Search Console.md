@@ -10,4 +10,5 @@ La **URL Inspection API** permite consultar el estado que figura en el índice p
 - [Pedir a Google que vuelva a rastrear URLs](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl)
 - [Método `urlInspection.index.inspect` de la API](https://developers.google.com/webmaster-tools/v1/urlInspection.index/inspect)
 
-# #seo #web #contenido
+
+#tipo/guia #tema/programacion/web #tema/marketing/seo

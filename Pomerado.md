@@ -27,4 +27,5 @@ Es la vía **"traducir la web"** en el debate sobre cómo acceder a internet des
 - [[Crear API]] — convertir servicios en APIs para agentes
 - [[Browser Harness]] · [[Stagehand]] — la vía opuesta: manejar el navegador con un agente
 
-# #agente #web #opensource
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/agentes

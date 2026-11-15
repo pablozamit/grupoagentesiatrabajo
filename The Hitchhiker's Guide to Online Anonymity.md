@@ -6,4 +6,5 @@ La elección de herramientas depende del adversario, el presupuesto, las capacid
 
 Guía: [anonymousplanet.net/guide](https://anonymousplanet.net/guide/).
 
-# #web #investigacion #contenido
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/datos/investigacion

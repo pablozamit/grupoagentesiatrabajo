@@ -17,4 +17,5 @@ Según el autor, ThreeRT nace de Pocket3D (@pocket_js), compilación estática d
 
 - [[67js]], [[Spline]]
 
-# #3d #opensource
+
+#tipo/herramienta #tema/imagen-3d

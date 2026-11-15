@@ -124,4 +124,5 @@ La publicación promocional anuncia una base de más de 250 millones de personas
 
 Relacionado: [[Hermes Agent]] — el agente donde se instala por defecto. [[free-for.dev]] — más servicios con free tier para infra de agentes. [[Crawl4AI]] — alternativa 100% open source y self-hosted (URL → Markdown limpio, sin API key).
 
-# #agente #web #contenido
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/agentes

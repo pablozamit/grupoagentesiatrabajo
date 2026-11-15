@@ -29,4 +29,5 @@ Open alpha gratuito. Conectores open source en [GitHub](https://github.com/atomi
 
 Relacionado: [[Here.Now]] (hosting para agentes), [[Agent-Reach]] (acceso a internet), [[Firecrawl]] (scraping para agentes), [[Marketing Skills]], [[free-for.dev]] (más servicios gratis para agentes)
 
-# #agente #web #ia #oportunidades
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/agentes

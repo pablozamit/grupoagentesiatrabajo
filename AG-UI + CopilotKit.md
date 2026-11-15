@@ -10,7 +10,7 @@
 - **Human-in-the-loop**: pausa para una decisión o aprobación, espera, y continúa. La aprobación de comandos peligrosos de Hermes aparece como un **interrupt nativo** que el usuario resuelve en la UI
 - **Multimodal**: archivos, imágenes y audio, no solo texto
 
-## El adapter de Hermes (PR #65845 de NousResearch/hermes-agent)
+## El adapter de Hermes (PR n.º 65845 de NousResearch/hermes-agent)
 
 Un servidor HTTP/SSE (`agui_adapter/`, FastAPI + uvicorn) que expone el AIAgent de Hermes sobre AG-UI. Postura de seguridad pensada para un agente terminal-capable:
 
@@ -45,7 +45,7 @@ Es el movimiento de **"IA como parte del producto, no como otra ventana"** (Ahme
 
 - CopilotKit: [github.com/CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 - AG-UI protocol: web de CopilotKit
-- PR del adapter Hermes AG-UI: PR #65845 en [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- PR del adapter Hermes AG-UI: PR n.º 65845 en [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 - Hilo: [@CopilotKit en X](https://x.com/CopilotKit), [@svpino en X](https://x.com/svpino)
 
 ## Relacionado
@@ -56,4 +56,5 @@ Es el movimiento de **"IA como parte del producto, no como otra ventana"** (Ahme
 - El debate de seguridad: [[Camofox Browser]], [[Harness]]
 - Coworkers always-on construidos sobre CopilotKit: [[OpenDots]]
 
-# #agente #web #contenido #skills
+
+#tipo/skill #tema/agentes/navegacion-y-control #tema/agentes

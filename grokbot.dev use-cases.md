@@ -47,4 +47,5 @@ Los prompts están pensados para **Grok Bot** (el agente de xAI, con su ecosiste
 - Otros directorios de prompts/recursos: [[grokbot.dev]], [[Marketing Skills]]
 - Email para agentes: [[Atomic Mail]]
 
-# #agente #contenido #productividad
+
+#tipo/herramienta #tema/agentes

@@ -32,4 +32,5 @@ Sirve para un montaje rápido cuando el orden exacto de las tomas no importa. No
 - [[HyperFrames]]
 - [[El vídeo es código]]
 
-# #contenido #video #productividad
+
+#tipo/herramienta #tema/video

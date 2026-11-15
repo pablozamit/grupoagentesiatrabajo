@@ -32,4 +32,5 @@ Anunciado por [@ClaudeDevs](https://x.com/ClaudeDevs/status/2095233745167282602)
 - [[Bops]] — agentes para operaciones de negocio
 - [[Skill Recorder]] — convertir una tarea hecha a mano en skill
 
-# #agente #opensource #marketing
+
+#tipo/herramienta #tema/agentes #tema/marketing

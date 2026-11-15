@@ -28,4 +28,5 @@ npm install @browserbasehq/stagehand
 - Agente navegador open source: [[Browser Use]] (con [[Jev (TypeSafe)]] vía jev-ultrafast)
 - Navegadores para agentes: [[Betterwright]], [[Moli Browser]], [[Polar Browser]], [[Camofox Browser]]
 
-# #agente #web #opensource
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

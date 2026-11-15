@@ -14,4 +14,5 @@ Este orden separa decisiones editoriales de tareas mecánicas y evita renderizar
 
 Ver también: [[Claude Code]] [[Claude Video]] [[El vídeo es código]] [[HyperFrames]]
 
-# #video #agente #vibecoding
+
+#tipo/guia #tema/agentes #tema/programacion/desarrollo-con-ia

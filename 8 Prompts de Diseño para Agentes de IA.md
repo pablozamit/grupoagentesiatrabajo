@@ -68,4 +68,5 @@ Como dice Vox: *"«los colores se ven mal» no le da nada sobre lo que actuar. N
 
 La solución es darle un **sistema de diseño** antes de pedirle que construya. [[Compact Landing]], [[DesignEngineer.tools]] y [[UI Skills]] pueden ayudar.
 
-# #diseno #vibecoding #contenido #web
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/programacion/web

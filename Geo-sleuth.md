@@ -31,4 +31,5 @@ Requiere Python 3.10 o superior. Tras instalar conviene pedir al agente que ejec
 - [[Agent-Reach]] - otra skill de investigación sobre datos públicos
 - [[Acceso a internet desde agentes]] - dar contexto del mundo real al agente
 
-# #skills #investigacion #opensource
+
+#tipo/skill #tema/datos/investigacion

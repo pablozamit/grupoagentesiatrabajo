@@ -19,4 +19,5 @@ Las cifras de **precio por lead, posiciones de ranking y "0% markup"** son **afi
 - [[Cold Email]] · [[Marketing Skills]] — el uso comercial de esos leads
 - [[Firecrawl]] · [[ScrapeGraphAI]] — extracción de datos como base del enrichment
 
-# #agente #marketing #opensource
+
+#tipo/herramienta #tema/agentes #tema/marketing

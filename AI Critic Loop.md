@@ -41,4 +41,5 @@ Es el mismo patrón de **generator/evaluator split** de [[Learn Harness Engineer
 - Generator/evaluator split: [[Learn Harness Engineering]], [[Fable Orchestrator]]
 - Generación 3D con frontier: [[Pietro Schirano (@skirano)]], [[Cartwheel MCP]]
 
-# #vibecoding #agente #3d #contenido
+
+#tipo/herramienta #tema/agentes #tema/programacion/desarrollo-con-ia

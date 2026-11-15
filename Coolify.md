@@ -13,4 +13,5 @@ Coolify es una alternativa autohospedada a servicios como [[Vercel]] y encaja ju
 - [Web oficial](https://coolify.io/)
 - [Hilo de X](https://x.com/SergioGMN/status/2112189201974268119)
 
-# #hosting #opensource #agente
+
+#tipo/herramienta #tema/agentes #tema/infraestructura/hosting #tema/programacion/web

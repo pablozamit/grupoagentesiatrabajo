@@ -40,4 +40,5 @@ También: `pip install open-webui` + `open-webui serve`, o Kubernetes (Helm, Kus
 
 Relacionado: [[Dify]], [[AnythingLLM]], [[Ollama]], [[Firecrawl]], [[TokenRouter]], [[Here.Now]]
 
-# #agente #ia #web #proyecto
+
+#tipo/herramienta #tema/agentes #tema/programacion/web

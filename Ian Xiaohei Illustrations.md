@@ -76,4 +76,5 @@ El repositorio incluye:
 - Licencia: MIT
 - Web relacionada: [www.ianneo.xyz](https://www.ianneo.xyz)
 
-# #diseno #contenido #vibecoding
+
+#tipo/herramienta #tema/programacion/desarrollo-con-ia #tema/diseno/interfaces

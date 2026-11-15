@@ -50,4 +50,5 @@ Solo usa WebGPU (se retiró el backend WebGL2 en la v0.14). Navegadores compatib
 - Repositorio: [github.com/ericdrowell/brometal](https://github.com/ericdrowell/brometal)
 - Ejemplo: [webGPU day-ocean](https://brometal.dev/examples/day-ocean)
 
-# #3d #web
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/imagen-3d

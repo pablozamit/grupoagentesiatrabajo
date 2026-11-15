@@ -21,4 +21,5 @@ Es un proyecto independiente, no avalado por el desarrollador de SmartTube; el m
 
 - [[Cobalt]], [[Yoinks]]
 
-# #video #opensource
+
+#tipo/herramienta #tema/video

@@ -32,4 +32,5 @@ Quitar el EXIF es necesario pero **no suficiente**: una foto limpia de metadatos
 - Dar internet/contexto al agente: [[Acceso a internet desde agentes]]
 - Privacidad de tu infra: [[VPN privada con VPS (3x-ui + VLESS REALITY)]]
 
-# #investigacion #contenido
+
+#tipo/herramienta #tema/datos/investigacion

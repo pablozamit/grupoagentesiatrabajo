@@ -50,4 +50,5 @@
 
 Relacionado: [[Vibecoding]] — la metodología general de crear apps describiendo lo que quieres en vez de programarlo.
 
-# #ia #web #vibecoding
+
+#tipo/concepto #tema/programacion/desarrollo-con-ia #tema/programacion/web

@@ -1,11 +1,7 @@
-# #proyecto
+# Programación y aplicaciones
 
-Notas sobre proyectos y ejercicios prácticos:
+Los casos prácticos y ejercicios se clasifican por su tipo y tema.
 
-- [[Buzz]] - Plataforma self-hosted donde humanos y agentes comparten salas
-- [[Human Cell Visualizer]] - App 3D de biología celular con partículas, morphing y anatomía anotada
-- [[Text-to-CAD]] - Herramienta open source que genera archivos CAD desde texto (10k ⭐)
-- [[Neo-Forge]] - RTX 4090 editions interactivas open source con Three.js
-- [[Orca]] - IDE agéntico open source para orquestar agentes de código (33.2k ⭐)
+Consulta la clasificación actualizada: [[tags/tema/programacion]].
 
-# #proyecto
+Esta página se conserva para los enlaces antiguos. Los listados actuales se generan desde las etiquetas de cada ficha.

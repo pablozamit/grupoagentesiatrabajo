@@ -78,4 +78,5 @@ Si no la reclamas en 60 minutos, la cuenta y todo su contenido se eliminan autom
 
 Relacionado: [[Vercel]], [[Hosting]], [[Web]], [[Agente]]
 
-# #hosting #web #agente #despliegue #cloudflare
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/agentes

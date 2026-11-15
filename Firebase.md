@@ -52,4 +52,5 @@
 - Docs: [firebase.google.com/docs](https://firebase.google.com/docs)
 - Guías: [firebase.google.com/developer](https://firebase.google.com/developer)
 
-# #basededatos #web #contenido
+
+#tipo/herramienta #tema/agentes/navegacion-y-control #tema/datos/bases-de-datos

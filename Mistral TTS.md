@@ -19,4 +19,5 @@ El tuit **no indica el nombre técnico del modelo** ni publica una comparativa r
 - [[Fish Audio S2.1 Pro]] — clonación de voz comercial
 - [[Ollama]] · [[LM Studio]] — ejecutar modelos en local
 
-# #modelos #audio #opensource #video
+
+#tipo/modelo #tema/modelos #tema/video

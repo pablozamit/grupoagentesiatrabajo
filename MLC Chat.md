@@ -46,4 +46,5 @@ Y todo con un consumo de **5-10 vatios**, frente a los 300W+ que gasta un ordena
 
 Relacionado: [[Ollama]], [[Open WebUI]], [[Modelos]], [[IA]]
 
-# #ia #modelos #privacidad #opensource #android
+
+#tipo/modelo #tema/modelos

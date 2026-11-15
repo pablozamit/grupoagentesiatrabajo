@@ -6,4 +6,5 @@ La búsqueda OSINT puede cruzar nombres de usuario, correos, teléfonos, perfile
 
 Nota de alcance: el vídeo tutorial enlazado sobre cómo encontrar personas en Internet no expuso transcripción en las fuentes de texto consultadas; esta ficha recoge solo el tema anunciado y las precauciones descritas en las respuestas, no sus pasos.
 
-# #investigacion #web #contenido
+
+#tipo/herramienta #tema/datos/extraccion-web #tema/datos/investigacion

@@ -34,4 +34,5 @@
 
 Relacionado: [[video-use]], [[LTX Trainer]], [[OpenCut]], [[HyperFrames]]
 
-# #video #agente #ia
+
+#tipo/herramienta #tema/agentes #tema/video
