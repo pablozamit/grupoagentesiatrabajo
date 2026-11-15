@@ -10,9 +10,10 @@ Primera entrega: esquemas de control cross-plataforma y layouts.
 
 ## Relacionado
 
+- [[Gamified-UI]] - Guía para transformar referencias de videojuegos en interfaces de aplicaciones: análisis de pantallas, familias visuales, componentes y validación. Consultar una galería no concede permiso para redistribuir sus capturas o enviarlas a modelos; revisar las condiciones aplicables.
+
 - Referencias de diseño: [[Recent Design]], [[Best Designs on X]], [[Dead Simple Sites]]
 - Crear juegos: [[40 Mejores Herramientas para Vibe Coding de Juegos]]
 - Skills de UI: [[UI Skills]]
 
-
-#tipo/coleccion #tema/diseno/interfaces #tema/videojuegos
+#tipo/coleccion #tema/diseno/inspiracion #tema/videojuegos/referencias
