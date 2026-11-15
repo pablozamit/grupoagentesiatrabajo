@@ -9,6 +9,8 @@ OpenSEO es una plataforma de SEO con interfaz web, servidor MCP y skills para ag
 - Leer Search Console y Analytics 4 conectados al proyecto. Estas integraciones son de solo lectura y no consumen créditos.
 - Auditar páginas con un crawler propio y, opcionalmente, ejecutar Lighthouse o renderizar JavaScript. La auditoría comprueba lo que ha podido rastrear; una página bloqueada o un rastreo parcial no equivalen a una web sin problemas.
 - Usar los datos desde la aplicación o mediante MCP. Las skills ofrecen flujos reutilizables para auditorías, investigación de keywords, competidores y reportes.
+- Reconstruir el playbook SEO de cualquier web con la skill `/reverse-engineer-seo` (noviembre de 2026): plantillas de página, keywords y estructura detrás de su tráfico de Google. Según OpenSEO, el análisis completo de Wise (una plantilla de página posicionada para 151.315 búsquedas) costó menos de 0,30 $. [Anuncio](https://x.com/openseo/status/2120655159357518144).
+- Medir SEO local (noviembre de 2026): comprueba en Google Maps desde puntos repartidos por tu ciudad y muestra quién te supera en cada zona. En su ejemplo, Franklin Barbecue es número 1 para «bbq» solo en 1 de 25 puntos de Austin. [Anuncio](https://x.com/openseo/status/2119878883642421614).
 
 ## Coste y dependencias
 
@@ -32,6 +34,7 @@ Sirve para centralizar datos SEO de varias fuentes y dejar que un agente los con
 - [Autohospedaje](https://openseo.so/docs/self-hosting)
 - [Auditorías de sitio](https://openseo.so/docs/site-audits)
 - [MCP y skills](https://openseo.so/docs/agent-setup)
+- [Skill reverse-engineer-seo](https://seo.party/skills/every-app/reverse-engineer-seo)
 - [Search Console y Analytics](https://openseo.so/docs/google-integrations)
 
 ## Relacionado
