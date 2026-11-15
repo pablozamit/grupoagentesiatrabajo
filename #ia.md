@@ -25,4 +25,6 @@ Notas sobre inteligencia artificial:
 
 - [[Graphify]] - Convierte carpetas de archivos en un grafo de conocimiento que el agente consulta con menos tokens (Apache-2.0)
 
+- [[Stack actual]] - Las herramientas que uso a día de hoy: OpenCode, Codex, DeepCode, Obsidian, NotebookLM, mycrm, GitHub, Vercel, IONOS, Tailscale y más
+
 # #ia
