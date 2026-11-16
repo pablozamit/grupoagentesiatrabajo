@@ -4,14 +4,15 @@
 
 ## Qué incluye
 
-El repo empaqueta **22 skills** (el anuncio decía 20) para **Blender 5.2 LTS+**, cubriendo toda la tubería de un asset:
+El repo empaqueta **28 skills** (22 cuando se incorporó esta nota; el anuncio original decía 20) para **Blender 5.2 LTS+**, verificadas en **Blender 5.3**, cubriendo toda la tubería de un asset:
 
-- **Modelado**: hardsurface (bevels, booleanas, normales con peso), esculpido orgánico, geometría procedural desde JSON simple (`blender-geometry-nodes`).
+- **Modelado**: hardsurface (bevels, booleanas, normales con peso), esculpido orgánico, geometría procedural desde JSON simple (`blender-geometry-nodes`); kits de entornos (terrenos, bosques, niveles modulares) y looks estilizados toon/anime (NPR).
 - **UVs y texturas**: retopología, UVs y texel density; materiales PBR correctos desde texturas; baking de mapas normal, AO, curvatura y ORM.
-- **Rigging y animación**: Rigify y esqueletos de juego; shape keys faciales (52 blendshapes ARKit, visemas); acciones, NLA, mocap y root motion.
+- **Rigging y animación**: Rigify y esqueletos de juego; shape keys faciales (52 blendshapes ARKit, visemas); acciones, NLA, mocap y root motion; ropa que sigue al cuerpo sin clipping y pelo/pelaje (hair cards para juegos).
 - **Optimización y exportación**: presupuestos, LODs y draw calls; exportación a Roblox, Unity, Unreal, Godot, web y USD.
 - **Render e iluminación**: Cycles y EEVEE, render por lotes, iluminación de estudio, HDRI y turntables; hora del día (golden hour, noche, niebla) y clima (lluvia, nieve, calles mojadas, charcos, rayos).
 - **Simulación**: cuerpos rígidos, tela y fluidos.
+- **Vídeo**: edición de vídeo y tracking de cámara dentro de Blender.
 - **Automatización y QA**: desarrollo de addons, trabajos por lotes y conversión de archivos; **`blender-asset-qa`** detecta z-fighting, piezas flotantes, normales y pesos malos antes de dar un asset por terminado; recetas de workflow completas.
 
 ## Cómo se instala
@@ -33,13 +34,14 @@ git clone https://github.com/EL4CTEO/blender-skills
 
 Instala por defecto en `~/.claude/skills` y `~/.agents/skills` (esta última la leen Codex, OpenCode, Gemini CLI, Copilot y Cursor). Opciones: `--agent claude|codex|opencode|gemini|copilot|cursor|all`, `--project DIR` y `--uninstall`.
 
-**Requisitos**: Blender 5.2+. Opcionalmente, un servidor **Blender MCP** deja que el agente trabaje sobre tu Blender abierto; sin él, el agente ejecuta Blender en segundo plano.
+**Requisitos**: Blender 5.2 LTS o superior; recomiendan **5.3.0** (cada skill está verificada en esa versión, que añade exportación web KTX2, el stack de efectos del compositor y Gaussian splats). Opcionalmente, un servidor **Blender MCP** deja que el agente trabaje sobre tu Blender abierto; sin él, el agente ejecuta Blender en segundo plano.
 
 ## Datos y atribución
 
-- **Licencia**: MIT. **Skills**: 22, escritas para Blender 5.2.
-- **Estrellas**: verificado el 18 oct 2026, **185 ⭐** y 19 forks; repo creado el 14 oct 2026 (proyecto muy reciente).
-- El repo incluye una comparativa **"con vs sin skills"** (mismo modelo y mismos prompts) y **50 tests headless** más un validador de especificación y presupuesto de tokens.
+- **Licencia**: MIT. **Skills**: 28, escritas para Blender 5.2 y verificadas en 5.3.
+- **Estrellas**: verificado el 18 oct 2026, **185 ⭐** y 19 forks; revisado el 16 nov 2026, **1.328 ⭐**. Repo creado el 14 oct 2026.
+- El repo incluye una comparativa **"con vs sin skills"** (mismo modelo y mismos prompts) y **67 tests headless** más un validador de especificación y presupuesto de tokens.
+- Resurgió el 16 nov 2026 en un post en chino de [@CY160909](https://x.com/CY160909/status/2122180089131438244) que lo presentaba como "oficial de Blender": es un proyecto personal de EL4CTEO, no de la Blender Foundation.
 - Ejemplos de uso que documenta: "una caja lista para Unreal con normales bakadas y LODs", "riggea este personaje con Rigify y expórtalo a Unity con un ciclo de andar", "revisa z-fighting y piezas flotantes y expórtalo para Roblox".
 
 ## Relacionado
