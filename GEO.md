@@ -108,6 +108,14 @@ Recopilación: [The AI Mode Emergency Guide](https://nectivdigital.com/blog/the-
 
 En un [experimento de 41 días publicado en Search Engine Land (ago-2026)](https://searchengineland.com/javascript-links-pages-invisible-ai-search-485228), realizado en un único directorio brasileño nuevo y sin enlaces externos, se eliminaron rutas alternativas de descubrimiento y se compararon enlaces HTML con enlaces inyectados por JavaScript. Los bots de IA observados no descubrieron páginas de la jerarquía accesibles solo mediante esos enlaces JS; Googlebot descubrió el 2 %. El 42-67 % difundido en el tuit corresponde a GoogleOther según profundidad, no a Googlebot. Son resultados de descubrimiento/rastreo bajo esas condiciones, no porcentajes universales de indexación o ranking ni prueba de que ningún bot pueda ejecutar JS. Comprobación preventiva: revisar si los enlaces importantes existen en el HTML sin ejecutar JavaScript.
 
+## Percepción de marca en IA: Google Oracle
+
+[Google Oracle](https://gpt-insights.de/google-orakel/en/) (Hanns Kronenberg, GPT Insights; recomendado por Aleyda Solis en X, nov-2026) es una herramienta gratuita y sin registro que hace 200 preguntas a un modelo de Google ("Gemini Decision 1", un proyecto independiente, no un producto de Google) sobre una marca: cómo la percibe, qué la distingue y cómo se posiciona frente a otras. Incluye ránkings por país.
+
+Su [estudio de 12.088 marcas en 14 mercados](https://gpt-insights.de/google-orakel/en/research/recommendability/) (datos del 16-nov-2026) relaciona la "recomendabilidad" que el modelo da a una marca con sus atributos: posición de mercado (ρ 0,77), calidad (0,62), diferenciación, reputación y confianza (0,53 cada una) y notoriedad (0,46). El riesgo percibido (-0,34) desaparece al controlar confianza y calidad.
+
+Límites: todos los valores salen del mismo modelo y sin búsqueda web, son relaciones y no causas, y miden recomendabilidad generada por el modelo, no recomendaciones reales. El cruce con visibilidad real en IA es débil: ρ 0,27 (137 retailers austriacos) y 0,22 (146 proveedores de software B2B), solo entre los ya visibles. Sirve como lectura de percepción de marca en un modelo, no como prueba de qué hace que te recomienden.
+
 ## Relacionado
 
 - La nota hermana sobre datos: [[Estudio de AI Overviews (SE Ranking)]] — 82% de búsquedas con AI Overviews, autoridad > expertise, y por qué la IA no cita las páginas que rankean.
