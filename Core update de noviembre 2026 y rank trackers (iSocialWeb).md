@@ -25,9 +25,15 @@ Un rank tracker hace una foto al día desde un sitio concreto; Search Console pr
 - Nada de migraciones, rediseños ni podas de contenido hasta que acabe el despliegue (puede durar hasta dos semanas).
 - Con ecommerce, medir posición media e impresiones en las semanas de campañas de Black Friday, no clics.
 
+## Contexto oficial y otro análisis (21 de noviembre)
+
+- El [Search Status Dashboard de Google](https://status.search.google.com/) mantiene el update como activo desde el 10 de noviembre de 2026 (10:06 PST), afectando a Ranking, sin fecha de fin a 21 de noviembre.
+- La [guía oficial de Google sobre core updates](https://developers.google.com/search/updates/core-updates): confirmar primero que el despliegue ha terminado y esperar una semana completa antes de analizar en Search Console; ante una caída pequeña (p. ej. de la posición 2 a la 4) no hacer cambios drásticos ni tocar contenido que funciona; evitar «quick fixes» reactivos; el efecto de las mejoras puede tardar de días a varios meses y no está garantizado. Google no prohíbe correcciones técnicas genuinas durante el despliegue.
+- Paul Vengeons publicó un [hilo divulgativo sobre este update](https://x.com/VengeonsP/status/2123826499731992864) (20 de noviembre). Lo enmarca con el [modelo de predicción de Dan Taylor en Search Engine Journal](https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/) (15 de octubre), que daba un 96,8 % de probabilidad de una actualización tipo Panda en 30 días: es un modelo de un tercero, no un anuncio de Google. Sus reglas «no tocar nada durante el despliegue» y «esperar de 3 a 6 meses tras una caída» son consejo suyo, más estricto que la guía oficial; el «score de esfuerzo» que atribuye a Cyrus Shepard es una conjetura, no documentación de Google.
+
 ## Relacionado
 
-- [[OpenSEO]], [[Auditoría SEO]], [[Estudio de AI Overviews (SE Ranking)]], [[GEO]]
+- [[OpenSEO]], [[Auditoría SEO]], [[Estudio de AI Overviews (SE Ranking)]], [[GEO]], [[ChatSEO]]
 
 
 #tipo/caso-practico #tema/marketing/seo
