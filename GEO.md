@@ -32,6 +32,7 @@ El resultado: `utm_source=chatgpt.com` en sus analytics.
 - [ ] Contenido en lenguaje natural que responda preguntas directamente
 - [ ] Enlaces internos coherentes
 - [ ] Sin paywalls ni bloqueos a crawlers de IA
+- [ ] Enlaces internos en HTML estático, no inyectados solo por JS (los crawlers de IA no ejecutan JS)
 - [ ] `llms.txt` para guiar a los agentes sobre el contenido del sitio
 
 ## Skills y herramientas GEO
@@ -94,6 +95,18 @@ Tanto Google como los LLMs **escanean la estructura primero** y el texto despué
 8. **Párrafos cortos** para que el lector pueda hacer skim rápido
 
 > El formato no es decorativo: es la primera señal de relevancia que lee el crawler. Un H1 que responde directo + chunks cortos + bullets ayudan tanto al bot como al lector.
+
+## Google AI Mode
+
+Recopilación: [The AI Mode Emergency Guide](https://nectivdigital.com/blog/the-ai-mode-emergency-guide) (Nectiv, nov-2026): 30+ recursos sobre el AI Mode de Google (funcionamiento técnico, datos de uso, tracking de prompts, reporting y KPIs).
+
+- **El 92-94 % de las sesiones de AI Mode terminan sin clic externo** (estudio de Semrush, jul-2025; clickstream de ~69 M de sesiones de escritorio en EE. UU., may-jul 2025, datos tempranos). El uso de AI Mode se multiplicó por 4 en sus dos primeros meses (de 0,25 % a ~1 % de las sesiones). [Estudio](https://www.semrush.com/blog/google-ai-mode-seo-impact/)
+- **Cómo funciona AI Mode por dentro** (Mike King, iPullRank): mecánica técnica (fan-out queries) y cómo prepararse. [Artículo](https://ipullrank.com/how-ai-mode-works)
+- **Minar Search Console con regex** para sacar prompts conversacionales de AI Mode / AI Overviews de tus propios datos (Chris Long, Nectiv). [Método](https://nectivdigital.com/blog/how-to-mine-google-search-console-for-conversation-data-regex-included)
+
+## Enlaces internos: ojo con JavaScript
+
+Los crawlers de IA (GPTBot, ClaudeBot, PerplexityBot, Bing, Meta, Amazon) **no ejecutan JavaScript**: los enlaces internos que solo se inyectan por JS son invisibles para ellos. En un test controlado de 41 días ([Search Engine Land, ago-2026](https://searchengineland.com/javascript-links-pages-invisible-ai-search-485228)), de las páginas solo accesibles vía enlaces JS, Googlebot llegó al 2 % y el resto de crawlers de IA no encontró ninguna. Comprobación rápida: desactiva JS en el navegador y navega tu propio menú.
 
 ## Relacionado
 
