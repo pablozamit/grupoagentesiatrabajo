@@ -27,7 +27,7 @@ Curso completo de Dumble ([@Y0urDumble](https://x.com/Y0urDumble/status/21151649
 
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - control de Blender (~34k ⭐)
 - [angrypenguinpng/blender-claymation-skill](https://github.com/angrypenguinpng/blender-claymation-skill) - claymation en Blender
-- [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - principios de motion design para agentes (~2.9k ⭐)
+- [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - principios de motion design para agentes (~2.9k ⭐), ver [[motion-design-skill]]
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - skills oficiales de GSAP (~18k ⭐)
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) - montaje de vídeo en React (~6.8k ⭐)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - framework de vídeo en HTML (~82k ⭐)

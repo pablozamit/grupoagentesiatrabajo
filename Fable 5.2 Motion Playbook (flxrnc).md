@@ -28,8 +28,8 @@ Toda pieza expone `renderAt(t)`: dibuja exactamente el instante t como función 
 
 ## Caja de herramientas citada
 
-[[Remotion]], [[HyperFrames]], [[GSAP]] + gsap-skills, [[Three.js]], mcp-for-blender (ver [[Blender MCP]]), motion2code (reconstruye motion de referencia en SVG + GSAP y lo verifica fotograma a fotograma), chrome-devtools-mcp, [[Claude Video]], Mediabunny (vídeo en el navegador sin FFmpeg), librosa (detectar el beat) y faster-whisper (subtítulos). Comprobada por la autora el 10-nov-2026.
+[[Remotion]], [[HyperFrames]], [[GSAP]] + gsap-skills, [[Three.js]], mcp-for-blender (ver [[Blender MCP]]), motion2code (reconstruye motion de referencia en SVG + GSAP y lo verifica fotograma a fotograma), chrome-devtools-mcp, [[Claude Video]], Mediabunny (vídeo en el navegador sin FFmpeg), [[librosa]] (detectar el beat) y faster-whisper (subtítulos). Comprobada por la autora el 10-nov-2026.
 
-Relacionado: [[El vídeo es código]], [[launch-video-kit]], [[Stack de vídeo con agentes (Dumble)]].
+Relacionado: [[El vídeo es código]], [[launch-video-kit]], [[Stack de vídeo con agentes (Dumble)]], [[Curso de motion con Fable 5.2 (seeconvm)]].
 
 #tipo/guia #tema/video/generacion #tema/programacion/desarrollo-con-ia

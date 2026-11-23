@@ -12,7 +12,7 @@ Listado publicado por Dumble ([@Y0urDumble](https://x.com/Y0urDumble/status/2119
 
 - **gsap skills**: easings, timelines y scroll motion oficiales de [[GSAP]] ([greensock/gsap-skills](https://github.com/greensock/gsap-skills), ~18.200 ⭐).
 - **video-shotcraft**: promos cinematográficas de producto con 124 recetas de plano ([Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft), ~18.400 ⭐).
-- **motionmaxxing**: convierte «AI slop» en films con nivel de motion designer ([Tejashmakwana/motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing), ~1.500 ⭐).
+- **[[motionmaxxing]]**: convierte «AI slop» en films con nivel de motion designer ([Tejashmakwana/motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing), ~1.500 ⭐).
 
 ## Blender
 
