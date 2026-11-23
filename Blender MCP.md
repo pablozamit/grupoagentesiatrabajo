@@ -39,6 +39,8 @@ El repo (antes `ahujasid/blender-mcp`, ahora **`ahujasid/mcp-for-blender`**) es 
 - Claude renderizaba imágenes desde varios ángulos para que el desarrollador las revisara y diera feedback.
 - El addon MCP (MIT) también funciona con Codex, Cursor y otras herramientas de IA.
 
+Ojo (según el playbook de @flxrnc, 10-nov-2026): el addon envía datos de uso anónimos por defecto; se desactivan con `DISABLE_TELEMETRY=true`.
+
 ## Recursos
 
 - Repositorio: [github.com/ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) (antes `blender-mcp`)
