@@ -66,6 +66,7 @@
 
 | Skill | Qué hace | Instalación |
 |-------|----------|-------------|
+| **[[Create Blender Story Video]]** | Producción de vídeo con Blender, render recuperable y verificación del archivo final | [yoruuuchan/create-blender-story-video](https://github.com/yoruuuchan/create-blender-story-video) |
 | **HyperFrames skills** | Skills de composición animación y video (7+ skills: core, cli, media, creative, animation, registry, tailwind) | `npx hyperframes` |
 | **HyperFrames Music Video Skill** | Creación de vídeos musicales con HyperFrames | Integrada |
 | **Talking-Head-Recut** | Superpone tarjetas gráficas sincronizadas sobre talking-head videos | github.com/heygen-com/hyperframes/tree/main/skills/talking-head-recut |
