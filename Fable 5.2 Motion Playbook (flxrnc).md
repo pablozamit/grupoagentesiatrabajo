@@ -16,7 +16,7 @@ Toda pieza expone `renderAt(t)`: dibuja exactamente el instante t como función 
 6. **Estilo de prompt: menos reglas, mejores.** Fable sigue las reglas al pie de la letra; los "NEVER" heredados y los presupuestos de tokens escritos en el prompt salen peor. Nombrar los pasos exactos que no necesitan aprobación funciona mejor que un "actúa libremente".
 7. **Blender por script.** Fable puede manejar Blender headless (`blender -b --factory-startup -P costume.py`), renderizar una hoja de vistas, mirarla y corregir; exporta un GLB que carga three.js. Alternativa con clics: [[Blender MCP]] y [[Blender Skills (EL4CTEO)]].
 8. **Equipos de agentes: quien revisa no construye.** Un agente por departamento (score, layout, animación, look) y un revisor independiente que intenta romper cada plano con mediciones. Límites escritos como números ("como mucho 2 procesos"), briefs distintos por equipo y reglas compartidas cortas (el caso Portals citado creció a 204 secciones y la producción se hundió hasta recortarlas).
-9. **Límites y coste: iterar en Medium, construir en High.** El uso de Fable se agota rápido; cifras reportadas en el artículo: explainer de motion graphics unos 25 $, juego nocturno de 12 niveles unos 300 $, FPS desde cero unos 550 $. Corregir sobre stills, mantener caliente la caché de prompt y fijar `--model` en los scripts.
+9. **Límites y coste: iterar en Medium, construir en High.** El uso de Fable se agota rápido; cifras reportadas en el artículo: explainer de motion graphics unos 25 USD, juego nocturno de 12 niveles unos 300 USD, FPS desde cero unos 550 USD. Corregir sobre stills, mantener caliente la caché de prompt y fijar `--model` en los scripts.
 
 ## Problemas típicos y su frase de corrección
 
