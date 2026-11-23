@@ -58,6 +58,7 @@
 
 | Skill | Qué hace | Instalación |
 |-------|----------|-------------|
+| **[[Papercraft]]** | Webs, juegos y animaciones 2D/3D con estética de papel recortado y desplegable | `npx skills add xikhar/papercraft` |
 | **Meng To Three.js Game Skills** | Skills completas para RPG isométrico con Three.js (cámara, VFX, combate, monstruos) | [github.com/MengTo/Skills](https://github.com/MengTo/Skills) |
 | **Three.js Awesome Graphics Agent Skills** | Ejemplos de gráficos 3D avanzados (F1, motos, hologramas) | `npx threejs-awesome-graphics-agent-skills@latest install --agent codex` |
 
