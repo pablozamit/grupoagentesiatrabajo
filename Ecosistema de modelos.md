@@ -97,4 +97,10 @@ Tiene un **plan gratuito** para explorar, pero los despliegues se cobran a nivel
 - **Solo quieres un asistente 24/7**: [[Hermes Agent]] (ya viene con 300+ modelos por OpenRouter)
 
 
+## GLM-5.4 y el acceso por etapas
+
+[[GLM-5.4]], anunciado por Z.ai el 23 de noviembre de 2026, combina visión y generación de código con una arquitectura Loop Transformer. Reutiliza 28 capas del modelo base GLM-5 en dos pasadas para aumentar la profundidad de cálculo sin añadir parámetros. Según el [blog oficial](https://z.ai/blog/glm-5.4), se ofrece en GLM Coding Plan, ZCode y Z.ai Chat, pero la API figura como próxima y los pesos se publicarán después de completar medidas de seguridad. Acceso en un producto no equivale a API disponible ni a pesos abiertos.
+
+Z.ai llama a su enfoque *Generalized Coding*: usar código para resolver también tareas de vídeo, juegos, shaders 3D y CAD. Sus ejemplos son demostraciones del fabricante, no pruebas independientes. La comparación con modelos de 2-3 billones de parámetros y las velocidades anunciadas son afirmaciones de Z.ai; el experimento controlado de su blog corresponde a un modelo de 30B y no demuestra por sí solo el rendimiento del GLM-5.4 final. La empresa reconoce además que puede prolongar demasiado el razonamiento.
+
 #tipo/guia #tema/modelos

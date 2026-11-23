@@ -17,6 +17,10 @@ Es el patrón **video como especificación**: en vez de describir la web o el vi
 - Docs GLM-5.3-Flash: [docs.z.ai/guides/vlm/glm-5.3-flash](https://docs.z.ai/guides/vlm/glm-5.3-flash)
 - Anuncio: [@ZixuanLi_ en X](https://x.com/ZixuanLi_)
 
+## Modelo disponible desde noviembre de 2026
+
+El [anuncio oficial de GLM-5.4](https://z.ai/blog/glm-5.4), del 23 de noviembre de 2026, incluye ZCode entre sus vías de acceso. [[GLM-5.4]] añade visión y plantea usar código para tareas de vídeo, juegos, shaders 3D y CAD. Es una actualización del modelo disponible en el entorno, no el anuncio de nuevos plugins Video2code o Video Agent Kit. Las demos del fabricante no validan por sí solas el resultado de estos plugins.
+
 ## Relacionado
 
 - Grabar y que el agente edite: [[VibeTube]]
