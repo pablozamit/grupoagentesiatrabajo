@@ -55,6 +55,7 @@ Repositorio oficial: [remotion-dev/skills](https://github.com/remotion-dev/skill
 
 ## Relacionado
 
+- [[Remotion]] — el framework React → MP4 usado en este flujo
 - [[HyperFrames]] — Alternativa a Remotion: genera vídeos desde HTML para agentes
 - [[OpenMontage]] — Producción de video agentic open source (500+ skills)
 - [[Claude Video]] — Skill para que Claude vea y analice videos
