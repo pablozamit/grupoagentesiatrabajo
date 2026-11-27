@@ -20,6 +20,12 @@ La app es open source y gratis, pero necesitas traer tu propio agente (con su AP
 
 OpenDesign añadió **OpenDesign Motion**, su generación de **vídeo con movimiento**, presentada como la alternativa open source a Claude Motion: se crean vídeos con cualquier agente y cualquier modelo, sin depender de Opus 5.5. La cuenta oficial ([@OpenDesignHQ](https://x.com/OpenDesignHQ/status/2111023212129829086)) mostró varios ejemplos generados con DeepSeek V4.1 Flash, incluida la propia demo de lanzamiento. Por dentro, la parte de vídeo se apoya en [[HyperFrames]] (HeyGen), con el que renderiza a MP4 desde HTML.
 
+## OpenGame: creación de videojuegos
+
+OpenDesign amplía su ecosistema con [[OpenGame]], un estudio de videojuegos de código abierto que trabaja con agentes como [[Codex]] y [[Claude Code]]. Permite partir de plantillas jugables, adaptar mecánicas y estilos y trabajar con código, arte, 3D y sonido. El repositorio documenta comprobaciones automáticas y exportación de proyectos HTML5/JavaScript; algunas vías de publicación y monetización siguen en su hoja de ruta.
+
+El anuncio habla de recrear títulos como GTA y Black Myth: eso no equivale a publicar el código original de esos juegos ni garantiza resultados de calidad AAA. El software local es Apache 2.0; los modelos y servicios externos pueden requerir suscripción o consumo de API.
+
 ## Ver también
 
 - [[HyperFrames]]
