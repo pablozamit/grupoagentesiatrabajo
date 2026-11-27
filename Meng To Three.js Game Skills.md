@@ -40,6 +40,10 @@ Es la prueba de que el pipeline skills → juego completo escala a multijugador 
 - Primera versión jugable: 24 horas
 - Versión completa con inventario, combate, etc.: ~3 días
 
+## Alcance adicional del repositorio
+
+La colección MengTo/Skills no se limita a videojuegos: también incluye flujos para convertir un vídeo de referencia en un prompt detallado, extraer interacciones de una página HTML y capturar una página completa para estudiar estructura y movimiento. Se puede usar con distintos agentes de programación; el repositorio general usa licencia MIT.
+
 ## Enlaces
 
 - Repo de skills: [github.com/MengTo/Skills](https://github.com/MengTo/Skills)

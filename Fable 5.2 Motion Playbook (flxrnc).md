@@ -32,4 +32,16 @@ Toda pieza expone `renderAt(t)`: dibuja exactamente el instante t como función 
 
 Relacionado: [[El vídeo es código]], [[launch-video-kit]], [[Stack de vídeo con agentes (Dumble)]], [[Curso de motion con Fable 5.2 (seeconvm)]].
 
+## Recursos complementarios por etapa
+
+Una selección posterior de Florence amplía las opciones para el flujo idea → boceto → animación → edición → exportación. Son herramientas distintas y combinables, no requisitos exclusivos de un modelo concreto:
+
+- **Trazo y efectos**: [[line-art-animation]] para personajes y escenas SVG de tinta; [[Sakuga VFX]] para efectos anime de interacción web; [[Rough.js]] para geometría con apariencia de boceto.
+- **Animación por código**: [[Motion Canvas]] para animación vectorial explicativa y voz; [[HyperFrames]] para vídeo desde HTML; [[Remotion]] para vídeo con React.
+- **Edición y restauración**: [[Scarlet]] y [[video-use]] para edición con agentes; [[Real-ESRGAN]] para restauración y ampliación estimada; [[FFmpeg]] para procesado y exportación. La ampliación no garantiza recuperar fielmente detalles perdidos.
+- **3D**: [[Three.js]] para escenas web y [[Blender MCP]] para conectar un agente con Blender.
+- **Diseño y revisión**: el repositorio de [[Meng To Three.js Game Skills|Meng To]] incluye también flujos de interfaces y referencias visuales; [[Impeccable]] y [[Hallmark]] se centran en diseño de interfaces, no en garantizar la calidad de cada fotograma de un vídeo.
+
+La elección depende del tipo de pieza. Que el código sea abierto no implica que todos los modelos, servicios conectados o usos comerciales sean gratuitos; se mantiene la licencia y el requisito propio de cada herramienta.
+
 #tipo/guia #tema/video/generacion #tema/programacion/desarrollo-con-ia
