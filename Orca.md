@@ -63,4 +63,10 @@ Cada capa pone un límite distinto:
 
 > La conclusión del autor: no es un stack que te haga ser x10 más rápido, sino x10 mejor. Y ninguna de las tres piezas te tiene de rehén: todas respetan las mismas convenciones.
 
+## Llamadas de voz con ADE Call
+
+[[ADE Call]] añade una interfaz de llamada desde móvil o navegador para consultar agentes y transmitirles instrucciones. Se aloja en la máquina del entorno de agentes y usa OpenAI Realtime o Gemini Live experimental, con consumo de API. Para móvil requiere HTTPS; el proyecto documenta Tailscale Serve, pero indica que esa ruta aún no se ha validado de extremo a extremo. Solo Linux está probado.
+
+Cada navegador emparejado tiene acceso completo a los proyectos del propietario: no hay roles multiusuario. En Orca no lee ni continúa chats estructurados ni anuncia la finalización de agentes; en T3 Code tiene acceso a hilos y seguimiento durante la llamada. Colgar no cancela trabajos ya enviados.
+
 #tipo/herramienta #tema/agentes/orquestacion #tema/programacion/desarrollo-con-ia

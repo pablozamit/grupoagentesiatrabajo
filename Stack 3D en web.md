@@ -83,4 +83,19 @@ Diseño en Blender / Maya / Cinema 4D
 4. Para inspirarte, hojea [[Whitespace Experiments]] y copia un experimento
 
 
+## De fotografías a una escena navegable
+
+No es una cadena automática intercambiable: un mapa de profundidad, una malla y una escena de Gaussian splats representan cosas distintas. Una sola imagen no muestra los lados ocultos; estimarlos no equivale a reconstruirlos fielmente. Varias vistas bien capturadas suelen ser necesarias para recorrer una escena con consistencia.
+
+- **Profundidad**: [[Depth Anything V2]] estima profundidad monocular. No produce por sí solo una escena completa para volar alrededor.
+- **Geometría y cámaras**: [[DUSt3R]] y [[VGGT]] estiman estructura y alineación a partir de vistas, con sus propias entradas y salidas. Requieren preparación y validación antes de alimentar otras herramientas.
+- **Representación y navegación**: [[3D Gaussian Splatting]] permite entrenar una representación de la escena; [[Nerfstudio]] ofrece métodos, visor y trayectorias de cámara. No basta con renombrar un mapa de profundidad a splats.
+- **Limpieza y web**: [[SuperSplat]] sirve para editar splats existentes; [[Spark]] los renderiza dentro de [[Three.js]].
+- **Objetos aislados**: [[TripoSR]] estima un objeto desde una imagen. [[Hunyuan3D 2]] ofrece generación de forma y texturas: no es una etapa universal que texturice automáticamente cualquier escena anterior.
+- **Acabado**: Blender puede servir para composición, cámara y render; [[Blender MCP]] es una vía de control con agentes, no requisito del flujo.
+
+### Licencias y recursos
+
+No todos estos repos son de uso comercial libre. Depth Anything V2 Small es Apache 2.0, pero sus modelos mayores son no comerciales; DUSt3R también es no comercial. VGGT distingue el checkpoint original del comercial. La implementación de referencia de Gaussian Splatting tiene licencia propia. Hunyuan3D 2.0 excluye UE, Reino Unido y Corea del Sur. Hay que revisar la variante concreta antes de un trabajo para clientes. Entrenar, generar geometría y renderizar pueden requerir GPU y memoria; que un visor funcione en navegador no traslada todo el cálculo al navegador.
+
 #tipo/guia #tema/diseno/interfaces #tema/imagen-3d
